@@ -933,7 +933,8 @@
     "completeness": true,
     "paragraph_agreement": true,
     "paragraphs": 3992,
-    "latest_amendment_effective": "2026-10-08"
+    "latest_amendment_effective": "2026-10-08",
+    "source_integrity": true
   },
   "case_law_sources": [
     "BOE-A-2019-5727",
@@ -942,7 +943,24 @@
   ],
   "validation": {
     "build_exit_code": 1,
-    "strict_validation": "not yet run for this checkpoint",
+    "strict_validation": {
+      "repo": "Komentar-ES-BOE-A-2000-323",
+      "units": 916,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 285549,
+      "errors": [
+        "krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false,
+      "exit_code": 1,
+      "checked_at": "2026-10-19T21:23:43.383848+00:00",
+      "command": [
+        "python3",
+        "/Volumes/LaCie/open-commentary/_tools/validate.py",
+        "/Volumes/LaCie/open-commentary/_work/es/Komentar-ES-BOE-A-2000-323"
+      ]
+    },
     "full_completion_gate": false
   },
   "remaining_limitations": [
@@ -957,5 +975,6 @@
     "id": "a248",
     "label": "Artículo 248",
     "title": "Clases de procesos declarativos."
-  }
+  },
+  "limitations_reason": "La sesión deja un checkpoint sustantivo incompleto; no hay un bloqueo de fuente que justifique omitir los comentarios restantes. No se solicita aprobación y no se certifica terminación."
 }
