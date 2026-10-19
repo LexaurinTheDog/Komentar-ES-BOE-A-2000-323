@@ -1,11 +1,11 @@
 {
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-19T21:12:51.282746+00:00",
+  "updated_at": "2026-10-19T21:23:15.678453+00:00",
   "decisive_date": "2026-10-19",
   "title": "Comentario a la Ley de Enjuiciamiento Civil",
   "total_units": 916,
-  "completed_units": 160,
+  "completed_units": 264,
   "completed_ids": [
     "a1",
     "a2",
@@ -166,10 +166,7 @@
     "a145",
     "a146",
     "a147",
-    "a148"
-  ],
-  "remaining_units": 756,
-  "remaining_ids": [
+    "a148",
     "a149",
     "a150",
     "a151",
@@ -273,7 +270,10 @@
     "a245",
     "a2-15",
     "a246",
-    "a247",
+    "a247"
+  ],
+  "remaining_units": 652,
+  "remaining_ids": [
     "a248",
     "a249",
     "a250",
@@ -927,7 +927,7 @@
     "dfvigesimooctava",
     "dfvigesimonovena"
   ],
-  "commentary_chars": 173914,
+  "commentary_chars": 285549,
   "source_checks": {
     "official_http_evidence": "sources/verification.json",
     "completeness": true,
@@ -937,7 +937,8 @@
   },
   "case_law_sources": [
     "BOE-A-2019-5727",
-    "BOE-A-2020-2942"
+    "BOE-A-2020-2942",
+    "BOE-A-2014-3240"
   ],
   "validation": {
     "build_exit_code": 1,
@@ -950,5 +951,11 @@
     "No hay segunda revisión independiente.",
     "No se alcanza la fase drafted_technical_validation."
   ],
-  "local_link_errors": 1
+  "local_link_errors": 0,
+  "completed_scope": "Título preliminar y libro I, artículos 1–247 incluidas inserciones; 264 unidades.",
+  "next_unit": {
+    "id": "a248",
+    "label": "Artículo 248",
+    "title": "Clases de procesos declarativos."
+  }
 }

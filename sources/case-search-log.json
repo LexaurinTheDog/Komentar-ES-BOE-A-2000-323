@@ -20,7 +20,23 @@
       "source": "BOE XML candidate",
       "id": "BOE-A-2019-5667",
       "result": "Rejected: unrelated employment notice. Correct decision identified from local metadata as BOE-A-2019-5727."
+    },
+    {
+      "source": "local national TC corpus 2014 metadata, followed by official BOE XML",
+      "query": "title: Sentencia 30/2014",
+      "results": [
+        "TC-23818",
+        "BOE-A-2014-3240"
+      ],
+      "verification": "Read full antecedents, grounds 1–6 and disposition; docket 6919-2011 and date 2014-02-24 matched; raw official XML and extracted full text preserved.",
+      "supported_units": [
+        "a155",
+        "a156",
+        "a164",
+        "a166"
+      ],
+      "limits": "Historical law and means of edictal publication; no holding on later electronic first-service reforms."
     }
   ],
-  "scope": "Selective constitutional decisions relevant to judicial control; no exhaustive national case-law search. Other units have no independently selected case authority at this checkpoint."
+  "scope": "Selective constitutional decisions on judicial control and diligence in service; no exhaustive national case-law search or asserted absence of other authorities."
 }

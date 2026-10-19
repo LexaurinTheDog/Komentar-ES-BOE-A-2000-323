@@ -1,0 +1,131 @@
+{
+  "checks": [
+    {
+      "path": "sources/boe-act.html",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence"
+    },
+    {
+      "path": "sources/boe-text.xml",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "response",
+      "api_status": "200"
+    },
+    {
+      "path": "sources/boe-metadata.xml",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "response",
+      "api_status": "200"
+    },
+    {
+      "path": "sources/boe-analysis.xml",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "response",
+      "api_status": "200"
+    },
+    {
+      "path": "sources/BOE-A-2026-20823.xml",
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20823",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "documento"
+    },
+    {
+      "path": "sources/BOE-A-2026-20526.xml",
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20526",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "documento"
+    },
+    {
+      "path": "sources/BOE-A-2026-20266.xml",
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20266",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "documento"
+    },
+    {
+      "path": "sources/BOE-A-2025-76.xml",
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-76",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "documento"
+    },
+    {
+      "path": "sources/BOE-A-2020-2942.xml",
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2020-2942",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "documento"
+    },
+    {
+      "path": "sources/BOE-A-2019-5667.xml",
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-5667",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "Rejected search candidate: unrelated municipal employment notice; not cited.",
+      "xml_root": "documento"
+    },
+    {
+      "path": "sources/BOE-A-2019-5727.xml",
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-5727",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "documento"
+    },
+    {
+      "path": "sources/LOPJ-text.xml",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-12666/texto",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "response",
+      "api_status": "200"
+    },
+    {
+      "path": "sources/BOE-A-2014-3240.xml",
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2014-3240",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "documento"
+    },
+    {
+      "path": "sources/intake-2026-10-01.md",
+      "hash_matches": true,
+      "format_valid": true
+    }
+  ],
+  "ok": true,
+  "meaning": "Integridad de cuerpos capturados y formatos, no certificación independiente de interpretación normativa."
+}

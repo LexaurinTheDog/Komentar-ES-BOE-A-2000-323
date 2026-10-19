@@ -16,7 +16,7 @@
 
 *Nota editorial del BOE:* Se convierten a euros las cuantías contempladas en el apartado 1 por el Anexo I del Real Decreto 1417/2001, de 17 de diciembre. Ref. BOE-A-2001-24625
 
-La desestimación devuelve el conocimiento al recusado en el estado del pleito y, como regla, impone costas al recusante, salvo circunstancias excepcionales justificadas. La multa es una consecuencia diferente: requiere que la resolución declare expresamente mala fe y puede imponerse entre ciento ochenta y seis mil euros. La mera falta de prueba de la causa no equivale por sí sola a esa declaración cualificada.
+La desestimación devuelve el conocimiento al recusado en el estado del pleito y, como regla, impone costas al recusante, salvo circunstancias excepcionales justificadas. La multa es una consecuencia diferente: requiere que la resolución declare expresamente mala fe y puede imponerse de 180 a 6.000 euros. La mera falta de prueba de la causa no equivale por sí sola a esa declaración cualificada.
 
 La estimación aparta definitivamente al afectado y mantiene al sustituto hasta terminar el asunto. Ejemplo: una parte plantea a tiempo una causa plausible, pero la prueba no la acredita; deben distinguirse la decisión negativa, las costas con su excepción y una eventual multa que necesita mala fe motivada. Si se estima, no corresponde al recusante escoger quién sustituye: opera el régimen legal. La resolución del incidente no decide las pretensiones principales ni convierte el apartamiento en un juicio general sobre la conducta profesional del recusado fuera del caso.
 

@@ -108,6 +108,15 @@
       "sha256": "1a30e16c1dadd8604607b056e720f991c4aa3a2a62ab7c8b5f5c24c4094e0aa5",
       "xml_root": "response",
       "format_validation": "Parsed XML, BOE status 200; request with Accept application/xml."
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2014-3240",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T21:13:35.516308+00:00",
+      "content_type": "application/xml; charset=utf-8",
+      "sha256": "812c0fd768842c2dc3ba375ec0ae6c3e499471323b7418262398e9cc08b2bde0",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2014-3240.xml"
     }
   ],
   "decisive_date": "2026-10-19",

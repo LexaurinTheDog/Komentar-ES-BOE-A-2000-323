@@ -8,7 +8,7 @@ La fuente normativa es el BOE. [verification.json](sources/verification.json) re
 - [Real Decreto-ley 29/2026](sources/BOE-A-2026-20823.xml), [derogación del 26/2026](sources/BOE-A-2026-20526.xml) y [versión intermedia conservada](sources/BOE-A-2026-20266.xml).
 - [Ley Orgánica 1/2025](sources/BOE-A-2025-76.xml) y [LOPJ, XML de apoyo para remisiones](sources/LOPJ-text.xml).
 - [Diferencias iniciales detectadas](sources/initial-selection-differences.json), [cotejo final](text-agreement-report.json) y [cobertura independiente](coverage-evidence.json).
-- [STC 34/2019](cases/STC-34-2019.md), [STC 15/2020](cases/STC-15-2020.md) y [registro de búsqueda](sources/case-search-log.json).
+- [STC 34/2019](cases/STC-34-2019.md), [STC 15/2020](cases/STC-15-2020.md), [STC 30/2014](cases/STC-30-2014.md) y [registro de búsqueda](sources/case-search-log.json).
 
 La búsqueda utilizó metadatos del corpus nacional local del Tribunal Constitucional y contrastó identificadores, texto y fallo con las publicaciones oficiales. El intento web sobre STC 58/2016 no aportó un resultado primario utilizable; no se ha citado una fuente comercial en sustitución. Un candidato BOE ajeno a la sentencia buscada se conserva identificado como rechazado y no sirve de autoridad. No se afirma investigación jurisprudencial exhaustiva ni selección de casos para todas las unidades técnicas.
 

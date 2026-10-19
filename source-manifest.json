@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-19T21:12:51.282746+00:00",
+  "generated_at": "2026-10-19T21:23:15.678453+00:00",
   "sources": [
+    {
+      "path": "sources/BOE-A-2014-3240.txt",
+      "bytes": 35439,
+      "sha256": "bfb9bc7fb2902499aa6a58796ffefe917e70a888c38a0967aa058781c3cf4709"
+    },
+    {
+      "path": "sources/BOE-A-2014-3240.xml",
+      "bytes": 39232,
+      "sha256": "812c0fd768842c2dc3ba375ec0ae6c3e499471323b7418262398e9cc08b2bde0",
+      "request": {
+        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2014-3240",
+        "http_status": 200,
+        "accessed_at": "2026-10-19T21:13:35.516308+00:00",
+        "content_type": "application/xml; charset=utf-8",
+        "sha256": "812c0fd768842c2dc3ba375ec0ae6c3e499471323b7418262398e9cc08b2bde0",
+        "xml_root": "documento",
+        "path": "sources/BOE-A-2014-3240.xml"
+      }
+    },
     {
       "path": "sources/BOE-A-2019-5667.txt",
       "bytes": 789,
@@ -130,6 +149,11 @@
       }
     },
     {
+      "path": "sources/TC-23818-local.md",
+      "bytes": 36904,
+      "sha256": "52465e0c36b54f7a49375a4638157486dc2cc29a8cd2b68dcef1b8fe68b1de6b"
+    },
+    {
       "path": "sources/TC-25878-local.md",
       "bytes": 71427,
       "sha256": "7c52c5eaf17d0508ae6e150b5e29fba012f5f467324ef645eba106f9bb4d5c48"
@@ -201,8 +225,8 @@
     },
     {
       "path": "sources/case-search-log.json",
-      "bytes": 996,
-      "sha256": "b06e611799f2fb38a8f14933d29e0518ef17df22b97d5cc421c5d89aeb5f7727"
+      "bytes": 1590,
+      "sha256": "ac5280a1aa3d6412a3d2694a589c8cc68298fb3fe130fdce1fc00edacb3b31de"
     },
     {
       "path": "sources/change-map.json",
@@ -246,8 +270,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 6242,
-      "sha256": "12dcb98283eb1a616381d27283822b142a37a41df9e6ec26049f41ea23090feb"
+      "bytes": 6626,
+      "sha256": "c6b170472acb365173ae4b757cae6551ad540ebd266822a5655a6dce675e0aa9"
     },
     {
       "path": "sources/version-selection.json",
