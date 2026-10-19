@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-10-19T21:12:51.282746+00:00",
+  "broken_local_links": [
+    {
+      "file": "README.md",
+      "target": "status.json"
+    }
+  ],
+  "scope": "Markdown del libro y fichas; capturas normativas brutas se conservan como evidencia, no se reinterpretan sus enlaces históricos."
+}

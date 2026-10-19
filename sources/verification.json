@@ -1,0 +1,142 @@
+{
+  "authoring_date": "2026-10-19",
+  "requests": [
+    {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+      "accessed_at": "2026-10-19T20:53:35.986014+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "4ada6f2a90a853e47baae0542c102dd0860894697d99220b039c2a6705777fbe",
+      "path": "sources/boe-act.html"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-19T20:53:38.678968+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/boe-text.xml",
+      "xml_root": "response"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+      "accessed_at": "2026-10-19T20:53:38.975641+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "path": "sources/boe-metadata.xml",
+      "xml_root": "response"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+      "accessed_at": "2026-10-19T20:53:39.301246+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "path": "sources/boe-analysis.xml",
+      "xml_root": "response"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20823",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:54:22.384969+00:00",
+      "sha256": "85fd8f495be14e00b85595152ec21ebd70059917afae9a12f28105468c835786",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2026-20823.xml"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20526",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:54:22.672146+00:00",
+      "sha256": "c93804d6e0cb6340528344e7b3e9f5237fc403d286cea91671cea95795bdaa7c",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2026-20526.xml"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20266",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:54:23.115893+00:00",
+      "sha256": "26eec5e2347e9984583730215165e21c5b642bb8c0ca6503c817c44437ea20c6",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2026-20266.xml"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-76",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:54:24.137817+00:00",
+      "sha256": "e2df2f9614b5d8a632f7de751bac68aebb80dc284ddfe832860a25b1803278e8",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2025-76.xml"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2020-2942",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:55:34.521467+00:00",
+      "sha256": "fd12b36cfa0923dfd015f7f117bc9925bd2124005da9fb8cd6ec03e94e49d464",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2020-2942.xml"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-5667",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:55:35.365389+00:00",
+      "sha256": "dd49d0fb2b77abe5ae6c0c772fe7d4373f13284e70c2bdbb41435d6c2b4c543e",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2019-5667.xml",
+      "disposition": "Rejected search candidate: unrelated municipal employment notice; not cited."
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-5727",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:57:53.573460+00:00",
+      "sha256": "50cefab9ed03bb0c59a2589129e5447afbe31f5208060d404550d19aafb2d693",
+      "content_type": "application/xml; charset=utf-8",
+      "path": "sources/BOE-A-2019-5727.xml",
+      "xml_root": "documento"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-12666/texto",
+      "path": "sources/LOPJ-text.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T21:02:12+00:00",
+      "sha256": "1a30e16c1dadd8604607b056e720f991c4aa3a2a62ab7c8b5f5c24c4094e0aa5",
+      "xml_root": "response",
+      "format_validation": "Parsed XML, BOE status 200; request with Accept application/xml."
+    }
+  ],
+  "decisive_date": "2026-10-19",
+  "commencement_evidence": {
+    "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
+    "latest_published_change": "2026-10-07",
+    "latest_effective_change": "2026-10-08",
+    "amending_source": "sources/BOE-A-2026-20823.xml",
+    "provisions": "Artículo 5, disposición transitoria segunda y disposición final decimoprimera",
+    "repealed_intermediate_source": "sources/BOE-A-2026-20526.xml",
+    "changed_since_intake": [
+      "a22",
+      "a685"
+    ],
+    "version_selection": "Versiones con publicación y vigencia no posteriores al 2026-10-19; preferencia por publicación posterior y cotejo íntegro con HTML oficial actual. Ordenar solo por vigencia recuperaba versiones superadas: diferencias iniciales conservadas en sources/initial-selection-differences.json.",
+    "consolidation_warning": "La consolidación BOE es informativa; se conservan las publicaciones oficiales de los cambios posteriores a la captura."
+  },
+  "parser_correction": {
+    "reason": "General amendments with later commencement can appear alongside later published substantive amendments; current consolidated HTML was independently compared to prevent revival of superseded clauses.",
+    "affected": [
+      "a33",
+      "a439",
+      "a661",
+      "a673",
+      "a674",
+      "a688",
+      "a691",
+      "a781"
+    ],
+    "evidence": "sources/initial-selection-differences.json"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "generated_at": "2026-10-19T21:12:51.282746+00:00",
+  "sources": [
+    {
+      "path": "sources/BOE-A-2019-5667.txt",
+      "bytes": 789,
+      "sha256": "16a2c0da216eb57b6d9404d1240365b806dfd08e8e3d4eecffa07b64eb4751a5"
+    },
+    {
+      "path": "sources/BOE-A-2019-5667.xml",
+      "bytes": 2625,
+      "sha256": "dd49d0fb2b77abe5ae6c0c772fe7d4373f13284e70c2bdbb41435d6c2b4c543e",
+      "request": {
+        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-5667",
+        "http_status": 200,
+        "accessed_at": "2026-10-19T20:55:35.365389+00:00",
+        "sha256": "dd49d0fb2b77abe5ae6c0c772fe7d4373f13284e70c2bdbb41435d6c2b4c543e",
+        "content_type": "application/xml; charset=utf-8",
+        "xml_root": "documento",
+        "path": "sources/BOE-A-2019-5667.xml",
+        "disposition": "Rejected search candidate: unrelated municipal employment notice; not cited."
+      }
+    },
+    {
+      "path": "sources/BOE-A-2019-5727.txt",
+      "bytes": 69374,
+      "sha256": "948c4c6db129527f16242b1cb85ab399dd784a8c6640589ba3e0a2e677dca21c"
+    },
+    {
+      "path": "sources/BOE-A-2019-5727.xml",
+      "bytes": 75958,
+      "sha256": "50cefab9ed03bb0c59a2589129e5447afbe31f5208060d404550d19aafb2d693",
+      "request": {
+        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-5727",
+        "http_status": 200,
+        "accessed_at": "2026-10-19T20:57:53.573460+00:00",
+        "sha256": "50cefab9ed03bb0c59a2589129e5447afbe31f5208060d404550d19aafb2d693",
+        "content_type": "application/xml; charset=utf-8",
+        "path": "sources/BOE-A-2019-5727.xml",
+        "xml_root": "documento"
+      }
+    },
+    {
+      "path": "sources/BOE-A-2020-2942.txt",
+      "bytes": 34378,
+      "sha256": "60156be0312a3e3f120eb8e6b15bfe46dd60a0f1db8e65ab56394b02d939bcce"
+    },
+    {
+      "path": "sources/BOE-A-2020-2942.xml",
+      "bytes": 39140,
+      "sha256": "fd12b36cfa0923dfd015f7f117bc9925bd2124005da9fb8cd6ec03e94e49d464",
+      "request": {
+        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2020-2942",
+        "http_status": 200,
+        "accessed_at": "2026-10-19T20:55:34.521467+00:00",
+        "sha256": "fd12b36cfa0923dfd015f7f117bc9925bd2124005da9fb8cd6ec03e94e49d464",
+        "content_type": "application/xml; charset=utf-8",
+        "xml_root": "documento",
+        "path": "sources/BOE-A-2020-2942.xml"
+      }
+    },
+    {
+      "path": "sources/BOE-A-2025-76.xml",
+      "bytes": 1753606,
+      "sha256": "e2df2f9614b5d8a632f7de751bac68aebb80dc284ddfe832860a25b1803278e8",
+      "request": {
+        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-76",
+        "http_status": 200,
+        "accessed_at": "2026-10-19T20:54:24.137817+00:00",
+        "sha256": "e2df2f9614b5d8a632f7de751bac68aebb80dc284ddfe832860a25b1803278e8",
+        "content_type": "application/xml; charset=utf-8",
+        "xml_root": "documento",
+        "path": "sources/BOE-A-2025-76.xml"
+      }
+    },
+    {
+      "path": "sources/BOE-A-2026-20266.xml",
+      "bytes": 427219,
+      "sha256": "26eec5e2347e9984583730215165e21c5b642bb8c0ca6503c817c44437ea20c6",
+      "request": {
+        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20266",
+        "http_status": 200,
+        "accessed_at": "2026-10-19T20:54:23.115893+00:00",
+        "sha256": "26eec5e2347e9984583730215165e21c5b642bb8c0ca6503c817c44437ea20c6",
+        "content_type": "application/xml; charset=utf-8",
+        "xml_root": "documento",
+        "path": "sources/BOE-A-2026-20266.xml"
+      }
+    },
+    {
+      "path": "sources/BOE-A-2026-20526.xml",
+      "bytes": 19637,
+      "sha256": "c93804d6e0cb6340528344e7b3e9f5237fc403d286cea91671cea95795bdaa7c",
+      "request": {
+        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20526",
+        "http_status": 200,
+        "accessed_at": "2026-10-19T20:54:22.672146+00:00",
+        "sha256": "c93804d6e0cb6340528344e7b3e9f5237fc403d286cea91671cea95795bdaa7c",
+        "content_type": "application/xml; charset=utf-8",
+        "xml_root": "documento",
+        "path": "sources/BOE-A-2026-20526.xml"
+      }
+    },
+    {
+      "path": "sources/BOE-A-2026-20823.xml",
+      "bytes": 430620,
+      "sha256": "85fd8f495be14e00b85595152ec21ebd70059917afae9a12f28105468c835786",
+      "request": {
+        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20823",
+        "http_status": 200,
+        "accessed_at": "2026-10-19T20:54:22.384969+00:00",
+        "sha256": "85fd8f495be14e00b85595152ec21ebd70059917afae9a12f28105468c835786",
+        "content_type": "application/xml; charset=utf-8",
+        "xml_root": "documento",
+        "path": "sources/BOE-A-2026-20823.xml"
+      }
+    },
+    {
+      "path": "sources/LOPJ-text.xml",
+      "bytes": 3535113,
+      "sha256": "1a30e16c1dadd8604607b056e720f991c4aa3a2a62ab7c8b5f5c24c4094e0aa5",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-12666/texto",
+        "path": "sources/LOPJ-text.xml",
+        "http_status": 200,
+        "accessed_at": "2026-10-19T21:02:12+00:00",
+        "sha256": "1a30e16c1dadd8604607b056e720f991c4aa3a2a62ab7c8b5f5c24c4094e0aa5",
+        "xml_root": "response",
+        "format_validation": "Parsed XML, BOE status 200; request with Accept application/xml."
+      }
+    },
+    {
+      "path": "sources/TC-25878-local.md",
+      "bytes": 71427,
+      "sha256": "7c52c5eaf17d0508ae6e150b5e29fba012f5f467324ef645eba106f9bb4d5c48"
+    },
+    {
+      "path": "sources/TC-26201-local.md",
+      "bytes": 36648,
+      "sha256": "45b6f09f559cf9a9d18bf3d37fa6ef326701a5a71f8378b063eb270efce24a9f"
+    },
+    {
+      "path": "sources/boe-act.html",
+      "bytes": 4473437,
+      "sha256": "4ada6f2a90a853e47baae0542c102dd0860894697d99220b039c2a6705777fbe",
+      "request": {
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+        "accessed_at": "2026-10-19T20:53:35.986014+00:00",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "sha256": "4ada6f2a90a853e47baae0542c102dd0860894697d99220b039c2a6705777fbe",
+        "path": "sources/boe-act.html"
+      }
+    },
+    {
+      "path": "sources/boe-analysis.xml",
+      "bytes": 42740,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+        "accessed_at": "2026-10-19T20:53:39.301246+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+        "path": "sources/boe-analysis.xml",
+        "xml_root": "response"
+      }
+    },
+    {
+      "path": "sources/boe-metadata.xml",
+      "bytes": 1196,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+        "accessed_at": "2026-10-19T20:53:38.975641+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+        "path": "sources/boe-metadata.xml",
+        "xml_root": "response"
+      }
+    },
+    {
+      "path": "sources/boe-text.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+        "accessed_at": "2026-10-19T20:53:38.678968+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+        "path": "sources/boe-text.xml",
+        "xml_root": "response"
+      }
+    },
+    {
+      "path": "sources/canonical-2026-10-19.txt",
+      "bytes": 1225054,
+      "sha256": "9edfbc9b47c62e5112e006012b2d838630e1160779c3286e4abc026ad0b8205b"
+    },
+    {
+      "path": "sources/case-search-log.json",
+      "bytes": 996,
+      "sha256": "b06e611799f2fb38a8f14933d29e0518ef17df22b97d5cc421c5d89aeb5f7727"
+    },
+    {
+      "path": "sources/change-map.json",
+      "bytes": 20309,
+      "sha256": "0b477be4f7bf34e8e18c9e25bf6c951c318c1b7220c8583346e550d6fe89c072"
+    },
+    {
+      "path": "sources/firma.txt",
+      "bytes": 209,
+      "sha256": "0634c6b71aec8f9b125f2db7b533287d20d089196d7ab4d0f1e66007313c6ff7"
+    },
+    {
+      "path": "sources/initial-selection-differences.json",
+      "bytes": 34728,
+      "sha256": "17263901828205f025824905fd8d77bcc67930363c04e01123336f7d5b6f944f"
+    },
+    {
+      "path": "sources/intake-2026-10-01.md",
+      "bytes": 1778460,
+      "sha256": "e2afa3cf948cb4df5aa38fa8ddbdd59da594537aac68b7986419342c885f6a22"
+    },
+    {
+      "path": "sources/no.txt",
+      "bytes": 850,
+      "sha256": "4269271533a2392372e91cf6b8d7282cf44b2b8986c3f3efb765fc1a41d51caa"
+    },
+    {
+      "path": "sources/non-unit-disposition.json",
+      "bytes": 492,
+      "sha256": "5a7eb06a1e13b30f9868a7d4f07b833bc197274bb4fb908fbe4a3e7a52662ff6"
+    },
+    {
+      "path": "sources/preambulo.txt",
+      "bytes": 148324,
+      "sha256": "acd782d5f11a5e35c650bd51247d74bd4739639b4abad36e820b9ca0d0ca5580"
+    },
+    {
+      "path": "sources/structure.json",
+      "bytes": 20261,
+      "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
+    },
+    {
+      "path": "sources/verification.json",
+      "bytes": 6242,
+      "sha256": "12dcb98283eb1a616381d27283822b142a37a41df9e6ec26049f41ea23090feb"
+    },
+    {
+      "path": "sources/version-selection.json",
+      "bytes": 584855,
+      "sha256": "a1faba917e5816413aa7392ba1dfb97024ae571f998197cb9fc6378892235d2a"
+    }
+  ]
+}

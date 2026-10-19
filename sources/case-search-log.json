@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-19",
+  "searches": [
+    {
+      "source": "local national TC corpus",
+      "query": "metadata title Sentencia 34/2019 and Sentencia 15/2020",
+      "results": [
+        "TC-25878",
+        "TC-26201"
+      ],
+      "verification": "matched official BOE title, docket and full reasons and disposition"
+    },
+    {
+      "source": "Firecrawl web search",
+      "query": "site.hj.tribunalconstitucional.es \"58/2016\"",
+      "evidence": ".firecrawl/search-stc58.json",
+      "result": "No usable primary result in returned set; no third-party holding cited."
+    },
+    {
+      "source": "BOE XML candidate",
+      "id": "BOE-A-2019-5667",
+      "result": "Rejected: unrelated employment notice. Correct decision identified from local metadata as BOE-A-2019-5727."
+    }
+  ],
+  "scope": "Selective constitutional decisions relevant to judicial control; no exhaustive national case-law search. Other units have no independently selected case authority at this checkpoint."
+}

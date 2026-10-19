@@ -1,0 +1,828 @@
+{
+  "expected_count": 916,
+  "parsed_count": 916,
+  "missing": [],
+  "unexpected": [],
+  "duplicate_expected": [],
+  "duplicate_parsed": [],
+  "order_equal": true,
+  "article_count": 867,
+  "complementary_count": 49,
+  "empty_or_repealed": [
+    {
+      "id": "a4-3",
+      "label": "Artículo 43 bis",
+      "text": "(Derogado)"
+    },
+    {
+      "id": "a114",
+      "label": "Artículo 114",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a120",
+      "label": "Artículo 120",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a223",
+      "label": "Artículo 223",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a224",
+      "label": "Artículo 224",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a457",
+      "label": "Artículo 457",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a467",
+      "label": "Artículo 467",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a468",
+      "label": "Artículo 468",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a469",
+      "label": "Artículo 469",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a470",
+      "label": "Artículo 470",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a471",
+      "label": "Artículo 471",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a472",
+      "label": "Artículo 472",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a473",
+      "label": "Artículo 473",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a474",
+      "label": "Artículo 474",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a475",
+      "label": "Artículo 475",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a476",
+      "label": "Artículo 476",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a480",
+      "label": "Artículo 480",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a490",
+      "label": "Artículo 490",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a491",
+      "label": "Artículo 491",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a492",
+      "label": "Artículo 492",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a493",
+      "label": "Artículo 493",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a641",
+      "label": "Artículo 641",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "a642",
+      "label": "Artículo 642",
+      "text": "(Sin contenido)"
+    },
+    {
+      "id": "dfdecimotercera",
+      "label": "Disposición final decimotercera",
+      "text": "(Derogada)"
+    },
+    {
+      "id": "dfdecimosexta",
+      "label": "Disposición final decimosexta",
+      "text": "(Suprimida)"
+    }
+  ],
+  "non_unit_blocks": [
+    {
+      "id": "no",
+      "heading": ""
+    },
+    {
+      "id": "preambulo",
+      "heading": "JUAN CARLOS I / REY DE ESPAÑA / EXPOSICIÓN DE MOTIVOS / I / II / III / IV / V / VI / VII / VIII / IX / X / XI / XII / XIII / XIV / XV / XVI / XVII / XVIII / XIX / XX"
+    },
+    {
+      "id": "tpreliminar",
+      "heading": "TÍTULO PRELIMINAR / De las normas procesales y su aplicación"
+    },
+    {
+      "id": "li",
+      "heading": "LIBRO I / De las disposiciones generales relativas a los juicios civiles"
+    },
+    {
+      "id": "ti",
+      "heading": "TÍTULO I / De la comparecencia y actuación en juicio"
+    },
+    {
+      "id": "ci",
+      "heading": "CAPÍTULO I / De la capacidad para ser parte, la capacidad procesal y la legitimación"
+    },
+    {
+      "id": "cii",
+      "heading": "CAPÍTULO II / De la pluralidad de partes"
+    },
+    {
+      "id": "ciii",
+      "heading": "CAPÍTULO III / De la sucesión procesal"
+    },
+    {
+      "id": "civ",
+      "heading": "CAPÍTULO IV / Del poder de disposición de las partes sobre el proceso y sobre sus pretensiones"
+    },
+    {
+      "id": "cv",
+      "heading": "CAPÍTULO V / De la representación procesal y la defensa técnica"
+    },
+    {
+      "id": "tii",
+      "heading": "TÍTULO II / De la jurisdicción y de la competencia"
+    },
+    {
+      "id": "ci-2",
+      "heading": "CAPÍTULO I / De la jurisdicción de los tribunales civiles y las cuestiones prejudiciales"
+    },
+    {
+      "id": "s1",
+      "heading": "Sección 1.ª De la extensión y límites de la jurisdicción de los tribunales civiles"
+    },
+    {
+      "id": "s2",
+      "heading": "Sección 2.ª De las cuestiones prejudiciales"
+    },
+    {
+      "id": "cii-2",
+      "heading": "CAPÍTULO II / De las reglas para determinar la competencia"
+    },
+    {
+      "id": "s1-2",
+      "heading": "Sección 1.ª De la competencia objetiva"
+    },
+    {
+      "id": "s2-2",
+      "heading": "Sección 2.ª De la competencia territorial"
+    },
+    {
+      "id": "s3",
+      "heading": "Sección 3.ª De la competencia funcional"
+    },
+    {
+      "id": "ciii-2",
+      "heading": "CAPÍTULO III / De la declinatoria"
+    },
+    {
+      "id": "civ-2",
+      "heading": "CAPÍTULO IV / De los recursos en materia de jurisdicción y competencia"
+    },
+    {
+      "id": "cv-2",
+      "heading": "CAPÍTULO V / Del reparto de los asuntos"
+    },
+    {
+      "id": "tiii",
+      "heading": "TÍTULO III / De la acumulación de acciones y de procesos"
+    },
+    {
+      "id": "ci-3",
+      "heading": "CAPÍTULO I / De la acumulación de acciones"
+    },
+    {
+      "id": "cii-3",
+      "heading": "CAPÍTULO II / De la acumulación de procesos"
+    },
+    {
+      "id": "s1-3",
+      "heading": "Sección 1.ª De la acumulación de procesos: disposiciones generales"
+    },
+    {
+      "id": "s2-3",
+      "heading": "Sección 2.ª De la acumulación de procesos pendientes ante un mismo tribunal"
+    },
+    {
+      "id": "s3-2",
+      "heading": "Sección 3.ª De la acumulación de procesos pendientes ante distintos tribunales"
+    },
+    {
+      "id": "s4",
+      "heading": "Sección 4.ª De la acumulación de procesos singulares a procesos universales"
+    },
+    {
+      "id": "tiv",
+      "heading": "TÍTULO IV / De la abstención y la recusación"
+    },
+    {
+      "id": "ci-4",
+      "heading": "CAPÍTULO I / De la abstención y recusación: disposiciones generales"
+    },
+    {
+      "id": "cii-4",
+      "heading": "CAPÍTULO II / De la abstención de Jueces, Magistrados, Letrados de la Administración de Justicia, Fiscales y del personal al servicio de los tribunales civiles"
+    },
+    {
+      "id": "ciii-3",
+      "heading": "CAPÍTULO III / De la recusación de Jueces y Magistrados"
+    },
+    {
+      "id": "civ-3",
+      "heading": "CAPÍTULO IV / De la recusación de los Letrados de la Administración de Justicia de los Tribunales civiles"
+    },
+    {
+      "id": "cv-3",
+      "heading": "CAPÍTULO V / De la recusación de los funcionarios pertenecientes a los Cuerpos de Gestión Procesal y Administrativa, de Tramitación Procesal y Administrativa, y de Auxilio Judicial"
+    },
+    {
+      "id": "cvi",
+      "heading": "CAPÍTULO VI / De la recusación de los peritos"
+    },
+    {
+      "id": "tv",
+      "heading": "TÍTULO V / De las actuaciones judiciales"
+    },
+    {
+      "id": "ci-5",
+      "heading": "CAPÍTULO I / Del lugar de las actuaciones judiciales y de los actos procesales mediante presencia telemática"
+    },
+    {
+      "id": "cii-5",
+      "heading": "CAPÍTULO II / Del tiempo de las actuaciones judiciales"
+    },
+    {
+      "id": "s1-4",
+      "heading": "Sección 1.ª De los días y horas hábiles"
+    },
+    {
+      "id": "s2-4",
+      "heading": "Sección 2.ª De los plazos y los términos"
+    },
+    {
+      "id": "ciii-4",
+      "heading": "CAPÍTULO III / De la inmediación, la publicidad y la lengua oficial"
+    },
+    {
+      "id": "civ-4",
+      "heading": "CAPÍTULO IV / De la fe pública judicial y de la documentación de las actuaciones"
+    },
+    {
+      "id": "cv-4",
+      "heading": "CAPÍTULO V / De los actos de comunicación judicial"
+    },
+    {
+      "id": "cvi-2",
+      "heading": "CAPÍTULO VI / Del auxilio judicial"
+    },
+    {
+      "id": "cvii",
+      "heading": "CAPÍTULO VII / De la sustanciación, vista y decisión de los asuntos"
+    },
+    {
+      "id": "s1-5",
+      "heading": "Sección 1.ª Del despacho ordinario"
+    },
+    {
+      "id": "s2-5",
+      "heading": "Sección 2.ª De las vistas y las comparecencias"
+    },
+    {
+      "id": "s3-3",
+      "heading": "Sección 3.ª De las votaciones y fallos de los asuntos"
+    },
+    {
+      "id": "cviii",
+      "heading": "CAPÍTULO VIII / De las resoluciones procesales"
+    },
+    {
+      "id": "s1-6",
+      "heading": "Sección 1.ª De las clases, forma y contenido de las resoluciones y del modo de dictarlas, publicarlas y archivarlas"
+    },
+    {
+      "id": "s2-6",
+      "heading": "Sección 2.ª De los requisitos internos de la sentencia y de sus efectos"
+    },
+    {
+      "id": "s3-4",
+      "heading": "Sección 3.ª De las diligencias de ordenación"
+    },
+    {
+      "id": "cix",
+      "heading": "CAPÍTULO IX / De la nulidad de las actuaciones"
+    },
+    {
+      "id": "cx",
+      "heading": "CAPÍTULO X / De la reconstrucción de los autos"
+    },
+    {
+      "id": "tvi",
+      "heading": "TÍTULO VI / De la cesación de las actuaciones judiciales y de la caducidad de la instancia"
+    },
+    {
+      "id": "tvii",
+      "heading": "TÍTULO VII / De la tasación de costas"
+    },
+    {
+      "id": "tviii",
+      "heading": "TÍTULO VIII / De la buena fe procesal"
+    },
+    {
+      "id": "lii",
+      "heading": "LIBRO II / De los procesos declarativos"
+    },
+    {
+      "id": "ti-2",
+      "heading": "TÍTULO I / De las disposiciones comunes a los procesos declarativos"
+    },
+    {
+      "id": "ci-6",
+      "heading": "CAPÍTULO I / De las reglas para determinar el proceso correspondiente"
+    },
+    {
+      "id": "cii-6",
+      "heading": "CAPÍTULO II / De las diligencias preliminares"
+    },
+    {
+      "id": "ciii-5",
+      "heading": "CAPÍTULO III / De la presentación de documentos, dictámenes, informes y otros medios e instrumentos"
+    },
+    {
+      "id": "civ-5",
+      "heading": "CAPÍTULO IV / De las copias de los escritos y documentos y su traslado"
+    },
+    {
+      "id": "cv-5",
+      "heading": "CAPÍTULO V / De la prueba: disposiciones generales"
+    },
+    {
+      "id": "s1-7",
+      "heading": "Sección 1.ª Del objeto, necesidad e iniciativa de la prueba"
+    },
+    {
+      "id": "s1-15",
+      "heading": "Sección 1.ª bis. Del acceso a las fuentes de prueba en procedimientos de reclamación de daños por infracción del derecho de la competencia"
+    },
+    {
+      "id": "s2-7",
+      "heading": "Sección 2.ª De la proposición y admisión"
+    },
+    {
+      "id": "s3-5",
+      "heading": "Sección 3.ª De otras disposiciones generales sobre la práctica de la prueba"
+    },
+    {
+      "id": "s4-2",
+      "heading": "Sección 4.ª De la anticipación y el aseguramiento de la prueba"
+    },
+    {
+      "id": "cvi-3",
+      "heading": "CAPÍTULO VI / De los medios de prueba y las presunciones"
+    },
+    {
+      "id": "s1-8",
+      "heading": "Sección 1.ª Del interrogatorio de las partes"
+    },
+    {
+      "id": "s2-8",
+      "heading": "Sección 2.ª De los documentos públicos"
+    },
+    {
+      "id": "s3-6",
+      "heading": "Sección 3.ª De los documentos privados"
+    },
+    {
+      "id": "s4-3",
+      "heading": "Sección 4.ª De las disposiciones comunes a las dos secciones anteriores"
+    },
+    {
+      "id": "s5",
+      "heading": "Sección 5.ª Del dictamen de peritos"
+    },
+    {
+      "id": "s6",
+      "heading": "Sección 6.ª Del reconocimiento judicial"
+    },
+    {
+      "id": "s7",
+      "heading": "Sección 7.ª Del interrogatorio de testigos"
+    },
+    {
+      "id": "s8",
+      "heading": "Sección 8.ª De la reproducción de la palabra, el sonido y la imagen y de los instrumentos que permiten archivar y conocer datos relevantes para el proceso"
+    },
+    {
+      "id": "s9",
+      "heading": "Sección 9.ª De las presunciones"
+    },
+    {
+      "id": "cvii-2",
+      "heading": "CAPÍTULO VII / De las cuestiones incidentales"
+    },
+    {
+      "id": "cviii-2",
+      "heading": "CAPÍTULO VIII / De la condena en costas"
+    },
+    {
+      "id": "tii-2",
+      "heading": "TÍTULO II / Del juicio ordinario"
+    },
+    {
+      "id": "ci-7",
+      "heading": "CAPÍTULO I / De las alegaciones iniciales"
+    },
+    {
+      "id": "s1-9",
+      "heading": "Sección 1.ª De la demanda y su objeto"
+    },
+    {
+      "id": "s2-9",
+      "heading": "Sección 2.ª De la contestación a la demanda y la reconvención"
+    },
+    {
+      "id": "s3-7",
+      "heading": "Sección 3.ª De los efectos de la pendencia del proceso"
+    },
+    {
+      "id": "cii-7",
+      "heading": "CAPÍTULO II / De la audiencia previa al juicio"
+    },
+    {
+      "id": "ciii-6",
+      "heading": "CAPÍTULO III / Del juicio"
+    },
+    {
+      "id": "civ-6",
+      "heading": "CAPÍTULO IV / De la sentencia"
+    },
+    {
+      "id": "tiii-2",
+      "heading": "TÍTULO III / Del juicio verbal"
+    },
+    {
+      "id": "tiv-2",
+      "heading": "TÍTULO IV / De los recursos"
+    },
+    {
+      "id": "ci-8",
+      "heading": "CAPÍTULO I / De los recursos: disposiciones generales"
+    },
+    {
+      "id": "cii-8",
+      "heading": "CAPÍTULO II / De los recursos de reposición y revisión"
+    },
+    {
+      "id": "ciii-7",
+      "heading": "CAPÍTULO III / Del recurso de apelación y de la segunda instancia"
+    },
+    {
+      "id": "s1-10",
+      "heading": "Sección 1.ª Del recurso de apelación y de la segunda instancia: disposiciones generales"
+    },
+    {
+      "id": "s2-10",
+      "heading": "Sección 2.ª De la sustanciación de la apelación"
+    },
+    {
+      "id": "civ-7",
+      "heading": "CAPÍTULO IV / Del recurso extraordinario por infracción procesal"
+    },
+    {
+      "id": "cv-6",
+      "heading": "CAPÍTULO V / Del recurso de casación"
+    },
+    {
+      "id": "cvi-4",
+      "heading": "CAPÍTULO VI / Del recurso en interés de la ley"
+    },
+    {
+      "id": "cvii-3",
+      "heading": "CAPÍTULO VII / Del recurso de queja"
+    },
+    {
+      "id": "tv-2",
+      "heading": "TÍTULO V / De la rebeldía y de la rescisión de sentencias firmes y nueva audiencia al demandado rebelde"
+    },
+    {
+      "id": "tvi-2",
+      "heading": "TÍTULO VI / De la revisión de sentencias firmes"
+    },
+    {
+      "id": "liii",
+      "heading": "LIBRO III / De la ejecución forzosa y de las medidas cautelares"
+    },
+    {
+      "id": "ti-3",
+      "heading": "TÍTULO I / De los títulos ejecutivos"
+    },
+    {
+      "id": "ci-9",
+      "heading": "CAPÍTULO I / De las sentencias y demás títulos ejecutivos"
+    },
+    {
+      "id": "cii-9",
+      "heading": "CAPÍTULO II / De los títulos ejecutivos extranjeros"
+    },
+    {
+      "id": "tii-3",
+      "heading": "TÍTULO II / De la ejecución provisional de resoluciones judiciales"
+    },
+    {
+      "id": "ci-10",
+      "heading": "CAPÍTULO I / De la ejecución provisional: disposiciones generales"
+    },
+    {
+      "id": "cii-10",
+      "heading": "CAPÍTULO II / De la ejecución provisional de sentencias de condena dictadas en primera instancia"
+    },
+    {
+      "id": "s1-11",
+      "heading": "Sección 1.ª De la ejecución provisional y de la oposición a ella"
+    },
+    {
+      "id": "s2-11",
+      "heading": "Sección 2.ª De la revocación o confirmación de la sentencia provisionalmente ejecutada"
+    },
+    {
+      "id": "ciii-8",
+      "heading": "CAPÍTULO III / De la ejecución provisional de sentencias de condena dictadas en segunda instancia"
+    },
+    {
+      "id": "tiii-3",
+      "heading": "TÍTULO III / De la ejecución: disposiciones generales"
+    },
+    {
+      "id": "ci-11",
+      "heading": "CAPÍTULO I / De las partes de la ejecución"
+    },
+    {
+      "id": "cii-11",
+      "heading": "CAPÍTULO II / Del tribunal competente"
+    },
+    {
+      "id": "ciii-9",
+      "heading": "CAPÍTULO III / Del despacho de la ejecución"
+    },
+    {
+      "id": "civ-8",
+      "heading": "CAPÍTULO IV / De la oposición a la ejecución y de la impugnación de actos de ejecución contrarios a la ley o al título ejecutivo"
+    },
+    {
+      "id": "cv-7",
+      "heading": "CAPÍTULO V / De la suspensión y término de la ejecución"
+    },
+    {
+      "id": "tiv-3",
+      "heading": "TÍTULO IV / De la ejecución dineraria"
+    },
+    {
+      "id": "ci-12",
+      "heading": "CAPÍTULO I / De la ejecución dineraria: disposiciones generales"
+    },
+    {
+      "id": "cii-12",
+      "heading": "CAPÍTULO II / Del requerimiento de pago"
+    },
+    {
+      "id": "ciii-10",
+      "heading": "CAPÍTULO III / Del embargo de bienes"
+    },
+    {
+      "id": "s1-12",
+      "heading": "Sección 1.ª De la traba de los bienes"
+    },
+    {
+      "id": "s2-12",
+      "heading": "Sección 2.ª Del embargo de bienes de terceros y de la tercería de dominio"
+    },
+    {
+      "id": "s3-8",
+      "heading": "Sección 3.ª De los bienes inembargables"
+    },
+    {
+      "id": "s4-4",
+      "heading": "Sección 4.ª De la prioridad del embargante y de la tercería de mejor derecho"
+    },
+    {
+      "id": "s5-2",
+      "heading": "Sección 5.ª De la garantía de la traba de bienes muebles y derechos"
+    },
+    {
+      "id": "s6-2",
+      "heading": "Sección 6.ª De la garantía del embargo de inmuebles y de otros bienes susceptibles de inscripción"
+    },
+    {
+      "id": "s7-2",
+      "heading": "Sección 7.ª De la administración judicial"
+    },
+    {
+      "id": "civ-9",
+      "heading": "CAPÍTULO IV / Del procedimiento de apremio"
+    },
+    {
+      "id": "s1-13",
+      "heading": "Sección 1.ª Disposiciones generales para la realización de los bienes embargados"
+    },
+    {
+      "id": "s2-13",
+      "heading": "Sección 2.ª Valoración de los bienes embargados"
+    },
+    {
+      "id": "s3-9",
+      "heading": "Sección 3.ª Del convenio de realización"
+    },
+    {
+      "id": "s4-5",
+      "heading": "Sección 4.ª De la realización por persona o entidad especializada"
+    },
+    {
+      "id": "s5-3",
+      "heading": "Sección 5.ª De la subasta de bienes muebles"
+    },
+    {
+      "id": "s6-3",
+      "heading": "Sección 6.ª De la subasta de bienes inmuebles"
+    },
+    {
+      "id": "s7-3",
+      "heading": "Sección 7.ª De la administración para pago"
+    },
+    {
+      "id": "cv-8",
+      "heading": "CAPÍTULO V / De las particularidades de la ejecución sobre bienes hipotecados o pignorados"
+    },
+    {
+      "id": "tv-3",
+      "heading": "TÍTULO V / De la ejecución no dineraria"
+    },
+    {
+      "id": "ci-13",
+      "heading": "CAPÍTULO I / De las disposiciones generales"
+    },
+    {
+      "id": "cii-13",
+      "heading": "CAPÍTULO II / De la ejecución por deberes de entregar cosas"
+    },
+    {
+      "id": "ciii-11",
+      "heading": "CAPÍTULO III / De la ejecución por obligaciones de hacer y no hacer"
+    },
+    {
+      "id": "civ-10",
+      "heading": "CAPÍTULO IV / De la liquidación de daños y perjuicios, frutos y rentas y la rendición de cuentas"
+    },
+    {
+      "id": "tvi-3",
+      "heading": "TÍTULO VI / De las medidas cautelares"
+    },
+    {
+      "id": "ci-14",
+      "heading": "CAPÍTULO I / De las medidas cautelares: disposiciones generales"
+    },
+    {
+      "id": "cii-14",
+      "heading": "CAPÍTULO II / Del procedimiento para la adopción de medidas cautelares"
+    },
+    {
+      "id": "ciii-12",
+      "heading": "CAPÍTULO III / De la oposición a las medidas cautelares adoptadas sin audiencia del demandado"
+    },
+    {
+      "id": "civ-11",
+      "heading": "CAPÍTULO IV / De la modificación y alzamiento de las medidas cautelares"
+    },
+    {
+      "id": "cv-9",
+      "heading": "CAPÍTULO V / De la caución sustitutoria de las medidas cautelares"
+    },
+    {
+      "id": "liv",
+      "heading": "LIBRO IV / De los procesos especiales"
+    },
+    {
+      "id": "ti-4",
+      "heading": "TÍTULO I / De los procesos sobre provisión de medidas judiciales de apoyo a las personas con discapacidad, filiación, matrimonio y menores"
+    },
+    {
+      "id": "ci-15",
+      "heading": "CAPÍTULO I / De las disposiciones generales"
+    },
+    {
+      "id": "cii-15",
+      "heading": "CAPÍTULO II / De los procesos sobre la adopción de medidas judiciales de apoyo a personas con discapacidad"
+    },
+    {
+      "id": "ciii-13",
+      "heading": "CAPÍTULO III / De los procesos sobre filiación, paternidad y maternidad"
+    },
+    {
+      "id": "civ-12",
+      "heading": "CAPÍTULO IV / De los procesos matrimoniales y de menores"
+    },
+    {
+      "id": "civbis",
+      "heading": "CAPÍTULO IV BIS / Medidas relativas a la restitución o retorno de menores en los supuestos de sustracción internacional"
+    },
+    {
+      "id": "cv-10",
+      "heading": "CAPÍTULO V / De la oposición a las resoluciones administrativas en materia de protección de menores, del procedimiento para determinar la necesidad de asentimiento en la adopción y de la oposición a determinadas resoluciones y actos de la Dirección General de los Registros y del Notariado en materia de Registro Civil."
+    },
+    {
+      "id": "tii-4",
+      "heading": "TÍTULO II / De la división judicial de patrimonios"
+    },
+    {
+      "id": "ci-16",
+      "heading": "CAPÍTULO I / De la división de la herencia"
+    },
+    {
+      "id": "s1-14",
+      "heading": "Sección 1.ª Del procedimiento para la división de la herencia"
+    },
+    {
+      "id": "s2-14",
+      "heading": "Sección 2.ª De la intervención del caudal hereditario"
+    },
+    {
+      "id": "s3-10",
+      "heading": "Sección 3.ª De la administración del caudal hereditario"
+    },
+    {
+      "id": "cii-16",
+      "heading": "CAPÍTULO II / Del procedimiento para la liquidación del régimen económico matrimonial"
+    },
+    {
+      "id": "tiii-4",
+      "heading": "TÍTULO III / De los procesos monitorio y cambiario"
+    },
+    {
+      "id": "ci-17",
+      "heading": "CAPÍTULO I / Del proceso monitorio"
+    },
+    {
+      "id": "cii-17",
+      "heading": "CAPÍTULO II / Del juicio cambiario"
+    },
+    {
+      "id": "firma",
+      "heading": ""
+    }
+  ],
+  "annex_disposition": [
+    {
+      "status": "verified_absence",
+      "basis": "No hay encabezado de anexo entre los 1083 bloques oficiales ni tipo anexo en el XML; las disposiciones adicionales, transitorias, derogatoria y finales están incluidas como preceptos. Las reformas de otros textos contenidas dentro de las disposiciones finales permanecen íntegras en su unidad.",
+      "evidence": [
+        "sources/boe-act.html",
+        "sources/boe-text.xml"
+      ]
+    }
+  ],
+  "source_hashes": {
+    "sources/boe-act.html": "4ada6f2a90a853e47baae0542c102dd0860894697d99220b039c2a6705777fbe",
+    "sources/boe-text.xml": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+    "sources/canonical-2026-10-19.txt": "9edfbc9b47c62e5112e006012b2d838630e1160779c3286e4abc026ad0b8205b",
+    "units.jsonl": "81137aabc65960f572becbd8e58f6dbef4044a99d39122adef41e89c2d5d6613"
+  },
+  "limitations": [
+    "El texto consolidado BOE tiene carácter informativo. El cotejo de identificadores no sustituye el examen jurídico de cada modificación y de sus reglas transitorias."
+  ],
+  "ok": true
+}

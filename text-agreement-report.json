@@ -1,0 +1,8 @@
+{
+  "units_compared": 916,
+  "xml_paragraphs": 3992,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "method": "Separately parse operative HTML p nodes outside blockquotes; compare paragraph order/content after Unicode and whitespace normalization against units from versioned XML.",
+  "ok": true
+}

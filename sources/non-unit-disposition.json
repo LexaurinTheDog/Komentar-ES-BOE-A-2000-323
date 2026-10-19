@@ -1,0 +1,17 @@
+[
+  {
+    "id": "no",
+    "type": "nota_inicial",
+    "reason": "editorial initial notice, nonoperative preamble or promulgation signature retained separately"
+  },
+  {
+    "id": "preambulo",
+    "type": "preambulo",
+    "reason": "editorial initial notice, nonoperative preamble or promulgation signature retained separately"
+  },
+  {
+    "id": "firma",
+    "type": "firma",
+    "reason": "editorial initial notice, nonoperative preamble or promulgation signature retained separately"
+  }
+]
