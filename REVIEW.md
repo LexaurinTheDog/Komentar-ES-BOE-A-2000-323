@@ -6,7 +6,7 @@ Se extrajeron 916 identificadores y se contrastaron con encabezados HTML indepen
 
 Se detectó y reparó prioridad incorrecta de versiones en ocho artículos. La reparación recuperó el apartado 33.4, las anulaciones de 439.6.c y 439.7, la redacción de adopción del artículo 781 y denominaciones actualizadas en varios artículos de ejecución. Se corrigió también la remisión errónea del comentario de 11 quater a 15 quater y la referencia a un contenido actual inexistente de 114. La discordancia oficial de remisiones de 49 bis se explica mediante el texto LOPJ consultado, sin alterar la cita legal.
 
-Las tres fichas constitucionales distinguen fallo y alegaciones y limitan el uso de las sentencias a la cuestión de control judicial. Las referencias históricas a recursos suprimidos se advierten cuando aparecen en la prosa escrita. Los ejemplos son ficticios. El [análisis de comentarios](commentary-audit.json) comprueba delimitadores, extensión y párrafos idénticos; no demuestra por sí solo originalidad jurídica ni exactitud de todas las interpretaciones.
+Las tres fichas constitucionales distinguen fallo y alegaciones y limitan su uso a las cuestiones decididas sobre revisión de decretos y diligencia de comunicación. Las referencias históricas a recursos suprimidos se advierten cuando aparecen en la prosa escrita. Los ejemplos son ficticios. El [análisis de comentarios](commentary-audit.json) comprueba delimitadores, extensión y párrafos idénticos; no demuestra por sí solo originalidad jurídica ni exactitud de todas las interpretaciones.
 
 El análisis de la STC 30/2014 se limita a diligencia y subsidiariedad de edictos, sin extender su fallo al sistema electrónico introducido posteriormente.
 

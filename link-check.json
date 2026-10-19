@@ -1,5 +1,6 @@
 {
-  "checked_at": "2026-10-19T21:23:15.678453+00:00",
+  "checked_at": "2026-10-19T21:24:18.928042+00:00",
+  "local_links_checked": 75,
   "broken_local_links": [],
-  "scope": "Markdown del libro y fichas; capturas normativas brutas se conservan como evidencia, no se reinterpretan sus enlaces históricos."
+  "scope": "Markdown de capítulos, introducción, README, SOURCES, REVIEW y fichas; incluye status.json. No se reinterpretan enlaces históricos de capturas brutas."
 }
