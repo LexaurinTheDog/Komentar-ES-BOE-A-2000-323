@@ -1,147 +1,146 @@
 {
   "complete": true,
-  "scope": "Exclusivamente las veinte unidades asignadas; no la totalidad del manuscrito.",
+  "scope": "Solo el lote a52–a71; no revisión integral del manuscrito.",
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-21T23:22:28.194713+00:00",
+  "reviewed_at": "2026-10-21T23:25:20.143783+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a34",
-    "a35",
-    "a36",
-    "a37",
-    "a38",
-    "a39",
-    "a40",
-    "a41",
-    "a42",
-    "a43",
-    "a4-3",
-    "a44",
-    "a45",
-    "a46",
-    "a47",
-    "a48",
-    "a49",
-    "a49bis",
-    "a50",
-    "a51"
+    "a52",
+    "a53",
+    "a54",
+    "a55",
+    "a56",
+    "a57",
+    "a58",
+    "a59",
+    "a60",
+    "a61",
+    "a62",
+    "a63",
+    "a64",
+    "a65",
+    "a66",
+    "a67",
+    "a68",
+    "a69",
+    "a70",
+    "a71"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a34",
-      "assessment": "Precisada ausencia de postulación en audiencia de abusividad y continuación tras auto negativo; plazos, revisión, reserva declarativa y cosa juzgada contrastados. STC leída íntegra.",
-      "source": "sources/review-batch-03-official.xml#a34"
+      "id": "a52",
+      "assessment": "Ampliado contraste individual de todos los números 1.º a 17.º, incluido 13.º bis, y subsidiariedad de apartados 2 y 3; precisadas conexiones alternativas, condiciones organizativas OEPM y remisión al 756.2/3.",
+      "source": "sources/review-batch-04-official.xml#a52"
     },
     {
-      "id": "a35",
-      "assessment": "Explicitados ejecución sin oposición, plazos y consecuencias del control contractual; diferenciados indebidos, excesivos y presupuesto escrito. STC leída íntegra.",
-      "source": "sources/review-batch-03-official.xml#a35"
+      "id": "a53",
+      "assessment": "Conservado tras cotejar ambos apartados: jerarquía entre acciones y elección por pluralidad de demandados, sin crear fueros ficticios ni dispensar admisibilidad.",
+      "source": "sources/review-batch-04-official.xml#a53"
     },
     {
-      "id": "a36",
-      "assessment": "Conservado: fuentes de jurisdicción, inmunidades diferenciadas, exclusividad y rebeldía sin sumisión tácita; remisiones 38/39/63 cotejadas.",
-      "source": "sources/review-batch-03-official.xml#a36"
+      "id": "a54",
+      "assessment": "Enumeradas excepciones territoriales del apartado 1 y diferenciada prohibición expresa contractual del apartado 2 de los límites generales a ambas sumisiones; comprobada competencia objetiva.",
+      "source": "sources/review-batch-04-official.xml#a54"
     },
     {
-      "id": "a37",
-      "assessment": "Conservado: supuestos de abstención de ambos apartados y diferencia entre objeto principal y prejudicialidad del 42.",
-      "source": "sources/review-batch-03-official.xml#a37"
+      "id": "a55",
+      "assessment": "Conservado: precisión de circunscripción, validez del pacto y límites del artículo 54; no atribuye elección de juzgador.",
+      "source": "sources/review-batch-04-official.xml#a55"
     },
     {
-      "id": "a38",
-      "assessment": "Conservado: control temprano de oficio con audiencia de partes y Fiscal; separado del control territorial del 58.",
-      "source": "sources/review-batch-03-official.xml#a38"
+      "id": "a56",
+      "assessment": "Conservado: conducta del actor, gestión del demandado, incomparecencia tras emplazamiento válido y preclusión; cotejados 36.2.3 y 54.",
+      "source": "sources/review-batch-04-official.xml#a56"
     },
     {
-      "id": "a39",
-      "assessment": "Conservado: declinatoria y arbitraje/mediación; contrastados 63 a 65 y DA duodécima sobre referencias a medios adecuados.",
-      "source": "sources/review-batch-03-official.xml#a39"
+      "id": "a57",
+      "assessment": "Explicitadas las tres operaciones distintas: circunscripción, competencia objetiva y reparto; impugnación específica del 68 verificada.",
+      "source": "sources/review-batch-04-official.xml#a57"
     },
     {
-      "id": "a40",
-      "assessment": "Precisado órgano competente para alzamiento y separación del documento; cotejados los siete apartados y condiciones de daños del 712 y siguientes.",
-      "source": "sources/review-batch-03-official.xml#a40"
+      "id": "a58",
+      "assessment": "Conservado: control inmediato LAJ, audiencias, decisión judicial por auto, remisión y elección del actor tras requerimiento.",
+      "source": "sources/review-batch-04-official.xml#a58"
     },
     {
-      "id": "a41",
-      "assessment": "Conservado: reposición, reproducción de solicitud, apelación y revisión directa; advertida mención histórica a recurso extraordinario suprimido.",
-      "source": "sources/review-batch-03-official.xml#a41"
+      "id": "a59",
+      "assessment": "Conservado: control rogado por declinatoria en territorio disponible y legitimación de demandado o posible parte; remisiones a 56/64 correctas.",
+      "source": "sources/review-batch-04-official.xml#a59"
     },
     {
-      "id": "a42",
-      "assessment": "Precisados autor de suspensión y órganos que resuelven la cuestión; distinguidos efecto incidental y vinculación del apartado 3.",
-      "source": "sources/review-batch-03-official.xml#a42"
+      "id": "a60",
+      "assessment": "Precisado que diez días se refieren al emplazamiento para comparecer ante sede competente; cotejadas vinculación del receptor y excepción de audiencia incompleta bajo fuero imperativo.",
+      "source": "sources/review-batch-04-official.xml#a60"
     },
     {
-      "id": "a43",
-      "assessment": "Conservado: pendencia, necesidad, imposibilidad de acumulación, petición y audiencia; recursos diferenciados.",
-      "source": "sources/review-batch-03-official.xml#a43"
+      "id": "a61",
+      "assessment": "Conservado: reserva legal y alcance sobre incidencias, providencias, autos, sentencia, convenios y transacciones; no extiende indiscriminadamente recursos.",
+      "source": "sources/review-batch-04-official.xml#a61"
     },
     {
-      "id": "a4-3",
-      "assessment": "Conservado: derogación explícita sin revivir texto histórico; ausencia de contenido no equivale a supresión de toda prejudicialidad europea.",
-      "source": "sources/review-batch-03-official.xml#a4-3"
+      "id": "a62",
+      "assessment": "Conservado: inadmisión inicial, audiencia común de diez días si ya admitido, auto de abstención y cinco días añadidos al plazo legal; no se promete plazo íntegro nuevo.",
+      "source": "sources/review-batch-04-official.xml#a62"
     },
     {
-      "id": "a44",
-      "assessment": "Conservado: rango legal, anterioridad y diferencia frente a reparto y sumisión territorial.",
-      "source": "sources/review-batch-03-official.xml#a44"
+      "id": "a63",
+      "assessment": "Conservado: legitimación, motivos, excepción de consumo, identificación del foro territorial y presentación alternativa; verificada DA duodécima.",
+      "source": "sources/review-batch-04-official.xml#a63"
     },
     {
-      "id": "a45",
-      "assessment": "Conservado: competencia residual y otras funciones LOPJ; advertencia sobre Tribunales de Instancia contrastada con nota inicial oficial.",
-      "source": "sources/review-batch-03-official.xml#a45"
+      "id": "a64",
+      "assessment": "Precisado que caución es salvedad a actuaciones durante suspensión y no carga para declinar ni reanudación del principal; enumerados medios y requisitos del aval.",
+      "source": "sources/review-batch-04-official.xml#a64"
     },
     {
-      "id": "a46",
-      "assessment": "Conservado: especialización exclusiva e inhibición, sin confusión con reparto ordinario.",
-      "source": "sources/review-batch-03-official.xml#a46"
+      "id": "a65",
+      "assessment": "Añadida exigencia de copias; cotejados cinco días de alegaciones, decisión dentro del quinto siguiente y efectos distintos de cada motivo, incluidos requisitos del territorio disponible.",
+      "source": "sources/review-batch-04-official.xml#a65"
     },
     {
-      "id": "a47",
-      "assessment": "Conservado: umbrales distintos de 150 y menos de 10000 euros, excepción material y doble conexión municipal del apartado 3.",
-      "source": "sources/review-batch-03-official.xml#a47"
+      "id": "a66",
+      "assessment": "Conservado: apelación frente a abstención y reposición frente a rechazo, con reserva para apelación contra sentencia; sin atribuir apelación inmediata a rechazo arbitral.",
+      "source": "sources/review-batch-04-official.xml#a66"
     },
     {
-      "id": "a48",
-      "assessment": "Conservado: control de oficio, nulidad en recurso, audiencia común de diez días, auto e identificación de clase competente.",
-      "source": "sources/review-batch-03-official.xml#a48"
+      "id": "a67",
+      "assessment": "Conservado: irrecurribilidad del auto territorial y reserva en apelación/casación solo para normas imperativas; no crea acceso autónomo a casación.",
+      "source": "sources/review-batch-04-official.xml#a67"
     },
     {
-      "id": "a49",
-      "assessment": "Conservado: declinatoria del demandado coordinada con control de oficio del 48 y régimen 63 a 65.",
-      "source": "sources/review-batch-03-official.xml#a49"
+      "id": "a68",
+      "assessment": "Explicitado reparto en Audiencias divididas en secciones; distinguidas falta de anotación e infracción material, parte perjudicada y reacción inmediata del apartado 4.",
+      "source": "sources/review-batch-04-official.xml#a68"
     },
     {
-      "id": "a49bis",
-      "assessment": "Precisado testimonio exigido a partes y alcance actual del artículo 89.7 LOPJ, incluida violencia sexual. Verificados artículo 87 ter suprimido y 89.6/7 efectivos sin alterar la cita de la LEC.",
-      "source": "sources/review-batch-03-official.xml#a49bis"
+      "id": "a69",
+      "assessment": "Conservado: reparto y remisión dentro de dos días desde presentación; diferencia frente a plazo de parte y coordinación con urgencia del 70.",
+      "source": "sources/review-batch-04-official.xml#a69"
     },
     {
-      "id": "a50",
-      "assessment": "Conservado: cadena subsidiaria de conexiones personales y opción profesional limitada a litigios de la actividad.",
-      "source": "sources/review-batch-03-official.xml#a50"
+      "id": "a70",
+      "assessment": "Identificados órganos en la literalidad y separadas las dos alternativas de riesgo; mantenidas petición de parte y ausencia de sustitución del reparto. Verificada nota inicial.",
+      "source": "sources/review-batch-04-official.xml#a70"
     },
     {
-      "id": "a51",
-      "assessment": "Conservado: requisitos acumulados del fuero alternativo de personas jurídicas y fuero de entes; añadida lista práctica al cierre.",
-      "source": "sources/review-batch-03-official.xml#a51"
+      "id": "a71",
+      "assessment": "Sustituido ejemplo abstracto por compraventa ficticia con petición principal y subsidiaria; cotejados cuatro apartados, incompatibilidad y condiciones adicionales del 73.",
+      "source": "sources/review-batch-04-official.xml#a71"
     }
   ],
   "limitations": [
-    "Segunda lectura sustantiva limitada a los veinte identificadores expresos; otras unidades consultadas solo para comprobar remisiones.",
-    "Se ha releído el texto íntegro de la STC 34/2019 y su ficha; no se ha emprendido búsqueda jurisprudencial nueva ni se afirma exhaustividad.",
-    "El manuscrito conserva 652 unidades sin comentario fuera del lote; los fallos globales se registran sin declarar terminación integral.",
+    "Cada una de las veinte unidades se ha cotejado sustantivamente; las demás solo se han consultado para comprobar remisiones.",
+    "El lote no contenía atribuciones jurisprudenciales específicas. No se añaden decisiones sin lectura íntegra ni se afirma una nueva búsqueda jurisprudencial exhaustiva; se conserva el corpus selectivo previo.",
+    "Persisten 652 unidades sin comentario fuera de este lote: el build y la validación global no acreditan terminación del libro.",
+    "Se conserva la fecha jurídica de inicio de autoría, 19 de octubre de 2026; la fecha de acceso se registra aparte.",
     "No constituye aprobación profesional externa."
   ],
   "evidence": [
-    "review-batch-03-audit.json",
-    "review-batch-03-build.json",
-    "review-batch-03-validation.json",
-    "review-batch-03-links.json",
-    "sources/verification.json",
-    "sources/BOE-A-2019-5727.txt",
-    "sources/LOPJ-text.xml"
+    "review-batch-04-audit.json",
+    "review-batch-04-build.json",
+    "review-batch-04-validation.json",
+    "review-batch-04-links.json",
+    "sources/verification.json"
   ]
 }

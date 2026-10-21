@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:22:42.290556+00:00",
+  "generated_at": "2026-10-21T23:25:32.355851+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -375,14 +375,30 @@
       }
     },
     {
+      "path": "sources/review-batch-04-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+        "accessed_at": "2026-10-21T23:23:57.166516+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "bytes": 5433343,
+        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+        "local_path": "sources/review-batch-04-official.xml",
+        "format_validation": "Parsed XML; data/texto present; no HTML challenge",
+        "purpose": "Bounded independent review a52–a71"
+      }
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 10184,
-      "sha256": "6679aba475db0033fac73a691271085da60f20fedec9710974a8795634897fe6"
+      "bytes": 10726,
+      "sha256": "9d24b04388966b8b62bad543ed12a3feae13248c87f96f25dbc7eb8817850103"
     },
     {
       "path": "sources/version-selection.json",
