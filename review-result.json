@@ -1,122 +1,123 @@
 {
   "complete": true,
-  "scope": "Exclusivamente las veinte unidades asignadas; no el libro íntegro.",
+  "scope": "Exclusivamente lote a264–a282, incluido a2-14 (268 bis).",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a245",
-    "a2-15",
-    "a246",
-    "a247",
-    "a248",
-    "a249",
-    "a250",
-    "a251",
-    "a252",
-    "a253",
-    "a254",
-    "a255",
-    "a256",
-    "a257",
-    "a258",
-    "a259",
-    "a260",
-    "a261",
-    "a262",
-    "a263"
+    "a264",
+    "a265",
+    "a266",
+    "a267",
+    "a268",
+    "a2-14",
+    "a269",
+    "a270",
+    "a271",
+    "a272",
+    "a273",
+    "a274",
+    "a275",
+    "a276",
+    "a277",
+    "a278",
+    "a279",
+    "a280",
+    "a281",
+    "a282"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a245",
-      "finding": "Conservado: plazo, legitimaciones, partidas concretas, confidencialidad limitada y propuesta sustancialmente coincidente cotejados con los cinco apartados."
+      "id": "a264",
+      "finding": "Conservado tras cotejar los cuatro números: apoderamiento, representación, valor e intento negociador; alternativa de declaración responsable delimitada y remisiones 399/403 comprobadas."
     },
     {
-      "id": "a2-15",
-      "finding": "Conservado: tres días, conformidad por silencio, decreto/revisión, auto/reposición y secuencia posterior del 246 comprobados; a2-15 es 245 bis."
+      "id": "a265",
+      "finding": "Precisado que los investigadores privados han de estar legalmente habilitados; cotejados cinco tipos, designación limitada a los tres primeros, disponibilidad del actor y relevancia sobrevenida por contestación."
     },
     {
-      "id": "a246",
-      "finding": "Precisados sujetos y condiciones de costas del incidente: profesional que reclama inclusión, abuso y parte defendida; revisión y falta de ulterior recurso. Cotejados cinco días, informe previo, subsidiariedad y justicia gratuita."
+      "id": "a266",
+      "finding": "Conservado: título alimenticio, principio de prueba del retracto, consignación condicionada y caución, sucesión y testigos, cláusula de otros documentos; consecuencia de 269.2 comprobada."
     },
     {
-      "id": "a247",
-      "finding": "Conservado: buena fe, rechazo motivado, multa, límite de tercio, audiencia documentada, comunicaciones colegial y a comisión, remisión orgánica."
+      "id": "a267",
+      "finding": "Conservado: copia simple pública en papel o imagen y reacción a impugnación; distinguida autenticidad de interpretación y cotejada remisión a 317."
     },
     {
-      "id": "a248",
-      "finding": "Conservado: reserva de proceso especial, dos cauces y prioridad de materia; ejemplo de cuotas compatible con 250.1.15."
+      "id": "a268",
+      "finding": "Conservado: original/copia autenticada, testimonio y devolución, imagen y copia simple no cuestionada, archivo público y 265.2; remisión a 326 comprobada."
     },
     {
-      "id": "a249",
-      "finding": "Conservado: ocho atribuciones y excepciones; umbral superior a 15.000, acciones colectivas e individuales y propiedad horizontal contrastados."
+      "id": "a2-14",
+      "finding": "Precisado que la identificación exigida por 273 es la del expediente; 268 bis remite a legislación tecnológica sin alterar oportunidades probatorias ni determinar formatos concretos."
     },
     {
-      "id": "a250",
-      "finding": "Conservado: dieciséis atribuciones, restricciones de legitimación posesoria, distinción de contratos inscritos, umbral inclusivo y OEPM."
+      "id": "a269",
+      "finding": "Conservado: preclusión de aportación y de petición de incorporación, excepción 270 y distinta inadmisión de demandas sin documentos 266."
     },
     {
-      "id": "a251",
-      "finding": "Precisados cinco años y vigésima parte en servidumbres y período anual o menor de negociación de valores. Leídas las doce reglas y sus subreglas."
+      "id": "a270",
+      "finding": "Conservado tras cotejar tres excepciones, designación/anuncio, contradicción y resolución en el acto, multa facultativa de 180 a 1200 y videoconferencia."
     },
     {
-      "id": "a252",
-      "finding": "Conservado: ocho reglas, títulos distintos/comunes, accesorios vencidos, desahucio, acciones reales, plazos, solidaridad, reconvención y ampliación."
+      "id": "a271",
+      "finding": "Conservado: cierre después de vista/juicio, remisión a 435.1.3, resoluciones dictadas o notificadas desde conclusiones, traslado común cinco días, suspensión y decisión en sentencia."
     },
     {
-      "id": "a253",
-      "finding": "Conservado: carga de justificación, expresión relativa, estabilización y tres causas de indeterminación; lectura sistemática del umbral con 249.2."
+      "id": "a272",
+      "finding": "Conservado: providencia de devolución, actuación de oficio/instancia y exclusión de recurso con reserva de segunda instancia; sin promesa de admisión automática en apelación."
     },
     {
-      "id": "a254",
-      "finding": "Conservado: diligencia/revisión sin suspensión, cálculo simple, representación, prohibición de inadmisión por cuantía y subsanación de diez días."
+      "id": "a273",
+      "finding": "Conservado: seis apartados y categorías a–f; índice, certificado cualificado, máximo cinco días y papel excepcional. Selección vigente del apartado 4 frente a texto histórico comprobada."
     },
     {
-      "id": "a255",
-      "finding": "Conservado: efectos habilitantes de impugnación, contestación y decisión en audiencia previa o 438.10; contrastado este último trámite actual."
+      "id": "a274",
+      "finding": "Conservado: firma/exactitud de copias sin procurador, traslado por LAJ/oficina y canal procedente; no se traslada mecánica del 276 a litigantes sin representación."
     },
     {
-      "id": "a256",
-      "finding": "Añadidos testimonio documental y formas de caución por remisión a 64.2; cotejados todos los números, 5 bis, datos/indicios y plazos de doce meses y de demanda."
+      "id": "a275",
+      "finding": "Conservado: admisión inicial, advertencia cinco días, copias a costa salvo demanda/contestación/documentos necesarios, con sus consecuencias diferenciadas."
     },
     {
-      "id": "a257",
-      "finding": "Acotada la facultad de solicitar diligencias sucesivas a los cuatro supuestos excepcionales; comprobados domicilio, exclusión de declinatoria y conflicto negativo."
+      "id": "a276",
+      "finding": "Conservado: tres apartados vigentes, simultaneidad electrónica, día/hora hábil y previo traslado en supuesto 135.4. Suprimido apartado 4 no tratado como vigente. STC 107/2005 FJ 6 releído."
     },
     {
-      "id": "a258",
-      "finding": "Conservado: adecuación, causa/interés, decisión en cinco días, recursos asimétricos y archivo por caución no prestada en tres días."
+      "id": "a277",
+      "finding": "Conservado: constancia de traslado a partes personadas y diferencia entre acreditación y omisión; releídos antecedentes, FJ 1–6 y fallo STC 107/2005, con límites temporales y régimen histórico."
     },
     {
-      "id": "a259",
-      "finding": "Precisado destino exclusivo de la información a tutela de propiedad industrial o intelectual, sin extenderlo a cualquier derecho del solicitante; diez días, experto y reserva cotejados."
+      "id": "a278",
+      "finding": "Conservado: apertura sólo si la ley atribuye efecto al acto, sin intervención judicial, día siguiente y coordinación de fecha legal del traslado con 276.2/135."
     },
     {
-      "id": "a260",
-      "finding": "Conservado: oposición cinco días, impugnación otros cinco, posibilidad de vista, costas y apelación según resultado."
+      "id": "a279",
+      "finding": "Conservado: conservación de copias de escritos/documentos/resoluciones, prohibición de entregar autos originales en papel, expediente electrónico y copias para no obligados."
     },
     {
-      "id": "a261",
-      "finding": "Conservado tras cotejo de las cinco medidas y relectura completa de STC 222/2012, antecedentes, FJ 1–5 y fallo: inadmisión procesal sin decisión material de constitucionalidad."
+      "id": "a280",
+      "finding": "Conservado: denuncia, audiencia, potencial afectación defensiva, nulidad desde entrega, reproducción correcta y responsabilidad separada; ejemplo no exige resultado distinto del pleito."
     },
     {
-      "id": "a262",
-      "finding": "Conservado: resolución en cinco días, audiencia, aplicación indemnizatoria, apelación no suspensiva y retención de remanente durante mes."
+      "id": "a281",
+      "finding": "Conservado: cuatro apartados; hechos pertinentes, costumbre y orden público, contenido/vigencia del derecho extranjero y averiguación judicial, conformidad salvo indisponibilidad y notoriedad absoluta/general."
     },
     {
-      "id": "a263",
-      "finding": "Conservado: integración compatible con leyes especiales y remisión exacta a 256.1.9; no se inventan habilitaciones sectoriales."
+      "id": "a282",
+      "finding": "Conservado: iniciativa de partes y habilitación legal para actuación de oficio; no se presume investigación judicial general, ejemplos y conexiones con 217/281 comprobados."
     }
   ],
   "limitations": [
-    "Revisión sustantiva limitada al lote; 636 unidades ajenas siguen sin comentario.",
-    "Jurisprudencia selectiva: se revisa la autoridad existente, sin afirmar búsqueda exhaustiva ni aprobación profesional externa.",
-    "Se conserva la fecha jurídica de autoría 2026-10-19; las reformas posteriores a la captura original están documentadas en el preflight y mapa de cambios."
+    "No completa ni revisa el libro íntegro: permanecen 616 unidades sin comentario fuera del lote.",
+    "Jurisprudencia selectiva: lectura de autoridad ya citada, sin examen exhaustivo de decisiones posteriores.",
+    "Fecha jurídica de autoría conservada: 2026-10-19; la nueva descarga oficial se coteja íntegramente con aquella selección.",
+    "Revisión del manuscrito por este proceso; no aprobación profesional externa."
   ],
-  "reviewed_at": "2026-10-21T23:49:57.686630+00:00",
-  "source_evidence": "review-batch-14-audit.json",
+  "reviewed_at": "2026-10-21T23:56:17.142664+00:00",
+  "source_evidence": "review-batch-15-audit.json",
   "case_sources": [
-    "cases/TC-222-2012.md",
-    "sources/TC-222-2012.txt",
-    "sources/TC-23180-local.md"
+    "cases/STC-107-2005.md",
+    "sources/STC-107-2005.xml",
+    "sources/TC-5367-local.md"
   ]
 }

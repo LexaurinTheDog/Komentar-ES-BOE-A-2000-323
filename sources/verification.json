@@ -340,6 +340,16 @@
       "http_headers": "sources/STC-107-2005-http.txt",
       "format_validation": "documento root; full antecedents, FJ 1–6 and fallo",
       "version_cutoff": "2026-10-19"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:55:50.103396+00:00",
+      "http_status": 200,
+      "path": "sources/review-batch-15-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "http_headers": "sources/review-batch-15-http.txt",
+      "format_validation": "application/xml requested; response/status 200; parsed 1083 blocks",
+      "failed_attempt": "urllib without XML Accept header returned HTTP 400; curl with Accept application/xml succeeded"
     }
   ],
   "decisive_date": "2026-10-19",

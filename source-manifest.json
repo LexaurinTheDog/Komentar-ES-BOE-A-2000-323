@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:54:39.002432+00:00",
+  "generated_at": "2026-10-21T23:56:20.065608+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -629,14 +629,34 @@
       }
     },
     {
+      "path": "sources/review-batch-15-http.txt",
+      "bytes": 461,
+      "sha256": "2d6a19fd54d22836b05db930b2f3917e889ed39abce2d92a56c077f8a8c91fb6"
+    },
+    {
+      "path": "sources/review-batch-15-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+        "accessed_at": "2026-10-21T23:55:50.103396+00:00",
+        "http_status": 200,
+        "path": "sources/review-batch-15-official.xml",
+        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+        "http_headers": "sources/review-batch-15-http.txt",
+        "format_validation": "application/xml requested; response/status 200; parsed 1083 blocks",
+        "failed_attempt": "urllib without XML Accept header returned HTTP 400; curl with Accept application/xml succeeded"
+      }
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 18287,
-      "sha256": "d8a9094e875fe2d15df59cf38b11cf95932addcc67e9d3e7e97aaa73968118e1"
+      "bytes": 18898,
+      "sha256": "28fde02441f4c0ec729313bec29075a657ed99ce8407d48fa3929d0ce5828444"
     },
     {
       "path": "sources/version-selection.json",
