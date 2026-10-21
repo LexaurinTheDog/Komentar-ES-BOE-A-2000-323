@@ -2,136 +2,136 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a169",
-    "a170",
-    "a171",
-    "a172",
-    "a173",
-    "a174",
-    "a175",
-    "a176",
-    "a177",
-    "a178",
-    "a179",
-    "a180",
-    "a181",
-    "a182",
-    "a183",
-    "a184",
-    "a185",
-    "a186",
-    "a187",
-    "a188"
+    "a189",
+    "a189bis",
+    "a190",
+    "a191",
+    "a192",
+    "a192bis",
+    "a193",
+    "a194",
+    "a194bis",
+    "a195",
+    "a196",
+    "a197",
+    "a198",
+    "a199",
+    "a200",
+    "a201",
+    "a202",
+    "a203",
+    "a204",
+    "a205"
   ],
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-21T23:37:20.562211+00:00",
+  "reviewed_at": "2026-10-21T23:39:04.374270+00:00",
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a169",
-      "assessment": "Conservado tras cotejo de cuatro apartados: deber de auxilio, reconocimiento, alternativa de desplazamiento/videoconferencia y requisitos acumulados de prueba personal fuera de sede.",
-      "source": "sources/review-batch-10-official.xml#a169"
+      "id": "a189",
+      "assessment": "Precisada competencia del LAJ y alcance personal y causal de baja protegida; tres apartados cotejados.",
+      "source": "sources/review-batch-11-official.xml#a189"
     },
     {
-      "id": "a170",
-      "assessment": "Conservada competencia de oficina de primera instancia y excepción de paz para comunicación/videoconferencia; denominaciones coordinadas con nota BOE, sin atribución de decisión de fondo.",
-      "source": "sources/review-batch-10-official.xml#a170"
+      "id": "a189bis",
+      "assessment": "Remisión a 188 y 189 cotejada; conservada adaptación a comparecencias exclusivas.",
+      "source": "sources/review-batch-11-official.xml#a189bis"
     },
     {
-      "id": "a171",
-      "assessment": "Cotejados seis contenidos obligatorios, autorización LAJ y dos excepciones telemáticas diferenciadas; no se confunde acceso a datos con práctica general de prueba.",
-      "source": "sources/review-batch-10-official.xml#a171"
+      "id": "a190",
+      "assessment": "Añadidos nuevo señalamiento tras resolver incidente y señalamiento el mismo día de inadmisión; causas orales, escrito, tres días, multa y costas comprobados.",
+      "source": "sources/review-batch-11-official.xml#a190"
     },
     {
-      "id": "a172",
-      "assessment": "Conservados envío documentado, excepción no digitalizable, gestión litigante/procurador, cinco días, designaciones y remisión directa ante error de destino.",
-      "source": "sources/review-batch-10-official.xml#a172"
+      "id": "a191",
+      "assessment": "Tres apartados cotejados; reserva diferenciada unipersonal/colegiado y causas desconocibles antes de vista conservadas.",
+      "source": "sources/review-batch-11-official.xml#a191"
     },
     {
-      "id": "a173",
-      "assessment": "Conservados cumplimiento dentro de plazo, recordatorio LAJ de oficio o a instancia y comunicación persistente a Sala de Gobierno competente.",
-      "source": "sources/review-batch-10-official.xml#a173"
+      "id": "a192",
+      "assessment": "Precisada forma de auto estimatorio; nueva vista y dies inicial tras rechazo cotejados.",
+      "source": "sources/review-batch-11-official.xml#a192"
     },
     {
-      "id": "a174",
-      "assessment": "Conservados derecho de intervención, notificación al procurador designado y comunicaciones necesarias sin designación; no se omite citación contradictoria.",
-      "source": "sources/review-batch-10-official.xml#a174"
+      "id": "a192bis",
+      "assessment": "Remisión a 190–192 y ámbito exclusivo del LAJ comprobados.",
+      "source": "sources/review-batch-11-official.xml#a192bis"
     },
     {
-      "id": "a175",
-      "assessment": "Conservadas comunicación electrónica y devolución certificada o por gestor; diez días diferenciados de cinco del envío inicial.",
-      "source": "sources/review-batch-10-official.xml#a175"
+      "id": "a193",
+      "assessment": "Precisadas citación judicial de testigos/peritos y decisión judicial de interrupción sobrevenida; cuatro causas y doble competencia temporal cotejadas.",
+      "source": "sources/review-batch-11-official.xml#a193"
     },
     {
-      "id": "a176",
-      "assessment": "Conservado sujeto literal litigante, justa causa y multa de treinta euros diarios; no se extiende automáticamente a toda demora profesional o judicial.",
-      "source": "sources/review-batch-10-official.xml#a176"
+      "id": "a194",
+      "assessment": "Enumeradas tres excepciones y contraexcepciones; precisada excedencia electoral frente a toda excedencia y ceses de sustitutos/suplentes.",
+      "source": "sources/review-batch-11-official.xml#a194"
     },
     {
-      "id": "a177",
-      "assessment": "Conservada jerarquía de fuentes aplicables y reciprocidad de cauce entrante; ejemplo no atribuye contenido sin verificar a un instrumento concreto.",
-      "source": "sources/review-batch-10-official.xml#a177"
+      "id": "a194bis",
+      "assessment": "Remisión a 194 y enlace con 200.2 cotejados; conservada continuidad funcional.",
+      "source": "sources/review-batch-11-official.xml#a194bis"
     },
     {
-      "id": "a178",
-      "assessment": "Precisado siguiente día hábil en apartado 2; cotejados escritos, actas, vencimientos y cadena de información de gestión a LAJ/juez.",
-      "source": "sources/review-batch-10-official.xml#a178"
+      "id": "a195",
+      "assessment": "Dos apartados cotejados: acceso de todos, petición después de vista o desde señalamiento y reparto temporal presidencial.",
+      "source": "sources/review-batch-11-official.xml#a195"
     },
     {
-      "id": "a179",
-      "assessment": "Precisados parentescos, causas, dies inicial y desplazamiento a otra localidad; cinco apartados comprobados, incluidas baja máxima, nacimiento, reserva documental y decreto/notificación.",
-      "source": "sources/review-batch-10-official.xml#a179"
+      "id": "a196",
+      "assessment": "Inmediatez, señalamiento sin vista y medios electrónicos condicionados cotejados.",
+      "source": "sources/review-batch-11-official.xml#a196"
     },
     {
-      "id": "a180",
-      "assessment": "Conservados turno anual objetivo, designación en primera resolución, notificación de sustitución y participación de presidentes; remisión a funciones diferenciada.",
-      "source": "sources/review-batch-10-official.xml#a180"
+      "id": "a197",
+      "assessment": "Dirección presidencial, puerta cerrada y propuesta de hechos/derecho/decisión del ponente cotejadas.",
+      "source": "sources/review-batch-11-official.xml#a197"
     },
     {
-      "id": "a181",
-      "assessment": "Explicitada excepción concreta del artículo 203, párrafo segundo, cotejada en units.jsonl y XML: discrepancia de mayoría, voto particular, encargo y turno; cinco funciones comprobadas.",
-      "source": "sources/review-batch-10-official.xml#a181"
+      "id": "a198",
+      "assessment": "Tres apartados cotejados: separación, orden inverso de antigüedad y excepción de impedimento insuperable.",
+      "source": "sources/review-batch-11-official.xml#a198"
     },
     {
-      "id": "a182",
-      "assessment": "Añadida preferencia excepcional judicial y límite de asuntos aún sin señalar; cinco apartados, criterios, agenda, coordinación y control previo comprobados.",
-      "source": "sources/review-batch-10-official.xml#a182"
+      "id": "a199",
+      "assessment": "Precisada asistencia del secretario en denominación literal; voto fundado firmado, conservación, mayoría restante y nueva vista comprobados.",
+      "source": "sources/review-batch-11-official.xml#a199"
     },
     {
-      "id": "a183",
-      "assessment": "Precisado presupuesto de fuerza mayor o motivo análogo; seis apartados y 3 bis comprobados, incluida audiencia común de tres días y competencia judicial sancionadora.",
-      "source": "sources/review-batch-10-official.xml#a183"
+      "id": "a200",
+      "assessment": "Dos apartados cotejados; asistencia LAJ, nueva vista judicial y comparecencia LAJ, con remisiones 194/194bis correctas.",
+      "source": "sources/review-batch-11-official.xml#a200"
     },
     {
-      "id": "a184",
-      "assessment": "Conservados horas habilitadas, pluralidad de sesiones y diez días hábiles salvo excepción legal; cómputo coordinado con 130.",
-      "source": "sources/review-batch-10-official.xml#a184"
+      "id": "a201",
+      "assessment": "Mayoría absoluta y prohibición de cifra que la desvirtúe cotejadas; no se inventa voto de calidad.",
+      "source": "sources/review-batch-11-official.xml#a201"
     },
     {
-      "id": "a185",
-      "assessment": "Explicitado segundo turno también cuando no se practica prueba; cuatro apartados, publicidad, orden y régimen específico de prueba cotejados.",
-      "source": "sources/review-batch-10-official.xml#a185"
+      "id": "a202",
+      "assessment": "Explicitado orden completo de incorporaciones; cuatro apartados cotejados, dos/tres refuerzos según paridad y votación restringida final.",
+      "source": "sources/review-batch-11-official.xml#a202"
     },
     {
-      "id": "a186",
-      "assessment": "Conservadas competencias de dirección, corrección orgánica y retirada de palabra tras segunda advertencia desatendida; no se inventa sanción autónoma.",
-      "source": "sources/review-batch-10-official.xml#a186"
+      "id": "a203",
+      "assessment": "Redacción condicionada, voto particular obligatorio del ponente disidente y rectificación del turno cotejados.",
+      "source": "sources/review-batch-11-official.xml#a203"
     },
     {
-      "id": "a187",
-      "assessment": "Conservados grabación audiovisual/sonora, copia a costa y acta subsidiaria; remisiones 146 y 147 cotejadas.",
-      "source": "sources/review-batch-10-official.xml#a187"
+      "id": "a204",
+      "assessment": "Precisada constancia de voto emitido e imposibilidad de firma; tres apartados y sustitución del presidente cotejados.",
+      "source": "sources/review-batch-11-official.xml#a204"
     },
     {
-      "id": "a188",
-      "assessment": "Precisada diferencia entre preferencias penales y excepción temporal que solo menciona preso/menor internado; detallada notificación al tribunal mismo día/siguiente hábil. Ocho causas, urgencia médica, procura y extensión a otros actos comprobadas.",
-      "source": "sources/review-batch-10-official.xml#a188"
+      "id": "a205",
+      "assessment": "Precisado ámbito inicial de sentencia/auto definitivo; anuncio, forma, incorporación, notificación/publicación y extensión a autos/providencias cotejados.",
+      "source": "sources/review-batch-11-official.xml#a205"
     }
   ],
   "limitations": [
-    "Revisión sustantiva limitada exactamente a a169–a188; no acredita terminación integral.",
-    "No hay citas jurisprudenciales en estas veinte unidades; no se añaden autoridades ni se afirma investigación jurisprudencial exhaustiva.",
-    "652 unidades del libro carecen aún de comentario; complete se refiere exclusivamente al lote.",
-    "Sin aprobación profesional externa."
+    "Segunda lectura limitada exclusivamente a estos veinte identificadores; no completa el libro.",
+    "No hay citas jurisprudenciales en el lote; revisión normativa, sin investigación jurisprudencial exhaustiva ni nuevas autoridades.",
+    "652 unidades ajenas al lote siguen sin comentario.",
+    "Revisión del manuscrito en proceso separado de su redacción; no equivale a aprobación profesional externa."
   ]
 }

@@ -26,9 +26,9 @@
 
 *Nota editorial del BOE:* Se modifica el apartado 1 por el art. 15.109 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-El nuevo señalamiento se acuerda al suspender la vista si es posible y, si no, tan pronto desaparezca la causa. Debe buscarse el día más inmediato sin alterar los señalamientos ya hechos. La suspensión no justifica dejar el asunto sin seguimiento ni desplazar automáticamente a quienes ya tenían fecha.
+El letrado de la Administración de Justicia realiza el nuevo señalamiento al suspender la vista si es posible y, si no, tan pronto desaparezca la causa. Debe buscarse el día más inmediato sin alterar los señalamientos ya hechos. La suspensión no justifica dejar el asunto sin seguimiento ni desplazar automáticamente a quienes ya tenían fecha.
 
-El apartado 3 obliga a respetar las bajas obligatorias de profesionales en los supuestos del artículo 179.3 y dentro de sus límites. Ejemplo: se suspende por una baja documentada y la oficina propone nueva vista antes de terminar el periodo protegido. La prontitud no permite desconocer esa garantía, pero tampoco convierte una baja acotada en reserva indefinida de agenda. Deben registrarse el motivo, duración y fecha de cese conocida, y comunicar la nueva sesión a todos los citados. La decisión debe coordinarse con las reglas sobre sustitución y los plazos concretos del supuesto que causó la suspensión.
+El apartado 3 obliga a respetar las bajas obligatorias de profesionales en los supuestos del artículo 179.3 y dentro de sus límites: el apartado se refiere al período de baja obligatoria por enfermedad, nacimiento o cuidado de menor de la persona profesional de la abogacía. Ejemplo: se suspende por una baja documentada y la oficina propone nueva vista antes de terminar el periodo protegido. La prontitud no permite desconocer esa garantía, pero tampoco convierte una baja acotada en reserva indefinida de agenda. Deben registrarse el motivo, duración y fecha de cese conocida, y comunicar la nueva sesión a todos los citados. La decisión debe coordinarse con las reglas sobre sustitución y los plazos concretos del supuesto que causó la suspensión.
 
 ### Artículo 189 bis — De las comparecencias.
 
@@ -62,7 +62,7 @@ Ejemplo: una comparecencia exclusiva coincide con una imposibilidad profesional 
 
 El cambio de juez o magistrados después del señalamiento debe comunicarse al ocurrir y siempre antes de comenzar. La vista continúa salvo recusación del nuevo integrante en ese acto, incluso verbal. La información de identidad permite ejercer la garantía de imparcialidad sin presumir que el litigante pudo conocer antes una composición que cambió.
 
-La recusación suspende y se tramita por el incidente legal. Si se formula oralmente debe expresar sucintamente causa y formalizarse por escrito en tres días; omitirlo causa inadmisión, multa de ciento cincuenta a seiscientos euros y costas de suspensión. Ejemplo: se informa al inicio de que preside un sustituto respecto del cual la parte identifica causa legal. Puede manifestarla oralmente para no perder la oportunidad, pero esa manifestación no la libera de concretar y documentar el escrito en plazo. La posibilidad urgente no es un mecanismo para obtener una suspensión sin asumir las cargas del incidente.
+La recusación suspende y se tramita por el incidente legal; se efectúa el nuevo señalamiento una vez resuelta. Si se inadmite por falta de formalización escrita, el letrado de la Administración de Justicia señala de nuevo el mismo día de la resolución, para la fecha más próxima posible. Si se formula oralmente debe expresar sucintamente causa y formalizarse por escrito en tres días; omitirlo causa inadmisión, multa de ciento cincuenta a seiscientos euros y costas de suspensión. Ejemplo: se informa al inicio de que preside un sustituto respecto del cual la parte identifica causa legal. Puede manifestarla oralmente para no perder la oportunidad, pero esa manifestación no la libera de concretar y documentar el escrito en plazo. La posibilidad urgente no es un mecanismo para obtener una suspensión sin asumir las cargas del incidente.
 
 ### Artículo 191 — Recusación posterior a la vista.
 
@@ -86,7 +86,7 @@ Ejemplo: después de la vista se descubre documentalmente un vínculo del sustit
 >
 > Cuando se declare no haber lugar a la recusación, dictarán la resolución el Juez o los Magistrados que hubieren asistido a la vista, comenzando a correr el plazo para dictarla al día siguiente de la fecha en que se hubiese decidido sobre la recusación.
 
-La estimación de la recusación posterior del artículo 191 deja sin efecto la vista y exige repetirla pronto con sustitutos hábiles. La finalidad es que la decisión se apoye en un acto presidido por composición imparcial, y no solo cambiar firmantes después de una vista viciada por la causa admitida.
+La estimación por auto de la recusación posterior del artículo 191 deja sin efecto la vista y exige repetirla pronto con sustitutos hábiles. La finalidad es que la decisión se apoye en un acto presidido por composición imparcial, y no solo cambiar firmantes después de una vista viciada por la causa admitida.
 
 Si se rechaza, resuelven quienes asistieron, y el plazo corre desde el día siguiente a decidir la recusación. Ejemplo: una parte consigue apartar a un integrante y pide que el sustituto falle solo viendo el expediente; el artículo exige nueva vista en el supuesto regulado, sin tratar la grabación como sustituto automático del acto renovado. Si la recusación fracasa, no se repite por ese motivo ni se concede a las partes elección de composición. La resolución y su fecha son indispensables para determinar si debe convocarse de nuevo o reanudarse el plazo de decidir.
 
@@ -128,7 +128,7 @@ Ejemplo: se comunica un sustituto al comenzar una actuación que debe resolver e
 
 *Nota editorial del BOE:* Se modifican los apartados 1 y 3 por el art. 15.113 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-La interrupción supone que la vista ya empezó y solo procede por las causas enumeradas: incidente no resoluble en el acto, prueba externa que no cabe entre sesiones, ausencia de testigo o perito imprescindible o circunstancia sobrevenida de suspensión. No toda ausencia de prueba obliga a interrumpir: el tribunal debe apreciar su carácter imprescindible en el supuesto del número 3.
+La interrupción supone que la vista ya empezó y solo procede por las causas enumeradas: incidente no resoluble en el acto, prueba externa que no cabe entre sesiones, ausencia de testigo o perito citado judicialmente cuya declaración o informe sea imprescindible o circunstancia sobrevenida de suspensión. No toda ausencia de prueba obliga a interrumpir: el tribunal debe apreciar su carácter imprescindible en el supuesto del número 3. En el número 4, la circunstancia sobrevenida exige además acuerdo del juez o presidente.
 
 La vista se reanuda al desaparecer la causa. Juez o presidente señala si puede reanudarse en veinte días o fijar nueva fecha en el acto; si no concurre ninguna de esas posibilidades, lo hace el letrado de la Administración de Justicia con la agenda del artículo 182 y prontitud. Ejemplo: falta un testigo de importancia marginal y el tribunal puede decidir con la prueba disponible; la parte debe explicar por qué sería imprescindible antes de pedir interrupción. Si se admite, conviene precisar qué queda pendiente y conservar lo ya practicado, sin confundir interrupción y anulación de toda la vista.
 
@@ -158,7 +158,7 @@ La vista se reanuda al desaparecer la causa. Juez o presidente señala si puede 
 
 La identidad entre quienes presenciaron vista o juicio y quienes resuelven protege la inmediación. En unipersonal, el mismo juez redacta y firma; en colegiado, deliberan y votan los asistentes, aunque hayan dejado de ejercer en ese órgano. La movilidad profesional posterior no permite sustituir libremente al decisor que recibió la prueba.
 
-El apartado 2 excluye pérdida de condición judicial, suspensión y situaciones de incompatibilidad o excedencia descritas, pero preserva la regla para jubilados por edad y determinados ceses de sustitutos y suplentes. No toda jubilación o cese produce por tanto el mismo efecto. Ejemplo: el juez cambia de destino después del juicio; debe examinarse su situación legal antes de convocar otra vista o encargar sentencia al sucesor. Si concurre un impedimento de los excluidos, los artículos 199 y 200 determinan la solución según órgano. La fecha y causa exactas del cambio son relevantes, no solo que haya una persona distinta en el puesto.
+El apartado 2 excluye la pérdida de condición judicial, la suspensión de funciones, el acceso a cargo público o profesión incompatible y la excedencia voluntaria para presentarse a cargos de elección popular. No alude indistintamente a toda excedencia. Preserva la continuidad para jubilados por edad y para sustitutos y suplentes cesados por renuncia, transcurso del nombramiento o cumplimiento de setenta y dos años. No toda jubilación o cese produce por tanto el mismo efecto. Ejemplo: el juez cambia de destino después del juicio; debe examinarse su situación legal antes de convocar otra vista o encargar sentencia al sucesor. Si concurre un impedimento de los excluidos, los artículos 199 y 200 determinan la solución según órgano. La fecha y causa exactas del cambio son relevantes, no solo que haya una persona distinta en el puesto.
 
 ### Artículo 194 bis — Letrados de la Administración de Justicia a los que corresponda resolver.
 
@@ -240,7 +240,7 @@ Vota primero el ponente, después los demás por orden inverso de antigüedad y 
 >
 > 3. Lo dispuesto en el apartado anterior se aplicará también cuando alguno de los Magistrados que participaron en la vista no pueda intervenir en la deliberación y votación por hallarse en alguno de los casos previstos en el apartado 2 del artículo 194.
 
-El magistrado impedido después de la vista puede emitir voto escrito, fundado y firmado directamente al presidente; si no puede escribir ni firmar, utiliza la asistencia prevista. Se computa con los demás y se conserva con la rúbrica correspondiente. El impedimento para asistir físicamente no elimina por sí solo su participación decisoria.
+El magistrado impedido después de la vista puede emitir voto escrito, fundado y firmado directamente al presidente; si no puede escribir ni firmar, se vale del secretario del tribunal, según la denominación literal conservada en el precepto. Se computa con los demás y se conserva con la rúbrica correspondiente. El impedimento para asistir físicamente no elimina por sí solo su participación decisoria.
 
 Si no puede votar así, deciden los asistentes restantes si bastan para formar mayoría; si no, se repite vista con asistentes anteriores y sustitutos, con garantías de conocimiento de composición y recusación. Lo mismo se aplica a supuestos del artículo 194.2. Ejemplo: tras la vista un miembro sufre una imposibilidad material. Debe comprobarse primero si puede emitir voto en la forma autorizada y después si existe composición suficiente, en vez de incorporar a alguien que no presenció la vista para que vote directamente sobre ella. La solución depende de capacidad decisoria y mayoría, no solo de la agenda del tribunal.
 
@@ -286,7 +286,7 @@ Ejemplo: varias propuestas dividen la sala y una es la más votada, pero no reú
 >
 > 4. Cuando en la votación de una resolución por la Sala prevista en el segundo apartado de este artículo no se reuniere tampoco mayoría sobre los puntos discordados, se procederá a nueva votación, sometiendo sólo a ésta los dos pareceres que hayan obtenido mayor número de votos en la precedente.
 
-La discordia se trata primero repitiendo discusión y voto sobre los puntos sin mayoría. Si persiste, se celebra nueva vista ampliando dos magistrados cuando los discordantes eran impares y tres si eran pares. El artículo ordena las incorporaciones por presidencias, integrantes de sala no asistentes y demás salas o secciones, con las preferencias previstas; quien preside señala por providencia y realiza designaciones.
+La discordia se trata primero repitiendo discusión y voto sobre los puntos sin mayoría. Si persiste, se celebra nueva vista ampliando dos magistrados cuando los discordantes eran impares y tres si eran pares. El artículo ordena las incorporaciones por presidencias, integrantes de sala no asistentes y demás salas o secciones, con este orden concreto: presidente de Sala o Sección que no hubiera asistido; magistrados de esa Sala que no hayan visto el pleito; presidente de la Audiencia; magistrados de otras Salas o Secciones, preferentemente del mismo orden jurisdiccional y según el orden acordado por la Sala de Gobierno. Quien deba presidir la Sala ampliada señala por providencia y realiza las designaciones.
 
 Si la composición ampliada tampoco logra mayoría sobre los puntos, la nueva votación se limita a los dos pareceres que más votos obtuvieron. Ejemplo: no basta que el presidente decida el empate por una preferencia personal no prevista. Debe seguirse la secuencia y conservar la nueva vista, porque los miembros incorporados necesitan intervenir en el acto sobre el que resolverán. El mecanismo busca una decisión institucional con mayoría, sin convertir un desacuerdo interno en imposibilidad permanente de dar respuesta a las partes.
 
@@ -316,7 +316,7 @@ Ejemplo: la sala cambia sustancialmente la solución de la propuesta inicial. El
 
 *Nota editorial del BOE:* Se modifican las referencias a "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 
-Las resoluciones se firman por juez o magistrados no impedidos dentro del plazo de dictado. Si alguien que votó no puede firmar después, quien presidió lo hace por él, indicando identidad e impedimento; si el afectado es el presidente, firma por él el más antiguo. Se distingue así participar en la decisión e imposibilidad posterior de materializar su firma.
+Las resoluciones se firman por juez o magistrados no impedidos dentro del plazo de dictado. Si alguien que votó no puede firmar después, quien presidió lo hace por él, indicando el nombre del magistrado y dejando constancia de que votó pero no pudo firmar; si el afectado es el presidente, firma por él el más antiguo. Se distingue así participar en la decisión e imposibilidad posterior de materializar su firma.
 
 La autorización o publicación mediante firma del letrado de la Administración de Justicia es exigida bajo pena de nulidad. Ejemplo: un magistrado votó válidamente y enferma antes de firmar; no procede fingir que no participó ni añadir el voto de un sustituto, sino documentar la firma sustitutoria prevista. Diferente sería no haber podido votar, supuesto del artículo 199. La verificación formal debe examinar ambos momentos, además de la constancia de autorización, para no atribuir a una firma delegada una participación decisoria inexistente.
 
@@ -330,6 +330,9 @@ La autorización o publicación mediante firma del letrado de la Administración
 >
 > 3. También podrá formularse voto particular, con sujeción a lo dispuesto en los apartados anteriores, en lo que resulte aplicable, respecto de los autos y providencias sucintamente motivadas.
 
-Quien votó firma lo acordado aunque haya disentido y puede anunciar voto particular al votar o firmar. Se redacta con forma de sentencia, admitiendo remisión a hechos y fundamentos compartidos, y lleva firma propia. La firma de la resolución mayoritaria no significa adhesión intelectual a todo su razonamiento cuando existe discrepancia formalizada.
+Quien participó en la votación de una sentencia o auto definitivo firma lo acordado aunque haya disentido y puede anunciar voto particular al votar o firmar. Se redacta con forma de sentencia, admitiendo remisión a hechos y fundamentos compartidos, y lleva firma propia. La firma de la resolución mayoritaria no significa adhesión intelectual a todo su razonamiento cuando existe discrepancia formalizada.
 
 El voto se incorpora al libro, se notifica con la sentencia y se publica con ella si la ley exige publicación. También se permite para autos y providencias sucintamente motivadas en lo aplicable. Ejemplo: una parte cita un voto particular como argumento en recurso; debe identificarlo como posición disidente y no atribuir su conclusión al tribunal como fallo. La publicidad legal de ese voto es excepción delimitada al secreto deliberativo, no una apertura de todo el intercambio interno. Para el ponente contrario a mayoría, el artículo 203 convierte además su formulación motivada en deber en ese supuesto.
+
+
+**Control práctico de continuidad y decisión:** documentar quién presidió y cualquier cambio comunicado; controlar los tres días de formalización o reserva de recusación según su supuesto; identificar la causa legal de impedimento antes de sustituir al decisor; comprobar si cabe voto escrito y si los restantes forman mayoría; aplicar la nueva vista cuando corresponda; verificar firmas, constancia del voto emitido, autorización del letrado y notificación conjunta del voto particular.
