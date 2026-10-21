@@ -1,7 +1,17 @@
 {
-  "command": "strict validate.py WORK",
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py WORK",
   "exit_code": 1,
-  "stdout": "{\"repo\": \"Komentar-ES-BOE-A-2000-323\", \"units\": 916, \"verbatim_ratio\": 1.0, \"commentary_chars\": 307528, \"errors\": [\"krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']\", \"necommitnuté změny v repu\"], \"warnings\": [], \"ok\": false}\n",
+  "result": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 916,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 307528,
+    "errors": [
+      "krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
   "stderr": "",
-  "scope_note": "Full manuscript validation; batch review does not depend on completing other units."
+  "scope_note": "El único fallo integral son 652 comentarios pendientes ajenos a a169–a188. Los veinte artículos revisados pasan cotejo y cobertura; no es terminación del libro."
 }
