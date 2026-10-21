@@ -1,0 +1,249 @@
+{
+  "cc": "es",
+  "lang": "es",
+  "repo": "Komentar-ES-BOE-A-2000-323",
+  "repo_dir": "/Volumes/LaCie/open-commentary/es/Komentar-ES-BOE-A-2000-323",
+  "title": "Comentario a la Ley de Enjuiciamiento Civil",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/es/Komentar-ES-BOE-A-2000-323/sources/canonical-2026-10-19.txt",
+  "intro_file": "00-introduccion.md",
+  "intro_desc": "Alcance, método y utilización",
+  "labels": {
+    "text": "Texto del precepto",
+    "chapter": "Capítulo de comentario",
+    "notes": "Nota editorial del BOE"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "preceptos-01",
+      "title": "Artículo 1 a Artículo 15 bis"
+    },
+    {
+      "n": 2,
+      "slug": "preceptos-02",
+      "title": "Artículo 15 ter a Artículo 33"
+    },
+    {
+      "n": 3,
+      "slug": "preceptos-03",
+      "title": "Artículo 34 a Artículo 51"
+    },
+    {
+      "n": 4,
+      "slug": "preceptos-04",
+      "title": "Artículo 52 a Artículo 71"
+    },
+    {
+      "n": 5,
+      "slug": "preceptos-05",
+      "title": "Artículo 72 a Artículo 91"
+    },
+    {
+      "n": 6,
+      "slug": "preceptos-06",
+      "title": "Artículo 92 a Artículo 111"
+    },
+    {
+      "n": 7,
+      "slug": "preceptos-07",
+      "title": "Artículo 112 a Artículo 130"
+    },
+    {
+      "n": 8,
+      "slug": "preceptos-08",
+      "title": "Artículo 131 a Artículo 148"
+    },
+    {
+      "n": 9,
+      "slug": "preceptos-09",
+      "title": "Artículo 149 a Artículo 168"
+    },
+    {
+      "n": 10,
+      "slug": "preceptos-10",
+      "title": "Artículo 169 a Artículo 188"
+    },
+    {
+      "n": 11,
+      "slug": "preceptos-11",
+      "title": "Artículo 189 a Artículo 205"
+    },
+    {
+      "n": 12,
+      "slug": "preceptos-12",
+      "title": "Artículo 206 a Artículo 224"
+    },
+    {
+      "n": 13,
+      "slug": "preceptos-13",
+      "title": "Artículo 225 a Artículo 244"
+    },
+    {
+      "n": 14,
+      "slug": "preceptos-14",
+      "title": "Artículo 245 a Artículo 263"
+    },
+    {
+      "n": 15,
+      "slug": "preceptos-15",
+      "title": "Artículo 264 a Artículo 282"
+    },
+    {
+      "n": 16,
+      "slug": "preceptos-16",
+      "title": "Artículo 283 a Artículo 291"
+    },
+    {
+      "n": 17,
+      "slug": "preceptos-17",
+      "title": "Artículo 292 a Artículo 311"
+    },
+    {
+      "n": 18,
+      "slug": "preceptos-18",
+      "title": "Artículo 312 a Artículo 331"
+    },
+    {
+      "n": 19,
+      "slug": "preceptos-19",
+      "title": "Artículo 332 a Artículo 351"
+    },
+    {
+      "n": 20,
+      "slug": "preceptos-20",
+      "title": "Artículo 352 a Artículo 371"
+    },
+    {
+      "n": 21,
+      "slug": "preceptos-21",
+      "title": "Artículo 372 a Artículo 391"
+    },
+    {
+      "n": 22,
+      "slug": "preceptos-22",
+      "title": "Artículo 392 a Artículo 411"
+    },
+    {
+      "n": 23,
+      "slug": "preceptos-23",
+      "title": "Artículo 412 a Artículo 431"
+    },
+    {
+      "n": 24,
+      "slug": "preceptos-24",
+      "title": "Artículo 432 a Artículo 448"
+    },
+    {
+      "n": 25,
+      "slug": "preceptos-25",
+      "title": "Artículo 449 a Artículo 467"
+    },
+    {
+      "n": 26,
+      "slug": "preceptos-26",
+      "title": "Artículo 468 a Artículo 487"
+    },
+    {
+      "n": 27,
+      "slug": "preceptos-27",
+      "title": "Artículo 488 a Artículo 507"
+    },
+    {
+      "n": 28,
+      "slug": "preceptos-28",
+      "title": "Artículo 508 a Artículo 527"
+    },
+    {
+      "n": 29,
+      "slug": "preceptos-29",
+      "title": "Artículo 528 a Artículo 547"
+    },
+    {
+      "n": 30,
+      "slug": "preceptos-30",
+      "title": "Artículo 548 a Artículo 567"
+    },
+    {
+      "n": 31,
+      "slug": "preceptos-31",
+      "title": "Artículo 568 a Artículo 587"
+    },
+    {
+      "n": 32,
+      "slug": "preceptos-32",
+      "title": "Artículo 588 a Artículo 607"
+    },
+    {
+      "n": 33,
+      "slug": "preceptos-33",
+      "title": "Artículo 608 a Artículo 627"
+    },
+    {
+      "n": 34,
+      "slug": "preceptos-34",
+      "title": "Artículo 628 a Artículo 647"
+    },
+    {
+      "n": 35,
+      "slug": "preceptos-35",
+      "title": "Artículo 648 a Artículo 666"
+    },
+    {
+      "n": 36,
+      "slug": "preceptos-36",
+      "title": "Artículo 667 a Artículo 686"
+    },
+    {
+      "n": 37,
+      "slug": "preceptos-37",
+      "title": "Artículo 687 a Artículo 706"
+    },
+    {
+      "n": 38,
+      "slug": "preceptos-38",
+      "title": "Artículo 707 a Artículo 726"
+    },
+    {
+      "n": 39,
+      "slug": "preceptos-39",
+      "title": "Artículo 727 a Artículo 746"
+    },
+    {
+      "n": 40,
+      "slug": "preceptos-40",
+      "title": "Artículo 747 a Artículo 766"
+    },
+    {
+      "n": 41,
+      "slug": "preceptos-41",
+      "title": "Artículo 767 a Artículo 781"
+    },
+    {
+      "n": 42,
+      "slug": "preceptos-42",
+      "title": "Artículo 781 bis a Artículo 800"
+    },
+    {
+      "n": 43,
+      "slug": "preceptos-43",
+      "title": "Artículo 801 a Artículo 820"
+    },
+    {
+      "n": 44,
+      "slug": "preceptos-44",
+      "title": "Artículo 821 a Disposición transitoria primera"
+    },
+    {
+      "n": 45,
+      "slug": "preceptos-45",
+      "title": "Disposición transitoria segunda a Disposición final decimotercera"
+    },
+    {
+      "n": 46,
+      "slug": "preceptos-46",
+      "title": "Disposición final decimocuarta a Disposición final vigésimo novena"
+    }
+  ],
+  "decisive_date": "2026-10-19",
+  "boe_metadata_update": "20261007T095140Z"
+}

@@ -121,6 +121,44 @@
       "xml_root": "documento"
     },
     {
+      "path": "sources/preflight-2026-10-22-act.html",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence"
+    },
+    {
+      "path": "sources/preflight-2026-10-22-text.xml",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "response",
+      "api_status": "200"
+    },
+    {
+      "path": "sources/preflight-2026-10-22-metadata.xml",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "response",
+      "api_status": "200"
+    },
+    {
+      "path": "sources/preflight-2026-10-22-analysis.xml",
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+      "http_status": 200,
+      "hash_matches": true,
+      "format_valid": true,
+      "disposition": "used as official source evidence",
+      "xml_root": "response",
+      "api_status": "200"
+    },
+    {
       "path": "sources/intake-2026-10-01.md",
       "hash_matches": true,
       "format_valid": true

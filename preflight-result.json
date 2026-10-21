@@ -1,0 +1,56 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "decisive_date_reason": "Retained original authoring start recorded in existing metadata; this is a resumed source preflight, not a new legal cutoff.",
+  "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+  "verified_at": "2026-10-21T23:13:53.022357+00:00",
+  "version_evidence": {
+    "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
+    "latest_published_change": "2026-10-07",
+    "latest_effective_change": "2026-10-08",
+    "amending_source": "sources/BOE-A-2026-20823.xml",
+    "provisions": "Artículo 5, disposición transitoria segunda y disposición final decimoprimera",
+    "repealed_intermediate_source": "sources/BOE-A-2026-20526.xml",
+    "changed_since_intake": [
+      "a22",
+      "a685"
+    ],
+    "version_selection": "Versiones con publicación y vigencia no posteriores al 2026-10-19; preferencia por publicación posterior y cotejo íntegro con HTML oficial actual. Ordenar solo por vigencia recuperaba versiones superadas: diferencias iniciales conservadas en sources/initial-selection-differences.json.",
+    "consolidation_warning": "La consolidación BOE es informativa; se conservan las publicaciones oficiales de los cambios posteriores a la captura.",
+    "fresh_comparison": "sources/preflight-version-audit.json",
+    "no_change_in_fresh_xml_metadata_analysis": true,
+    "http_and_hash_evidence": "sources/verification.json",
+    "clock_note": "Response access times are actual UTC system clock; snapshot filename uses assigned local task date 2026-10-22."
+  },
+  "historical_versions_checked": {
+    "blocks": 1083,
+    "version_records": 2521,
+    "multi_version_blocks": 597,
+    "selection_audit": "sources/preflight-version-audit.json",
+    "changes_since_intake": "sources/change-map.json",
+    "html_mismatch_count": 0
+  },
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "basis": "No hay encabezado de anexo entre los 1083 bloques oficiales ni tipo anexo en el XML; las disposiciones adicionales, transitorias, derogatoria y finales están incluidas como preceptos. Las reformas de otros textos contenidas dentro de las disposiciones finales permanecen íntegras en su unidad.",
+      "evidence": [
+        "sources/preflight-2026-10-22-act.html",
+        "sources/preflight-2026-10-22-text.xml"
+      ]
+    }
+  ],
+  "coverage": {
+    "expected_units": 916,
+    "parsed_units": 916,
+    "missing": [],
+    "unexpected": [],
+    "duplicate_ids": [],
+    "fresh_html_text_agreement": true
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Preflight only. Existing manuscript remains incomplete: 264 commented units out of 916; no substantive commentary review performed.",
+    "Case-law research and independent second pass are outside this bounded assignment."
+  ]
+}

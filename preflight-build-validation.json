@@ -1,0 +1,33 @@
+{
+  "build_repo": {
+    "command": [
+      "/opt/homebrew/opt/python@3.14/bin/python3.14",
+      "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+      "/Volumes/LaCie/open-commentary/_work/es/Komentar-ES-BOE-A-2000-323"
+    ],
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 652 jednotkám, např.: ['a248', 'a249', 'a250', 'a251', 'a252', 'a253', 'a254', 'a255', 'a256', 'a257']\n"
+  },
+  "validate": {
+    "command": [
+      "/opt/homebrew/opt/python@3.14/bin/python3.14",
+      "/Volumes/LaCie/open-commentary/_tools/validate.py",
+      "/Volumes/LaCie/open-commentary/_work/es/Komentar-ES-BOE-A-2000-323"
+    ],
+    "exit_code": 1,
+    "stdout": "{\"repo\": \"Komentar-ES-BOE-A-2000-323\", \"units\": 916, \"verbatim_ratio\": 1.0, \"commentary_chars\": 285549, \"errors\": [\"krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']\"], \"warnings\": [], \"ok\": false}\n",
+    "stderr": "",
+    "result": {
+      "repo": "Komentar-ES-BOE-A-2000-323",
+      "units": 916,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 285549,
+      "errors": [
+        "krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  }
+}

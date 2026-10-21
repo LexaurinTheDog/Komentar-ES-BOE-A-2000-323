@@ -2,16 +2,16 @@
   {
     "id": "no",
     "type": "nota_inicial",
-    "reason": "editorial initial notice, nonoperative preamble or promulgation signature retained separately"
+    "reason": "BOE editorial notice, retained separately; not statutory wording"
   },
   {
     "id": "preambulo",
     "type": "preambulo",
-    "reason": "editorial initial notice, nonoperative preamble or promulgation signature retained separately"
+    "reason": "Opening promulgation formula included in canonical text and sources/promulgation-formula.txt; exposition of motives retained in sources/preambulo.txt, not a numbered operative provision"
   },
   {
     "id": "firma",
     "type": "firma",
-    "reason": "editorial initial notice, nonoperative preamble or promulgation signature retained separately"
+    "reason": "Promulgation signature retained in sources/firma.txt; not a numbered operative provision"
   }
 ]

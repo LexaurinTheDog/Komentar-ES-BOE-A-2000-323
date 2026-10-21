@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:23:15.678453+00:00",
+  "generated_at": "2026-10-21T23:15:35.193292+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -220,8 +220,8 @@
     },
     {
       "path": "sources/canonical-2026-10-19.txt",
-      "bytes": 1225054,
-      "sha256": "9edfbc9b47c62e5112e006012b2d838630e1160779c3286e4abc026ad0b8205b"
+      "bytes": 1225224,
+      "sha256": "4b517e054392e02a7ee6dd68b576d222586123db47362dae8838288532bfe118"
     },
     {
       "path": "sources/case-search-log.json",
@@ -255,13 +255,79 @@
     },
     {
       "path": "sources/non-unit-disposition.json",
-      "bytes": 492,
-      "sha256": "5a7eb06a1e13b30f9868a7d4f07b833bc197274bb4fb908fbe4a3e7a52662ff6"
+      "bytes": 550,
+      "sha256": "e4b490275464a832a84dacc3a0eef80aaebfe1778cd11edb47e8888082a274ef"
     },
     {
       "path": "sources/preambulo.txt",
       "bytes": 148324,
       "sha256": "acd782d5f11a5e35c650bd51247d74bd4739639b4abad36e820b9ca0d0ca5580"
+    },
+    {
+      "path": "sources/preflight-2026-10-22-act.html",
+      "bytes": 4473437,
+      "sha256": "426c336ee35836f99306ac927ab63cbabc4cd8da4cdbcce42e0b7935438ef873",
+      "request": {
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+        "accessed_at": "2026-10-21T23:13:51.453702+00:00",
+        "http_status": 200,
+        "content_type": "text/html; charset=UTF-8",
+        "sha256": "426c336ee35836f99306ac927ab63cbabc4cd8da4cdbcce42e0b7935438ef873",
+        "path": "sources/preflight-2026-10-22-act.html",
+        "format_validation": "BOE identifier and statutory blocks present"
+      }
+    },
+    {
+      "path": "sources/preflight-2026-10-22-analysis.xml",
+      "bytes": 42740,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+        "accessed_at": "2026-10-21T23:13:50.209114+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+        "path": "sources/preflight-2026-10-22-analysis.xml",
+        "format_validation": "Parsed BOE response/status 200"
+      }
+    },
+    {
+      "path": "sources/preflight-2026-10-22-metadata.xml",
+      "bytes": 1196,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+        "accessed_at": "2026-10-21T23:13:50.138867+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+        "path": "sources/preflight-2026-10-22-metadata.xml",
+        "format_validation": "Parsed BOE response/status 200"
+      }
+    },
+    {
+      "path": "sources/preflight-2026-10-22-text.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+        "accessed_at": "2026-10-21T23:13:53.022357+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+        "path": "sources/preflight-2026-10-22-text.xml",
+        "format_validation": "Parsed BOE response/status 200"
+      }
+    },
+    {
+      "path": "sources/preflight-version-audit.json",
+      "bytes": 308819,
+      "sha256": "c3dc9d0375e7a7cdd18596e5b7d20347f445a5b5b884a34cc26ebe8ef323e48e"
+    },
+    {
+      "path": "sources/promulgation-formula.txt",
+      "bytes": 169,
+      "sha256": "4b96c4e4d727509dba771865695ddeb17a033e67227a9c1b1451c42bf1abbc55"
     },
     {
       "path": "sources/structure.json",
@@ -270,8 +336,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 6626,
-      "sha256": "c6b170472acb365173ae4b757cae6551ad540ebd266822a5655a6dce675e0aa9"
+      "bytes": 8713,
+      "sha256": "9ce227f7cee06ef6ca48977f0d474bf267e1dbde22280b9a9fe3cdff245b44b4"
     },
     {
       "path": "sources/version-selection.json",

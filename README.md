@@ -15,3 +15,10 @@ La prosa es original y se organiza por preceptos, con distinción de presupuesto
 Comentario original © 2026 Vojtěch Říha. Licencia **Apache-2.0** para la aportación original, según [LICENSE](LICENSE), copiada del archivo canónico del proyecto. El texto normativo, las resoluciones y avisos oficiales se identifican como materiales de sus organismos de origen; no se atribuye a esta licencia una potestad sobre derechos ajenos ni se incorpora redacción comercial. Se conservan los avisos oficiales y la procedencia de cada material.
 
 Documento de estudio en estado de borrador, ofrecido tal como está. No constituye asesoramiento para un caso concreto. Proyecto [Open Commentary / LexaurinTheDog](https://github.com/LexaurinTheDog). No se ha publicado ni enviado este trabajo a terceros.
+
+
+## Comprobación de fuentes en la reanudación del 22 de octubre de 2026
+
+Se mantiene la fecha jurídica original del 19 de octubre de 2026. La nueva descarga oficial no cambia el XML, los metadatos ni el análisis conservados al iniciar la redacción. Se cotejaron las 916 unidades y sus 3.992 párrafos con el HTML oficial recién descargado, y se inventariaron 2.521 registros de versión en 1.083 bloques. No hay anexos oficiales separados. La fórmula inicial de promulgación se conserva ahora también en el texto canónico, sin convertirla en artículo numerado.
+
+Evidencias: [resultado de preflight](preflight-result.json), [cobertura](coverage-evidence.json), [auditoría de versiones](sources/preflight-version-audit.json), [verificación HTTP y hashes](sources/verification.json), [fórmula de promulgación](sources/promulgation-formula.txt) y [build y validación](preflight-build-validation.json). Las horas de acceso son las devueltas por el reloj UTC del sistema. Este control de fuentes no es una revisión sustantiva independiente. El manuscrito conserva 264 unidades comentadas; las 652 restantes siguen pendientes y la validación integral falla por esa causa conocida.

@@ -810,15 +810,15 @@
       "status": "verified_absence",
       "basis": "No hay encabezado de anexo entre los 1083 bloques oficiales ni tipo anexo en el XML; las disposiciones adicionales, transitorias, derogatoria y finales están incluidas como preceptos. Las reformas de otros textos contenidas dentro de las disposiciones finales permanecen íntegras en su unidad.",
       "evidence": [
-        "sources/boe-act.html",
-        "sources/boe-text.xml"
+        "sources/preflight-2026-10-22-act.html",
+        "sources/preflight-2026-10-22-text.xml"
       ]
     }
   ],
   "source_hashes": {
-    "sources/boe-act.html": "4ada6f2a90a853e47baae0542c102dd0860894697d99220b039c2a6705777fbe",
-    "sources/boe-text.xml": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-    "sources/canonical-2026-10-19.txt": "9edfbc9b47c62e5112e006012b2d838630e1160779c3286e4abc026ad0b8205b",
+    "sources/preflight-2026-10-22-act.html": "426c336ee35836f99306ac927ab63cbabc4cd8da4cdbcce42e0b7935438ef873",
+    "sources/preflight-2026-10-22-text.xml": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+    "sources/canonical-2026-10-19.txt": "4b517e054392e02a7ee6dd68b576d222586123db47362dae8838288532bfe118",
     "units.jsonl": "81137aabc65960f572becbd8e58f6dbef4044a99d39122adef41e89c2d5d6613"
   },
   "limitations": [

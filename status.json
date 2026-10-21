@@ -1,7 +1,7 @@
 {
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-19T21:23:15.678453+00:00",
+  "updated_at": "2026-10-21T23:15:35.193292+00:00",
   "decisive_date": "2026-10-19",
   "title": "Comentario a la Ley de Enjuiciamiento Civil",
   "total_units": 916,
@@ -952,14 +952,7 @@
         "krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']"
       ],
       "warnings": [],
-      "ok": false,
-      "exit_code": 1,
-      "checked_at": "2026-10-19T21:23:43.383848+00:00",
-      "command": [
-        "python3",
-        "/Volumes/LaCie/open-commentary/_tools/validate.py",
-        "/Volumes/LaCie/open-commentary/_work/es/Komentar-ES-BOE-A-2000-323"
-      ]
+      "ok": false
     },
     "full_completion_gate": false
   },
@@ -976,5 +969,15 @@
     "label": "Artículo 248",
     "title": "Clases de procesos declarativos."
   },
-  "limitations_reason": "La sesión deja un checkpoint sustantivo incompleto; no hay un bloqueo de fuente que justifique omitir los comentarios restantes. No se solicita aprobación y no se certifica terminación."
+  "limitations_reason": "La sesión deja un checkpoint sustantivo incompleto; no hay un bloqueo de fuente que justifique omitir los comentarios restantes. No se solicita aprobación y no se certifica terminación.",
+  "preflight": {
+    "complete": true,
+    "result": "preflight-result.json",
+    "fresh_source_verification": "sources/verification.json",
+    "version_audit": "sources/preflight-version-audit.json",
+    "source_integrity": true,
+    "coverage": true,
+    "statutory_text_agreement": 1.0,
+    "opening_formula_restored": true
+  }
 }
