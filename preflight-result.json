@@ -54,5 +54,12 @@
   "limitations": [
     "Fecha jurídica conservada: 19 de octubre de 2026; el análisis transitorio de cada expediente requiere examen propio.",
     "La segunda lectura sustantiva de este checkpoint comprende exclusivamente los 20 identificadores de review-result.json; el manuscrito entero permanece incompleto."
-  ]
+  ],
+  "last_author_source_refresh": {
+    "scope": "a248–a263",
+    "complete": true,
+    "report": "author-a248-a263-preflight-result.json",
+    "audit": "author-a248-a263-audit.json",
+    "unchanged_official_xml": true
+  }
 }

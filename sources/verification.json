@@ -289,6 +289,27 @@
       "format_validation": "Parsed XML response/data/texto; expected preceptos and historical versions present",
       "http_headers": "sources/review-batch-13-http.txt",
       "purpose": "Bounded second reading a225–a244, official a2-13 = artículo 226"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:47:39.927887+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a248-a263-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "http_headers": "sources/author-a248-a263-http.txt",
+      "format_validation": "Parsed response/status 200 and 1083 statutory blocks; not HTML",
+      "purpose": "Author batch a248–a263; unchanged official XML, original legal cutoff retained"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-15756",
+      "accessed_at": "2026-10-21T23:47:39.927887+00:00",
+      "http_status": 200,
+      "content_type": "application/xml; charset=utf-8",
+      "path": "sources/TC-222-2012.xml",
+      "sha256": "a6ce6fab889e215480728ac2b6469cf767662809fc3a2bba4728a040e0031c5f",
+      "http_headers": "sources/TC-222-2012-http.txt",
+      "format_validation": "Parsed documento; title, date, full antecedents, grounds and fallo checked"
     }
   ],
   "decisive_date": "2026-10-19",

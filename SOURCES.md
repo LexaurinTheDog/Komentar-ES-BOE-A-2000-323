@@ -13,3 +13,6 @@ La fuente normativa es el BOE. [verification.json](sources/verification.json) re
 La búsqueda utilizó metadatos del corpus nacional local del Tribunal Constitucional y contrastó identificadores, texto y fallo con las publicaciones oficiales. El intento web sobre STC 58/2016 no aportó un resultado primario utilizable; no se ha citado una fuente comercial en sustitución. Un candidato BOE ajeno a la sentencia buscada se conserva identificado como rechazado y no sirve de autoridad. No se afirma investigación jurisprudencial exhaustiva ni selección de casos para todas las unidades técnicas.
 
 La ausencia de anexos se comprobó en los encabezados de los 1.083 bloques oficiales. Las 49 disposiciones complementarias no se han omitido ni confundido con notas. Se conserva también el preámbulo y la fórmula de promulgación como documentación no operativa, sin incluirlos en el recuento de preceptos.
+
+
+Lote 248–263: [XML BOE actualizado](sources/author-a248-a263-official.xml), [auditoría de selección y cobertura](author-a248-a263-audit.json), [STC 222/2012](cases/TC-222-2012.md) y [búsqueda selectiva con corpus local](sources/case-search-a248-a263.json). La sentencia inadmite la cuestión, sin resolver la constitucionalidad material del registro; se distingue su legislación histórica.

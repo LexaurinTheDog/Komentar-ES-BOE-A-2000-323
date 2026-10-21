@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:42:30.308409+00:00",
+  "generated_at": "2026-10-21T23:47:39.927887+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -149,6 +149,26 @@
       }
     },
     {
+      "path": "sources/TC-222-2012-http.txt",
+      "bytes": 917,
+      "sha256": "fd62d203276402871a4a4b755d76e2caff4536677df10d82c852ac559bd2d6f9"
+    },
+    {
+      "path": "sources/TC-222-2012.txt",
+      "bytes": 55138,
+      "sha256": "4bc73232e162b1200656f535d51134ec8d8297bb31142d118034b3375a6b6978"
+    },
+    {
+      "path": "sources/TC-222-2012.xml",
+      "bytes": 60310,
+      "sha256": "a6ce6fab889e215480728ac2b6469cf767662809fc3a2bba4728a040e0031c5f"
+    },
+    {
+      "path": "sources/TC-23180-local.md",
+      "bytes": 57073,
+      "sha256": "0f68fc8e1dc4c93e7ef89f8e5a05f99611996663f3f725775e2571081b91928e"
+    },
+    {
       "path": "sources/TC-23818-local.md",
       "bytes": 36904,
       "sha256": "52465e0c36b54f7a49375a4638157486dc2cc29a8cd2b68dcef1b8fe68b1de6b"
@@ -162,6 +182,16 @@
       "path": "sources/TC-26201-local.md",
       "bytes": 36648,
       "sha256": "45b6f09f559cf9a9d18bf3d37fa6ef326701a5a71f8378b063eb270efce24a9f"
+    },
+    {
+      "path": "sources/author-a248-a263-http.txt",
+      "bytes": 461,
+      "sha256": "2be37c0f49538aea3277a82686024477b29893141af20f7e73f29db92fd65017"
+    },
+    {
+      "path": "sources/author-a248-a263-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
     },
     {
       "path": "sources/boe-act.html",
@@ -222,6 +252,11 @@
       "path": "sources/canonical-2026-10-19.txt",
       "bytes": 1225224,
       "sha256": "4b517e054392e02a7ee6dd68b576d222586123db47362dae8838288532bfe118"
+    },
+    {
+      "path": "sources/case-search-a248-a263.json",
+      "bytes": 1038,
+      "sha256": "e55321895dcb6ab19746dfc18cace383757e28d8eedc1bdedf39dd2ae733727c"
     },
     {
       "path": "sources/case-search-log.json",
@@ -547,8 +582,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 15635,
-      "sha256": "6ea57d8bac6a6a50f07746165fa686673f3f87f1424ce9c6dbfb2e40c7537b54"
+      "bytes": 16773,
+      "sha256": "31d34887243ad359604526eccff49fcb34d4d7bc9cee1f8ea622fdf6b3751f1d"
     },
     {
       "path": "sources/version-selection.json",

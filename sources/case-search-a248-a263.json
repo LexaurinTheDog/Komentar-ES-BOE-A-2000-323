@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-21T23:47:39.927887+00:00",
+  "searches": [
+    {
+      "source": "web search, official-domain query",
+      "query": "site.tribunalconstitucional.es diligencias preliminares artículo 261 entrada registro 2000 sentencia",
+      "result": "Official BOE STC 222/2012 located; other historical candidates not used as authority"
+    },
+    {
+      "source": "Local national TC corpus /Volumes/LaCie/law-intake/eu/es/tc/2012",
+      "query": "Sentencia 222/2012",
+      "result": "TC-23180.md; copied and matched court, date, docket and result against official BOE full text",
+      "sha256": "0f68fc8e1dc4c93e7ef89f8e5a05f99611996663f3f725775e2571081b91928e"
+    }
+  ],
+  "full_text_read": "BOE XML, complete antecedents, grounds 1–5 and disposition; distinguish allegations and actual inadmissibility holding",
+  "supported_units": [
+    "a261"
+  ],
+  "limits": "Selective constitutional research; no exhaustive ordinary-court search and no assertion of absence of relevant decisions for other assigned units"
+}

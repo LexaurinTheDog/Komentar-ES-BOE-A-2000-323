@@ -1,11 +1,11 @@
 {
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T23:37:57.346706+00:00",
+  "updated_at": "2026-10-21T23:47:39.927887+00:00",
   "decisive_date": "2026-10-19",
   "title": "Comentario a la Ley de Enjuiciamiento Civil",
   "total_units": 916,
-  "completed_units": 264,
+  "completed_units": 280,
   "completed_ids": [
     "a1",
     "a2",
@@ -270,10 +270,7 @@
     "a245",
     "a2-15",
     "a246",
-    "a247"
-  ],
-  "remaining_units": 652,
-  "remaining_ids": [
+    "a247",
     "a248",
     "a249",
     "a250",
@@ -289,7 +286,10 @@
     "a260",
     "a261",
     "a262",
-    "a263",
+    "a263"
+  ],
+  "remaining_units": 636,
+  "remaining_ids": [
     "a264",
     "a265",
     "a266",
@@ -927,19 +927,21 @@
     "dfvigesimooctava",
     "dfvigesimonovena"
   ],
-  "commentary_chars": 285549,
+  "commentary_chars": 342508,
   "source_checks": {
     "official_http_evidence": "sources/verification.json",
     "completeness": true,
     "paragraph_agreement": true,
     "paragraphs": 3992,
     "latest_amendment_effective": "2026-10-08",
-    "source_integrity": true
+    "source_integrity": true,
+    "latest_batch": "author-a248-a263-preflight-result.json"
   },
   "case_law_sources": [
     "BOE-A-2019-5727",
     "BOE-A-2020-2942",
-    "BOE-A-2014-3240"
+    "BOE-A-2014-3240",
+    "BOE-A-2012-15756"
   ],
   "validation": {
     "build_exit_code": 1,
@@ -947,9 +949,10 @@
       "repo": "Komentar-ES-BOE-A-2000-323",
       "units": 916,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 285549,
+      "commentary_chars": 342508,
       "errors": [
-        "krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']"
+        "krátký/chybějící komentář u 636 jednotek: ['a264(0<400)', 'a265(0<400)', 'a266(0<400)', 'a267(0<400)', 'a268(0<400)', 'a2-14(0<400)', 'a269(0<400)', 'a270(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
@@ -963,11 +966,11 @@
     "No se alcanza la fase drafted_technical_validation."
   ],
   "local_link_errors": 0,
-  "completed_scope": "Título preliminar y libro I, artículos 1–247 incluidas inserciones; 264 unidades.",
+  "completed_scope": "Título preliminar y libro I; libro II artículos 248–263. Total: 280 de 916 unidades.",
   "next_unit": {
-    "id": "a248",
-    "label": "Artículo 248",
-    "title": "Clases de procesos declarativos."
+    "id": "a264",
+    "label": "Artículo 264",
+    "title": "Documentos procesales."
   },
   "limitations_reason": "La sesión deja un checkpoint sustantivo incompleto; no hay un bloqueo de fuente que justifique omitir los comentarios restantes. No se solicita aprobación y no se certifica terminación.",
   "preflight": {
@@ -1066,5 +1069,28 @@
     "result": "review-result.json",
     "audit": "review-batch-10-audit.json",
     "whole_book_complete": false
+  },
+  "last_author_batch": {
+    "ids": [
+      "a248",
+      "a249",
+      "a250",
+      "a251",
+      "a252",
+      "a253",
+      "a254",
+      "a255",
+      "a256",
+      "a257",
+      "a258",
+      "a259",
+      "a260",
+      "a261",
+      "a262",
+      "a263"
+    ],
+    "completed": 16,
+    "audit": "author-a248-a263-audit.json",
+    "independent_review_pending": true
   }
 }

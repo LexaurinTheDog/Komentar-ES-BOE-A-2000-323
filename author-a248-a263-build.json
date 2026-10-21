@@ -1,0 +1,6 @@
+{
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 636 jednotkám, např.: ['a264', 'a265', 'a266', 'a267', 'a268', 'a2-14', 'a269', 'a270', 'a271', 'a272']\n",
+  "scope": "Full build attempted; only authored chapter exported below while whole book remains partial."
+}

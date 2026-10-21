@@ -1,0 +1,28 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+  "verified_at": "2026-10-21T23:47:39.927887+00:00",
+  "version_evidence": {
+    "unchanged_xml": true,
+    "prior_commencement_audit": "preflight-result.json",
+    "latest_effective_amendment": "2026-10-08",
+    "batch_selection": "author-a248-a263-audit.json"
+  },
+  "historical_versions_checked": {
+    "records": 2521,
+    "selected_unit_count": 16,
+    "all_unit_texts_compared": 916
+  },
+  "annexes_checked": [
+    "No annex type or annex heading in 1083 official blocks; all complementary provisions remain within 916 official units."
+  ],
+  "coverage": {
+    "expected": 916,
+    "parsed": 916,
+    "missing": [],
+    "duplicates": []
+  },
+  "unresolved_blockers": [],
+  "scope": "Source refresh for bounded author batch; no new whole-book review"
+}
