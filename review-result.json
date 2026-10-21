@@ -2,136 +2,136 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a189",
-    "a189bis",
-    "a190",
-    "a191",
-    "a192",
-    "a192bis",
-    "a193",
-    "a194",
-    "a194bis",
-    "a195",
-    "a196",
-    "a197",
-    "a198",
-    "a199",
-    "a200",
-    "a201",
-    "a202",
-    "a203",
-    "a204",
-    "a205"
+    "a206",
+    "a207",
+    "a208",
+    "a209",
+    "a210",
+    "a211",
+    "a212",
+    "a213",
+    "a213bis",
+    "a214",
+    "a215",
+    "a216",
+    "a217",
+    "a218",
+    "a219",
+    "a220",
+    "a221",
+    "a222",
+    "a223",
+    "a224"
   ],
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-21T23:39:04.374270+00:00",
+  "reviewed_at": "2026-10-21T23:40:31.227388+00:00",
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a189",
-      "assessment": "Precisada competencia del LAJ y alcance personal y causal de baja protegida; tres apartados cotejados.",
-      "source": "sources/review-batch-11-official.xml#a189"
+      "id": "a206",
+      "assessment": "Precisados los supuestos supletorios de auto; tres apartados y excepción de casación 487.1 cotejados. Leída íntegramente STC 15/2020, antecedentes y FJ 1–3/fallo; cita contextual correcta y delimitada a la norma histórica anulada.",
+      "source": "sources/review-batch-12-official.xml#a206"
     },
     {
-      "id": "a189bis",
-      "assessment": "Remisión a 188 y 189 cotejada; conservada adaptación a comparecencias exclusivas.",
-      "source": "sources/review-batch-11-official.xml#a189bis"
+      "id": "a207",
+      "assessment": "Cuatro apartados cotejados: definitiva frente a firme y vinculación formal, sin equiparar automáticamente cosa juzgada material.",
+      "source": "sources/review-batch-12-official.xml#a207"
     },
     {
-      "id": "a190",
-      "assessment": "Añadidos nuevo señalamiento tras resolver incidente y señalamiento el mismo día de inadmisión; causas orales, escrito, tres días, multa y costas comprobados.",
-      "source": "sources/review-batch-11-official.xml#a190"
+      "id": "a208",
+      "assessment": "Añadida excepción de firma del ponente en providencias colegiadas; motivación, estructura de autos/decretos e instrucción de recursos cotejadas.",
+      "source": "sources/review-batch-12-official.xml#a208"
     },
     {
-      "id": "a191",
-      "assessment": "Tres apartados cotejados; reserva diferenciada unipersonal/colegiado y causas desconocibles antes de vista conservadas.",
-      "source": "sources/review-batch-11-official.xml#a191"
+      "id": "a209",
+      "assessment": "Cuatro reglas de sentencia escrita cotejadas, identificación, antecedentes, fundamentos, fallo separado, costas y cuantía/remisión 219.",
+      "source": "sources/review-batch-12-official.xml#a209"
     },
     {
-      "id": "a192",
-      "assessment": "Precisada forma de auto estimatorio; nueva vista y dies inicial tras rechazo cotejados.",
-      "source": "sources/review-batch-11-official.xml#a192"
+      "id": "a210",
+      "assessment": "Cuatro apartados cotejados con reforma vigente: oralidad no sentencias, renuncia unánime, sentencia verbal excluyendo 31.2 y doble trámite de cinco días/apelación.",
+      "source": "sources/review-batch-12-official.xml#a210"
     },
     {
-      "id": "a192bis",
-      "assessment": "Remisión a 190–192 y ámbito exclusivo del LAJ comprobados.",
-      "source": "sources/review-batch-11-official.xml#a192bis"
+      "id": "a211",
+      "assessment": "Dos apartados cotejados: plazo legal, corrección disciplinaria y constancia de justa causa, sin nulidad automática ni silencio estimatorio.",
+      "source": "sources/review-batch-12-official.xml#a211"
     },
     {
-      "id": "a193",
-      "assessment": "Precisadas citación judicial de testigos/peritos y decisión judicial de interrupción sobrevenida; cuatro causas y doble competencia temporal cotejadas.",
-      "source": "sources/review-batch-11-official.xml#a193"
+      "id": "a212",
+      "assessment": "Explicitados ámbito de comunicación de competencia y denominación histórica literal; publicidad, disociación y archivo electrónico/papel cotejados sin inventar sucesión institucional.",
+      "source": "sources/review-batch-12-official.xml#a212"
     },
     {
-      "id": "a194",
-      "assessment": "Enumeradas tres excepciones y contraexcepciones; precisada excedencia electoral frente a toda excedencia y ceses de sustitutos/suplentes.",
-      "source": "sources/review-batch-11-official.xml#a194"
+      "id": "a213",
+      "assessment": "Custodia, definitividad, firmas, votos particulares, orden correlativo y libro electrónico condicionado cotejados.",
+      "source": "sources/review-batch-12-official.xml#a213"
     },
     {
-      "id": "a194bis",
-      "assessment": "Remisión a 194 y enlace con 200.2 cotejados; conservada continuidad funcional.",
-      "source": "sources/review-batch-11-official.xml#a194bis"
+      "id": "a213bis",
+      "assessment": "Responsabilidad y custodia LAJ, decretos definitivos firmados, cronología y generación electrónica cotejados.",
+      "source": "sources/review-batch-12-official.xml#a213bis"
     },
     {
-      "id": "a195",
-      "assessment": "Dos apartados cotejados: acceso de todos, petición después de vista o desde señalamiento y reparto temporal presidencial.",
-      "source": "sources/review-batch-11-official.xml#a195"
+      "id": "a214",
+      "assessment": "Corregida elipsis de días hábiles; invariabilidad, dos/tres días, error manifiesto en cualquier momento y ausencia de recurso autónomo cotejados.",
+      "source": "sources/review-batch-12-official.xml#a214"
     },
     {
-      "id": "a196",
-      "assessment": "Inmediatez, señalamiento sin vista y medios electrónicos condicionados cotejados.",
-      "source": "sources/review-batch-11-official.xml#a196"
+      "id": "a215",
+      "assessment": "Precisada forma de auto; cinco apartados cotejados, audiencia de cinco días, oficio desde dictado, decretos y literalidad de interrupción/continuación de plazos.",
+      "source": "sources/review-batch-12-official.xml#a215"
     },
     {
-      "id": "a197",
-      "assessment": "Dirección presidencial, puerta cerrada y propuesta de hechos/derecho/decisión del ponente cotejadas.",
-      "source": "sources/review-batch-11-official.xml#a197"
+      "id": "a216",
+      "assessment": "Principio dispositivo y excepción legal cotejados; remisiones a 217 y 218 comprobadas, sin autorización general de modificar objeto.",
+      "source": "sources/review-batch-12-official.xml#a216"
     },
     {
-      "id": "a198",
-      "assessment": "Tres apartados cotejados: separación, orden inverso de antigüedad y excepción de impedimento insuperable.",
-      "source": "sources/review-batch-11-official.xml#a198"
+      "id": "a217",
+      "assessment": "Explicitadas causas de discriminación del apartado 5; siete apartados cotejados, indicios, justificación, informe y facilidad probatoria.",
+      "source": "sources/review-batch-12-official.xml#a217"
     },
     {
-      "id": "a199",
-      "assessment": "Precisada asistencia del secretario en denominación literal; voto fundado firmado, conservación, mayoría restante y nueva vista comprobados.",
-      "source": "sources/review-batch-11-official.xml#a199"
+      "id": "a218",
+      "assessment": "Tres apartados cotejados: congruencia, causa de pedir, norma aplicable, motivación individual/conjunta y separación de pronunciamientos.",
+      "source": "sources/review-batch-12-official.xml#a218"
     },
     {
-      "id": "a200",
-      "assessment": "Dos apartados cotejados; asistencia LAJ, nueva vista judicial y comparecencia LAJ, con remisiones 194/194bis correctas.",
-      "source": "sources/review-batch-11-official.xml#a200"
+      "id": "a219",
+      "assessment": "Tres apartados cotejados: demanda de condena, cálculo aritmético, reserva prohibida y pleito posterior excepcional.",
+      "source": "sources/review-batch-12-official.xml#a219"
     },
     {
-      "id": "a201",
-      "assessment": "Mayoría absoluta y prohibición de cifra que la desvirtúe cotejadas; no se inventa voto de calidad.",
-      "source": "sources/review-batch-11-official.xml#a201"
+      "id": "a220",
+      "assessment": "Corregida caracterización facultativa de apartado 2: inclusión obligatoria cumplidos requisitos; petición expresa, última mensualidad y entrega posesoria cotejadas.",
+      "source": "sources/review-batch-12-official.xml#a220"
     },
     {
-      "id": "a202",
-      "assessment": "Explicitado orden completo de incorporaciones; cuatro apartados cotejados, dos/tres refuerzos según paridad y votación restringida final.",
-      "source": "sources/review-batch-11-official.xml#a202"
+      "id": "a221",
+      "assessment": "Precisados legitimación asociativa, condenas no dinerarias y condición temporal de declaración rectificadora; reglas 1–3 y apartado 2 cotejados.",
+      "source": "sources/review-batch-12-official.xml#a221"
     },
     {
-      "id": "a203",
-      "assessment": "Redacción condicionada, voto particular obligatorio del ponente disidente y rectificación del turno cotejados.",
-      "source": "sources/review-batch-11-official.xml#a203"
+      "id": "a222",
+      "assessment": "Explicitadas materias de extensión registral; cuatro apartados cotejados, hechos nuevos, socios y antecedente lógico con identidad/extensión subjetiva.",
+      "source": "sources/review-batch-12-official.xml#a222"
     },
     {
-      "id": "a204",
-      "assessment": "Precisada constancia de voto emitido e imposibilidad de firma; tres apartados y sustitución del presidente cotejados.",
-      "source": "sources/review-batch-11-official.xml#a204"
+      "id": "a223",
+      "assessment": "Verificado espacio sin contenido en versión efectiva frente a históricos; no se revive texto anterior, remisiones actuales 206/208 correctas.",
+      "source": "sources/review-batch-12-official.xml#a223"
     },
     {
-      "id": "a205",
-      "assessment": "Precisado ámbito inicial de sentencia/auto definitivo; anuncio, forma, incorporación, notificación/publicación y extensión a autos/providencias cotejados.",
-      "source": "sources/review-batch-11-official.xml#a205"
+      "id": "a224",
+      "assessment": "Verificado espacio sin contenido; no se inventan recurso ni plazos históricos vigentes.",
+      "source": "sources/review-batch-12-official.xml#a224"
     }
   ],
   "limitations": [
     "Segunda lectura limitada exclusivamente a estos veinte identificadores; no completa el libro.",
-    "No hay citas jurisprudenciales en el lote; revisión normativa, sin investigación jurisprudencial exhaustiva ni nuevas autoridades.",
-    "652 unidades ajenas al lote siguen sin comentario.",
-    "Revisión del manuscrito en proceso separado de su redacción; no equivale a aprobación profesional externa."
+    "Investigación jurisprudencial selectiva: se releyó íntegra la única sentencia citada en el lote; no se añaden autoridades ni se afirma exhaustividad.",
+    "652 unidades ajenas al lote siguen sin comentario; build y validación global documentan esa carencia.",
+    "Revisión en proceso separado de la redacción; no equivale a aprobación profesional externa."
   ]
 }

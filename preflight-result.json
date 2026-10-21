@@ -3,7 +3,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Retained original authoring start recorded in existing metadata; this is a resumed source preflight, not a new legal cutoff.",
   "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
-  "verified_at": "2026-10-21T23:39:04.374270+00:00",
+  "verified_at": "2026-10-21T23:40:31.227388+00:00",
   "version_evidence": {
     "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
     "latest_published_change": "2026-10-07",
@@ -21,7 +21,7 @@
     "no_change_in_fresh_xml_metadata_analysis": true,
     "http_and_hash_evidence": "sources/verification.json",
     "clock_note": "Response access times are actual UTC system clock; snapshot filename uses assigned local task date 2026-10-22.",
-    "bounded_review_refresh": "review-batch-11-audit.json",
+    "bounded_review_refresh": "review-batch-12-audit.json",
     "fresh_xml_identical_to_authoring_snapshot": true
   },
   "historical_versions_checked": {

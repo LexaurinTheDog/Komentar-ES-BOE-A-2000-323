@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:39:08.545163+00:00",
+  "generated_at": "2026-10-21T23:40:45.874807+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -496,14 +496,37 @@
       }
     },
     {
+      "path": "sources/review-batch-12-http.txt",
+      "bytes": 461,
+      "sha256": "d96b16ffdd03cdfea79b783d017671f914bae936a4cc316c25b1256efaf99368"
+    },
+    {
+      "path": "sources/review-batch-12-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+        "accessed_at": "2026-10-21T23:40:31.227388+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+        "local_path": "sources/review-batch-12-official.xml",
+        "bytes": 5433343,
+        "format_validation": "XML data/texto parsed; historical versions retained",
+        "http_headers": "sources/review-batch-12-http.txt",
+        "purpose": "Bounded review a206–a224, including a213bis",
+        "request_note": "Initial request without Accept returned HTTP 400; successful retry explicitly requested application/xml."
+      }
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 14231,
-      "sha256": "d8a033b6ac3361ed6f314951023164025874434727d7802430f0e9c69f10d1cb"
+      "bytes": 14972,
+      "sha256": "3d60b780e2aa3bf3ea27eec77fc91346693e0f16b65aa56ddc5b81170f583797"
     },
     {
       "path": "sources/version-selection.json",
