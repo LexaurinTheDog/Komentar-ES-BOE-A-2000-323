@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:40:45.874807+00:00",
+  "generated_at": "2026-10-21T23:42:09.870062+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -519,14 +519,36 @@
       }
     },
     {
+      "path": "sources/review-batch-13-http.txt",
+      "bytes": 459,
+      "sha256": "b99c9e00601dcb1e676654f1b734876ddb02a34e209ebb0cdf5609c7b35924de"
+    },
+    {
+      "path": "sources/review-batch-13-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+        "accessed_at": "2026-10-21T23:42:06.685050+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+        "local_path": "sources/review-batch-13-official.xml",
+        "bytes": 5433343,
+        "format_validation": "Parsed XML response/data/texto; expected preceptos and historical versions present",
+        "http_headers": "sources/review-batch-13-http.txt",
+        "purpose": "Bounded second reading a225–a244, official a2-13 = artículo 226"
+      }
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 14972,
-      "sha256": "3d60b780e2aa3bf3ea27eec77fc91346693e0f16b65aa56ddc5b81170f583797"
+      "bytes": 15635,
+      "sha256": "6ea57d8bac6a6a50f07746165fa686673f3f87f1424ce9c6dbfb2e40c7537b54"
     },
     {
       "path": "sources/version-selection.json",
