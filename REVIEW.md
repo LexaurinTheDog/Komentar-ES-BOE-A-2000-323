@@ -22,3 +22,14 @@ Las correcciones precisan las categorías de capacidad, los destinatarios de los
 El [resultado por unidad](review-result.json) distingue correcciones y textos conservados. La [auditoría reproducible](review-batch-01-audit.json) compara las versiones históricas elegibles y la extracción de las 916 unidades con la nueva descarga, además de comprobar los 20 comentarios. No se han encontrado anexos separados; se conserva la fórmula de promulgación fuera del inventario de artículos. No se ha emprendido nueva investigación jurisprudencial ni se atribuye carácter exhaustivo a las fichas existentes.
 
 El [build íntegro](review-batch-01-build.json) y la [validación estricta](review-batch-01-validation.json) siguen fallando por las 652 unidades pendientes ajenas al lote. El primer capítulo se ha reconstruido con el formateador del constructor y el inventario íntegro permanece intacto. Los controles técnicos no sustituyen esta lectura jurídica. No hay aprobación profesional externa ni declaración de terminación integral.
+
+
+## Segunda lectura limitada: artículos 15 ter a 33
+
+Se han cotejado las 20 unidades asignadas frente al XML oficial nuevamente descargado (HTTP 200, cuerpo XML válido e idéntico a la captura de autoría). El corte jurídico sigue siendo el 19 de octubre de 2026. Identificadores: a1-2, a1-4, a16, a17, a18, a19, a20, a21, a22, a23, a24, a25, a26, a27, a28, a29, a30, a31, a32, a33. Se han leído todos sus apartados y contrastado las remisiones pertinentes.
+
+Las correcciones precisan los criterios de suspensión del llamamiento colectivo, los plazos y modalidades de pago del artículo 22, las excepciones y habilitación de la procura, las modalidades de apoderamiento, los actos de poder especial, el deber de asistencia, las causas y comunicaciones del cese y el alcance de las costas del consumidor. Los demás comentarios se conservan tras lectura; el resultado por unidad figura en [review-result.json](review-result.json). Se incluye una comprobación práctica al cierre del capítulo.
+
+La [auditoría del lote](review-batch-02-audit.json) registra versiones históricas elegibles, coincidencia literal de las 916 unidades, inventario oficial, ausencia de anexos y preservación de la fórmula de promulgación. La publicación reformadora y su disposición transitoria se han cotejado en la evidencia BOE conservada. No se añaden decisiones judiciales ni se afirma investigación exhaustiva.
+
+El [build íntegro](review-batch-02-build.json) y la [validación estricta](review-batch-02-validation.json) se ejecutan sin reducir el inventario; las unidades pendientes del resto del libro impiden completarlos. Se exporta el segundo capítulo revisado con el mismo formateador. El resultado de este lote no acredita terminación integral ni aprobación de un abogado externo.
