@@ -1,11 +1,11 @@
 {
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T23:47:39.927887+00:00",
+  "updated_at": "2026-10-21T23:54:39.002432+00:00",
   "decisive_date": "2026-10-19",
   "title": "Comentario a la Ley de Enjuiciamiento Civil",
   "total_units": 916,
-  "completed_units": 280,
+  "completed_units": 300,
   "completed_ids": [
     "a1",
     "a2",
@@ -286,10 +286,7 @@
     "a260",
     "a261",
     "a262",
-    "a263"
-  ],
-  "remaining_units": 636,
-  "remaining_ids": [
+    "a263",
     "a264",
     "a265",
     "a266",
@@ -309,7 +306,10 @@
     "a279",
     "a280",
     "a281",
-    "a282",
+    "a282"
+  ],
+  "remaining_units": 616,
+  "remaining_ids": [
     "a283",
     "a2-2",
     "a2-3",
@@ -927,7 +927,7 @@
     "dfvigesimooctava",
     "dfvigesimonovena"
   ],
-  "commentary_chars": 342508,
+  "commentary_chars": 374097,
   "source_checks": {
     "official_http_evidence": "sources/verification.json",
     "completeness": true,
@@ -935,13 +935,14 @@
     "paragraphs": 3992,
     "latest_amendment_effective": "2026-10-08",
     "source_integrity": true,
-    "latest_batch": "author-a248-a263-preflight-result.json"
+    "latest_batch": "author-a264-a282-preflight-result.json"
   },
   "case_law_sources": [
     "BOE-A-2019-5727",
     "BOE-A-2020-2942",
     "BOE-A-2014-3240",
-    "BOE-A-2012-15756"
+    "BOE-A-2012-15756",
+    "BOE-T-2005-9515"
   ],
   "validation": {
     "build_exit_code": 1,
@@ -949,9 +950,10 @@
       "repo": "Komentar-ES-BOE-A-2000-323",
       "units": 916,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 342508,
+      "commentary_chars": 374097,
       "errors": [
-        "krátký/chybějící komentář u 636 jednotek: ['a264(0<400)', 'a265(0<400)', 'a266(0<400)', 'a267(0<400)', 'a268(0<400)', 'a2-14(0<400)', 'a269(0<400)', 'a270(0<400)']"
+        "krátký/chybějící komentář u 616 jednotek: ['a283(0<400)', 'a2-2(0<400)', 'a2-3(0<400)', 'a2-4(0<400)', 'a2-5(0<400)', 'a2-6(0<400)', 'a2-7(0<400)', 'a2-8(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
@@ -965,11 +967,11 @@
     "No se alcanza la fase drafted_technical_validation."
   ],
   "local_link_errors": 0,
-  "completed_scope": "Título preliminar y libro I; libro II artículos 248–263. Total: 280 de 916 unidades.",
+  "completed_scope": "Título preliminar y libro I; libro II artículos 248–282, incluido 268 bis. Total: 300 de 916 unidades.",
   "next_unit": {
-    "id": "a264",
-    "label": "Artículo 264",
-    "title": "Documentos procesales."
+    "id": "a283",
+    "label": "Artículo 283",
+    "title": "Impertinencia o inutilidad de la actividad probatoria."
   },
   "limitations_reason": "La sesión deja un checkpoint sustantivo incompleto; no hay un bloqueo de fuente que justifique omitir los comentarios restantes. No se solicita aprobación y no se certifica terminación.",
   "preflight": {
@@ -1071,25 +1073,29 @@
   },
   "last_author_batch": {
     "ids": [
-      "a248",
-      "a249",
-      "a250",
-      "a251",
-      "a252",
-      "a253",
-      "a254",
-      "a255",
-      "a256",
-      "a257",
-      "a258",
-      "a259",
-      "a260",
-      "a261",
-      "a262",
-      "a263"
+      "a264",
+      "a265",
+      "a266",
+      "a267",
+      "a268",
+      "a2-14",
+      "a269",
+      "a270",
+      "a271",
+      "a272",
+      "a273",
+      "a274",
+      "a275",
+      "a276",
+      "a277",
+      "a278",
+      "a279",
+      "a280",
+      "a281",
+      "a282"
     ],
-    "completed": 16,
-    "audit": "author-a248-a263-audit.json",
+    "completed": 20,
+    "audit": "author-a264-a282-audit.json",
     "independent_review_pending": true
   }
 }

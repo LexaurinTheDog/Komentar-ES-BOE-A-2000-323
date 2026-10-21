@@ -1,0 +1,6 @@
+{
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 616 jednotkám, např.: ['a283', 'a2-2', 'a2-3', 'a2-4', 'a2-5', 'a2-6', 'a2-7', 'a2-8', 'a2-9', 'a2-10']\n",
+  "scope": "Full build attempted; incomplete book gate retained; chapter 15 exported with shared quote/load functions."
+}

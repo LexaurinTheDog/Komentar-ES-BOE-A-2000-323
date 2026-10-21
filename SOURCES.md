@@ -16,3 +16,6 @@ La ausencia de anexos se comprobó en los encabezados de los 1.083 bloques ofici
 
 
 Lote 248–263: [XML BOE actualizado](sources/author-a248-a263-official.xml), [auditoría de selección y cobertura](author-a248-a263-audit.json), [STC 222/2012](cases/TC-222-2012.md) y [búsqueda selectiva con corpus local](sources/case-search-a248-a263.json). La sentencia inadmite la cuestión, sin resolver la constitucionalidad material del registro; se distingue su legislación histórica.
+
+
+Lote 264–282: [XML oficial recién descargado](sources/author-a264-a282-official.xml), [selección y cobertura](author-a264-a282-audit.json), [STC 107/2005](cases/STC-107-2005.md) y [búsqueda selectiva](sources/case-search-a264-a282.json). Se conserva el texto completo de la sentencia y el ejemplar del corpus nacional; no se atribuye al fallo la postura desestimatoria del fiscal ni una subsanación ilimitada.

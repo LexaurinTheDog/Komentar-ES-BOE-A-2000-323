@@ -318,6 +318,28 @@
       "path": "sources/review-batch-14-official.xml",
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
       "format_validation": "XML parsed; 1083 statutory/structural blocks; no HTML response"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:54:39.002432+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a264-a282-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "http_headers": "sources/author-a264-a282-http.txt",
+      "format_validation": "response/status 200; 1083 statutory blocks; identical authoring snapshot",
+      "version_cutoff": "2026-10-19"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2005-9515",
+      "accessed_at": "2026-10-21T23:54:39.002432+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/STC-107-2005.xml",
+      "sha256": "c5f538b8b6d72ba692ece38409ecbca162c7bd6fd52e1d6ab4b8fe9c9c81475e",
+      "http_headers": "sources/STC-107-2005-http.txt",
+      "format_validation": "documento root; full antecedents, FJ 1–6 and fallo",
+      "version_cutoff": "2026-10-19"
     }
   ],
   "decisive_date": "2026-10-19",

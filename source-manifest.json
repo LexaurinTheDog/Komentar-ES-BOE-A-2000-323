@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:50:04.592818+00:00",
+  "generated_at": "2026-10-21T23:54:39.002432+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -149,6 +149,21 @@
       }
     },
     {
+      "path": "sources/STC-107-2005-http.txt",
+      "bytes": 916,
+      "sha256": "e67c65eda1ac53e08c9f6d5ea0a527a31b80fd5ee89ca64110c3ddb148fd08d9"
+    },
+    {
+      "path": "sources/STC-107-2005.txt",
+      "bytes": 50087,
+      "sha256": "9672d3cf0e795e9de92457a661b79b394c56d0a26e38e3a9d813a540b93cf83d"
+    },
+    {
+      "path": "sources/STC-107-2005.xml",
+      "bytes": 53343,
+      "sha256": "c5f538b8b6d72ba692ece38409ecbca162c7bd6fd52e1d6ab4b8fe9c9c81475e"
+    },
+    {
       "path": "sources/TC-222-2012-http.txt",
       "bytes": 917,
       "sha256": "fd62d203276402871a4a4b755d76e2caff4536677df10d82c852ac559bd2d6f9"
@@ -184,12 +199,27 @@
       "sha256": "45b6f09f559cf9a9d18bf3d37fa6ef326701a5a71f8378b063eb270efce24a9f"
     },
     {
+      "path": "sources/TC-5367-local.md",
+      "bytes": 51080,
+      "sha256": "99e57752f01d1544633564b2141f4511277dd5127dc28e3bd2360d8064e64600"
+    },
+    {
       "path": "sources/author-a248-a263-http.txt",
       "bytes": 461,
       "sha256": "2be37c0f49538aea3277a82686024477b29893141af20f7e73f29db92fd65017"
     },
     {
       "path": "sources/author-a248-a263-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
+      "path": "sources/author-a264-a282-http.txt",
+      "bytes": 461,
+      "sha256": "0d33bc4c2c9e3e5d053a618efbfc73fc66b2cc528d172fd49c93914aeb38b277"
+    },
+    {
+      "path": "sources/author-a264-a282-official.xml",
       "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
     },
@@ -257,6 +287,11 @@
       "path": "sources/case-search-a248-a263.json",
       "bytes": 1038,
       "sha256": "e55321895dcb6ab19746dfc18cace383757e28d8eedc1bdedf39dd2ae733727c"
+    },
+    {
+      "path": "sources/case-search-a264-a282.json",
+      "bytes": 976,
+      "sha256": "2d77291fcd17dd0fe8fd8f58bac828230450d9ef238142494ed2521368653d45"
     },
     {
       "path": "sources/case-search-log.json",
@@ -600,8 +635,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 17200,
-      "sha256": "285c0fc7fe3bf71a9b774aa80a96840f366f65b81f1171bab0aafc9109bb7ad9"
+      "bytes": 18287,
+      "sha256": "d8a9094e875fe2d15df59cf38b11cf95932addcc67e9d3e7e97aaa73968118e1"
     },
     {
       "path": "sources/version-selection.json",

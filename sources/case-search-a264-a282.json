@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-21T23:54:39.002432+00:00",
+  "searches": [
+    {
+      "source": "official-domain web query",
+      "query": "site.boe.es tribunal constitucional artículo 277 traslado copias 107/2005 sentencia",
+      "result": "Official BOE-T-2005-9515 and official HJ full-text location identified"
+    },
+    {
+      "source": "local national TC corpus",
+      "query": "Sentencia 107/2005 in /Volumes/LaCie/law-intake/eu/es/tc/2005",
+      "result": "TC-5367.md; copied to sources/TC-5367-local.md, checked metadata and full official text",
+      "sha256": "99e57752f01d1544633564b2141f4511277dd5127dc28e3bd2360d8064e64600"
+    }
+  ],
+  "full_text_read": "BOE XML complete antecedents, FJ 1–6 and disposition; party arguments and fiscal position distinguished from holding",
+  "supported_units": [
+    "a276",
+    "a277"
+  ],
+  "limits": "Selective constitutional research; no exhaustive later case-law survey; no other new cases relied on in this batch."
+}
