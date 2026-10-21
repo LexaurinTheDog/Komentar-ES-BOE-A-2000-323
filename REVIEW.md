@@ -33,3 +33,12 @@ Las correcciones precisan los criterios de suspensión del llamamiento colectivo
 La [auditoría del lote](review-batch-02-audit.json) registra versiones históricas elegibles, coincidencia literal de las 916 unidades, inventario oficial, ausencia de anexos y preservación de la fórmula de promulgación. La publicación reformadora y su disposición transitoria se han cotejado en la evidencia BOE conservada. No se añaden decisiones judiciales ni se afirma investigación exhaustiva.
 
 El [build íntegro](review-batch-02-build.json) y la [validación estricta](review-batch-02-validation.json) se ejecutan sin reducir el inventario; las unidades pendientes del resto del libro impiden completarlos. Se exporta el segundo capítulo revisado con el mismo formateador. El resultado de este lote no acredita terminación integral ni aprobación de un abogado externo.
+
+
+## Segunda lectura limitada: artículos 34 a 51
+
+Se han leído individualmente las veinte unidades asignadas: a34, a35, a36, a37, a38, a39, a40, a41, a42, a43, a4-3, a44, a45, a46, a47, a48, a49, a49bis, a50, a51. La descarga nueva del XML BOE dio HTTP 200 y es idéntica a la captura de autoría; se mantiene el corte jurídico del 19 de octubre de 2026. El [resultado por unidad](review-result.json) registra los hallazgos y las limitaciones.
+
+Se precisan los trámites de control contractual de cuentas y minutas, el órgano que alza la suspensión por renuncia al documento, la suspensión no penal y el testimonio necesario en el artículo 49 bis. Se explicita que la atribución orgánica vigente del artículo 89.7 LOPJ incluye violencia sexual con los requisitos allí establecidos, sin sustituir manualmente las remisiones antiguas de la LEC. Se han leído el texto íntegro de la STC 34/2019, sus fundamentos 6 y 7 y fallo, comprobando que el comentario no confunde alegaciones con doctrina ni extiende su decisión al control contractual posterior. No se añaden autoridades ni se afirma una búsqueda exhaustiva.
+
+La [auditoría reproducible](review-batch-03-audit.json) compara todas las unidades legales y registra las versiones históricas del lote, ausencia de anexos separados y conservación de la fórmula de promulgación. Los [resultados del build](review-batch-03-build.json) y la [validación estricta](review-batch-03-validation.json) dejan constancia del obstáculo global de las unidades todavía sin redactar. Se reconstruye el capítulo tercero con el formateador existente y se conserva el trabajo restante. No se declara revisión integral ni aprobación externa.
