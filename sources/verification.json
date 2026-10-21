@@ -194,6 +194,15 @@
       "local_path": "sources/review-batch-04-official.xml",
       "format_validation": "Parsed XML; data/texto present; no HTML challenge",
       "purpose": "Bounded independent review a52–a71"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:26:31.751587+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "local_path": "sources/review-batch-05-official.xml",
+      "format_validation": "XML parsed; 1083 bloques BOE"
     }
   ],
   "decisive_date": "2026-10-19",
