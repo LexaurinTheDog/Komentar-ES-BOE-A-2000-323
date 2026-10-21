@@ -222,6 +222,15 @@
       "bytes": 5433343,
       "format_validation": "XML parsed; data/texto present; no HTML challenge",
       "purpose": "Bounded substantive review a112–a130 including a1-6 (129 bis)"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:32:40.432693+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/review-batch-08-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validation": "XML parsed; data/texto present; no HTML challenge"
     }
   ],
   "decisive_date": "2026-10-19",

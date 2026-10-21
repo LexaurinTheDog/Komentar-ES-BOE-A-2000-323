@@ -1,145 +1,145 @@
 {
   "complete": true,
-  "scope": "Segunda lectura limitada a a112–a130, incluido a1-6 (artículo 129 bis)",
+  "scope": "Segunda lectura limitada a a131–a148, incluidos a1-7 y a141bis",
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-21T23:31:52.256950+00:00",
+  "reviewed_at": "2026-10-21T23:33:36.946848+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a112",
-    "a113",
-    "a114",
-    "a115",
-    "a116",
-    "a117",
-    "a118",
-    "a119",
-    "a120",
-    "a121",
-    "a122",
-    "a123",
-    "a124",
-    "a125",
-    "a126",
-    "a127",
-    "a128",
-    "a129",
-    "a1-6",
-    "a130"
+    "a131",
+    "a132",
+    "a133",
+    "a134",
+    "a135",
+    "a136",
+    "a137",
+    "a1-7",
+    "a138",
+    "a139",
+    "a140",
+    "a141",
+    "a141bis",
+    "a142",
+    "a143",
+    "a144",
+    "a145",
+    "a146",
+    "a147",
+    "a148"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a112",
-      "assessment": "Conservado: devolución del pleito, costas salvo circunstancias excepcionales, multa potestativa de 180 a 6.000 euros solo con declaración expresa de mala fe y sustitución definitiva si estima; ambos apartados cotejados.",
-      "source": "sources/review-batch-07-official.xml#a112"
+      "id": "a131",
+      "assessment": "Precisadas las tres competencias habilitantes del LAJ; cotejados urgencia, agosto, continuación indispensable e irrecurribilidad.",
+      "source": "sources/review-batch-08-official.xml#a131"
     },
     {
-      "id": "a113",
-      "assessment": "Conservado: irrecurribilidad incidental y reserva de nulidad al recurrir resolución final por causa ya alegada; no crea recurso adicional ni confunde desacuerdo con parcialidad.",
-      "source": "sources/review-batch-07-official.xml#a113"
+      "id": "a132",
+      "assessment": "Conservado: términos/plazos, actuación sin dilación y disciplina sin justa causa; no atribuye preclusión al órgano ni nulidad automática.",
+      "source": "sources/review-batch-08-official.xml#a132"
     },
     {
-      "id": "a114",
-      "assessment": "Conservado como unidad sin contenido; explicación no resucita la remisión histórica ni elimina el identificador.",
-      "source": "sources/review-batch-07-official.xml#a114"
+      "id": "a133",
+      "assessment": "Conservado: inicio, encadenamiento sin nueva notificación, días y excepción urgente, meses/años y desplazamiento de vencimiento; margen del 135 separado.",
+      "source": "sources/review-batch-08-official.xml#a133"
     },
     {
-      "id": "a115",
-      "assessment": "Conservado: remisión orgánica, prohibición durante la actuación, decisión por secretario de gobierno e instrucción por coordinador o designado; comprobados los dos incisos.",
-      "source": "sources/review-batch-07-official.xml#a115"
+      "id": "a134",
+      "assessment": "Precisados comunicantes, tres días hábiles, carácter de fuerza mayor, parentesco y certificación; cotejados decreto, audiencia, reanudación y revisión suspensiva.",
+      "source": "sources/review-batch-08-official.xml#a134"
     },
     {
-      "id": "a116",
-      "assessment": "Precisada la alternativa de remisión directa al secretario de gobierno o por el coordinador; informe detallado distingue certeza del hecho y legitimidad de la causa.",
-      "source": "sources/review-batch-07-official.xml#a116"
+      "id": "a135",
+      "assessment": "Ampliadas limitaciones tecnológicas, entrega de soporte el mismo día o siguiente hábil, justificante del servidor y recibo; añadida remisión probatoria a 162, cotejados cinco apartados.",
+      "source": "sources/review-batch-08-official.xml#a135"
     },
     {
-      "id": "a117",
-      "assessment": "Conservado: decreto sin más trámites si hecho reconocido y causa legal; rechazo de causa no tipificada y ausencia de recurso en ambos apartados.",
-      "source": "sources/review-batch-07-official.xml#a117"
+      "id": "a136",
+      "assessment": "Conservado: preclusión por vencimiento, constancia LAJ y remisiones 135.5 y 231; ejemplo distingue fecha inicial errónea de acto omitido.",
+      "source": "sources/review-batch-08-official.xml#a136"
     },
     {
-      "id": "a118",
-      "assessment": "Conservado: negativa, admisión, prueba pertinente y útil en diez días, traslado Fiscal tres días y decisión en cinco con o sin informe; no atribuye decisión al instructor.",
-      "source": "sources/review-batch-07-official.xml#a118"
+      "id": "a137",
+      "assessment": "Conservado: inmediación judicial, vistas, actos exclusivos LAJ y nulidad; no confunde videoconferencia válida con delegación.",
+      "source": "sources/review-batch-08-official.xml#a137"
     },
     {
-      "id": "a119",
-      "assessment": "Conservado: sustitución desde presentación del escrito, sin esperar informe; remisión a 109 cotejada solo para diferenciar suspensión judicial y sustitución del LAJ.",
-      "source": "sources/review-batch-07-official.xml#a119"
+      "id": "a1-7",
+      "assessment": "Corregida posible lectura absoluta de oficina judicial para menores: diferenciada previsión específica de víctimas; seis apartados, diez días y accesibilidad cotejados.",
+      "source": "sources/review-batch-08-official.xml#a1-7"
     },
     {
-      "id": "a120",
-      "assessment": "Conservado como unidad sin contenido; trazabilidad histórica diferenciada de regla vigente.",
-      "source": "sources/review-batch-07-official.xml#a120"
+      "id": "a138",
+      "assessment": "Precisados reposición y posterior revisión conforme al 454 bis vigente; sentencia íntegra releída, sin atribuirle anulación de 138; detallados publicación y datos del señalamiento.",
+      "source": "sources/review-batch-08-official.xml#a138"
     },
     {
-      "id": "a121",
-      "assessment": "Conservado: tres cuerpos afectados, causas legales, instructor dependiente jerárquico, decisión por quien termina instancia e irrecurribilidad; 104 cotejado.",
-      "source": "sources/review-batch-07-official.xml#a121"
+      "id": "a139",
+      "assessment": "Conservado: secreto de deliberación y resultado de votación, con salvedad legal de votos particulares; ejemplo distingue voto minoritario de criterio decisorio.",
+      "source": "sources/review-batch-08-official.xml#a139"
     },
     {
-      "id": "a122",
-      "assessment": "Conservado: inadmisión inmediata motivada por causa no tipificada, sin recurso; diferencia de controversia fáctica del 123 comprobada.",
-      "source": "sources/review-batch-07-official.xml#a122"
+      "id": "a140",
+      "assessment": "Conservado: interés legítimo y directo, copias, testimonios con destinatario, reserva motivada, acceso de partes y salvedad de datos penal/tributaria.",
+      "source": "sources/review-batch-08-official.xml#a140"
     },
     {
-      "id": "a123",
-      "assessment": "Precisado que las comprobaciones propuestas son las del recusado, además de las que el instructor considere necesarias; cotejados manifestación al día siguiente, quinto día, reemplazo y remisión al decisor.",
-      "source": "sources/review-batch-07-official.xml#a123"
+      "id": "a141",
+      "assessment": "Conservado: interés legítimo sin exigir adjetivo directo del 140, ausencia de reserva y coste; alcance de certificación limitado a extremos pedidos.",
+      "source": "sources/review-batch-08-official.xml#a141"
     },
     {
-      "id": "a124",
-      "assessment": "Desarrolladas las tres causas específicas sin reducir servicios periciales previos a cierta especialidad ni perder dictamen dentro/fuera del proceso; distinción sorteo/titular/suplente/tacha cotejada con 343–344.",
-      "source": "sources/review-batch-07-official.xml#a124"
+      "id": "a141bis",
+      "assessment": "Conservado: omisión de identificadores directos e indirectos cuando necesaria para interés superior e intimidad; ejemplo comprueba identificación combinada.",
+      "source": "sources/review-batch-08-official.xml#a141bis"
     },
     {
-      "id": "a125",
-      "assessment": "Conservado: escrito y firmas si intervienen, destinatario, prueba y copias; dos días para causa anterior, momento de posterior anterior a dictamen y comunicación tras vista solo bajo condiciones del apartado 3.",
-      "source": "sources/review-batch-07-official.xml#a125"
+      "id": "a142",
+      "assessment": "Precisados providencia del tribunal, persona conocedora y traducción fiel; cotejadas facultades de intervinientes, oposición por indefensión y traducción fuera del territorio.",
+      "source": "sources/review-batch-08-official.xml#a142"
     },
     {
-      "id": "a126",
-      "assessment": "Precisado que LAJ controla el fundamento y tiene por recusado; comprobada sustitución y remisión a 342 si se trata del suplente.",
-      "source": "sources/review-batch-07-official.xml#a126"
+      "id": "a143",
+      "assessment": "Precisada competencia LAJ por decreto; cotejados habilitación, asistencia transfronteriza, acta bilingüe firmada e intérprete de signos.",
+      "source": "sources/review-batch-08-official.xml#a143"
     },
     {
-      "id": "a127",
-      "assessment": "Precisada autoría LAJ del desistimiento y decisión inmediata del tribunal mediante auto; comparecencia, prueba, sustitución, irrecurribilidad y reserva de instancia superior cotejadas.",
-      "source": "sources/review-batch-07-official.xml#a127"
+      "id": "a144",
+      "assessment": "Conservado: traducción privada, impugnación razonada en cinco días, traducción oficial limitada a parte discutida y reasignación de coste por identidad sustancial.",
+      "source": "sources/review-batch-08-official.xml#a144"
     },
     {
-      "id": "a128",
-      "assessment": "Conservado: remisión limitada a costas del 112, sin traslado automático de multa; ejemplo no presupone mala fe por desestimación.",
-      "source": "sources/review-batch-07-official.xml#a128"
+      "id": "a145",
+      "assessment": "Conservado: cuatro manifestaciones de fe pública, destinatario y fin de certificación, poder del 24 y ausencia de testigos adicionales; no acredita verdad material del escrito.",
+      "source": "sources/review-batch-08-official.xml#a145"
     },
     {
-      "id": "a129",
-      "assessment": "Precisadas remisiones expresas a 275 y 229 LOPJ que figuran en la norma, sin añadir contenido orgánico no verificado; cuatro apartados y 129 bis cotejados; corregida errata porque.",
-      "source": "sources/review-batch-07-official.xml#a129"
+      "id": "a146",
+      "assessment": "Precisada exclusión de escritos y documentos y presupuesto legal de grabación como acta; comprobados identificación, contenido del acta subsidiaria y medios informáticos.",
+      "source": "sources/review-batch-08-official.xml#a146"
     },
     {
-      "id": "a1-6",
-      "assessment": "Precisado que lugar seguro de la excepción residencial debe estar dentro del municipio de residencia; cotejados cinco apartados, excepciones a/b/c, motivación para b/c, competencias LAJ/Fiscal y garantías.",
-      "source": "sources/review-batch-07-official.xml#a1-6"
+      "id": "a147",
+      "assessment": "Precisados petición de presencia LAJ dos días antes y motivos excepcionales; cotejadas no transcripción salvo ley, incorporación, custodia y copia/acceso a costa de parte.",
+      "source": "sources/review-batch-08-official.xml#a147"
     },
     {
-      "id": "a130",
-      "assessment": "Ampliada coordinación con 135.1 y excepciones urgentes del 131.3 para no confundir disponibilidad electrónica, día hábil y habilitación; calendario y horarios ordinario/ampliado cotejados.",
-      "source": "sources/review-batch-07-official.xml#a130"
+      "id": "a148",
+      "assessment": "Conservado: formación y constancia de resoluciones, custodia con excepción de posesión judicial y archivo electrónico; añadido control práctico de cierre de sección.",
+      "source": "sources/review-batch-08-official.xml#a148"
     }
   ],
   "limitations": [
-    "Solo los veinte identificadores asignados han recibido esta segunda lectura; las demás unidades solo se consultaron para remisiones.",
-    "No se citaban decisiones judiciales en este lote; no se añaden autoridades ni se afirma investigación jurisprudencial exhaustiva.",
-    "El libro conserva 652 unidades sin comentario; complete se refiere exclusivamente al lote asignado.",
+    "Solo se revisaron sustantivamente los veinte identificadores asignados; remisiones consultadas sin revisar las unidades remitidas.",
+    "Jurisprudencia selectiva: lectura íntegra de STC 15/2020 conservada; no se afirma cobertura exhaustiva ni nueva búsqueda general.",
+    "652 unidades del libro siguen sin comentario; complete se refiere exclusivamente a este lote.",
     "No constituye aprobación profesional externa."
   ],
   "evidence": [
-    "review-batch-07-audit.json",
-    "review-batch-07-build.json",
-    "review-batch-07-validation.json",
-    "review-batch-07-links.json",
+    "review-batch-08-audit.json",
+    "review-batch-08-build.json",
+    "review-batch-08-validation.json",
+    "review-batch-08-links.json",
     "sources/verification.json"
   ]
 }
