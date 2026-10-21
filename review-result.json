@@ -2,136 +2,136 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a149",
-    "a150",
-    "a151",
-    "a152",
-    "a153",
-    "a154",
-    "a155",
-    "a156",
-    "a157",
-    "a158",
-    "a159",
-    "a160",
-    "a161",
-    "a162",
-    "a163",
-    "a164",
-    "a165",
-    "a166",
-    "a167",
-    "a168"
+    "a169",
+    "a170",
+    "a171",
+    "a172",
+    "a173",
+    "a174",
+    "a175",
+    "a176",
+    "a177",
+    "a178",
+    "a179",
+    "a180",
+    "a181",
+    "a182",
+    "a183",
+    "a184",
+    "a185",
+    "a186",
+    "a187",
+    "a188"
   ],
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-21T23:35:11.948691+00:00",
+  "reviewed_at": "2026-10-21T23:37:20.562211+00:00",
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a149",
-      "assessment": "Conservado: seis clases de actos, funciones, destinatarios de mandamientos y oficios; cédula y ejemplo contrastados con 152 y 167.",
-      "source": "sources/review-batch-09-official.xml#a149"
+      "id": "a169",
+      "assessment": "Conservado tras cotejo de cuatro apartados: deber de auxilio, reconocimiento, alternativa de desplazamiento/videoconferencia y requisitos acumulados de prueba personal fuera de sede.",
+      "source": "sources/review-batch-10-official.xml#a169"
     },
     {
-      "id": "a150",
-      "assessment": "Precisado carácter de la notificación de pendencia por disposición judicial; cotejados partes, fraude, terceros y traslado institucional sin suspensión automática.",
-      "source": "sources/review-batch-09-official.xml#a150"
+      "id": "a170",
+      "assessment": "Conservada competencia de oficina de primera instancia y excepción de paz para comunicación/videoconferencia; denominaciones coordinadas con nota BOE, sin atribución de decisión de fondo.",
+      "source": "sources/review-batch-10-official.xml#a170"
     },
     {
-      "id": "a151",
-      "assessment": "Conservado: tres días, recepción y eficacia institucional, corte de 15 horas, suspensión colegial y anexos tardíos; no se confunden hitos del cómputo.",
-      "source": "sources/review-batch-09-official.xml#a151"
+      "id": "a171",
+      "assessment": "Cotejados seis contenidos obligatorios, autorización LAJ y dos excepciones telemáticas diferenciadas; no se confunde acceso a datos con práctica general de prueba.",
+      "source": "sources/review-batch-10-official.xml#a171"
     },
     {
-      "id": "a152",
-      "assessment": "Explicitadas formas y comunicación telemática institucional sin procurador; seis apartados cotejados, incluida salvedad de consumidores y entrega de elementos no digitalizables.",
-      "source": "sources/review-batch-09-official.xml#a152"
+      "id": "a172",
+      "assessment": "Conservados envío documentado, excepción no digitalizable, gestión litigante/procurador, cinco días, designaciones y remisión directa ante error de destino.",
+      "source": "sources/review-batch-10-official.xml#a172"
     },
     {
-      "id": "a153",
-      "assessment": "Conservado: recepción por procurador incluso para actuación personal; cotejada representación pasiva del 28, sin sustituir comparecencia personal por profesional.",
-      "source": "sources/review-batch-09-official.xml#a153"
+      "id": "a173",
+      "assessment": "Conservados cumplimiento dentro de plazo, recordatorio LAJ de oficio o a instancia y comunicación persistente a Sala de Gobierno competente.",
+      "source": "sources/review-batch-10-official.xml#a173"
     },
     {
-      "id": "a154",
-      "assessment": "Conservado: sede/servicio común, competencia colegial, resguardo electrónico y duplicado papel; coordinación temporal con 151.2 verificada.",
-      "source": "sources/review-batch-09-official.xml#a154"
+      "id": "a174",
+      "assessment": "Conservados derecho de intervención, notificación al procurador designado y comunicaciones necesarias sin designación; no se omite citación contradictoria.",
+      "source": "sources/review-batch-10-official.xml#a174"
     },
     {
-      "id": "a155",
-      "assessment": "Explicitada eficacia de remisión domiciliaria sin recepción solo en supuesto 2.c; cotejados ambos estatutos electrónicos, primera llamada, intervención personal, domicilios, duplicidades y justicia gratuita.",
-      "source": "sources/review-batch-09-official.xml#a155"
+      "id": "a175",
+      "assessment": "Conservadas comunicación electrónica y devolución certificada o por gestor; diez días diferenciados de cinco del envío inicial.",
+      "source": "sources/review-batch-10-official.xml#a175"
     },
     {
-      "id": "a156",
-      "assessment": "Conservado: cuatro apartados, diligencia de búsqueda y cauce posterior; STC 30/2014 releída íntegramente y limitada a su contexto histórico.",
-      "source": "sources/review-batch-09-official.xml#a156"
+      "id": "a176",
+      "assessment": "Conservado sujeto literal litigante, justa causa y multa de treinta euros diarios; no se extiende automáticamente a toda demora profesional o judicial.",
+      "source": "sources/review-batch-10-official.xml#a176"
     },
     {
-      "id": "a157",
-      "assessment": "Explicitada facultad de comunicación edictal directa mediante diligencia tras consulta coincidente; cotejadas inscripción, cancelación y anotación posterior a personación.",
-      "source": "sources/review-batch-09-official.xml#a157"
+      "id": "a177",
+      "assessment": "Conservada jerarquía de fuentes aplicables y reciprocidad de cauce entrante; ejemplo no atribuye contenido sin verificar a un instrumento concreto.",
+      "source": "sources/review-batch-10-official.xml#a177"
     },
     {
-      "id": "a158",
-      "assessment": "Conservado: no obligados, falta de acreditación de recepción y entrega del 161; negativa y ausencia no se equiparan.",
-      "source": "sources/review-batch-09-official.xml#a158"
+      "id": "a178",
+      "assessment": "Precisado siguiente día hábil en apartado 2; cotejados escritos, actas, vencimientos y cadena de información de gestión a LAJ/juez.",
+      "source": "sources/review-batch-10-official.xml#a178"
     },
     {
-      "id": "a159",
-      "assessment": "Conservado: terceros, procurador a petición, fracaso o circunstancias que aconsejan entrega y deber de actualizar domicilio advertido al comparecer.",
-      "source": "sources/review-batch-09-official.xml#a159"
+      "id": "a179",
+      "assessment": "Precisados parentescos, causas, dies inicial y desplazamiento a otra localidad; cinco apartados comprobados, incluidas baja máxima, nacimiento, reserva documental y decreto/notificación.",
+      "source": "sources/review-batch-10-official.xml#a179"
     },
     {
-      "id": "a160",
-      "assessment": "Precisado efecto de incomparecencia injustificada a recogida; cotejados cinco apartados, coste de envíos múltiples y aviso sin efecto invalidante propio.",
-      "source": "sources/review-batch-09-official.xml#a160"
+      "id": "a180",
+      "assessment": "Conservados turno anual objetivo, designación en primera resolución, notificación de sustitución y participación de presidentes; remisión a funciones diferenciada.",
+      "source": "sources/review-batch-10-official.xml#a180"
     },
     {
-      "id": "a161",
-      "assessment": "Explicitadas tres sedes de entrega y salvedad de ejecución; cotejados negativa, terceros habilitados, sobre cerrado, advertencias, eficacia y averiguación ante ausencia.",
-      "source": "sources/review-batch-09-official.xml#a161"
+      "id": "a181",
+      "assessment": "Explicitada excepción concreta del artículo 203, párrafo segundo, cotejada en units.jsonl y XML: discrepancia de mayoría, voto particular, encargo y turno; cinco funciones comprobadas.",
+      "source": "sources/review-batch-10-official.xml#a181"
     },
     {
-      "id": "a162",
-      "assessment": "Precisadas fechas navideñas y sujetos legitimados para pedir original en papel; cotejadas garantías, tres días, excepciones técnicas/colegiales y especialidades del 155.",
-      "source": "sources/review-batch-09-official.xml#a162"
+      "id": "a182",
+      "assessment": "Añadida preferencia excepcional judicial y límite de asuntos aún sin señalar; cinco apartados, criterios, agenda, coordinación y control previo comprobados.",
+      "source": "sources/review-batch-10-official.xml#a182"
     },
     {
-      "id": "a163",
-      "assessment": "Conservado: servicio común existente, excepción de procura y ausencia de alteración de garantías por organización del servicio.",
-      "source": "sources/review-batch-09-official.xml#a163"
+      "id": "a183",
+      "assessment": "Precisado presupuesto de fuerza mayor o motivo análogo; seis apartados y 3 bis comprobados, incluida audiencia común de tres días y competencia judicial sancionadora.",
+      "source": "sources/review-batch-10-official.xml#a183"
     },
     {
-      "id": "a164",
-      "assessment": "Advertida remisión literal desajustada al párrafo segundo de 155.3; texto oficial preservado. Verificados subsidiariedad, protección de menores y alcance histórico de STC 30/2014, FJ 3–6 y fallo.",
-      "source": "sources/review-batch-09-official.xml#a164"
+      "id": "a184",
+      "assessment": "Conservados horas habilitadas, pluralidad de sesiones y diez días hábiles salvo excepción legal; cómputo coordinado con 130.",
+      "source": "sources/review-batch-10-official.xml#a184"
     },
     {
-      "id": "a165",
-      "assessment": "Conservado: despacho informático, excepción papel, veinte días desde recepción, causas de dilación y procura en mismos términos; sin confundir eficacia al destinatario con auxilio.",
-      "source": "sources/review-batch-09-official.xml#a165"
+      "id": "a185",
+      "assessment": "Explicitado segundo turno también cuando no se practica prueba; cuatro apartados, publicidad, orden y régimen específico de prueba cotejados.",
+      "source": "sources/review-batch-10-official.xml#a185"
     },
     {
-      "id": "a166",
-      "assessment": "Conservado: infracción más posible indefensión y subsanación desde conocimiento sin denuncia en primera comparecencia; STC no se presenta como decisión del régimen electrónico.",
-      "source": "sources/review-batch-09-official.xml#a166"
+      "id": "a186",
+      "assessment": "Conservadas competencias de dirección, corrección orgánica y retirada de palabra tras segunda advertencia desatendida; no se inventa sanción autónoma.",
+      "source": "sources/review-batch-10-official.xml#a186"
     },
     {
-      "id": "a167",
-      "assessment": "Conservado: remisión directa LAJ, diligenciado personal solicitado y gastos del solicitante; diferenciada posterior imputación de costas.",
-      "source": "sources/review-batch-09-official.xml#a167"
+      "id": "a187",
+      "assessment": "Conservados grabación audiovisual/sonora, copia a costa y acta subsidiaria; remisiones 146 y 147 cotejadas.",
+      "source": "sources/review-batch-10-official.xml#a187"
     },
     {
-      "id": "a168",
-      "assessment": "Conservado: malicia/negligencia de oficina y dolo/negligencia/morosidad/formalidades de procura, causalidad y daño; control práctico específico mantenido.",
-      "source": "sources/review-batch-09-official.xml#a168"
+      "id": "a188",
+      "assessment": "Precisada diferencia entre preferencias penales y excepción temporal que solo menciona preso/menor internado; detallada notificación al tribunal mismo día/siguiente hábil. Ocho causas, urgencia médica, procura y extensión a otros actos comprobadas.",
+      "source": "sources/review-batch-10-official.xml#a188"
     }
   ],
   "limitations": [
-    "Segunda lectura sustantiva limitada exactamente a las veinte unidades asignadas; no acredita terminación integral.",
-    "Jurisprudencia selectiva: releídos texto íntegro oficial y corpus local de STC 30/2014; no se realizó nueva búsqueda exhaustiva.",
-    "652 unidades del manuscrito siguen sin comentario; el build y validador íntegros no pueden aprobarse en este checkpoint.",
-    "La discordancia de remisión oficial del artículo 164 se explica sin alterar el texto legal. No hay aprobación profesional externa."
+    "Revisión sustantiva limitada exactamente a a169–a188; no acredita terminación integral.",
+    "No hay citas jurisprudenciales en estas veinte unidades; no se añaden autoridades ni se afirma investigación jurisprudencial exhaustiva.",
+    "652 unidades del libro carecen aún de comentario; complete se refiere exclusivamente al lote.",
+    "Sin aprobación profesional externa."
   ]
 }

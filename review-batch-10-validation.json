@@ -1,0 +1,7 @@
+{
+  "command": "strict validate.py WORK",
+  "exit_code": 1,
+  "stdout": "{\"repo\": \"Komentar-ES-BOE-A-2000-323\", \"units\": 916, \"verbatim_ratio\": 1.0, \"commentary_chars\": 307528, \"errors\": [\"krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']\", \"necommitnuté změny v repu\"], \"warnings\": [], \"ok\": false}\n",
+  "stderr": "",
+  "scope_note": "Full manuscript validation; batch review does not depend on completing other units."
+}
