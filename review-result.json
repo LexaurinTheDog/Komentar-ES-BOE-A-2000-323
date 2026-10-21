@@ -1,145 +1,145 @@
 {
   "complete": true,
-  "scope": "Segunda lectura limitada a a92–a111",
+  "scope": "Segunda lectura limitada a a112–a130, incluido a1-6 (artículo 129 bis)",
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-21T23:29:08.578716+00:00",
+  "reviewed_at": "2026-10-21T23:31:52.256950+00:00",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a92",
-    "a93",
-    "a94",
-    "a95",
-    "a96",
-    "a97",
-    "a98",
-    "a99",
-    "a100",
-    "a101",
-    "a102",
-    "a103",
-    "a104",
-    "a105",
-    "a106",
-    "a107",
-    "a108",
-    "a109",
-    "a110",
-    "a111"
+    "a112",
+    "a113",
+    "a114",
+    "a115",
+    "a116",
+    "a117",
+    "a118",
+    "a119",
+    "a120",
+    "a121",
+    "a122",
+    "a123",
+    "a124",
+    "a125",
+    "a126",
+    "a127",
+    "a128",
+    "a129",
+    "a1-6",
+    "a130"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a92",
-      "assessment": "Conservado: notificación inmediata por LAJ, diez días para personarse, remisión de autos y suspensión del avanzado hasta igualación; ejemplo comprobado.",
-      "source": "sources/review-batch-06-official.xml#a92"
+      "id": "a112",
+      "assessment": "Conservado: devolución del pleito, costas salvo circunstancias excepcionales, multa potestativa de 180 a 6.000 euros solo con declaración expresa de mala fe y sustitución definitiva si estima; ambos apartados cotejados.",
+      "source": "sources/review-batch-07-official.xml#a112"
     },
     {
-      "id": "a93",
-      "assessment": "Conservado: dos fundamentos posibles de negativa, límites del 91.2 y deferimiento al superior inmediato común; no confunde discrepancia con recurso de parte.",
-      "source": "sources/review-batch-06-official.xml#a93"
+      "id": "a113",
+      "assessment": "Conservado: irrecurribilidad incidental y reserva de nulidad al recurrir resolución final por causa ya alegada; no crea recurso adicional ni confunde desacuerdo con parcialidad.",
+      "source": "sources/review-batch-07-official.xml#a113"
     },
     {
-      "id": "a94",
-      "assessment": "Conservado: testimonios de ambos órganos y emplazamiento de partes por cinco días improrrogables para alegaciones escritas; prioridad por presentación cotejada.",
-      "source": "sources/review-batch-06-official.xml#a94"
+      "id": "a114",
+      "assessment": "Conservado como unidad sin contenido; explicación no resucita la remisión histórica ni elimina el identificador.",
+      "source": "sources/review-batch-07-official.xml#a114"
     },
     {
-      "id": "a95",
-      "assessment": "Conservado: auto en veinte días sin recurso, remisión al 92 si estima y levantamiento por LAJ de suspensión si deniega; no atribuye decisión del fondo.",
-      "source": "sources/review-batch-06-official.xml#a95"
+      "id": "a115",
+      "assessment": "Conservado: remisión orgánica, prohibición durante la actuación, decisión por secretario de gobierno e instrucción por coordinador o designado; comprobados los dos incisos.",
+      "source": "sources/review-batch-07-official.xml#a115"
     },
     {
-      "id": "a96",
-      "assessment": "Conservado: pluralidad superior a dos, requerimientos concurrentes, remisión por LAJ al superior común a todos y aplicación de 94 y 95.",
-      "source": "sources/review-batch-06-official.xml#a96"
+      "id": "a116",
+      "assessment": "Precisada la alternativa de remisión directa al secretario de gobierno o por el coordinador; informe detallado distingue certeza del hecho y legitimidad de la causa.",
+      "source": "sources/review-batch-07-official.xml#a116"
     },
     {
-      "id": "a97",
-      "assessment": "Conservado: restricción al promotor del juicio ulterior tras incidente previo, rechazo por decreto y nulidad limitada a solicitud indebida con costas al presentante.",
-      "source": "sources/review-batch-06-official.xml#a97"
+      "id": "a117",
+      "assessment": "Conservado: decreto sin más trámites si hecho reconocido y causa legal; rechazo de causa no tipificada y ausencia de recurso en ambos apartados.",
+      "source": "sources/review-batch-07-official.xml#a117"
     },
     {
-      "id": "a98",
-      "assessment": "Conservado: concurso remitido a legislación especial, sucesión y excepción estricta de ejecución sobre bienes hipotecados o pignorados; receptor universal sin prioridad cronológica.",
-      "source": "sources/review-batch-06-official.xml#a98"
+      "id": "a118",
+      "assessment": "Conservado: negativa, admisión, prueba pertinente y útil en diez días, traslado Fiscal tres días y decisión en cinco con o sin informe; no atribuye decisión al instructor.",
+      "source": "sources/review-batch-07-official.xml#a118"
     },
     {
-      "id": "a99",
-      "assessment": "Precisada remisión a causas LOPJ y compatibilidad con las causas adicionales de peritos del 124.3; cotejado régimen de tachas de peritos de parte.",
-      "source": "sources/review-batch-06-official.xml#a99"
+      "id": "a119",
+      "assessment": "Conservado: sustitución desde presentación del escrito, sin esperar informe; remisión a 109 cotejada solo para diferenciar suspensión judicial y sustitución del LAJ.",
+      "source": "sources/review-batch-07-official.xml#a119"
     },
     {
-      "id": "a100",
-      "assessment": "Conservado: deber autónomo de abstención y sujetos enumerados, perito designado judicialmente; remisiones a 102 y 105 comprobadas.",
-      "source": "sources/review-batch-06-official.xml#a100"
+      "id": "a120",
+      "assessment": "Conservado como unidad sin contenido; trazabilidad histórica diferenciada de regla vigente.",
+      "source": "sources/review-batch-07-official.xml#a120"
     },
     {
-      "id": "a101",
-      "assessment": "Conservado: legitimación exclusiva de partes y habilitación condicionada del Fiscal; representación diferenciada de titularidad del incidente.",
-      "source": "sources/review-batch-06-official.xml#a101"
+      "id": "a121",
+      "assessment": "Conservado: tres cuerpos afectados, causas legales, instructor dependiente jerárquico, decisión por quien termina instancia e irrecurribilidad; 104 cotejado.",
+      "source": "sources/review-batch-07-official.xml#a121"
     },
     {
-      "id": "a102",
-      "assessment": "Precisado quién dicta auto de apartamiento: propio abstenido o sala/sección en colegiado; cotejados cinco apartados, diez días, suspensión y comunicación del sustituto.",
-      "source": "sources/review-batch-06-official.xml#a102"
+      "id": "a122",
+      "assessment": "Conservado: inadmisión inmediata motivada por causa no tipificada, sin recurso; diferencia de controversia fáctica del 123 comprobada.",
+      "source": "sources/review-batch-07-official.xml#a122"
     },
     {
-      "id": "a103",
-      "assessment": "Conservado: remisión orgánica para abstención del LAJ, sin inventar un cauce judicial; 114 sin contenido y especialidades de 115 comprobados.",
-      "source": "sources/review-batch-06-official.xml#a103"
+      "id": "a123",
+      "assessment": "Precisado que las comprobaciones propuestas son las del recusado, además de las que el instructor considere necesarias; cotejados manifestación al día siguiente, quinto día, reemplazo y remisión al decisor.",
+      "source": "sources/review-batch-07-official.xml#a123"
     },
     {
-      "id": "a104",
-      "assessment": "Conservado: comunicación motivada al competente para resolución final de instancia, decisión de procedencia y sustitución o continuidad; 121–123 cotejados.",
-      "source": "sources/review-batch-06-official.xml#a104"
+      "id": "a124",
+      "assessment": "Desarrolladas las tres causas específicas sin reducir servicios periciales previos a cierta especialidad ni perder dictamen dentro/fuera del proceso; distinción sorteo/titular/suplente/tacha cotejada con 343–344.",
+      "source": "sources/review-batch-07-official.xml#a124"
     },
     {
-      "id": "a105",
-      "assessment": "Conservado: abstención oral/escrita justificada, rechazo inicial, suplente y 342.2, causa sobrevenida con audiencia y decisión del designante sin recurso.",
-      "source": "sources/review-batch-06-official.xml#a105"
+      "id": "a125",
+      "assessment": "Conservado: escrito y firmas si intervienen, destinatario, prueba y copias; dos días para causa anterior, momento de posterior anterior a dictamen y comunicación tras vista solo bajo condiciones del apartado 3.",
+      "source": "sources/review-batch-07-official.xml#a125"
     },
     {
-      "id": "a106",
-      "assessment": "Conservado: remisión al Estatuto Orgánico para Fiscal sin atribuir a partes potestad de recusación no establecida; ejemplo institucional limitado.",
-      "source": "sources/review-batch-06-official.xml#a106"
+      "id": "a126",
+      "assessment": "Precisado que LAJ controla el fundamento y tiene por recusado; comprobada sustitución y remisión a 342 si se trata del suplente.",
+      "source": "sources/review-batch-07-official.xml#a126"
     },
     {
-      "id": "a107",
-      "assessment": "Completada firma a ruego si recusante no sabe firmar; cotejados inmediatez, diez días, poder especial, ratificación, tres días comunes y siguiente hábil.",
-      "source": "sources/review-batch-06-official.xml#a107"
+      "id": "a127",
+      "assessment": "Precisada autoría LAJ del desistimiento y decisión inmediata del tribunal mediante auto; comparecencia, prueba, sustitución, irrecurribilidad y reserva de instancia superior cotejadas.",
+      "source": "sources/review-batch-07-official.xml#a127"
     },
     {
-      "id": "a108",
-      "assessment": "Ampliados seis supuestos de instrucción para evitar resumir en exceso Supremo/TSJ, presidencia de Audiencia, sala completa, órgano unipersonal y paz; escalafón y designación residual cotejados.",
-      "source": "sources/review-batch-06-official.xml#a108"
+      "id": "a128",
+      "assessment": "Conservado: remisión limitada a costas del 112, sin traslado automático de multa; ejemplo no presupone mala fe por desestimación.",
+      "source": "sources/review-batch-07-official.xml#a128"
     },
     {
-      "id": "a109",
-      "assessment": "Precisado plazo de remisión del principal al sustituto: mismo día de fin del traslado o siguiente hábil; cotejados inadmisión, aceptación, prueba diez días, informe tres, decisión cinco y suspensión.",
-      "source": "sources/review-batch-06-official.xml#a109"
+      "id": "a129",
+      "assessment": "Precisadas remisiones expresas a 275 y 229 LOPJ que figuran en la norma, sin añadir contenido orgánico no verificado; cuatro apartados y 129 bis cotejados; corregida errata porque.",
+      "source": "sources/review-batch-07-official.xml#a129"
     },
     {
-      "id": "a110",
-      "assessment": "Ampliados supuestos decisorios 1–5 y primacía especial del número 3 frente al 4; cotejados secciones, turno de Primera Instancia/Mercantil y juez de paz instructor-decisor.",
-      "source": "sources/review-batch-06-official.xml#a110"
+      "id": "a1-6",
+      "assessment": "Precisado que lugar seguro de la excepción residencial debe estar dentro del municipio de residencia; cotejados cinco apartados, excepciones a/b/c, motivación para b/c, competencias LAJ/Fiscal y garantías.",
+      "source": "sources/review-batch-07-official.xml#a1-6"
     },
     {
-      "id": "a111",
-      "assessment": "Completada remisión a 190–192 con cambio de composición, formalización verbal en tres días, plazo posterior a vista solo para causas no cognoscibles antes y efectos estimatorios/desestimatorios. Añadido control práctico.",
-      "source": "sources/review-batch-06-official.xml#a111"
+      "id": "a130",
+      "assessment": "Ampliada coordinación con 135.1 y excepciones urgentes del 131.3 para no confundir disponibilidad electrónica, día hábil y habilitación; calendario y horarios ordinario/ampliado cotejados.",
+      "source": "sources/review-batch-07-official.xml#a130"
     }
   ],
   "limitations": [
-    "Solo este lote ha recibido esta revisión sustantiva; otras unidades se consultaron únicamente para remisiones.",
-    "No había jurisprudencia citada en el lote y no se añaden autoridades ni se declara investigación judicial exhaustiva.",
-    "El manuscrito global conserva unidades sin comentario; este resultado no declara completo el libro.",
-    "No constituye revisión profesional externa."
+    "Solo los veinte identificadores asignados han recibido esta segunda lectura; las demás unidades solo se consultaron para remisiones.",
+    "No se citaban decisiones judiciales en este lote; no se añaden autoridades ni se afirma investigación jurisprudencial exhaustiva.",
+    "El libro conserva 652 unidades sin comentario; complete se refiere exclusivamente al lote asignado.",
+    "No constituye aprobación profesional externa."
   ],
   "evidence": [
-    "review-batch-06-audit.json",
-    "review-batch-06-build.json",
-    "review-batch-06-validation.json",
-    "review-batch-06-links.json",
+    "review-batch-07-audit.json",
+    "review-batch-07-build.json",
+    "review-batch-07-validation.json",
+    "review-batch-07-links.json",
     "sources/verification.json"
   ]
 }

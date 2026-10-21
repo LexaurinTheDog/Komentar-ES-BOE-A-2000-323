@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:29:36.245302+00:00",
+  "generated_at": "2026-10-21T23:31:56.033434+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -418,14 +418,30 @@
       }
     },
     {
+      "path": "sources/review-batch-07-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+        "accessed_at": "2026-10-21T23:31:19.653209+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+        "local_path": "sources/review-batch-07-official.xml",
+        "bytes": 5433343,
+        "format_validation": "XML parsed; data/texto present; no HTML challenge",
+        "purpose": "Bounded substantive review a112–a130 including a1-6 (129 bis)"
+      }
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 11541,
-      "sha256": "ce2db71375a9c73d73d35db4346974d27a4ef22d8ab622dd529c630d75e9fada"
+      "bytes": 12110,
+      "sha256": "9da1b0d4e1f88a0f2f94c575b71e6e6a18394b6049cc0651b0477526d977dfe4"
     },
     {
       "path": "sources/version-selection.json",
