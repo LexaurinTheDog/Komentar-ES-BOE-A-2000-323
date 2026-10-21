@@ -153,6 +153,16 @@
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
       "path": "sources/preflight-2026-10-22-analysis.xml",
       "format_validation": "Parsed BOE response/status 200"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:16:36.653212+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/review-batch-01-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validated": "XML, BOE status 200, 1083 expected structural blocks checked below",
+      "identical_to_authoring_xml": true
     }
   ],
   "decisive_date": "2026-10-19",

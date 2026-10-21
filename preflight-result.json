@@ -3,7 +3,7 @@
   "decisive_date": "2026-10-19",
   "decisive_date_reason": "Retained original authoring start recorded in existing metadata; this is a resumed source preflight, not a new legal cutoff.",
   "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
-  "verified_at": "2026-10-21T23:13:53.022357+00:00",
+  "verified_at": "2026-10-21T23:16:36.653212+00:00",
   "version_evidence": {
     "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
     "latest_published_change": "2026-10-07",
@@ -20,7 +20,9 @@
     "fresh_comparison": "sources/preflight-version-audit.json",
     "no_change_in_fresh_xml_metadata_analysis": true,
     "http_and_hash_evidence": "sources/verification.json",
-    "clock_note": "Response access times are actual UTC system clock; snapshot filename uses assigned local task date 2026-10-22."
+    "clock_note": "Response access times are actual UTC system clock; snapshot filename uses assigned local task date 2026-10-22.",
+    "bounded_review_refresh": "review-batch-01-audit.json",
+    "fresh_xml_identical_to_authoring_snapshot": true
   },
   "historical_versions_checked": {
     "blocks": 1083,
@@ -50,7 +52,7 @@
   },
   "unresolved_blockers": [],
   "limitations": [
-    "Preflight only. Existing manuscript remains incomplete: 264 commented units out of 916; no substantive commentary review performed.",
-    "Case-law research and independent second pass are outside this bounded assignment."
+    "Fecha jurídica conservada: 19 de octubre de 2026; el análisis transitorio de cada expediente requiere examen propio.",
+    "La segunda lectura sustantiva de este checkpoint comprende exclusivamente los 20 identificadores de review-result.json; el manuscrito entero permanece incompleto."
   ]
 }

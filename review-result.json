@@ -1,0 +1,165 @@
+{
+  "complete": true,
+  "scope": "Exclusivamente el lote de 20 unidades asignadas; no la obra completa.",
+  "reviewed_at": "2026-10-21T23:18:20.993630+00:00",
+  "decisive_date": "2026-10-19",
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "a5",
+    "a6",
+    "a7",
+    "a7-2",
+    "a8",
+    "a9",
+    "a10",
+    "a11",
+    "a11bis",
+    "a1-3",
+    "a1-5",
+    "a12",
+    "a13",
+    "a14",
+    "a15",
+    "a15bis"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "a1",
+      "disposition": "retained",
+      "assessment": "Legalidad, indisponibilidad y consecuencias diferenciadas de la infracción; remisiones a 225 y 231 cotejadas.",
+      "source": "sources/review-batch-01-official.xml#a1"
+    },
+    {
+      "id": "a2",
+      "disposition": "retained",
+      "assessment": "Irretroactividad distinguida de aplicación a actos futuros; comprobados el artículo 5, DT segunda y DF decimoprimera del RDL 29/2026 conservado.",
+      "source": "sources/review-batch-01-official.xml#a2"
+    },
+    {
+      "id": "a3",
+      "disposition": "retained",
+      "assessment": "Territorialidad separada de jurisdicción y ley material; comprobada remisión a 281.2.",
+      "source": "sources/review-batch-01-official.xml#a3"
+    },
+    {
+      "id": "a4",
+      "disposition": "retained",
+      "assessment": "Supletoriedad condicionada a laguna de la ley especial y compatibilidad; lista práctica pertinente.",
+      "source": "sources/review-batch-01-official.xml#a4"
+    },
+    {
+      "id": "a5",
+      "disposition": "retained",
+      "assessment": "Modalidades de tutela y sujetos afectados del apartado 2 correctamente diferenciados.",
+      "source": "sources/review-batch-01-official.xml#a5"
+    },
+    {
+      "id": "a6",
+      "disposition": "corrected",
+      "assessment": "Se explicitan concebido, reconocimiento legal de entidades sin personalidad, Ministerio Fiscal y entidades de cesación, además de la mayoría para constituir el grupo actor.",
+      "source": "sources/review-batch-01-official.xml#a6"
+    },
+    {
+      "id": "a7",
+      "disposition": "retained",
+      "assessment": "Representación por categorías y alcance de medidas de apoyo; no se confunde representación orgánica y procura.",
+      "source": "sources/review-batch-01-official.xml#a7"
+    },
+    {
+      "id": "a7-2",
+      "disposition": "corrected",
+      "assessment": "Se distinguen expresamente los destinatarios de cada letra del apartado 2; facilitador y apoyos de b/c no se generalizan automáticamente a toda persona mayor.",
+      "source": "sources/review-batch-01-official.xml#a7-2"
+    },
+    {
+      "id": "a8",
+      "disposition": "corrected",
+      "assessment": "Se incluyen los demás supuestos de defensor judicial del demandado y se separa el hito de intervención fiscal que levanta suspensión del nombramiento posterior del defensor.",
+      "source": "sources/review-batch-01-official.xml#a8"
+    },
+    {
+      "id": "a9",
+      "disposition": "retained",
+      "assessment": "Control de oficio en cualquier momento y subsanación diferenciados de legitimación material.",
+      "source": "sources/review-batch-01-official.xml#a9"
+    },
+    {
+      "id": "a10",
+      "disposition": "retained",
+      "assessment": "Legitimación ordinaria, afirmación inicial y prueba del derecho separadas; habilitación extraordinaria requiere ley.",
+      "source": "sources/review-batch-01-official.xml#a10"
+    },
+    {
+      "id": "a11",
+      "disposition": "corrected",
+      "assessment": "Se enumeran categorías habilitadas para intereses colectivos y se matiza la reserva del apartado 3 con la acción fiscal y la cesación; remisión a 6.1.7.º.",
+      "source": "sources/review-batch-01-official.xml#a11"
+    },
+    {
+      "id": "a11bis",
+      "disposition": "corrected",
+      "assessment": "Se detallan sujetos, afiliación/asociación, autorización y requisitos distintos de representatividad y territorio del apartado 2.",
+      "source": "sources/review-batch-01-official.xml#a11bis"
+    },
+    {
+      "id": "a1-3",
+      "disposition": "corrected",
+      "assessment": "Se explicita la habilitación de organismos públicos competentes en intereses difusos; preservada reserva exclusiva de la persona acosada.",
+      "source": "sources/review-batch-01-official.xml#a1-3"
+    },
+    {
+      "id": "a1-5",
+      "disposition": "retained",
+      "assessment": "Autorización, entidades profesionales, intereses difusos y Ministerio Fiscal cotejados; no se extiende por error el llamamiento de 15 quater.",
+      "source": "sources/review-batch-01-official.xml#a1-5"
+    },
+    {
+      "id": "a12",
+      "disposition": "retained",
+      "assessment": "Litisconsorcio voluntario y necesario diferenciados; cotejo de acumulación 71/72 y subsanación de 420.",
+      "source": "sources/review-batch-01-official.xml#a12"
+    },
+    {
+      "id": "a13",
+      "disposition": "corrected",
+      "assessment": "Se precisa que los diez días son plazo común de audiencia de las partes personadas; conservada ausencia de retroacción y autonomía del interviniente.",
+      "source": "sources/review-batch-01-official.xml#a13"
+    },
+    {
+      "id": "a14",
+      "disposition": "corrected",
+      "assessment": "La llamada por el actor del apartado 1 es sin cualidad de demandado, con facultades de parte. Se precisan hitos de reanudación del plazo del demandado y ausencia de plazo íntegro nuevo.",
+      "source": "sources/review-batch-01-official.xml#a14"
+    },
+    {
+      "id": "a15",
+      "disposition": "corrected",
+      "assessment": "Se añade criterio para fijar duración de suspensión y reanudación con quienes acudieron al llamamiento; cotejadas remisiones a 221 y 519.",
+      "source": "sources/review-batch-01-official.xml#a15"
+    },
+    {
+      "id": "a15bis",
+      "disposition": "corrected",
+      "assessment": "Se identifican autoridades y normas de competencia del propio texto (101/102 TFUE y 1/2 LDC), petición de remisión de documentos y límites de clemencia; régimen de datos separado en apartado 3.",
+      "source": "sources/review-batch-01-official.xml#a15bis"
+    }
+  ],
+  "limitations": [
+    "Revisión sustantiva limitada a los 20 identificadores expresos; las remisiones a otras unidades se consultaron solo para verificar esas referencias.",
+    "No se ha realizado nueva búsqueda jurisprudencial en este lote. Los 20 comentarios no atribuyen a sentencias concretas sus interpretaciones; las fichas existentes no se amplían ni se presentan como cobertura exhaustiva.",
+    "El manuscrito completo sigue con 652 unidades sin comentario; el fallo global de build y validación se registra sin convertirlo en bloqueo de este lote.",
+    "Esta segunda lectura del proceso revisor no acredita aprobación profesional externa."
+  ],
+  "evidence": [
+    "review-batch-01-audit.json",
+    "review-batch-01-build.json",
+    "review-batch-01-validation.json",
+    "review-batch-01-links.json",
+    "sources/verification.json"
+  ]
+}

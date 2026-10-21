@@ -959,7 +959,7 @@
   "remaining_limitations": [
     "Manuscrito incompleto: faltan comentarios de las unidades enumeradas.",
     "Investigación jurisprudencial selectiva, sin cobertura exhaustiva.",
-    "No hay segunda revisión independiente.",
+    "Segunda lectura limitada a las 20 unidades de review-result.json; no cubre el resto del libro.",
     "No se alcanza la fase drafted_technical_validation."
   ],
   "local_link_errors": 0,
@@ -979,5 +979,33 @@
     "coverage": true,
     "statutory_text_agreement": 1.0,
     "opening_formula_restored": true
+  },
+  "bounded_second_pass": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "a1",
+      "a2",
+      "a3",
+      "a4",
+      "a5",
+      "a6",
+      "a7",
+      "a7-2",
+      "a8",
+      "a9",
+      "a10",
+      "a11",
+      "a11bis",
+      "a1-3",
+      "a1-5",
+      "a12",
+      "a13",
+      "a14",
+      "a15",
+      "a15bis"
+    ],
+    "report": "review-result.json",
+    "unresolved_blockers": []
   }
 }
