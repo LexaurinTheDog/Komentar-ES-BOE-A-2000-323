@@ -11,12 +11,11 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 288118,
     "errors": [
-      "krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
   "stderr": "",
-  "scope_note": "Validación integral; no se exige superar comentarios pendientes fuera del lote de revisión."
+  "scope_note": "Validación integral con checkpoint commitido; único fallo: 652 comentarios pendientes fuera de estas 20 unidades."
 }
