@@ -4,8 +4,7 @@
   "verbatim_ratio": 1.0,
   "commentary_chars": 342508,
   "errors": [
-    "krátký/chybějící komentář u 636 jednotek: ['a264(0<400)', 'a265(0<400)', 'a266(0<400)', 'a267(0<400)', 'a268(0<400)', 'a2-14(0<400)', 'a269(0<400)', 'a270(0<400)']",
-    "necommitnuté změny v repu"
+    "krátký/chybějící komentář u 636 jednotek: ['a264(0<400)', 'a265(0<400)', 'a266(0<400)', 'a267(0<400)', 'a268(0<400)', 'a2-14(0<400)', 'a269(0<400)', 'a270(0<400)']"
   ],
   "warnings": [],
   "ok": false
