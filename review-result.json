@@ -1,137 +1,122 @@
 {
   "complete": true,
+  "scope": "Exclusivamente las veinte unidades asignadas; no el libro íntegro.",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a225",
-    "a2-13",
-    "a227",
-    "a228",
-    "a229",
-    "a230",
-    "a231",
-    "a232",
-    "a233",
-    "a234",
-    "a235",
-    "a236",
-    "a237",
-    "a238",
-    "a239",
-    "a240",
-    "a241",
-    "a242",
-    "a243",
-    "a244"
+    "a245",
+    "a2-15",
+    "a246",
+    "a247",
+    "a248",
+    "a249",
+    "a250",
+    "a251",
+    "a252",
+    "a253",
+    "a254",
+    "a255",
+    "a256",
+    "a257",
+    "a258",
+    "a259",
+    "a260",
+    "a261",
+    "a262",
+    "a263"
   ],
-  "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-21T23:42:06.685050+00:00",
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a225",
-      "assessment": "Comprobadas siete causas; explicitada cláusula del número 7, sin equiparar competencia territorial ni ausencia física de LAJ con toda nulidad.",
-      "source": "sources/review-batch-13-official.xml#a225"
+      "id": "a245",
+      "finding": "Conservado: plazo, legitimaciones, partidas concretas, confidencialidad limitada y propuesta sustancialmente coincidente cotejados con los cinco apartados."
     },
     {
-      "id": "a2-13",
-      "assessment": "Dos apartados cotejados: cese de coacción del tribunal, comunicación fiscal y extensión causal a actos vinculados; identificador a2-13 conserva artículo 226.",
-      "source": "sources/review-batch-13-official.xml#a2-13"
+      "id": "a2-15",
+      "finding": "Conservado: tres días, conformidad por silencio, decreto/revisión, auto/reposición y secuencia posterior del 246 comprobados; a2-15 es 245 bis."
     },
     {
-      "id": "a227",
-      "assessment": "Precisados presupuestos alternativos de defectos formales; audiencia, subsidiariedad y límites de oficio en recurso cotejados.",
-      "source": "sources/review-batch-13-official.xml#a227"
+      "id": "a246",
+      "finding": "Precisados sujetos y condiciones de costas del incidente: profesional que reclama inclusión, abuso y parte defendida; revisión y falta de ulterior recurso. Cotejados cinco días, informe previo, subsidiariedad y justicia gratuita."
     },
     {
-      "id": "a228",
-      "assessment": "Explicitados artículo 53.2 CE, providencia de inadmisión, traslado documental común y auto con todas las costas; veinte días/cinco años y multa cotejados. STC 30/2014 leída íntegramente, FJ 2–6 y fallo, contextual y sin extender admisibilidad.",
-      "source": "sources/review-batch-13-official.xml#a228"
+      "id": "a247",
+      "finding": "Conservado: buena fe, rechazo motivado, multa, límite de tercio, audiencia documentada, comunicaciones colegial y a comisión, remisión orgánica."
     },
     {
-      "id": "a229",
-      "assessment": "Actuación tardía cotejada, nulidad condicionada por naturaleza del plazo; remisiones 132, 136 y 211 correctas.",
-      "source": "sources/review-batch-13-official.xml#a229"
+      "id": "a248",
+      "finding": "Conservado: reserva de proceso especial, dos cauces y prioridad de materia; ejemplo de cuotas compatible con 250.1.15."
     },
     {
-      "id": "a230",
-      "assessment": "Conservación por independencia y contenido invariable cotejada; ejemplo no presume dependencia automática de todo acto posterior.",
-      "source": "sources/review-batch-13-official.xml#a230"
+      "id": "a249",
+      "finding": "Conservado: ocho atribuciones y excepciones; umbral superior a 15.000, acciones colectivas e individuales y propiedad horizontal contrastados."
     },
     {
-      "id": "a231",
-      "assessment": "Subsanación de actos de parte cotejada, distinta de creación de recurso omitido; relación con 227 correcta.",
-      "source": "sources/review-batch-13-official.xml#a231"
+      "id": "a250",
+      "finding": "Conservado: dieciséis atribuciones, restricciones de legitimación posesoria, distinción de contratos inscritos, umbral inclusivo y OEPM."
     },
     {
-      "id": "a232",
-      "assessment": "Precisada denominación literal de Secretario y competencia de tramitación, sin desplazar decisión judicial por controversia; fiscal siempre parte.",
-      "source": "sources/review-batch-13-official.xml#a232"
+      "id": "a251",
+      "finding": "Precisados cinco años y vigésima parte en servidumbres y período anual o menor de negociación de valores. Leídas las doce reglas y sus subreglas."
     },
     {
-      "id": "a233",
-      "assessment": "Tres requisitos del escrito, documentos y alternativa de protocolos/registros cotejados; iniciativa de oficio, partes y herederos preservada.",
-      "source": "sources/review-batch-13-official.xml#a233"
+      "id": "a252",
+      "finding": "Conservado: ocho reglas, títulos distintos/comunes, accesorios vencidos, desahucio, acciones reales, plazos, solidaridad, reconvención y ampliación."
     },
     {
-      "id": "a234",
-      "assessment": "Dos apartados cotejados: forma inicial, comparecencia ante LAJ en diez días, postulación e inasistencias.",
-      "source": "sources/review-batch-13-official.xml#a234"
+      "id": "a253",
+      "finding": "Conservado: carga de justificación, expresión relativa, estabilización y tres causas de indeterminación; lectura sistemática del umbral con 249.2."
     },
     {
-      "id": "a235",
-      "assessment": "Cuatro apartados cotejados; explicitada convocatoria fiscal y propuesta de prueba en vista; diez/quince días, decreto sin controversia y auto apelable correctos.",
-      "source": "sources/review-batch-13-official.xml#a235"
+      "id": "a254",
+      "finding": "Conservado: diligencia/revisión sin suspensión, cálculo simple, representación, prohibición de inadmisión por cuantía y subsanación de diez días."
     },
     {
-      "id": "a236",
-      "assessment": "Impulso de oficio distinto de cargas y caducidad prolongada cotejado, sin imponer recordatorios generales.",
-      "source": "sources/review-batch-13-official.xml#a236"
+      "id": "a255",
+      "finding": "Conservado: efectos habilitantes de impugnación, contestación y decisión en audiencia previa o 438.10; contrastado este último trámite actual."
     },
     {
-      "id": "a237",
-      "assessment": "Dos/ un año y última notificación cotejados; añadido supuesto 179.2 para distinguir archivo provisional de demora institucional; revisión exclusiva del decreto.",
-      "source": "sources/review-batch-13-official.xml#a237"
+      "id": "a256",
+      "finding": "Añadidos testimonio documental y formas de caución por remisión a 64.2; cotejados todos los números, 5 bis, datos/indicios y plazos de doce meses y de demanda."
     },
     {
-      "id": "a238",
-      "assessment": "Fuerza mayor o causa no imputable cotejadas, sin confundir dificultad estratégica con imposibilidad ajena.",
-      "source": "sources/review-batch-13-official.xml#a238"
+      "id": "a257",
+      "finding": "Acotada la facultad de solicitar diligencias sucesivas a los cuatro supuestos excepcionales; comprobados domicilio, exclusión de declinatoria y conflicto negativo."
     },
     {
-      "id": "a239",
-      "assessment": "Exclusión de ejecución cotejada; diferenciados inicio de acción y terminación por satisfacción del 570.",
-      "source": "sources/review-batch-13-official.xml#a239"
+      "id": "a258",
+      "finding": "Conservado: adecuación, causa/interés, decisión en cinco días, recursos asimétricos y archivo por caución no prestada en tres días."
     },
     {
-      "id": "a240",
-      "assessment": "Tres apartados cotejados: desistimiento y firmeza en recurso, nueva demanda condicionada en primera y reparto de costas sin condena.",
-      "source": "sources/review-batch-13-official.xml#a240"
+      "id": "a259",
+      "finding": "Precisado destino exclusivo de la información a tutela de propiedad industrial o intelectual, sin extenderlo a cualquier derecho del solicitante; diez días, experto y reserva cotejados."
     },
     {
-      "id": "a241",
-      "assessment": "Corregida ambigüedad sobre tasa hipotecaria: exclusión solo de tasa y préstamos para adquisición, incluidos avalistas; explicitada gratuidad de documentos reclamados por tribunal.",
-      "source": "sources/review-batch-13-official.xml#a241"
+      "id": "a260",
+      "finding": "Conservado: oposición cinco días, impugnación otros cinco, posibilidad de vista, costas y apelación según resultado."
     },
     {
-      "id": "a242",
-      "assessment": "Cinco apartados cotejados: firmeza, pago, justificantes, minutas y arancel frente a normas profesionales; sin inventar tarifas obligatorias.",
-      "source": "sources/review-batch-13-official.xml#a242"
+      "id": "a261",
+      "finding": "Conservado tras cotejo de las cinco medidas y relectura completa de STC 222/2012, antecedentes, FJ 1–5 y fallo: inadmisión procesal sin decisión material de constitucionalidad."
     },
     {
-      "id": "a243",
-      "assessment": "Tres apartados cotejados; explicitados tercio y 24.000 euros del 394.3, excepción por complejidad y ámbito procesal; IVA y partidas excluidas correctos.",
-      "source": "sources/review-batch-13-official.xml#a243"
+      "id": "a262",
+      "finding": "Conservado: resolución en cinco días, audiencia, aplicación indemnizatoria, apelación no suspensiva y retención de remanente durante mes."
     },
     {
-      "id": "a244",
-      "assessment": "Tres apartados cotejados: cierre de partidas al traslado, diez días comunes, exoneración y revisión; precisados requisitos documentales y sustanciales de remisión 245.5.",
-      "source": "sources/review-batch-13-official.xml#a244"
+      "id": "a263",
+      "finding": "Conservado: integración compatible con leyes especiales y remisión exacta a 256.1.9; no se inventan habilitaciones sectoriales."
     }
   ],
   "limitations": [
-    "Segunda lectura limitada a los veinte identificadores asignados; el libro permanece incompleto.",
-    "Jurisprudencia selectiva: relectura íntegra de la sentencia citada, sin nueva búsqueda exhaustiva.",
-    "652 unidades ajenas al lote carecen aún de comentario; los controles globales conservarán esa carencia.",
-    "No equivale a aprobación profesional externa."
+    "Revisión sustantiva limitada al lote; 636 unidades ajenas siguen sin comentario.",
+    "Jurisprudencia selectiva: se revisa la autoridad existente, sin afirmar búsqueda exhaustiva ni aprobación profesional externa.",
+    "Se conserva la fecha jurídica de autoría 2026-10-19; las reformas posteriores a la captura original están documentadas en el preflight y mapa de cambios."
+  ],
+  "reviewed_at": "2026-10-21T23:49:57.686630+00:00",
+  "source_evidence": "review-batch-14-audit.json",
+  "case_sources": [
+    "cases/TC-222-2012.md",
+    "sources/TC-222-2012.txt",
+    "sources/TC-23180-local.md"
   ]
 }

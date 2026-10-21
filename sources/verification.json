@@ -310,6 +310,14 @@
       "sha256": "a6ce6fab889e215480728ac2b6469cf767662809fc3a2bba4728a040e0031c5f",
       "http_headers": "sources/TC-222-2012-http.txt",
       "format_validation": "Parsed documento; title, date, full antecedents, grounds and fallo checked"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:49:02.889374+00:00",
+      "http_status": 200,
+      "path": "sources/review-batch-14-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validation": "XML parsed; 1083 statutory/structural blocks; no HTML response"
     }
   ],
   "decisive_date": "2026-10-19",
