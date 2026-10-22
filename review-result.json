@@ -2,115 +2,123 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a412",
-    "a413",
-    "a414",
-    "a415",
-    "a416",
-    "a417",
-    "a418",
-    "a419",
-    "a420",
-    "a421",
-    "a422",
-    "a423",
-    "a424",
-    "a425",
-    "a426",
-    "a427",
-    "a428",
-    "a429",
-    "a430",
-    "a431"
+    "a432",
+    "a433",
+    "a434",
+    "a435",
+    "a436",
+    "a437",
+    "a438",
+    "a4-4",
+    "a439",
+    "a4-5",
+    "a440",
+    "a441",
+    "a442",
+    "a443",
+    "a444",
+    "a445",
+    "a446",
+    "a447",
+    "a4-2",
+    "a448"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a412",
-      "finding": "Contrastados ambos apartados: estabilidad del objeto y excepciones complementarias; remisiones 218,426,286 y ejemplo de facturas correctos."
+      "id": "a432",
+      "finding": "Dos apartados cotejados: representación, interrogatorio personal, comparecencia electrónica acordada y efectos distintos de ausencia unilateral o bilateral."
     },
     {
-      "id": "a413",
-      "finding": "Contrastados dos apartados: innovaciones, pérdida definitiva de interés y remisión a 22; satisfacción parcial no equiparada a total."
+      "id": "a433",
+      "finding": "Cuatro apartados cotejados: prueba ilícita y hechos sobrevenidos antes de prueba; conclusiones fácticas, informe jurídico sin cambio de pretensión y aclaraciones."
     },
     {
-      "id": "a414",
-      "finding": "Cuatro apartados cotejados: convocatoria, celebración, poder y ausencias. Precisado carácter obligatorio de comparecencia remota acordada por tribunal."
+      "id": "a434",
+      "finding": "Tres apartados cotejados: veinte días, suspensión por diligencias acordadas y suspensión motivada por expediente de competencia con audiencia y reposición."
     },
     {
-      "id": "a415",
-      "finding": "Tres apartados cotejados: desistimiento, homologación, suspensión consensuada y continuación. Efectos ejecutivos e impugnación correctamente distinguidos."
+      "id": "a435",
+      "finding": "Reglas 1.1–1.3 y excepción 2 cotejadas: prohibición de subsanar negligencia, prueba admitida frustrada, hechos nuevos y repetición excepcional motivada."
     },
     {
-      "id": "a416",
-      "finding": "Cinco cuestiones y exclusión de declinatoria tardía cotejadas; preservado control de oficio y diferencia entre capacidad y titularidad material."
+      "id": "a436",
+      "finding": "Dos apartados cotejados: veinte días de práctica, cinco días de valoración escrita y reinicio del cómputo tras transcurso del plazo, sin mezclar versiones."
     },
     {
-      "id": "a417",
-      "finding": "Orden conforme a artículos siguientes y auto conjunto en cinco días cotejados; no se generaliza posibilidad de diferir decisión."
+      "id": "a437",
+      "finding": "Cinco apartados, incluido 3 bis, cotejados: demanda, formularios, condonación mínima quince días, ocupantes desconocidos y cuatro excepciones de acumulación."
     },
     {
-      "id": "a418",
-      "finding": "Tres apartados cotejados: subsanación máxima diez días, suspensión, terminación y excepción de rebeldía del demandado."
+      "id": "a438",
+      "finding": "Diez apartados cotejados: contestación diez días, reconvención y compensación, tutela registral, desahucio, recuperación especial y secuencia escrita de prueba 5/3 días con auto recurrible suspensivamente."
     },
     {
-      "id": "a419",
-      "finding": "Oposición motivada, audiencia del actor, decisión oral y continuación de acciones admisibles cotejadas; subsidiariedad correctamente tratada."
+      "id": "a4-4",
+      "finding": "Seis apartados cotejados: identidad sustancial, exclusión de control individual, suspensión apelable, preferencia, opciones cinco días, costas motivadas y extensión 519."
     },
     {
-      "id": "a420",
-      "finding": "Cuatro apartados cotejados. Explicitada suspensión de audiencia del apartado 1; mínimo diez días y emplazamiento para contestar diferenciados."
+      "id": "a439",
+      "finding": "Ocho apartados y marcas de anulación cotejados. Añadido alcance de STC 190/2025 FJ 5: información disponible sobre vivienda habitual, sin investigación imposible. Comprobados FJ 6 C de STC 26/2025 y ambos fallos."
     },
     {
-      "id": "a421",
-      "finding": "Tres apartados cotejados: cosa juzgada negativa/positiva, decisión oral y diferida. STC 5/2009 íntegra releída, FJ 4–8 y fallo verificados."
+      "id": "a4-5",
+      "finding": "Párrafos y letras a–c cotejados: presentación/recepción, aceptación fehaciente, interés legal más ocho puntos y devengo desde aceptación. Corregido: se valora posición durante negociación previa, no conducta posterior."
     },
     {
-      "id": "a422",
-      "finding": "Dos apartados cotejados: valoración acordada o motivada, conversión a verbal, reparto del señalamiento y excepción de caducidad."
+      "id": "a440",
+      "finding": "Tres párrafos cotejados: citación condicionada a vista necesaria, cinco días/un mes, negociación y apercibimientos 304/442, coordinados con 438."
     },
     {
-      "id": "a423",
-      "finding": "Tres apartados cotejados: materia, decisión inmediata o en cinco días, verbal y sobreseimiento por caducidad o requisitos especiales."
+      "id": "a441",
+      "finding": "Comprobados 1,1 bis,2–7: sucesión posesoria, incidente cinco días, obra nueva, tutela registral, muebles, comunicación social y suspensión. Precisado criterio renta sólo en impago y detalladas bases e incrementos IPREM. STC 190/2025 FJ 6 no restaura requisitos anulados."
     },
     {
-      "id": "a424",
-      "finding": "Dos apartados cotejados: aclaración a petición o de oficio y umbral de absoluta imposibilidad; ejemplo no autoriza sustitución de demandado."
+      "id": "a442",
+      "finding": "Dos apartados cotejados: desistimiento salvo interés legítimo, costas e indemnización solicitada y acreditada; ausencia del demandado no suspende."
     },
     {
-      "id": "a425",
-      "finding": "Cláusula de analogía cotejada; se distingue procedimiento de resolución de creación de presupuestos de admisión."
+      "id": "a443",
+      "finding": "Cuatro apartados cotejados: acuerdo y homologación, negociación voluntaria, prórroga única con solicitud quince días antes, hechos controvertidos y prueba ya admitida con complemento limitado."
     },
     {
-      "id": "a426",
-      "finding": "Seis apartados cotejados: complemento, aclaración, accesoriedad, novedad, documentos y advertencia judicial; 286.4,267,268 verificados."
+      "id": "a444",
+      "finding": "Comprobados apartados 1,1 bis,2,3 y cuatro causas en cada lista: especialidades de pago/enervación, título posesorio, registro y muebles; no generalizadas a todo verbal."
     },
     {
-      "id": "a427",
-      "finding": "Cuatro apartados cotejados: documentos, pericias e informes 265.1.5; cinco días de 338.2 verificados y perito judicial correctamente separado."
+      "id": "a445",
+      "finding": "Remisión literal cotejada, incluida incorporación vigente de diligencias finales por reforma de 2025. Límites de 435 y valoración de 436 correctos."
     },
     {
-      "id": "a428",
-      "finding": "Tres apartados cotejados: hechos conformes, acuerdo y sentencia veinte días; diferencia con 429.8 correcta."
+      "id": "a446",
+      "finding": "Reposición oral y protesta cotejadas; diferenciadas del auto previo de 438.10 y de admisibilidad de segunda instancia."
     },
     {
-      "id": "a429",
-      "finding": "Ocho apartados cotejados: escrito dos días, insuficiencia, señalamiento, negociación 2025, auxilio tres días y sentencia sin juicio. No se reabre proposición omitida."
+      "id": "a447",
+      "finding": "Cuatro apartados cotejados: conclusiones facultativas, plazos 10/5 días, sentencia oral, lanzamiento y cosa juzgada de rentas/fiador frente a tutela posesoria sumaria."
     },
     {
-      "id": "a430",
-      "finding": "Remisión a 183 cotejada: impedimento, acreditación y solicitud inmediata; alternativas para testigo y necesidad de decisión correctamente señaladas."
+      "id": "a4-2",
+      "finding": "Trece reglas cotejadas: legitimación, interposición 2/6 meses, expediente veinte días, personación nueve días, demanda/contestación veinte, complemento diez días y archivo de oficio."
     },
     {
-      "id": "a431",
-      "finding": "Contenido probatorio y conclusiones cotejados con 433; no amplía objeto ni ignora hipótesis de sentencia sin juicio."
+      "id": "a448",
+      "finding": "Dos apartados cotejados: gravamen y recurso legal, notificación y aclaración; verificadas remisiones 210.4,215.5 y449 sin anticipar revisión de sus comentarios."
     }
   ],
   "limitations": [
-    "Segunda lectura exclusivamente de a412–a431; no conclusión de todo el libro.",
-    "Jurisprudencia selectiva: STC 5/2009 íntegra releída, sin búsqueda exhaustiva ni nuevas autoridades.",
-    "Corte jurídico conservado de 2026-10-19; no aprobación profesional externa."
+    "Revisión sustantiva limitada exactamente a estas veinte unidades; libro incompleto.",
+    "Jurisprudencia selectiva existente: relectura de fundamentos pertinentes y fallos sobre textos íntegros conservados; no nueva búsqueda exhaustiva ni relectura integral de todos los antecedentes y votos.",
+    "Corte jurídico del inicio de autoría: 2026-10-19, sin aprobación profesional externa."
   ],
-  "reviewed_at": "2026-10-22T00:48:24.419665+00:00",
-  "source_evidence": "review-batch-23-audit.json"
+  "reviewed_at": "2026-10-22T00:57:59.186656+00:00",
+  "source_evidence": "review-batch-24-audit.json",
+  "validation": {
+    "bounded": "review-batch-24-checkpoint-validation.json",
+    "bounded_ok": true,
+    "whole_title": "review-batch-24-validation.json",
+    "whole_title_ok": false,
+    "outside_scope_uncommented_units": 436,
+    "statutory_text_agreement": 1.0
+  }
 }

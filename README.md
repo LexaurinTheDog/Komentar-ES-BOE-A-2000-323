@@ -62,3 +62,8 @@ Validación estricta del [checkpoint de estos veinte artículos](author-a332-a35
 ## Checkpoint de autoría: artículos 432–448
 
 Se añaden veinte comentarios, incluidos 438 bis, 439 bis y 447 bis, sobre el texto seleccionado a 19 de octubre de 2026 y nuevamente cotejado con XML oficial. [Fuentes y límites del lote](SOURCES-a432-a448.md), [preflight](author-a432-a448-preflight-result.json) y [auditoría](author-a432-a448-audit.json). La selección jurisprudencial examina las SSTC 26/2025 y 190/2025 para las unidades 439 y 441. Borrador parcial pendiente de segunda lectura independiente; no es aprobación profesional externa ni terminación del libro.
+
+
+## Revisión limitada de artículos 432–448
+
+Completada la segunda lectura de las veinte unidades exactas de [review-result.json](review-result.json), incluidos 438 bis, 439 bis y 447 bis. Correcciones y límites en [REVIEW.md](REVIEW.md). El [checkpoint limitado pasa validación estricta](review-batch-24-checkpoint-validation.json), con coincidencia legal del 100 %. La [validación del libro](review-batch-24-validation.json) conserva 436 comentarios pendientes fuera de este lote; no se declara terminado el libro.
