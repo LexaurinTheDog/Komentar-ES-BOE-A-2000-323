@@ -1,0 +1,12 @@
+{
+  "repo": "Komentar-ES-BOE-A-2000-323",
+  "units": 916,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 743230,
+  "errors": [
+    "krátký/chybějící komentář u 396 jednotek: ['a488(0<400)', 'a489(0<400)', 'a490(0<120)', 'a491(0<120)', 'a492(0<120)', 'a493(0<120)', 'a494(0<400)', 'a495(0<400)']"
+  ],
+  "warnings": [],
+  "ok": false,
+  "scope_note": "Validación íntegra: único error, 396 unidades ajenas al lote aún sin comentario. Validación del checkpoint asignado satisfactoria."
+}
