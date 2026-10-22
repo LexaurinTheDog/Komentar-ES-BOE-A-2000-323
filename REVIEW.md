@@ -1,37 +1,32 @@
-# Segunda lectura parcial: artículos 707–726
+# Segunda lectura parcial: artículos 727–746
 
-Revisadas exactamente veinte unidades a707–a726, contra texto oficial y sus versiones históricas. Corte jurídico: 19 de octubre de 2026; consulta renovada al BOE el 22 de octubre. Borrador parcial sin aprobación profesional externa. El libro permanece incompleto.
+Revisadas exactamente las veinte unidades a727–a746 frente al texto oficial y las versiones históricas disponibles. Corte jurídico: 19 de octubre de 2026; consulta BOE renovada el 22 de octubre. Borrador parcial sin aprobación profesional externa. El libro permanece incompleto.
 
-Se precisa el inicio del cómputo mensual del artículo 709, se corrige la formulación facultativa del apremio del artículo 710 y se hace explícita la consecuencia de la negación genérica en el ejemplo del artículo 714. Los restantes comentarios se conservan tras cotejo individual. La comprobación estructural abarca inventario oficial, ausencia de anexos y fórmula promulgatoria, sin extender la revisión sustantiva a otros artículos.
+Se corrige el alcance de la intervención de ingresos en la regla 8.ª del artículo 727 y se aclara el momento preclusivo probatorio del artículo 732. Los otros dieciocho comentarios se conservan tras cotejo individual de condiciones, consecuencias, competencias, plazos, remisiones y ejemplos. No se altera el inventario legal ni se amplía esta revisión a otros artículos.
 
-Se releen los FFJJ 6–10 y fallo de STC 14/1992 en la resolución íntegra conservada, con comprobación de su corrección oficial. La doctrina del FJ 7 se refiere al antiguo juicio ejecutivo; no interpreta directamente los artículos 721.3 o 726 vigentes. Se distinguen razonamientos de la mayoría, alegaciones y voto discrepante. Investigación selectiva.
+La ficha de STC 14/1992 se contrasta con los FFJJ 6–10, el fallo y la corrección oficial conservados. Los pasajes utilizados del FJ 7 tratan del antiguo juicio ejecutivo: sirven de contexto constitucional y no deciden las reglas cautelares vigentes ni la reforma de 2025. No se confunden alegaciones o voto particular con la doctrina mayoritaria. Investigación selectiva.
 
-| Unidad | Comprobación |
+| Unidad | Cotejo sustantivo |
 |---|---|
-| a707 | Publicación delimitada por fallo, coste del vencido y delegación solo del requerimiento a petición y costa del ejecutante; coordinación 706. |
-| a708 | Resolución firme, veinte días 548, auto sustitutivo, mandamiento y reserva formal; audiencia y accesorios frente a indeterminación esencial y daños. |
-| a709 | Negativa y personalismo en plazo 699, decisión por auto y reconducción 706; equivalente con multa única, inicio mensual precisado, requerimientos trimestrales y límite anual; prioridad del título. |
-| a710 | Restauración, daños y abstención, apercibimiento sin automatismo penal; corregida formulación facultativa de multa por deshacer; irreversibilidad y no reiteración son acumulativas. |
-| a711 | Base del precio o mercado, máximos 20/50, separación indemnización y multa; escala diaria 600–60000, criterios y Tesoro en cesación colectiva. |
-| a712 | Cuatro objetos de liquidación y presupuesto de habilitación legal en ejecución; límites del título y cauces diferenciados. |
-| a713 | Relación motivada detallada valorada, dictámenes facultativos y traslado íntegro diez días; contradicción sobre existencia y cuantía. |
-| a714 | Decreto y ejecución dineraria, conformidad a hechos ante silencio o negación genérica; corregida consecuencia imprecisa del ejemplo y conservados límites del título. |
-| a715 | Oposición motivada, verbal, perito mediante providencia tras impugnación y diez días desde día siguiente al traslado; tribunal de orden general. |
-| a716 | Auto cinco días tras vista, motivación de partidas, apelación no suspensiva y costas con remisión 394 sin automatismo por posición ejecutada. |
-| a717 | Estimación fundada y documentos, traslado diez días y remisión 714–716; equivalente separado de daños adicionales y multa única. |
-| a718 | Cuenta inicialmente a cargo de deudor, plazo circunstanciado por LAJ y bases del título; no confundir con traslado diez días. |
-| a719 | Cuenta del deudor y conformidad del acreedor, decreto o 715; subsidiariedad de cuenta del acreedor y audiencia 714–716 pese a rúbrica. |
-| a720 | Rendición de cuentas y entrega del saldo, extensión 718–719 y ampliación de plazos por decreto atendiendo complejidad; no modificación del título. |
-| a721 | Actor principal/reconvencional y responsabilidad, prohibición de mayor gravamen y excepción específica de oficio sin caución 721.3 desde 20-03-2024; STC anterior no interpreta reforma. |
-| a722 | Convenio previo, arbitraje pendiente, formalización e institución, acreditación; extranjero y reserva de competencia exclusiva, prioridad de instrumentos aplicables. |
-| a723 | Órgano de primera instancia o competente para futura demanda, apelación/casación; no arrastre de recurso extraordinario por infracción procesal histórico. |
-| a724 | Lugar de ejecución del laudo y subsidiariamente eficacia cautelar; extensión a tribunal extranjero con reserva tratados y coordinación 722. |
-| a725 | No declinatoria territorial anticipada, examen de oficio, audiencia fiscal/solicitante, abstención y salvedad internacional; sumisión dispositiva y cautela preventiva solo ante defecto territorial. |
-| a726 | Instrumentalidad y alternativa igualmente eficaz menos perjudicial; órdenes similares provisionales sin prejuzgar fondo, coordinación 728 y límite histórico de STC 14/1992 FJ 7. |
+| a727 | Once modalidades, catálogo abierto sujeto a 726/728; corregido alcance general de ingresos ilícitos 8.ª frente a remuneraciones intelectuales y depósito 9.ª; anotación MASC y umbrales sociales. |
+| a728 | Peligro concreto, tolerancia justificada, apariencia documental u otros medios, caución y dispensa circunstanciada; STC histórica delimitada. |
+| a729 | Dominio y excepción de mejor derecho requieren distinguir propiedad y prioridad, demanda dineraria en otro proceso y tribunal del embargo. |
+| a730 | Demanda ordinaria y anticipada urgente, veinte días y consecuencias; acuerdo MASC, retroacción registral y solicitud de alzamiento sin acuerdo; arbitraje y oportunidad sobrevenida. |
+| a731 | Accesoriedad, condena y plazo 548, suspensión superior a seis meses imputable y alzamiento relacionado con ejecución provisional; coordinación 744–745. |
+| a732 | Claridad, justificación, documentos y otros medios; investigación urgente para actividad ilícita, proposición preclusiva en escrito inicial y oferta de caución. Redacción de preclusión aclarada. |
+| a733 | Audiencia como regla, petición y justificación separada de excepción, cinco días, notificación inmediata y oposición en vez de recurso; STC antigua contextualizada. |
+| a734 | Convocatoria cinco días y vista diez, pertinencia, reconocimiento cinco días, dos cauciones y protesta para denuncia ulterior. |
+| a735 | Auto en cinco días, totalidad de requisitos, régimen preciso de cada medida y caución, apelación no suspensiva y prestación previa. |
+| a736 | Única apelación preferente y costas por 394; nueva petición solo con cambio de circunstancias, distinta de modificación de medidas otorgadas. |
+| a737 | Prestación anterior a cumplimiento, providencia de idoneidad y suficiencia, distinción de oferta y garantía efectiva; dispensa 728 conservada. |
+| a738 | Cumplimiento de oficio, embargo sin manifestación 589, modificación por tribunal, administración 630 y registro; enajenación solo excepcional autorizada. |
+| a739 | Oposición exclusiva a medida sin audiencia, veinte días desde notificación del auto y cauce contradictorio sin alzamiento automático. |
+| a740 | Motivos abiertos relativos a cautela, límites frente al fondo y compatibilidad de caución sustitutoria subsidiaria. |
+| a741 | Traslado LAJ y vista 734, auto cinco días, costas y daños según resultado, apelación sin suspensión y firmeza para liquidar daños. |
+| a742 | Firmeza y petición del demandado, liquidación 712 y siguientes, causalidad, requerimiento y exacción, caución sin límite indemnizatorio legal en este artículo; autoridad histórica delimitada. |
+| a743 | Hechos alegados y probados antes indisponibles, cambio sobrevenido, cauce 734 y siguientes y distinción de sustitución 746–747. |
+| a744 | Absolución no firme exige pedir mantenimiento o sustitución al recurrir, audiencia y decisión antes de remisión; estimación parcial y proporcionalidad. |
+| a745 | Alzamiento de oficio ante absolución firme en fondo o instancia, remisión a daños 742, misma consecuencia en renuncia o desistimiento. |
+| a746 | Caución de demandado asegura sentencia, valoración conjunta de pretensión y apariencia de su posición, grave desproporción económica y límites de garantía dineraria frente a tutela específica. |
 
-Evidencia: [resultado](review-result.json), [inventario y versiones](review-batch-38-audit.json), [preflight](preflight-result.json), [ficha judicial](cases/STC-14-1992-a707-a726.md). Validación y límite global: review-batch-38-validation.json. Los controles técnicos no prueban por sí solos calidad jurídica.
-
-
-## Control de autoría del lote 727–746
-
-Se redactan y cotejan las veinte unidades asignadas. Se comprueban remisiones internas, diferencias entre audiencia y oposición, cauciones del actor y del demandado, plazos de petición y alzamiento, y la incorporación en 2025 de los medios de solución de controversias. Véanse la [auditoría](author-a727-a746-audit.json), la [validación técnica](author-a727-a746-validation.json) y el [estado acotado](author-a727-a746-status.json). Este control del autor no es una revisión independiente ni concluye el libro.
+Evidencia: [resultado](review-result.json), [cotejo del inventario y versiones](review-batch-39-audit.json), [preflight](preflight-result.json), [ficha judicial](cases/STC-14-1992-a727-a746.md). Validación parcial y límite global en review-batch-39-validation.json. La validación técnica no equivale a una evaluación independiente de calidad jurídica.

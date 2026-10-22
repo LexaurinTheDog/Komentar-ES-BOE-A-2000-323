@@ -42,7 +42,7 @@ El catálogo ofrece técnicas de aseguramiento distintas según el contenido de 
 
 El embargo de la regla 1.ª asegura condenas dinerarias o prestaciones fungibles valorables a precios ciertos; fuera de ellas exige justificar especialmente su idoneidad y la falta de alternativa menos gravosa. La intervención o administración de bienes productivos de la regla 2.ª protege su productividad, mientras el depósito de la 3.ª conserva el mueble cuya entrega se reclama y que posee el demandado. El inventario de la 4.ª identifica bienes sin implicar por sí solo desapoderamiento. Las reglas 5.ª y 6.ª se sirven de la publicidad registral: la primera incluye, desde la reforma efectiva en abril de 2025, el inicio de un medio de solución de controversias, arbitrajes y litigios extranjeros en conexión con el artículo 722; no debe leerse como si únicamente contemplase demandas judiciales españolas.
 
-La regla 7.ª permite cesar, abstenerse o mantener provisionalmente una prestación; importa precisar conducta y duración para que la orden sea ejecutable. Las reglas 8.ª y 9.ª diferencian ingresos y remuneraciones de propiedad intelectual, por un lado, y ejemplares, objetos y material de producción infractores, por otro. No toda controversia de propiedad industrial autoriza indistintamente ambas técnicas. La suspensión de acuerdos sociales de la regla 10.ª exige la participación mínima del 1 % o del 5 %, según la admisión a negociación de valores que describe el precepto; ese umbral cautelar no resuelve por sí solo la legitimación para la acción principal.
+La regla 7.ª permite cesar, abstenerse o mantener provisionalmente una prestación; importa precisar conducta y duración para que la orden sea ejecutable. La regla 8.ª comprende la intervención y depósito de ingresos de una actividad considerada ilícita cuya prohibición o cesación se pretenda, sin limitar esta primera modalidad a la propiedad intelectual; añade la consignación o depósito de remuneraciones reclamadas por propiedad intelectual. La regla 9.ª se refiere a ejemplares, objetos y material de producción vinculados a infracciones de propiedad intelectual o industrial. Debe identificarse el supuesto concreto que justifica cada técnica. La suspensión de acuerdos sociales de la regla 10.ª exige la participación mínima del 1 % o del 5 %, según la admisión a negociación de valores que describe el precepto; ese umbral cautelar no resuelve por sí solo la legitimación para la acción principal.
 
 Ejemplo ficticio: quien reclama la restitución de una máquina singular solicita su depósito y explica el riesgo de venta a terceros. Un embargo genérico de todas las cuentas del poseedor requeriría justificar por qué asegura mejor esa entrega y por qué no existe una solución igualmente eficaz y menos onerosa.
 
@@ -93,6 +93,10 @@ La tercería de mejor derecho plantea una cuestión diferente: la preferencia de
 El segundo párrafo concentra ambas tercerías en el tribunal que acordó el embargo. Esta atribución permite que el órgano responsable del aseguramiento conozca la incidencia sobre su propio objeto; no remite automáticamente al tribunal del proceso seguido por el tercerista.
 
 Ejemplo ficticio: un arrendador acredita que la maquinaria embargada al arrendatario es de su propiedad y promueve tercería de dominio. Un proveedor que únicamente reclama preferencia de cobro no puede utilizar esa misma modalidad: para la tercería de mejor derecho del artículo 729 tendrá que justificar, además, el otro proceso dinerario contra ese deudor.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO VI — De las medidas cautelares
 
 #### CAPÍTULO II — Del procedimiento para la adopción de medidas cautelares
 
@@ -164,7 +168,7 @@ El apartado 2 ordena alzar las medidas relacionadas con la ejecución provisiona
 
 La solicitud define el objeto del incidente cautelar. Claridad y precisión significan identificar qué se pide, sobre qué bienes o conducta recaerá y cómo se enlaza con la pretensión principal. La justificación debe distinguir los requisitos del artículo 728 y la adecuación de la técnica conforme al artículo 726. Una petición de «las medidas necesarias» sin concreción traslada indebidamente al tribunal la construcción de la protección solicitada.
 
-El apartado 2 concentra el soporte probatorio en el escrito inicial: se acompañan documentos o se ofrece la práctica de otros medios. La frase final establece la preclusión para el actor de proponer prueba con la solicitud, por lo que la vista del artículo 734 no es una oportunidad ordinaria para reparar una omisión inicial. Conviene identificar en el escrito cada medio y el presupuesto que pretende acreditar, sin confundir proposición y práctica.
+El apartado 2 concentra el soporte probatorio en el escrito inicial: se acompañan documentos o se ofrece la práctica de otros medios. La frase final sitúa en la solicitud el momento preclusivo para que el actor proponga prueba, por lo que la vista del artículo 734 no es una oportunidad ordinaria para reparar una omisión inicial. Conviene identificar en el escrito cada medio y el presupuesto que pretende acreditar, sin confundir proposición y práctica.
 
 La regla especial para demandas de prohibición o cesación de actividades ilícitas permite pedir informes o investigaciones judiciales urgentes que el solicitante no pueda aportar o realizar y que resulten necesarios. No es una habilitación general para investigar cualquier patrimonio ni dispensa de explicar la imposibilidad y la pertinencia. Que esa actuación pueda pedirse sin traslado del escrito no significa que la adopción final de toda medida quede automáticamente exenta de audiencia: el artículo 733 contiene sus propios requisitos.
 
@@ -296,6 +300,10 @@ Ejemplo ficticio: se depositan productos perecederos que perderán todo valor an
 
 **Comprobación al cerrar el procedimiento de adopción:** justificar el momento de la petición, proponer la prueba inicial, fundamentar aparte cualquier omisión de audiencia, precisar el auto, constituir la caución exigida y verificar que los actos de cumplimiento no exceden la medida concedida.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO VI — De las medidas cautelares
+
 #### CAPÍTULO III — De la oposición a las medidas cautelares adoptadas sin audiencia del demandado
 
 ### Artículo 739 — Oposición a la medida cautelar.
@@ -370,6 +378,10 @@ Como contexto, la [STC 14/1992, FJ 7, párrafos tercero y cuarto](cases/STC-14-1
 
 **Control tras la oposición:** comprobar la fecha de notificación del auto inicial, formular todos los motivos cautelares pertinentes, documentar la decisión de mantener o alzar y, si hay daños, conservar desde el principio la prueba de cada partida y esperar la firmeza exigida para su liquidación.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO VI — De las medidas cautelares
+
 #### CAPÍTULO IV — De la modificación y alzamiento de las medidas cautelares
 
 ### Artículo 743 — Posible modificación de las medidas cautelares.
@@ -431,6 +443,10 @@ El segundo párrafo extiende el mismo tratamiento a la renuncia a la acción y a
 Ejemplo ficticio: el actor desiste del pleito después de haber obtenido el depósito de bienes del demandado. El alzamiento debe disponerse de oficio y el afectado puede promover la liquidación de los gastos y perjuicios efectivamente causados. No es correcto afirmar que la ausencia de sentencia sobre el fondo impide toda reclamación de daños, pues el segundo párrafo contempla expresamente el desistimiento.
 
 **Control al cerrar la modificación y el alzamiento:** distinguir hechos antes indisponibles, absolución recurrida, estimación parcial y terminación firme; identificar quién decide y cuándo debe pedir continuidad el interesado; comprobar después la cancelación material de las trabas y separar ese levantamiento del procedimiento de daños.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO VI — De las medidas cautelares
 
 #### CAPÍTULO V — De la caución sustitutoria de las medidas cautelares
 
