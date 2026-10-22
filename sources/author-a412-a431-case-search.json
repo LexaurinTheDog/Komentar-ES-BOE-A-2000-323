@@ -1,0 +1,40 @@
+{
+  "scope": [
+    "a412",
+    "a413",
+    "a414",
+    "a415",
+    "a416",
+    "a417",
+    "a418",
+    "a419",
+    "a420",
+    "a421",
+    "a422",
+    "a423",
+    "a424",
+    "a425",
+    "a426",
+    "a427",
+    "a428",
+    "a429",
+    "a430",
+    "a431"
+  ],
+  "queries": [
+    {
+      "query": "site.boe.es \"audiencia previa\" \"cosa juzgada\" \"Sentencia\" \"Tribunal Constitucional\"",
+      "selected": "STC 5/2009, BOE-A-2009-2494"
+    },
+    {
+      "query": "rg BOE-A-2009-2494|6643-2005 /Volumes/LaCie/law-intake/eu/es/tc",
+      "selected": "2009/TC-6424.md"
+    }
+  ],
+  "full_text_read": "Antecedentes, fundamentos 1–8, fallo de STC 5/2009; cotejo corpus local y XML BOE.",
+  "supported_units": [
+    "a421"
+  ],
+  "limits": "Investigación selectiva, sin estudio exhaustivo del corpus ni afirmación de inexistencia de jurisprudencia en otras unidades.",
+  "local_corpus_sha256": "3bd78274963a6eb53485f6db147f58d131ff73be020fd6ca6e0fb8337c4e1a57"
+}
