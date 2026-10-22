@@ -278,3 +278,14 @@ Correcciones: el ejemplo del 569 expresa la obligatoriedad de suspender cuando c
 Releída íntegramente la [STC 209/2009](cases/STC-209-2009-a568-a587.md), antecedentes, cinco fundamentos y fallo, frente a la captura oficial y el corpus nacional conservado. Se verificó la distinción entre argumentos del Abogado del Estado y doctrina del Tribunal, la lesión del artículo 14 CE, la retroacción y los límites de su uso en 576.3. La sentencia no fija una tarifa universal para las Haciendas Públicas. Investigación selectiva.
 
 El checkpoint de veinte unidades se reconstruye con el constructor existente y se valida estrictamente. El build y la validación globales registran separadamente las unidades del libro aún sin redactar. La revisión acotada no acredita terminación integral ni aprobación profesional externa.
+
+
+## Segunda lectura limitada: artículos 588 a 607
+
+Revisadas individualmente las veinte unidades a588–a607, apartados, consecuencias, remisiones y ejemplos, frente al [XML BOE renovado](sources/review-batch-32-official.xml). El [resultado individual](review-result.json) enumera los identificadores exactos. La [auditoría](review-batch-32-audit.json) documenta versiones históricas, cotejo íntegro del inventario oficial y ausencia de anexos separados. Se conserva el corte de autoría de 19 de octubre de 2026; la consulta renovada no altera la selección efectiva.
+
+Se completa en 589 la advertencia de solicitar concurso dentro de dos meses desde conocer o deber conocer la insolvencia actual si no se comunica la negociación. En 606 se explicita la condición de desproporción de valor frente a deuda, además de necesidad profesional. En 607 se explicita la condición del régimen económico matrimonial. En 598 se precisa el párrafo segundo del artículo 529.3. Los restantes comentarios se conservan después del contraste. Las remisiones desajustadas de 589.4 y 591.2 permanecen identificadas como problemas de la literalidad oficial.
+
+Releída íntegramente la [STC 113/1989](cases/STC-113-1989-a588-a607.md), incluidos antecedentes, cuatro fundamentos y fallo, y cotejada con el corpus nacional conservado. FJ 3 fundamenta protección del mínimo vital y su proporcionalidad; FJ 4 examina igualdad; el fallo declara inconstitucional la inembargabilidad incondicionada sin atender a cuantía. La resolución precede a la Ley 1/2000 y no interpreta la escala del 607. Investigación selectiva.
+
+El checkpoint de veinte unidades utiliza el constructor y validador estrictos existentes. El control global conserva separado el déficit de comentarios ajenos al lote; este resultado parcial no acredita terminación del libro ni aprobación profesional externa.

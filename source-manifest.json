@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:05:22.013167+00:00",
+  "generated_at": "2026-10-22T02:08:03.034754+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -175,13 +175,13 @@
     },
     {
       "path": "sources/STC-113-1989-a588-a607.txt",
-      "bytes": 46998,
-      "sha256": "495645ee417ed69523d1cae5d5ebe5086c406d06a7b81646f884e76da14dfe6c"
+      "sha256": "495645ee417ed69523d1cae5d5ebe5086c406d06a7b81646f884e76da14dfe6c",
+      "bytes": 46998
     },
     {
       "path": "sources/STC-113-1989-a588-a607.xml",
-      "bytes": 50359,
-      "sha256": "3a7efe1d1ad3b0c67beb4cfdfc861e09a6421edbc6c90721f2e590270ea58aab"
+      "sha256": "3a7efe1d1ad3b0c67beb4cfdfc861e09a6421edbc6c90721f2e590270ea58aab",
+      "bytes": 50359
     },
     {
       "path": "sources/STC-165-2004-http.txt",
@@ -250,8 +250,8 @@
     },
     {
       "path": "sources/TC-1319-a588-a607-local.md",
-      "bytes": 46034,
-      "sha256": "a8927201a653aa8a718723c12eded6bc4f62399183f4539c4593d69733d3c616"
+      "sha256": "a8927201a653aa8a718723c12eded6bc4f62399183f4539c4593d69733d3c616",
+      "bytes": 46034
     },
     {
       "path": "sources/TC-222-2012-http.txt",
@@ -580,33 +580,33 @@
     },
     {
       "path": "sources/author-a588-a607-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-a588-a607-case-fetch.json",
-      "bytes": 304,
-      "sha256": "934be3560d2ae6fc11d3cd162f0f41158ab2225303cf42a870e6714585bc7734"
+      "sha256": "934be3560d2ae6fc11d3cd162f0f41158ab2225303cf42a870e6714585bc7734",
+      "bytes": 304
     },
     {
       "path": "sources/author-a588-a607-fetch.json",
-      "bytes": 1066,
-      "sha256": "9307faf8c613f2bdd77bce159293e11a70971dbd736241a9c73ccac43393c4d8"
+      "sha256": "9307faf8c613f2bdd77bce159293e11a70971dbd736241a9c73ccac43393c4d8",
+      "bytes": 1066
     },
     {
       "path": "sources/author-a588-a607-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-a588-a607-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a588-a607-search-log.json",
-      "bytes": 606,
-      "sha256": "b8639cbcc6e35a0a9a167e28682219a92694dd0fa9497403b50868a57dbb9565"
+      "sha256": "b8639cbcc6e35a0a9a167e28682219a92694dd0fa9497403b50868a57dbb9565",
+      "bytes": 606
     },
     {
       "path": "sources/boe-act.html",
@@ -1562,14 +1562,34 @@
       }
     },
     {
+      "path": "sources/review-batch-32-STC-113-1989.xml",
+      "sha256": "3a7efe1d1ad3b0c67beb4cfdfc861e09a6421edbc6c90721f2e590270ea58aab",
+      "bytes": 50359
+    },
+    {
+      "path": "sources/review-batch-32-analysis.xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
+    },
+    {
+      "path": "sources/review-batch-32-metadata.xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
+    },
+    {
+      "path": "sources/review-batch-32-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 53996,
-      "sha256": "6f1527877e9f8ed98bb5f9319b56ee2b9893a6fee8a0d1609d91e41ab75572f6"
+      "sha256": "cb08b516781d2c8b7d800f896d193d53045269405d5a1afe61951c588df5dae5",
+      "bytes": 55730
     },
     {
       "path": "sources/version-selection.json",

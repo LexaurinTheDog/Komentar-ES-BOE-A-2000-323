@@ -2,116 +2,116 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a568",
-    "a569",
-    "a570",
-    "a571",
-    "a572",
-    "a573",
-    "a574",
-    "a575",
-    "a576",
-    "a577",
-    "a578",
-    "a579",
-    "a580",
-    "a581",
-    "a582",
-    "a583",
-    "a584",
-    "a585",
-    "a586",
-    "a587"
+    "a588",
+    "a589",
+    "a590",
+    "a591",
+    "a592",
+    "a593",
+    "a594",
+    "a595",
+    "a596",
+    "a597",
+    "a598",
+    "a599",
+    "a600",
+    "a601",
+    "a602",
+    "a603",
+    "a604",
+    "a605",
+    "a606",
+    "a607"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a568",
-      "finding": "Comprobados los tres apartados: impedimento de despacho, suspensión por LAJ y continuidad respecto de codemandados no afectados. Las remisiones 5 bis y 57.3 se conservan como referencias históricas de la literalidad oficial, sin inventar equivalencias actuales ni excepciones concursales autónomas."
+      "id": "a588",
+      "finding": "Cuatro apartados cotejados: nulidad por inexistencia, máximo de saldos, titularidad material en cuentas plurales e ingreso salarial del mes o anterior. Ejemplo distingue titularidad y protección salarial."
     },
     {
-      "id": "a569",
-      "finding": "Corregido el ejemplo: la suspensión debe acordarse una vez verificados causa pendiente, conexión decisiva y audiencia. Diferenciadas denuncia aislada, indemnización con remisión a 40.7 y continuación bajo caución de 529.3."
+      "id": "a589",
+      "finding": "Añadidos decreto de advertencia, deber de solicitar concurso y plazo de dos meses desde conocimiento real o debido de insolvencia actual si no se comunica. Cotejados apercibimiento, multas modulables y revisión sin suspensión; se conserva advertencia de remisión interna desajustada."
     },
     {
-      "id": "a570",
-      "finding": "Satisfacción completa y decreto con revisión contrastados; intereses y costas pendientes diferenciados de invalidez del despacho y falta temporal de bienes. Comprobada conexión con 583.3."
+      "id": "a590",
+      "finding": "Iniciativa del ejecutante, insuficiencia patrimonial, motivación sucinta y diligenciamiento por procurador a su costa contrastados; exclusión limitada a datos obtenibles directamente de organismos y registros."
     },
     {
-      "id": "a571",
-      "finding": "Ámbito de ejecución dineraria y liquidez directa o indirecta cotejados; ejemplo distingue conversión de obligación de hacer y liquidación previa, sin crear un título ejecutivo."
+      "id": "a591",
+      "finding": "Comprobadas competencia judicial, audiencia y pieza separada para multas; límites de derechos y leyes, remisión judicial de negativa y régimen de recursos LOPJ. Verificado desajuste literal 589.3 frente a criterios actuales en 589.4."
     },
     {
-      "id": "a572",
-      "finding": "Liquidez, prioridad de letras, excepción provisional de intereses y costas, pacto de saldo y notificación previa a deudor y fiador comprobados separadamente."
+      "id": "a592",
+      "finding": "Pacto, criterios principales y lista subsidiaria de nueve rangos contrastados; empresa y proporcionalidad coordinadas con 584, animales con 605 y salarios con 607."
     },
     {
-      "id": "a573",
-      "finding": "Cotejados los tres documentos obligatorios, justificantes facultativos y reserva de partidas dudosas para declarativo simultáneo; remisiones 550 y 575.3 verificadas."
+      "id": "a593",
+      "finding": "Comprobados indicios, cinco días al tercero, traslado común de cinco días y remisión al tribunal. Régimen registral y excepción de vivienda familiar con documento privado y conformidad de partes diferenciados."
     },
     {
-      "id": "a574",
-      "finding": "Dos supuestos de cálculo contrastados; remisión exacta a 573.1.2.º y 3.º y 573.2–3 preservada; no se confunde préstamo variable con autorización contractual para cualquier cálculo."
+      "id": "a594",
+      "finding": "Eficacia de embargo ajeno y adquisición irreivindicable condicionada al derecho sustantivo contrastadas; acciones del apartado 2 no presentadas como vía automática para deshacer cualquier adjudicación."
     },
     {
-      "id": "a575",
-      "finding": "Comprobados base de principal e intereses vencidos, reserva conjunta ordinaria del 30 %, excepción justificada, límite de costas del 5 % en vivienda habitual y presupuestos de denegación."
+      "id": "a595",
+      "finding": "Legitimación de tercero propietario, exclusión de adquisición posterior desde ejecutado, otros derechos oponibles por ley expresa y principio de prueba escrito comprobados."
     },
     {
-      "id": "a576",
-      "finding": "Tres apartados cotejados y STC 209/2009 íntegra releída: amparo por igualdad, anulación parcial y retroacción, sin tarifa pública universal ni liquidación judicial definitiva. Contexto histórico y diferencia devengo/exigibilidad preservados."
+      "id": "a596",
+      "finding": "Verificados inicio desde embargo incluso preventivo y rechazo por falta de prueba o transmisión civil ya producida; no equiparación automática entre cierre de subasta y transmisión."
     },
     {
-      "id": "a577",
-      "finding": "Objeto principal en moneda extranjera, partidas en moneda nacional y conversión instrumental al despacho comprobados; remisión de liquidación 714–716 contrastada."
+      "id": "a597",
+      "finding": "Identidad de bienes, títulos disponibles al primer proceso y persona del tercerista cotejados; diferenciada mejor documentación de título previo frente a fundamento realmente sobrevenido, sin prometer admisión."
     },
     {
-      "id": "a578",
-      "finding": "Petición y vencimientos de misma obligación, advertencia inicial, consignación, liquidación final y medidas patrimoniales no automáticas contrastados; remisión literal a 613.4 conservada."
+      "id": "a598",
+      "finding": "Suspensión limitada al bien y medidas del LAJ cotejadas; precisada remisión al párrafo segundo del 529.3; audiencia facultativa, caución judicial y mejora a instancia de parte comprobadas."
     },
     {
-      "id": "a579",
-      "finding": "Precisada la condición de la vía del 80 %: no haber podido satisfacer 65 % en cinco años. Cotejados remanente, interés legal, sujetos de reventa, diez años, plusvalía neta, devolución del exceso y constancia registral."
+      "id": "a599",
+      "finding": "Órgano de presentación y tribunal decisor, verbal y especialidades comprobados; final por auto sin declaración de dominio con cosa juzgada coordinado con 603."
     },
     {
-      "id": "a580",
-      "finding": "Enumeración de títulos y dispensa de requerimiento previo al embargo verificadas; distinguida de demanda, despacho, comunicaciones y plazo de espera 548."
+      "id": "a600",
+      "finding": "Comprobados acreedor demandado necesario, ejecutado necesario si designó el bien y notificación universal al ejecutado con facultad de intervención."
     },
     {
-      "id": "a581",
-      "finding": "Requerimiento tras despacho, importe requerido y cobertura del embargo diferenciados; acta notarial y diez días contrastados, con especialidades del 580."
+      "id": "a601",
+      "finding": "Dos apartados cotejados: alzamiento pedido por tercero y mantenimiento/sujeción por ejecutante y ejecutado; ejemplo no admite daños ni condena a deuda ajena."
     },
     {
-      "id": "a582",
-      "finding": "Domicilio del título, sede electrónica para obligados, lugar accidental a petición y ausencia con embargo solicitado cotejados; la ausencia no equivale a comunicación ni habilita automáticamente edictos."
+      "id": "a602",
+      "finding": "Admisión de hechos por falta de contestación distinguida de conclusiones jurídicas, presupuesto documental y resolución judicial; remisión a costas del 603 comprobada."
     },
     {
-      "id": "a583",
-      "finding": "Pago, puesta a disposición y justificante, costas con excepción por imposibilidad no imputable y decreto tras intereses/costas cotejados; ejemplo evita cierre automático por principal."
+      "id": "a603",
+      "finding": "Auto, efectos exclusivos de ejecución y ausencia de cosa juzgada sobre dominio contrastados; costas 394 y siguientes, excepción por no contestación y mala fe motivada según 593.2–3."
     },
     {
-      "id": "a584",
-      "finding": "Suficiencia respecto de cantidad despachada, valoración previsible y excepción de únicos bienes superiores necesarios contrastadas; coordinación con criterios y orden del 592 comprobada."
+      "id": "a604",
+      "finding": "Alzamiento, remoción de depósito y cancelación de garantías cotejados; ejemplo no cancela cargas independientes ni extingue deuda."
     },
     {
-      "id": "a585",
-      "finding": "Consignación íntegra anterior suspende embargo; posterior antes de resolver oposición produce alzamiento. No confundida con pago definitivo ni estimación de oposición."
+      "id": "a605",
+      "finding": "Verificados todos los numerales, incluido 1 bis: animales de compañía y rentas, inalienables, accesorios, falta de contenido patrimonial y declaración legal expresa."
     },
     {
-      "id": "a586",
-      "finding": "Destino diferenciado de consignación con y sin oposición cotejado; depósito y suspensión frente a entrega con ulterior liquidación, sin apropiación definitiva de reserva provisional."
+      "id": "a606",
+      "finding": "Precisada condición conjunta del numeral 2: necesidad profesional y valor desproporcionado respecto de deuda. Verificados bienes domésticos no superfluos, subsistencia, culto y remisiones legales/convencionales; STC utilizada sólo como contexto constitucional."
     },
     {
-      "id": "a587",
-      "finding": "Precisado que el procurador receptor es el del ejecutante. Revisados nacimiento de traba por decreto o acta, garantía/publicidad inmediata y protección del tercero de buena fe."
+      "id": "a607",
+      "finding": "Siete apartados y cálculo 2,5 SMI = retención 0,55 SMI comprobados. Explicitada condición conyugal de no separación de bienes y rentas. Cotejados rebaja familiar limitada a cuatro primeros rangos, neto público, autónomos, entrega directa, información trimestral y revisión. STC no presentada como interpretación de escala actual."
     }
   ],
   "limitations": [
-    "Segunda lectura limitada exactamente a568–a587; no revisión íntegra del libro.",
-    "Fecha jurídica conservada: 19-10-2026; nueva consulta BOE de texto, metadatos y análisis sin cambios desde la captura de autoría.",
-    "Jurisprudencia selectiva: STC 209/2009, texto íntegro y corpus nacional conservado; sin cobertura exhaustiva de evolución jurisprudencial posterior.",
-    "El artículo 568 conserva remisiones concursales históricas: no se ofrece una concordancia integral con el régimen concursal ni asesoramiento temporal de un expediente concreto.",
-    "Borrador sin aprobación profesional externa."
+    "Revisión sustantiva limitada exactamente a588–a607; libro aún incompleto.",
+    "Corte jurídico de autoría: 19-10-2026; consulta oficial renovada el 22-10-2026 sin modificación de selección efectiva.",
+    "Jurisprudencia selectiva: STC 113/1989, antecedentes, cuatro fundamentos y fallo cotejados; no estudio exhaustivo de jurisprudencia posterior.",
+    "Los desajustes de remisión en 589.4 y 591.2 se advierten sin corregir la literalidad oficial; no se ofrece concordancia integral de legislación concursal.",
+    "Borrador técnico sin aprobación profesional externa."
   ],
-  "reviewed_at": "2026-10-22T01:59:45.597518+00:00"
+  "reviewed_at": "2026-10-22T02:07:29.764335+00:00"
 }

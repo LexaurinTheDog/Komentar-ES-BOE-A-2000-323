@@ -58,7 +58,7 @@ El apartado 4 evita que la domiciliación de nóminas o pensiones neutralice las
 
 La manifestación patrimonial impone al ejecutado un deber activo de información para hacer posible una ejecución útil. El requerimiento se acuerda de oficio mediante diligencia de ordenación, salvo que el acreedor haya señalado bienes que estime suficientes. La relación debe precisar derechos, cargas y gravámenes; para inmuebles interesa además la ocupación, sus sujetos y título. Una lista de fincas que omita hipotecas y arrendamientos puede resultar materialmente insuficiente aunque contenga referencias registrales.
 
-El apartado 2 exige apercibimiento y contempla tanto el silencio como la información falsa o incompleta: bienes ajenos, omisión de bienes propios embargables y ocultación de cargas. La mención de la desobediencia no equivale a una condena penal automática dentro de la ejecución. El apartado 3, incorporado a la versión vigente, añade una advertencia sobre negociaciones de reestructuración e insolvencia. Debe comunicarse cuando no se señalen bienes embargables o sean insuficientes. La advertencia no acredita por sí sola insolvencia ni paraliza automáticamente la ejecución: remite a los presupuestos y efectos de la legislación correspondiente.
+El apartado 2 exige apercibimiento y contempla tanto el silencio como la información falsa o incompleta: bienes ajenos, omisión de bienes propios embargables y ocultación de cargas. La mención de la desobediencia no equivale a una condena penal automática dentro de la ejecución. El apartado 3, incorporado a la versión vigente, añade una advertencia sobre negociaciones de reestructuración e insolvencia. Debe comunicarse cuando no se señalen bienes embargables o sean insuficientes. El decreto debe advertir también que, si existe insolvencia actual y no se efectúa esa comunicación, hay deber de solicitar concurso dentro de los dos meses siguientes a conocer o deber conocer ese estado. La advertencia no acredita por sí sola insolvencia ni paraliza automáticamente la ejecución: remite a los presupuestos y efectos de la legislación correspondiente.
 
 El apartado 4 permite multas coercitivas periódicas, moduladas por la suma ejecutada, resistencia y capacidad económica. Su función es inducir cumplimiento; pueden modificarse o cesar según la conducta posterior y las justificaciones. La revisión judicial directa no suspende. El texto conserva una referencia al «apartado anterior» que debe leerse en el contexto del requerimiento patrimonial del apartado 1. Por ejemplo, ante una relación que oculta un vehículo y sus cargas, deben concretarse las omisiones y la respuesta exigida, sin convertir una multa imposible de pagar en sanción automática por carecer de patrimonio.
 
@@ -139,6 +139,12 @@ La lista favorece inicialmente dinero y derechos líquidos, sitúa después acti
 Supóngase que una deuda puede cubrirse con un crédito inmediatamente cobrable o vendiendo una máquina esencial para la producción. La liquidez del primero y la conservación de la actividad apoyan su elección. Si se propone embargar toda la empresa, habrá que justificar por qué esa solución es preferible. El límite de suficiencia del artículo 584 sigue operando: el orden de bienes no legitima una traba excesiva.
 
 **Control práctico de localización y selección.** Comprobar la existencia del activo; separar saldo y titularidad; verificar ingresos protegidos; documentar el requerimiento patrimonial; justificar los oficios y sus destinatarios; identificar pacto, liquidez y perjuicio de la realización antes de fijar los bienes.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO IV — De la ejecución dineraria
+
+#### CAPÍTULO III — Del embargo de bienes
 
 #### Sección 2.ª Del embargo de bienes de terceros y de la tercería de dominio
 
@@ -236,7 +242,7 @@ Así, si una persona invoca primero una compraventa y, desestimada su tercería,
 
 La admisión de la tercería suspende la ejecución exclusivamente respecto del bien controvertido. El procedimiento puede continuar sobre otros activos del ejecutado; no es una oposición general al título ni una suspensión de toda la deuda. El letrado de la Administración de Justicia debe adoptar las medidas necesarias para que la suspensión sea efectiva, especialmente evitando actuaciones de realización incompatibles con ella.
 
-El apartado 2 permite al tribunal condicionar esa suspensión a una caución del tercerista por los perjuicios al ejecutante. La audiencia previa se acuerda si se considera necesaria. La caución responde al riesgo de demora perjudicial y se presta en las formas remitidas al artículo 529.3; no supone exigir al tercero el pago de la deuda ajena. Su cuantía y necesidad deben guardar relación con el perjuicio que se pretende cubrir. La admisión no declara probado el dominio, por lo que el legislador combina preservación del bien con garantía del acreedor.
+El apartado 2 permite al tribunal condicionar esa suspensión a una caución del tercerista por los perjuicios al ejecutante. La audiencia previa se acuerda si se considera necesaria. La caución responde al riesgo de demora perjudicial y se presta en las formas del párrafo segundo del artículo 529.3; no supone exigir al tercero el pago de la deuda ajena. Su cuantía y necesidad deben guardar relación con el perjuicio que se pretende cubrir. La admisión no declara probado el dominio, por lo que el legislador combina preservación del bien con garantía del acreedor.
 
 El apartado 3 permite mejorar el embargo a instancia de parte por el solo hecho de admitirse la tercería, mediante decreto. Por ejemplo, si se discute la propiedad de una furgoneta que constituía la única garantía, el acreedor puede pedir otros bienes suficientes sin esperar al desenlace. No puede continuar realizándose la furgoneta como si no hubiera incidente, ni acumular garantías desproporcionadas prescindiendo del artículo 584. Conviene identificar expresamente qué bien queda suspendido y qué nuevas medidas cubren el riesgo.
 
@@ -328,6 +334,12 @@ Por ejemplo, tras estimarse la tercería sobre una máquina depositada judicialm
 
 **Lista de control de la tercería.** Identificar bien, derecho y fecha de adquisición; aportar prueba escrita; verificar que no hubo transmisión; reunir los títulos disponibles; integrar correctamente los demandados; delimitar la suspensión; atender caución y mejora; comprobar el auto, costas y cancelación efectiva de garantías.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO IV — De la ejecución dineraria
+
+#### CAPÍTULO III — Del embargo de bienes
+
 #### Sección 3.ª De los bienes inembargables
 
 ### Artículo 605 — Bienes absolutamente inembargables.
@@ -372,7 +384,7 @@ Por ejemplo, el acreedor no puede pedir la venta del perro de compañía del deu
 
 Este artículo protege bienes ligados a la subsistencia, al trabajo y a finalidades legalmente reconocidas. El numeral 1 preserva mobiliario, menaje y ropa en cuanto no sean superfluos, además de lo imprescindible para la subsistencia razonablemente digna del deudor y sus dependientes. La apreciación exige considerar la función concreta del objeto y las necesidades del hogar; no convierte todos los bienes situados en la vivienda en inembargables ni reduce la dignidad a la supervivencia física.
 
-El numeral 2 exige que libros e instrumentos sean necesarios para la profesión, arte u oficio y contempla su valor en relación con la deuda. La necesidad profesional no debe afirmarse por la sola declaración del deudor: hay que describir actividad, utilidad y proporción económica. El numeral 3 protege bienes sacros y dedicados al culto de religiones legalmente registradas; los numerales 4 y 5 remiten a cantidades protegidas por ley y bienes o cantidades amparados por tratados ratificados. Debe identificarse la norma concreta antes de aplicar esas remisiones.
+El numeral 2 exige conjuntamente que libros e instrumentos sean necesarios para la profesión, arte u oficio y que su valor no guarde proporción con la cuantía de la deuda reclamada. No establece una inmunidad de todos los activos profesionales por el mero hecho de usarse en el trabajo; la desproporción es una condición legal que debe examinarse expresamente. La necesidad profesional no debe afirmarse por la sola declaración del deudor: hay que describir actividad, utilidad y proporción económica. El numeral 3 protege bienes sacros y dedicados al culto de religiones legalmente registradas; los numerales 4 y 5 remiten a cantidades protegidas por ley y bienes o cantidades amparados por tratados ratificados. Debe identificarse la norma concreta antes de aplicar esas remisiones.
 
 Así, el ordenador con el que una traductora realiza efectivamente sus encargos plantea una cuestión distinta de una colección de dispositivos de ocio redundantes. La decisión debe explicar necesidad y relación de valor con la deuda. Como contexto constitucional, la STC 113/1989, FJ 3, vincula la protección de subsistencia con la dignidad, sin justificar toda inmunidad patrimonial; véase su [ficha y límites históricos](cases/STC-113-1989-a588-a607.md). El precepto actual requiere aplicar sus categorías y no sustituirlas por una apreciación libre de conveniencia.
 
@@ -414,7 +426,7 @@ Así, el ordenador con el que una traductora realiza efectivamente sus encargos 
 
 El embargo de ingresos se calcula preservando un primer tramo equivalente al salario mínimo interprofesional y aplicando porcentajes progresivos sobre los adicionales: 30, 50, 60 y 75 por ciento hasta el quinto salario mínimo, y 90 por ciento sobre el exceso. El porcentaje del tramo superior no se aplica a toda la percepción. Debe verificarse el salario mínimo aplicable al período y la estructura real del pago; este comentario no fija un importe anual que pudiera quedar desactualizado. La excepción alimenticia del artículo 608 requiere examen separado.
 
-El apartado 3 acumula las distintas percepciones del deudor para deducir una sola vez el mínimo; incluye las de los cónyuges en las condiciones de régimen económico que expresa, cuya circunstancia debe acreditarse. El apartado 4 permite una rebaja por cargas familiares entre el 10 y el 15 por ciento en los porcentajes de los cuatro primeros tramos adicionales, sin extender esa facultad al quinto. Su aplicación necesita decisión y prueba de las cargas. El apartado 5 toma como base la cantidad líquida tras descuentos públicos fiscales, tributarios o de Seguridad Social; una deducción privada voluntaria no recibe automáticamente ese mismo tratamiento. El apartado 6 extiende la protección a ingresos profesionales y mercantiles autónomos, cuya identificación exige atender a la actividad y a las cantidades pertinentes.
+El apartado 3 acumula las distintas percepciones del deudor para deducir una sola vez el mínimo; incluye las de los cónyuges en las condiciones de régimen económico que expresa, de modo que la acumulación conyugal procede cuando no rige separación de bienes y rentas de toda clase; esa circunstancia debe acreditarse ante el letrado de la Administración de Justicia. El apartado 4 permite una rebaja por cargas familiares entre el 10 y el 15 por ciento en los porcentajes de los cuatro primeros tramos adicionales, sin extender esa facultad al quinto. Su aplicación necesita decisión y prueba de las cargas. El apartado 5 toma como base la cantidad líquida tras descuentos públicos fiscales, tributarios o de Seguridad Social; una deducción privada voluntaria no recibe automáticamente ese mismo tratamiento. El apartado 6 extiende la protección a ingresos profesionales y mercantiles autónomos, cuya identificación exige atender a la actividad y a las cantidades pertinentes.
 
 Por ejemplo, para un ingreso líquido ordinario de 2,5 veces el mínimo, sin acumulaciones, rebajas ni excepciones, queda protegido el primer mínimo y se retiene 0,30 del segundo más 0,25 del medio tercero: 0,55 veces el mínimo. No se retiene el 50 por ciento de todo el ingreso. El abono en cuenta obliga además a examinar el artículo 588.4.
 
