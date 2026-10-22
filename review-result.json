@@ -2,115 +2,115 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a528",
-    "a529",
-    "a530",
-    "a531",
-    "a532",
-    "a533",
-    "a534",
-    "a535",
-    "a536",
-    "a537",
-    "a538",
-    "a539",
-    "a540",
-    "a541",
-    "a542",
-    "a543",
-    "a544",
-    "a545",
-    "a546",
-    "a547"
+    "a548",
+    "a549",
+    "a550",
+    "a551",
+    "a552",
+    "a553",
+    "a554",
+    "a555",
+    "a556",
+    "a557",
+    "a558",
+    "a559",
+    "a560",
+    "a561",
+    "a562",
+    "a563",
+    "a564",
+    "a565",
+    "a566",
+    "a567"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a528",
-      "finding": "Precisado umbral no dinerario de imposibilidad o extrema dificultad frente a imposibilidad absoluta dineraria. Comprobados causas tasadas, carga de alternativas y caución, rechazo por ausencia de ambas, revisión no suspensiva y causas documentales del apartado 4. STC 22/2008 FFJJ 2–5 releída sin convertir oposición en nueva apelación."
+      "id": "a548",
+      "finding": "Espera de veinte días: hitos de firmeza y notificación, cómputo procesal y excepción 549.4 comprobados; no confusión con caducidad ni oposición."
     },
     {
-      "id": "a529",
-      "finding": "Cinco días para oposición y cinco para traslado comprobados. Explicitadas entidad de crédito o sociedad de garantía recíproca como emisoras del aval; caución del ejecutante no confundida con caución del ejecutado."
+      "id": "a549",
+      "finding": "Comprobados cinco contenidos, solicitud simplificada, desahucios y día/hora exactos; vivienda habitual y remisión a 441.5–7 conservados."
     },
     {
-      "id": "a530",
-      "finding": "Precisado umbral y garantía del resarcimiento en apartado 2. Comprobados alzamiento por infracción de 527 frente a suspensión con conservación de trabas, alternativas de eficacia similar o caución con irreversibilidad absoluta, efecto limitado e irrecurribilidad del auto."
+      "id": "a550",
+      "finding": "Cotejados cuatro documentos, excepción título en autos, laudo y notificación, actas de MASC y poder electrónico; reforma 2025 no sustituida por versión histórica."
     },
     {
-      "id": "a531",
-      "finding": "Consignación para entrega al ejecutante, condena líquida más intereses y costas, decreto LAJ y revisión directa del decreto posterior comprobados. Remisión a 527.5 contrastada con regla de veinte días."
+      "id": "a551",
+      "finding": "Cinco apartados y seis contenidos del auto revisados; consulta concursal, delegación material y recursos distinguidos. STC 31/2019 releída con límites temporales."
     },
     {
-      "id": "a532",
-      "finding": "Continuación salvo desistimiento expreso distinguida de conversión a definitiva por falta de recurso procedente o interpuesto. Ejemplo descuenta pagos ya recibidos."
+      "id": "a552",
+      "finding": "Comprobados audiencia de quince días, decisión en cinco hábiles, recursos, firmeza y cosa juzgada. Discordancia oficial 561.1.3.ª frente a vigente 561.2 correctamente señalada."
     },
     {
-      "id": "a533",
-      "finding": "Revocación total con devolución, costas satisfechas y daños separada de parcial con exceso e interés legal desde percepción. Apremio aun sin firmeza, artículos 712 y siguientes y oposición 528.3 contrastados."
+      "id": "a553",
+      "finding": "Conjunto de notificación, destinatario, personación sin emplazamiento y preclusión de remedios contrastados."
     },
     {
-      "id": "a534",
-      "finding": "Restitución en concepto anterior con frutos o uso, imposibilidad de hecho o derecho, deshacer y daños, falta de firmeza y oposición 528 contrastados en sus cuatro apartados."
+      "id": "a554",
+      "finding": "Remisión limitada a 551.3.2.º verificada; investigación inmediata frente a petición y riesgo justificado si hay requerimiento."
     },
     {
-      "id": "a535",
-      "finding": "Tres apartados contrastados: remisión, ventana desde resolución de interposición de casación hasta sentencia, solicitud primera instancia, certificación y testimonios, oposición 528–531. No se reincorpora histórica infracción procesal."
+      "id": "a555",
+      "finding": "Acumulación obligatoria mismas partes, discrecional mismo deudor, trámite 74 y excepción hipotecaria sobre mismos bienes comprobados."
     },
     {
-      "id": "a536",
-      "finding": "Confirmación íntegra de sentencia de segunda instancia y remisión exclusiva al segundo párrafo de 532 comprobadas; no duplicación de cobro ni equiparación a confirmación parcial."
+      "id": "a556",
+      "finding": "Diez días, prueba documental, documento público, no suspensión y tres causas especiales del auto de tráfico contrastados."
     },
     {
-      "id": "a537",
-      "finding": "Remisión a 533 y 534 comprobada según prestación dineraria o no dineraria, con separación de restitución y daño. Lista de comprobación específica conservada."
+      "id": "a557",
+      "finding": "Siete causas y requisitos probatorios diferenciados; suspensión coordinada con especialidad de pluspetición; no se extiende caso constitucional a toda preclusión."
     },
     {
-      "id": "a538",
-      "finding": "Cuatro apartados comprobados: partes, tres supuestos pasivos, afección limitada, defensa de afectados sin despacho formal y responsabilidad de ejecutante por extensión no autorizada."
+      "id": "a558",
+      "finding": "Cantidad reconocida para entrega inmediata, retención del exceso, perito, cinco días comunes y vista ante alegación unilateral comprobados."
     },
     {
-      "id": "a539",
-      "finding": "Versión desde 3-4-2025 contrastada. Exenciones profesionales, umbral superior a 2.000 euros, encomienda material personal con sustitución orgánica, impugnación y revisión, cargo y anticipación de gastos separados."
+      "id": "a559",
+      "finding": "Completada remisión del ordinal 3.º a 520: títulos tasados, superior a 300 euros y suma de títulos. Revisadas las otras causas, subsanación y costas."
     },
     {
-      "id": "a540",
-      "finding": "Sucesión inicial o sobrevenida, documentos fehacientes, notificación posterior, audiencia subsidiaria de quince días y alcance solo ejecutivo comprobados. Ejemplo de cesión exige individualizar crédito."
+      "id": "a560",
+      "finding": "Plazo de cinco días según dos hitos, solicitud de vista, documentos y consecuencias asimétricas de incomparecencia cotejados."
     },
     {
-      "id": "a541",
-      "finding": "No despacho contra comunidad, notificación y documentos a cónyuge, causas ordinarias y responsabilidad de bienes con carga del acreedor, disolución y suspensión solo de bienes comunes, recursos comprobados."
+      "id": "a561",
+      "finding": "Precisadas providencia, remisión a 700 y objeto indemnizatorio de caución del ejecutante en apelación estimatoria. Cotejadas pluspetición, costas, reintegración y cosa juzgada sobre abusividad."
     },
     {
-      "id": "a542",
-      "finding": "Límites subjetivos de sentencias/laudos contrastados con título extrajudicial y otro documento ejecutivo que prueba solidaridad. Ejecución total contra uno o varios evita doble cobro."
+      "id": "a562",
+      "finding": "Cauces reposición, apelación expresa y escrito sin resolución distinguidos; nulidad remitida a tribunal conforme 225 y siguientes."
     },
     {
-      "id": "a543",
-      "finding": "Título frente a unión, solidaridad legal o acordada e insolvencia previa en responsabilidad legal subsidiaria contrastados; no se presume solidaridad por pertenencia."
+      "id": "a563",
+      "finding": "Reposición/apelación judicial frente a reposición/revisión/apelación de resolución LAJ comprobadas; suspensión concreta y caución 529.3."
     },
     {
-      "id": "a544",
-      "finding": "Acreditaciones acumuladas de condición y actuación ante terceros, entidad como sujeto diferenciado y exclusión expresa de comunidades de propiedad horizontal comprobadas."
+      "id": "a564",
+      "finding": "Posterioridad, relevancia y exclusión de causas de oposición verificadas; proceso posterior no confiere suspensión automática."
     },
     {
-      "id": "a545",
-      "finding": "Siete apartados contrastados: clases de título y fueros, exclusión de sumisión, pluralidad y 684; funciones tribunal/LAJ y formas auto, decreto, providencia y diligencia distinguidas. No se cambia denominación literal del texto."
+      "id": "a565",
+      "finding": "Reforma efectiva 3-4-2025 cotejada: sometimiento MASC, alzamiento sin acuerdo, archivo por cumplimiento/innecesariedad u homologación; garantías durante suspensión."
     },
     {
-      "id": "a546",
-      "finding": "Examen territorial antes de despacho, auto con indicación de tribunal y remisión de recurso a 552.2 comprobados; prohibición posterior limitada a control territorial de oficio."
+      "id": "a566",
+      "finding": "Cuatro apartados comprobados: admisión, petición, caución y Fiscal para revisión; desestimación, estimación y nueva condena tras rescisión diferenciadas."
     },
     {
-      "id": "a547",
-      "finding": "Plazo especial de cinco días desde primera notificación comprobado. Completados, tras lectura de 65, traslado de cinco días, decisión dentro del quinto siguiente y efectos territoriales de inhibición, remisión y emplazamiento por diez días."
+      "id": "a567",
+      "finding": "Recurso no suspensivo, daño de difícil reparación, caución y tribunal competente comprobados; limitado a actuación recurrida."
     }
   ],
   "limitations": [
-    "Segunda lectura limitada exactamente a528–a547; el libro sigue incompleto fuera del lote.",
-    "Investigación jurisprudencial selectiva; se verifica la única sentencia citada en el lote, sin afirmar exhaustividad.",
-    "Fecha jurídica conservada: 19-10-2026. La consulta renovada no detecta cambios del XML; regímenes transitorios de expedientes concretos requieren examen propio.",
-    "Revisión interna de borrador; no aprobación profesional externa."
+    "Segunda lectura limitada exactamente a548–a567; no revisión íntegra del libro.",
+    "Fecha jurídica conservada: 19-10-2026; consulta renovada de BOE sin cambio respecto al XML de autoría.",
+    "Jurisprudencia selectiva: STC 31/2019 íntegra, incluido voto particular; no investigación exhaustiva de evolución posterior.",
+    "Revisión de borrador; sin aprobación profesional externa."
   ],
-  "reviewed_at": "2026-10-22T01:40:56.770289+00:00"
+  "reviewed_at": "2026-10-22T01:51:12.880864+00:00"
 }

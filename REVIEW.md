@@ -256,3 +256,14 @@ Se precisa en 528 y 530 la imposibilidad o extrema dificultad de restauración o
 Releída íntegramente la [STC 22/2008](cases/STC-22-2008-a528-a547.md), antecedentes, fundamentos y fallo. Se conserva su uso limitado a la pertinencia de prueba respecto del objeto de la oposición; no autoriza omitir toda prueba ni traslada el régimen familiar histórico al derecho vigente. Las alegaciones de las partes y del Fiscal se distinguen del razonamiento del Tribunal. Investigación selectiva, sin nuevas autoridades no verificadas.
 
 [Construcción](review-batch-29-build.json), [validación estricta](review-batch-29-validation.json) y [enlaces](review-batch-29-links.json) documentan el lote. Borrador parcial; libro incompleto fuera de estas unidades; sin aprobación profesional externa.
+
+
+## Segunda lectura limitada: artículos 548 a 567
+
+Revisadas exactamente las veinte unidades indicadas en [review-result.json](review-result.json), palabra legal, apartados, remisiones y ejemplos, contra [XML oficial renovado](sources/review-batch-30-official.xml). El [cotejo reproducible](review-batch-30-audit.json) comprueba las versiones históricas, selección efectiva a 19-10-2026, inventario oficial independiente, ausencia de anexos separados y fórmula promulgatoria conservada.
+
+Correcciones: se completa en 559 la remisión a 520 y su umbral exclusivo para títulos tasados, incluida su agregación. En 561 se precisa la providencia, remisión a 700 y finalidad indemnizatoria de la caución del ejecutante cuando apela la estimación de la oposición. Se conserva, señalada expresamente, la discordancia oficial de 552 con 561.1.3.ª. Los demás comentarios se contrastaron íntegramente sin detectar errores materiales adicionales.
+
+Releída íntegramente la [STC 31/2019](cases/STC-31-2019-a548-a567.md), antecedentes, fundamentos, fallo y voto particular. Su apoyo queda limitado al control efectivo de cláusulas no examinadas; no declara abusividad ni extingue el préstamo. No se extrapola al régimen posterior de advertencias y cosa juzgada. Investigación jurisprudencial selectiva.
+
+El control técnico global no supone revisión sustantiva de unidades ajenas. Libro todavía parcial, sin aprobación profesional externa.

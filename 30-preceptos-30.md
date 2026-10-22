@@ -266,6 +266,10 @@ El apartado 4 establece un límite específico para la ejecución dirigida exclu
 
 Comprobación práctica del despacho: identificar título y sujetos; calcular la espera y sus excepciones; aportar documentos obligatorios; separar auto y decreto; revisar el examen de abusividad y sus advertencias; registrar la notificación; y comprobar los presupuestos propios antes de acumular expedientes.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO III — De la ejecución: disposiciones generales
+
 #### CAPÍTULO IV — De la oposición a la ejecución y de la impugnación de actos de ejecución contrarios a la ley o al título ejecutivo
 
 ### Artículo 556 — Oposición a la ejecución de resoluciones procesales o arbitrales o de los acuerdos de mediación.
@@ -390,7 +394,7 @@ Ejemplo ficticio: se reclaman ochenta mil euros y el ejecutado reconoce sesenta 
 
 *Nota editorial del BOE:* Se añade el punto 4 al apartado 1 por la disposición final 1.3 de la Ley 60/2003, de 23 de diciembre. Ref. BOE-A-2003-23646
 
-La oposición procesal controla quiénes intervienen y si existe un título legalmente apto para ejecutar. El apartado 1 distingue falta de carácter o representación del ejecutado, problemas de capacidad o representación del ejecutante, nulidad radical del despacho por las deficiencias del título enumeradas y falta de autenticidad del laudo no protocolizado. La ausencia de condena en una sentencia o laudo se diferencia de la discrepancia del deudor con el contenido de una condena existente. El control de requisitos ejecutivos del documento o acuerdo tampoco equivale a reabrir sin límites el negocio subyacente.
+La oposición procesal controla quiénes intervienen y si existe un título legalmente apto para ejecutar. El apartado 1 distingue falta de carácter o representación del ejecutado, problemas de capacidad o representación del ejecutante, nulidad radical del despacho por las deficiencias del título enumeradas y falta de autenticidad del laudo no protocolizado. La ausencia de condena en una sentencia o laudo se diferencia de la discrepancia del deudor con el contenido de una condena existente. El control de requisitos ejecutivos del documento o acuerdo tampoco equivale a reabrir sin límites el negocio subyacente. El ordinal 3.º incluye además la infracción del artículo 520: para los títulos de los números 4.º–7.º del artículo 517.2 exige cantidad determinada superior a 300 euros en las modalidades que enumera, pudiendo sumarse varios títulos de ese grupo para alcanzar el umbral. No es una cuantía mínima general para ejecutar sentencias.
 
 Estas causas pueden alegarse solas o junto a motivos de fondo. El ejecutante dispone de cinco días para responder sobre los defectos. Si son subsanables, el tribunal le concede por providencia diez días para corregirlos. La posibilidad de subsanar depende de la naturaleza del defecto: acreditar una representación realmente existente no es lo mismo que crear retroactivamente un pronunciamiento de condena que el título nunca contiene. Si el defecto es insubsanable o no se corrige a tiempo, el auto deja sin efecto la ejecución e impone las costas al ejecutante.
 
@@ -456,7 +460,7 @@ El auto de fondo determina, a los efectos de la ejecución, si esta continúa y 
 
 El apartado 2 separa el juicio sobre cláusulas abusivas: el tribunal debe precisar sus consecuencias y decidir si la ejecución es improcedente o puede seguir sin aplicarlas. No toda cláusula abusiva destruye necesariamente la totalidad del título. El pronunciamiento firme sobre abusividad tiene eficacia de cosa juzgada, especialidad que debe ponerse en relación con el artículo 552.4 y con el examen y advertencias del artículo 551. No conviene trasladar sin matices a esta regulación la situación procesal anterior a las reformas, descrita en la [ficha de STC 31/2019](cases/STC-31-2019-a548-a567.md).
 
-Estimada la oposición, el apartado 3 ordena dejar sin efecto la ejecución, alzar embargos y garantías y reintegrar al ejecutado conforme a los artículos 533 y 534, con costas al ejecutante. El apartado 4 permite apelación: si se rechazó la oposición, el recurso no suspende. Si se estimó, el acreedor puede pedir mantener o adoptar garantías en los términos indicados, prestando caución suficiente; no subsisten automáticamente todos los embargos por el solo anuncio de apelación.
+Estimada la oposición, el apartado 3 ordena dejar sin efecto la ejecución, alzar embargos y garantías y reintegrar al ejecutado conforme a los artículos 533 y 534, con costas al ejecutante. El apartado 4 permite apelación: si se rechazó la oposición, el recurso no suspende. Si se estimó, el ejecutante puede solicitar mantener los embargos y garantías y adoptar los que procedan conforme al artículo 700. El tribunal lo acordará mediante providencia si presta caución suficiente, fijada en esa resolución para asegurar la indemnización del ejecutado si se confirma la estimación. No subsisten automáticamente todos los embargos por el solo anuncio de apelación.
 
 Ejemplo ficticio: un recargo abusivo incrementó el saldo, pero el principal sigue siendo exigible. El auto debe concretar qué parte puede ejecutarse sin el recargo. Si, por otra causa, se declara improcedente toda la ejecución y el acreedor apela, tendrá que solicitar y asegurar el mantenimiento de garantías conforme al apartado 4, en lugar de tratar el recurso como una revocación provisional del alzamiento.
 
@@ -527,6 +531,10 @@ El artículo no atribuye a la demanda posterior efecto suspensivo sobre la ejecu
 Ejemplo ficticio: después de constituirse el título extrajudicial surge una relación nueva entre las partes que el deudor considera relevante para exigir una prestación distinta. Si esa relación no constituye ninguna causa legal de oposición, su eficacia podrá discutirse en el proceso adecuado; no basta invocarla para detener la ejecución. Antes de demandar hay que fijar cuándo nació el hecho, qué efecto jurídico se pide y por qué no está comprendido en los artículos 556 o 557.
 
 Comprobación práctica de la defensa: clasificar el título; anotar fecha de notificación; distinguir defecto procesal, causa de fondo, exceso cuantitativo e infracción de un acto; aportar la prueba exigida; pedir vista en el escrito oportuno; y comprobar el efecto suspensivo real de cada remedio.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO III — De la ejecución: disposiciones generales
 
 #### CAPÍTULO V — De la suspensión y término de la ejecución
 

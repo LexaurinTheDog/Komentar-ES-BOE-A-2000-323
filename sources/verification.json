@@ -982,6 +982,33 @@
       "sha256": "7903c74c90042bc05605d0d22becab8ca976d0418e878d0c946747c3f3f2155d",
       "accessed_at": "2026-10-22T01:45:47.262902+00:00",
       "format": "validated official judgment XML"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-22T01:50:30.315232+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/review-batch-30-official.xml",
+      "validated_format": "XML parsed successfully"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+      "accessed_at": "2026-10-22T01:50:30.523975+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "path": "sources/review-batch-30-metadata.xml",
+      "validated_format": "XML parsed successfully"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+      "accessed_at": "2026-10-22T01:50:30.856904+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "path": "sources/review-batch-30-analysis.xml",
+      "validated_format": "XML parsed successfully"
     }
   ],
   "decisive_date": "2026-10-19",
