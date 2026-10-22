@@ -1,0 +1,68 @@
+{
+  "complete": true,
+  "units_reviewed": 16,
+  "reviewed_ids": [
+    "dfdecimocuarta",
+    "dfdecimoquinta",
+    "dfdecimosexta",
+    "dfdecimoseptima",
+    "dfdecimoctava",
+    "dfdecimonovena",
+    "dfvigesima",
+    "dfvigesimaprimera",
+    "dfvigesimasegunda",
+    "dfvigesimatercera",
+    "dfvigesimacuarta",
+    "dfvigesimoquinta",
+    "dfvigesimosexta",
+    "dfvigesimoseptima",
+    "dfvigesimooctava",
+    "dfvigesimonovena"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "dfdecimoquinta",
+      "corrected": true,
+      "detail": "Explicitada excepción especializada posterior para víctimas menores o con discapacidad psíquica."
+    },
+    {
+      "id": "dfvigesimasegunda",
+      "corrected": true,
+      "detail": "Corregida transmisión: se exige copia de la grabación original, no entrega del original."
+    },
+    {
+      "id": "dfvigesimoquinta",
+      "corrected": true,
+      "detail": "Añadidos plazos de demanda y contestación, proposición probatoria, vista y apelación/casación del incidente."
+    }
+  ],
+  "unit_checks": {
+    "dfdecimocuarta": "Dos reformas separadas: autorización sanitaria histórica frente a artículo 8.6 actual y súplica histórica frente a reposición del 87.2.",
+    "dfdecimoquinta": "Prelación pericial pública y excepción privada motivada; añadido alcance especial posterior del artículo 6.6 de justicia gratuita.",
+    "dfdecimosexta": "Supresión y eficacia de 20 de marzo de 2024 verificadas en versiones; no se reactiva régimen extraordinario histórico.",
+    "dfdecimoseptima": "Enumeración exacta de materias sujetas a reforma orgánica; LO 19/2003 y fecha de vigencia cotejadas; no suspensión indefinida.",
+    "dfdecimoctava": "Mandato de remisión en un año desde vigencia, sin aprobación parlamentaria automática; conexión ley 15/2015.",
+    "dfdecimonovena": "Mandato de remisión concursal en seis meses; ley 22/2003 histórica y derogación posterior diferenciadas.",
+    "dfvigesima": "Mandato de cooperación en seis meses; legislación posterior y prioridad europea diferenciadas.",
+    "dfvigesimaprimera": "Seis apartados: tribunal, rectificación/revocación, transacción, certificación notarial, ejecutividad, queja, anexo V, competencia y habilitación.",
+    "dfvigesimasegunda": "Siete apartados: autoridades y anexos, rectificación y denegación, transmisión mediante copias y competencia; transición 2019/1111 y errata 2001/2003 identificadas.",
+    "dfvigesimatercera": "Quince apartados: formularios, excepción consumo, propuesta parcial, treinta días europeos, oposición y ejecutividad, revisión dual, ejecución y traducción; Bondora leído sin trasladar alegaciones al fallo.",
+    "dfvigesimacuarta": "Diez apartados: órgano, supletoriedad, diez días de audiencia, treinta días en cuantía, reconvención, recursos, ejecución, traducción del certificado y originales.",
+    "dfvigesimoquinta": "Ocho apartados: reconocimiento, ejecución directa, notificación y traducción, denegación y plazos, apelación/casación, certificados, adaptación, documentos públicos y transacciones.",
+    "dfvigesimosexta": "Diecisiete apartados: exequátur sucesorio separado de certificado, recursos naturales, defensa posterior, documentos/transacciones, certificación judicial/notarial, archivo y recurso; remisión anómala al 16 preservada.",
+    "dfvigesimoseptima": "Cinco apartados: emisión sobre documento público, ejecución extranjera, notificación, impugnación y colaboración informativa obligatoria; sin derecho privado de acceso bancario.",
+    "dfvigesimooctava": "Deber administrativo de disponibilidad de formularios europeos; diferencia entre acceso, elección y presentación y entre versiones actuales/transitorias.",
+    "dfvigesimonovena": "Publicación 8 enero 2000 y vigencia 8 enero 2001, frente a fecha del título, renumeraciones y reformas posteriores."
+  },
+  "reviewed_at": "2026-10-22T04:13:20.135987+00:00",
+  "source_audit": "review-batch-46-audit.json",
+  "whole_book_complete": false,
+  "limitations": [
+    "Revisión sustantiva limitada exactamente a las dieciséis unidades asignadas; no certifica el libro completo.",
+    "Jurisprudencia selectiva: Bondora, texto íntegro de apartados 1–56 y fallo conservado en tres capturas oficiales; no investigación exhaustiva ni decisión adicional atribuida a unidades técnicas.",
+    "El acceso web actual a EUR-Lex TXT devuelve control antirrobot; se utiliza la extracción oficial íntegra previamente conservada, con esa limitación de captura.",
+    "Corte de autoría 2026-10-19 y comprobación BOE 2026-10-22; sin cambios efectivos entre fechas.",
+    "Sin aprobación profesional externa."
+  ]
+}

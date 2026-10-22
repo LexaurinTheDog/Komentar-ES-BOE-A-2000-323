@@ -1,86 +1,68 @@
 {
   "complete": true,
-  "units_reviewed": 20,
+  "units_reviewed": 16,
   "reviewed_ids": [
-    "dtsegunda",
-    "dttercera",
-    "dtcuarta",
-    "dtquinta",
-    "dtsexta",
-    "dtseptima",
-    "ddunica",
-    "dfprimera",
-    "dfsegunda",
-    "dftercera",
-    "dfcuarta",
-    "dfquinta",
-    "dfsexta",
-    "dfseptima",
-    "dfoctava",
-    "dfnovena",
-    "dfdecima",
-    "dfundecima",
-    "dfduodecima",
-    "dfdecimotercera"
+    "dfdecimocuarta",
+    "dfdecimoquinta",
+    "dfdecimosexta",
+    "dfdecimoseptima",
+    "dfdecimoctava",
+    "dfdecimonovena",
+    "dfvigesima",
+    "dfvigesimaprimera",
+    "dfvigesimasegunda",
+    "dfvigesimatercera",
+    "dfvigesimacuarta",
+    "dfvigesimoquinta",
+    "dfvigesimosexta",
+    "dfvigesimoseptima",
+    "dfvigesimooctava",
+    "dfvigesimonovena"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "dtseptima",
+      "id": "dfdecimoquinta",
       "corrected": true,
-      "detail": "Precisado que las medidas anteriores siguen regidas por legislación anterior, además de conservar su existencia."
+      "detail": "Explicitada excepción especializada posterior para víctimas menores o con discapacidad psíquica."
     },
     {
-      "id": "dfprimera",
+      "id": "dfvigesimasegunda",
       "corrected": true,
-      "detail": "Explicitada necesidad de solicitud, obligatoriedad del embargo solicitado, conceptos cubiertos y cuantía del aval."
+      "detail": "Corregida transmisión: se exige copia de la grabación original, no entrega del original."
     },
     {
-      "id": "dfnovena",
+      "id": "dfvigesimoquinta",
       "corrected": true,
-      "detail": "Precisados sujetos requeridos, notificación por nota marginal y previa cancelación de nota para carta de pago."
-    },
-    {
-      "id": "dfundecima",
-      "corrected": true,
-      "detail": "Explicada condición de no aplicación inicial de recusación, más allá de remisión editorial."
-    },
-    {
-      "id": "dfduodecima",
-      "corrected": true,
-      "detail": "Corregida apariencia de separación absoluta: juez instructor resuelve recusación de juez de paz; precisada final 17."
+      "detail": "Añadidos plazos de demanda y contestación, proposición probatoria, vista y apelación/casación del incidente."
     }
   ],
   "unit_checks": {
-    "dtsegunda": "Primera instancia antigua hasta sentencia; salvedad transitoria primera y cambio para apelación, ejecución y extraordinarios.",
-    "dttercera": "Segunda instancia pendiente conserva ley anterior; ejecución provisional anticipada bajo nueva LEC y cambio general desde sentencia.",
-    "dtcuarta": "Casación pendiente se sustancia y decide por ley anterior; ejecución provisional según nueva ley.",
-    "dtquinta": "Juicio ejecutivo cualquiera que sea título; excepción apremio no alcanzado a entrada en vigor.",
-    "dtsexta": "Ejecución iniciada: actos realizables o modificables, sin reapertura indiscriminada de actos consumados.",
-    "dtseptima": "Dos apartados: solicitud nueva y medidas antiguas regidas por legislación anterior con revisión/modificación nueva.",
-    "ddunica": "Tres excepciones de conservación de 1881; exclusiones 1827/1880–1900; listas complementarias; veintiún números derogatorios; incompatibilidad y conservación 52/1997.",
-    "dfprimera": "Cesación comunitaria autorizada y seis reglas monitorias: legitimación, certificación, gastos, solidaridad, embargo a instancia y costas.",
-    "dfsegunda": "Cuatro reformas: remuneración, programas, cautela penal y legitimación/oposición tasada de entidades, sin probar cuantía por autorización.",
-    "dftercera": "Ordinario impugnación, renumeración 122 y derogación posterior de ley receptora comprobada en XML.",
-    "dfcuarta": "Ordinario competencia desleal, coordinación derogaciones 23/25/26 y separación del derecho material.",
-    "dfquinta": "Cauce civil y explotación/preparativos serios para cautelas de 1986; derogación posterior y transitorias verificadas.",
-    "dfsexta": "Cesación/restitución accesoria, retractación, declarativa/inscripción, personación entidades y extensión procesal a adherentes no consumidores.",
-    "dfseptima": "Cinco apartados: protección registral, título 517.2.4/5, sumarios 250.1.10/11, arrendamiento financiero e inscripción/modelo como alternativa.",
-    "dfoctava": "Convenio y declinatoria, renuncia expresa/tácita histórica, pluralidad demandados, ley sustitutiva; STC 1/2018 contextual sin atribuirle interpretación de 1988.",
-    "dfnovena": "Diez grupos hipotecarios: certificación, prórrogas, derecho rematante, vías judicial/notarial, asiento, nota, calificación y cancelaciones.",
-    "dfdecima": "Cuatro reformas cambiarias: excepciones 67, cauce 49/68, ejecución 66 y accesorios 58/59/62, sin reconocimiento previo ni indefensión.",
-    "dfundecima": "Diez grupos laborales y remisiones limitadas; condición final 17 para recusación, jurisdicción, plazos, revisión, ejecución y valores; ley receptora derogada.",
-    "dfduodecima": "Seis grupos penales; condición final 17, instructor/decisor y excepción juez paz, inadmisión temporal, instrucción hábil y casación constitucional.",
-    "dfdecimotercera": "Slot derogado conservado, causa RDL 8/2004 y versión efectiva 20041106, sin reconstrucción de norma eliminada."
+    "dfdecimocuarta": "Dos reformas separadas: autorización sanitaria histórica frente a artículo 8.6 actual y súplica histórica frente a reposición del 87.2.",
+    "dfdecimoquinta": "Prelación pericial pública y excepción privada motivada; añadido alcance especial posterior del artículo 6.6 de justicia gratuita.",
+    "dfdecimosexta": "Supresión y eficacia de 20 de marzo de 2024 verificadas en versiones; no se reactiva régimen extraordinario histórico.",
+    "dfdecimoseptima": "Enumeración exacta de materias sujetas a reforma orgánica; LO 19/2003 y fecha de vigencia cotejadas; no suspensión indefinida.",
+    "dfdecimoctava": "Mandato de remisión en un año desde vigencia, sin aprobación parlamentaria automática; conexión ley 15/2015.",
+    "dfdecimonovena": "Mandato de remisión concursal en seis meses; ley 22/2003 histórica y derogación posterior diferenciadas.",
+    "dfvigesima": "Mandato de cooperación en seis meses; legislación posterior y prioridad europea diferenciadas.",
+    "dfvigesimaprimera": "Seis apartados: tribunal, rectificación/revocación, transacción, certificación notarial, ejecutividad, queja, anexo V, competencia y habilitación.",
+    "dfvigesimasegunda": "Siete apartados: autoridades y anexos, rectificación y denegación, transmisión mediante copias y competencia; transición 2019/1111 y errata 2001/2003 identificadas.",
+    "dfvigesimatercera": "Quince apartados: formularios, excepción consumo, propuesta parcial, treinta días europeos, oposición y ejecutividad, revisión dual, ejecución y traducción; Bondora leído sin trasladar alegaciones al fallo.",
+    "dfvigesimacuarta": "Diez apartados: órgano, supletoriedad, diez días de audiencia, treinta días en cuantía, reconvención, recursos, ejecución, traducción del certificado y originales.",
+    "dfvigesimoquinta": "Ocho apartados: reconocimiento, ejecución directa, notificación y traducción, denegación y plazos, apelación/casación, certificados, adaptación, documentos públicos y transacciones.",
+    "dfvigesimosexta": "Diecisiete apartados: exequátur sucesorio separado de certificado, recursos naturales, defensa posterior, documentos/transacciones, certificación judicial/notarial, archivo y recurso; remisión anómala al 16 preservada.",
+    "dfvigesimoseptima": "Cinco apartados: emisión sobre documento público, ejecución extranjera, notificación, impugnación y colaboración informativa obligatoria; sin derecho privado de acceso bancario.",
+    "dfvigesimooctava": "Deber administrativo de disponibilidad de formularios europeos; diferencia entre acceso, elección y presentación y entre versiones actuales/transitorias.",
+    "dfvigesimonovena": "Publicación 8 enero 2000 y vigencia 8 enero 2001, frente a fecha del título, renumeraciones y reformas posteriores."
   },
-  "reviewed_at": "2026-10-22T03:59:48.451911+00:00",
-  "source_audit": "review-batch-45-audit.json",
+  "reviewed_at": "2026-10-22T04:13:20.135987+00:00",
+  "source_audit": "review-batch-46-audit.json",
   "whole_book_complete": false,
   "limitations": [
-    "Segunda lectura limitada exactamente a las veinte disposiciones asignadas; no implica terminación del libro.",
-    "Jurisprudencia selectiva: STC 1/2018, antecedentes 1–12, FFJJ 1–5 y fallo leídos; votos discrepantes diferenciados, no utilizados como ratio.",
-    "Las reformas sectoriales históricas no consolidan por sí mismas sus leyes receptoras; no se certifican todos sus desarrollos posteriores.",
-    "Se conserva corte jurídico de autoría 2026-10-19; comprobación actual 2026-10-22 sin cambios efectivos.",
+    "Revisión sustantiva limitada exactamente a las dieciséis unidades asignadas; no certifica el libro completo.",
+    "Jurisprudencia selectiva: Bondora, texto íntegro de apartados 1–56 y fallo conservado en tres capturas oficiales; no investigación exhaustiva ni decisión adicional atribuida a unidades técnicas.",
+    "El acceso web actual a EUR-Lex TXT devuelve control antirrobot; se utiliza la extracción oficial íntegra previamente conservada, con esa limitación de captura.",
+    "Corte de autoría 2026-10-19 y comprobación BOE 2026-10-22; sin cambios efectivos entre fechas.",
     "Sin aprobación profesional externa."
   ]
 }

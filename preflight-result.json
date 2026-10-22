@@ -20,7 +20,7 @@
   ],
   "decisive_date": "2026-10-19",
   "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
-  "verified_at": "2026-10-22T04:06:44.119839+00:00",
+  "verified_at": "2026-10-22T04:11:55.297213+00:00",
   "version_evidence": {
     "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
     "latest_published_change": "2026-10-07",
@@ -38,7 +38,7 @@
     "no_change_in_fresh_xml_metadata_analysis": true,
     "http_and_hash_evidence": "sources/verification.json",
     "clock_note": "Response access times are actual UTC system clock; snapshot filename uses assigned local task date 2026-10-22.",
-    "bounded_review_refresh": "review-batch-45-audit.json",
+    "bounded_review_refresh": "review-batch-46-audit.json",
     "fresh_xml_identical_to_authoring_snapshot": true,
     "bounded_author_refresh": "author-df14-df29-audit.json",
     "current_check_date": "2026-10-22",
@@ -63,7 +63,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfdecimoquinta",
@@ -79,7 +79,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfdecimosexta",
@@ -105,7 +105,7 @@
           "fecha_vigencia": "20240320"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfdecimoseptima",
@@ -121,7 +121,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfdecimoctava",
@@ -137,7 +137,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfdecimonovena",
@@ -153,7 +153,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfvigesima",
@@ -169,7 +169,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfvigesimaprimera",
@@ -190,7 +190,7 @@
           "fecha_vigencia": "20060607"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfvigesimasegunda",
@@ -216,7 +216,7 @@
           "fecha_vigencia": "20151001"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfvigesimatercera",
@@ -252,7 +252,7 @@
           "fecha_vigencia": "20240320"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfvigesimacuarta",
@@ -273,7 +273,7 @@
           "fecha_vigencia": "20151001"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfvigesimoquinta",
@@ -304,7 +304,7 @@
           "fecha_vigencia": "20240320"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfvigesimosexta",
@@ -340,7 +340,7 @@
           "fecha_vigencia": "20240320"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfvigesimoseptima",
@@ -366,7 +366,7 @@
           "fecha_vigencia": "20180702"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfvigesimooctava",
@@ -387,7 +387,7 @@
           "fecha_vigencia": "20180702"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfvigesimonovena",
@@ -403,7 +403,7 @@
           "fecha_vigencia": "20150820"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     }
   ],
   "annexes_checked": true,
@@ -418,8 +418,7 @@
   "fresh_source_identical_to_authoring_xml": true,
   "unresolved_blockers": [],
   "limitations": [
-    "Autoría limitada a dieciséis unidades; pendiente segunda lectura independiente. No certifica el libro completo.",
-    "Una sentencia TJUE incorporada; quince unidades sin jurisprudencia específica. Investigación selectiva nacional y europea.",
-    "EUR-Lex rechazó descargas directas; el texto íntegro de Bondora se conserva mediante capturas del extractor web oficial, sin código HTTP originario expuesto. Reglamentos cotejados en PDFs oficiales BOE, sin presentar esos PDFs originales como consolidaciones actuales."
+    "Fecha jurídica conservada: 19 de octubre de 2026; el análisis transitorio de cada expediente requiere examen propio.",
+    "La segunda lectura sustantiva de este checkpoint comprende exclusivamente los 16 identificadores de review-result.json; el manuscrito entero permanece incompleto."
   ]
 }

@@ -1,3 +1,30 @@
+# Segunda lectura parcial: finales decimocuarta a vigésimo novena
+
+Revisadas exactamente dieciséis unidades frente al XML oficial BOE, con corte de autoría 19 de octubre y comprobación actual de 22 de octubre de 2026. Las correcciones y límites constan en [resultado exacto](review-batch-46-result.json). No se declara terminado el libro ni revisadas aquí otras unidades.
+
+| Unidad | Comprobación sustantiva |
+|---|---|
+| dfdecimocuarta | Dos reformas separadas: autorización sanitaria histórica frente a artículo 8.6 actual y súplica histórica frente a reposición del 87.2. |
+| dfdecimoquinta | Prelación pericial pública y excepción privada motivada; añadido alcance especial posterior del artículo 6.6 de justicia gratuita. |
+| dfdecimosexta | Supresión y eficacia de 20 de marzo de 2024 verificadas en versiones; no se reactiva régimen extraordinario histórico. |
+| dfdecimoseptima | Enumeración exacta de materias sujetas a reforma orgánica; LO 19/2003 y fecha de vigencia cotejadas; no suspensión indefinida. |
+| dfdecimoctava | Mandato de remisión en un año desde vigencia, sin aprobación parlamentaria automática; conexión ley 15/2015. |
+| dfdecimonovena | Mandato de remisión concursal en seis meses; ley 22/2003 histórica y derogación posterior diferenciadas. |
+| dfvigesima | Mandato de cooperación en seis meses; legislación posterior y prioridad europea diferenciadas. |
+| dfvigesimaprimera | Seis apartados: tribunal, rectificación/revocación, transacción, certificación notarial, ejecutividad, queja, anexo V, competencia y habilitación. |
+| dfvigesimasegunda | Siete apartados: autoridades y anexos, rectificación y denegación, transmisión mediante copias y competencia; transición 2019/1111 y errata 2001/2003 identificadas. |
+| dfvigesimatercera | Quince apartados: formularios, excepción consumo, propuesta parcial, treinta días europeos, oposición y ejecutividad, revisión dual, ejecución y traducción; Bondora leído sin trasladar alegaciones al fallo. |
+| dfvigesimacuarta | Diez apartados: órgano, supletoriedad, diez días de audiencia, treinta días en cuantía, reconvención, recursos, ejecución, traducción del certificado y originales. |
+| dfvigesimoquinta | Ocho apartados: reconocimiento, ejecución directa, notificación y traducción, denegación y plazos, apelación/casación, certificados, adaptación, documentos públicos y transacciones. |
+| dfvigesimosexta | Diecisiete apartados: exequátur sucesorio separado de certificado, recursos naturales, defensa posterior, documentos/transacciones, certificación judicial/notarial, archivo y recurso; remisión anómala al 16 preservada. |
+| dfvigesimoseptima | Cinco apartados: emisión sobre documento público, ejecución extranjera, notificación, impugnación y colaboración informativa obligatoria; sin derecho privado de acceso bancario. |
+| dfvigesimooctava | Deber administrativo de disponibilidad de formularios europeos; diferencia entre acceso, elección y presentación y entre versiones actuales/transitorias. |
+| dfvigesimonovena | Publicación 8 enero 2000 y vigencia 8 enero 2001, frente a fecha del título, renumeraciones y reformas posteriores. |
+
+Evidencias: [cotejo oficial](review-batch-46-audit.json), [preflight](preflight-result.json), [Bondora](cases/TJUE-Bondora-df14-df29.md). Validación técnica y lectura sustantiva son controles distintos. Sin aprobación profesional externa.
+
+---
+
 # Segunda lectura parcial: transitoria segunda a final decimotercera
 
 Revisadas exactamente veinte unidades frente al XML BOE y sus versiones; corte de 19 de octubre de 2026 contrastado el 22 de octubre. Se corrigen las precisiones indicadas en el resultado. La revisión no comprende otras unidades ni certifica terminación del libro.
