@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <analisis>
+      <materias>
+        <materia codigo="62">Actos procesales</materia>
+        <materia codigo="269">Arbitraje</materia>
+        <materia codigo="304">Arrendamientos rústicos</materia>
+        <materia codigo="305">Arrendamientos urbanos</materia>
+        <materia codigo="383">Audiencias Provinciales</materia>
+        <materia codigo="880">Código Civil</materia>
+        <materia codigo="1305">Competencia desleal</materia>
+        <materia codigo="1664">Contratos</materia>
+        <materia codigo="2467">Derechos fundamentales</materia>
+        <materia codigo="2499">Días inhábiles</materia>
+        <materia codigo="3150">Embargos</materia>
+        <materia codigo="3198">Enjuiciamiento Civil</materia>
+        <materia codigo="3199">Enjuiciamiento Criminal</materia>
+        <materia codigo="4012">Hipoteca</materia>
+        <materia codigo="4013">Hipoteca mobiliaria</materia>
+        <materia codigo="4564">Juicio Ejecutivo</materia>
+        <materia codigo="4700">Jurisdicción Civil</materia>
+        <materia codigo="4701">Jurisdicción Contencioso Administrativa</materia>
+        <materia codigo="4705">Justicia Gratuita</materia>
+        <materia codigo="4722">Juzgados de Paz</materia>
+        <materia codigo="4900">Matrimonio</materia>
+        <materia codigo="4915">Medidas cautelares</materia>
+        <materia codigo="5424">Patentes</materia>
+        <materia codigo="5669">Prenda</materia>
+        <materia codigo="5680">Préstamos</materia>
+        <materia codigo="7156">Procedimiento judicial</materia>
+        <materia codigo="5707">Procedimiento Laboral</materia>
+        <materia codigo="5711">Procedimientos especiales</materia>
+        <materia codigo="5717">Procesos declarativos</materia>
+        <materia codigo="5774">Propiedad Horizontal</materia>
+        <materia codigo="5775">Propiedad Industrial</materia>
+        <materia codigo="5776">Propiedad Intelectual</materia>
+        <materia codigo="5794">Publicidad</materia>
+        <materia codigo="5894">Recurso de Casación</materia>
+        <materia codigo="5907">Recursos extraordinarios</materia>
+        <materia codigo="5911">Recursos procesales</materia>
+        <materia codigo="6218">Responsabilidad Civil</materia>
+        <materia codigo="6525">Seguros de vehículos de motor</materia>
+        <materia codigo="6532">Sentencias</materia>
+        <materia codigo="6676">Sociedades Anónimas</materia>
+        <materia codigo="6896">Títulos valores</materia>
+        <materia codigo="7126">Ventas a plazos</materia>
+      </materias>
+      <notas>
+        <nota>Se publica una corrección de erratas al texto en catalán en el Suplement núm. 11 en llengua catalana del BOE de 16 de novembre de 2000</nota>
+        <nota>La modificación de la disposición adicional 1 por la Ley Orgánica 8/2015, de 22 de julio, confiere carácter de orgánico al art. 763 , en cumplimiento de la Sentencia 132/2010, de 2 de diciembre, BOE-A-2011-274.</nota>
+      </notas>
+      <referencias>
+        <anteriores>
+          <anterior>
+            <id_norma>BOE-A-1998-16717</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>el art. 12 y MODIFICA el 15.3, 16.1 y 2 y la disposición adicional primera.2 y 3 de la Ley 28/1998, de 13 de julio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1998-8789</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 9.3, 14, 15, 18 y 20 y MODIFICA el 12.2, 3 y 4, 16 y AÑADE la disposición adicional 4 a la Ley 7/1998, de 13 de abril</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1996-8930</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>el art. 142 y MODIFICA el 25.20, 103, 143 y 150 de la Ley de la Propiedad Intelectual, texto refundido aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1994-26003</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 38 a 40 de la Ley 29/1994, de 24 de noviembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1991-628</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 23, 25 y 26 y MODIFICA el 22 de la Ley 3/1991, de 10 de enero</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1989-30361</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 119, 120, 121 y 122.1 y MODIFICA el 118 de la Ley de Sociedades Anónimas, texto refundido aprobado por Real Decreto Legislativo 1564/1989, de 22 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1988-26156</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 29, 30 y 33 de la Ley 34/1988, de 11 de noviembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1986-7900</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 125.3 y 4, 133.2, 135 y 136.1 y 2 y MODIFICA el 125.1 y 133 de la Ley 11/1986, de 20 de marzo</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1981-16216</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>las disposiciones adicionales 1 a 9 de la Ley 30/1981, de 7 de julio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1981-2261</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 123 a 137 de la Ley 83/1980, de 31 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1979-88</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 11 a 15 de la Ley 62/1978, de 26 de noviembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1973-987</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>el Decreto-ley 5/1973, de 17 de julio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1969-1222</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>el Decreto-ley 18/1969, de 20 de octubre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1968-714</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley 10/1968, de 20 de junio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1968-454</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 17 y 18 y MODIFICA la disposición adicional, en la redacción dada por la Ley 30/1995, de 8 de noviembre, de la Ley sobre Responsabilidad Civil y Seguro en la Circulación de Vehículos a Motor, texto refundido aprobado por el Decreto 632/1968, de 21 de marzo</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1954-15448</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 82 a 85, 92 y 93 de la Ley de Hipoteca Mobiliaria, de 16 de diciembre de 1954 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1952-14092</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>el Decreto sobre Normas Procesales aplicables en la Justicia Municipal, de 21 de noviembre de 1952 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1940-2473</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>el Decreto sobre reconstrucción de Autos y Actuaciones Judiciales, de 23 de febrero de 1940 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1908-5579</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>los arts. 2, 8, 12 y 13 de la Ley sobre la Nulidad de ciertos Contratos de Préstamos, de 23 de julio de 1908 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1893-6023</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>arts. 41 y 42 de la Ley de Hipoteca Naval, de 21 de agosto de 1893</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1889-4763</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>lo indicado de los arts. 8, 12 y 134 y los arts. 127 a 130, 135, 202 a 214, 294 a 296, 298, 1214, 1215, 1226 y 1231 a 1253 del Código Civil de 24 de julio de 1889 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1881-813</id_norma>
+            <relacion codigo="210">DEROGA</relacion>
+            <texto>la Ley de Enjuiciamiento Civil aprobada por Decreto de 3 de febrero de 1881, excepto lo indicado de los títulos I, VIII, IX, XII y XIII del libro II y el libro III (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1995-24262</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>la disposición adicional 8 de la Ley 30/1995, de 8 de noviembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1998-16718</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>los arts. 8.5 y 87.3 de la Ley 29/1998, de 13 de julio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1996-750</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>el art. 6.6 de la Ley 1/1996, de 10 de enero</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1995-8758</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>los arts. 2, 15, 47, 50, 183, 186, 234, 235 y 261 de la Ley de Procedimiento Laboral, texto refundido aprobado por el Real Decreto Legislativo 2/1995, de 7 de abril</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1988-28027</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>el art. 11 de la Ley 36/1988, de 5 de diciembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1985-14880</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>los arts. 49 y 66 a 68 de la Ley 19/1985, de 16 de julio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1960-10906</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>los arts. 7.2 y 21 de la Ley 49/1960, de 21 de julio</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1946-2453</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>los arts. 41, 86, 107 y 129 a 135 de la Ley Hipotecaria, texto refundido aprobado por Decreto de 8 de febrero de 1946 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1882-6036</id_norma>
+            <relacion codigo="270">MODIFICA</relacion>
+            <texto>arts. 54, 56, 63, 68, 201 y 852 de la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882 (Gazeta)</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1997-26034</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Ley Orgánica 5/1997, de 4 de diciembre.</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1997-25338</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Ley 52/1997, de 27 de noviembre</texto>
+          </anterior>
+          <anterior>
+            <id_norma>BOE-A-1985-12666</id_norma>
+            <relacion codigo="330">CITA</relacion>
+            <texto>Ley Orgánica 6/1985, de 1 de julio</texto>
+          </anterior>
+        </anteriores>
+        <posteriores>
+          <posterior>
+            <id_norma>BOE-A-2024-12944</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>el art. 43 bis, por Real Decreto-ley 4/2024, de 26 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2014-7877</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>la disposición final 26 y SE MODIFICA los arts. 681.2 y 685.3 , por Ley 14/2014, de 24 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2004-18911</id_norma>
+            <relacion codigo="210">SE DEROGA</relacion>
+            <texto>la disposición final 13, por Real Decreto Legislativo 8/2004, de 29 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-20526</id_norma>
+            <relacion codigo="230">SE DEJA SIN EFECTO</relacion>
+            <texto>la modificación de los arts. 22 y 685, en la redacción dada por el Real Decreto-ley 26/2026, de 29 de septiembre, por Resolución de 2 de octubre de 2026</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-799</id_norma>
+            <relacion codigo="230">SE DEJA SIN EFECTO</relacion>
+            <texto>la modificación de los arts. 441, 549.4, 686.1, en la redacción dada por el Real Decreto-Ley 21/2018, de 14 de diciembre, por Resolución de 22 de enero de 2019</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-17493</id_norma>
+            <relacion codigo="230">SE DEJA SIN EFECTO</relacion>
+            <texto>los arts. 114, 120, 223 y 224, SE MODIFICA determinados preceptos, SE AÑADE los arts. 189 bis, 192 bis, 194 bis, 213 bis, 454 bis y se renumera la disposición final 23 como 25, con los efectos indicados, por Ley 13/2009, de 3 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-20823</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 22 y 685, por Real Decreto-ley 29/2026, de 6 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-20266</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 22 y 685, por Real Decreto-ley 26/2026, de 29 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2025-76</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 3 de abril de 2025, y SE SUPRIME determinados preceptos y SE AÑADE, con los mismos efectos los arts. 245 bis, 439 bis, las disposiciones adicionales 11 y 12, por Ley Orgánica 1/2025, de 2 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-25758</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, SE AÑADE, SE SUPRIME determinados preceptos, con efectos desde el 20 de marzo de 2024, por Real Decreto-ley 6/2023, de 19 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-15135</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos y SE SUPRIME el capítulo VI del título IV del Libro II, todo ello con efectos desde el 29 de julio de 2023, por Real Decreto-ley 5/2023, de 28 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-12203</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 150, 439, 440, 441, 549, 675, 685 y 704 y SE AÑADE el 655 bis y la disposición adicional 7, por Ley 12/2023, de 24 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-7053</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 517, por Ley 6/2023, de 17 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-5366</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 217.5 y SE AÑADE los arts. 11 ter y 15 quater, por Ley 4/2023, de 28 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-21800</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 23 de diciembre de 2022, el art. 130.2, por Ley Orgánica 14/2022, de 22 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-14580</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 589, por Ley 16/2022, de 5 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-12578</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 45, 52, 73, 77, 249, 250, 406, 468, 477 y SE AÑADE el 447 bis, por Ley Orgánica 7/2022, de 27 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-11589</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 11 bis, 217.5, 222.3 y SE AÑADE el 15 ter, por Ley 15/2022, de 12 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2022-4516</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 807, 808.1 y 810, por Ley Orgánica 2/2022, de 21 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-20727</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 605, 771 y 774, por Ley 17/2021, de 15 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-9347</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 779 y 780, por Ley Orgánica 8/2021, de 4 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2021-9233</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos y SE AÑADE el art. 7 bis; con efectos desde el 3 de septiembre de 2021, por Ley 8/2021, de 2 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-14046</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 326, por Ley 6/2020, de 11 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-3814</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 521 y 693, por Ley 5/2019, de 15 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-3108</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 249.1, 440.3 y 4, 441.5, 549.4 y 686.1, por Real Decreto-ley 7/2019, de 1 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2018-17293</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 441, 549.4 y 686.1, por Real Decreto-ley 21/2018, de 14 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2018-16673</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 15 bis, por Ley Orgánica 3/2018, de 5 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2018-7833</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 150, 250, 437, 441 y 444, por Ley 5/2018, de 11 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2018-7831</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 588 y SE AÑADE la disposición final 27 y SE RENUMERA la anterior disposición final 27 como 28, por Ley 3/2018, de 11 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2017-12659</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 63.1, por Ley 7/2017, de 2 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-11545</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 36.2, por Ley Orgánica 16/2015, de 27 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-10727</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos , por Ley 42/2015, de 5 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-10197</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 517, por Ley 35/2015, de 22 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-8564</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>las disposiciones finales 25 a 27 y SE AÑADE la 28 y la 29, por Ley 29/2015, de 30 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-8470</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 76, 525, 779, 780 y 781, por Ley 26/2015, de 28 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-8222</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>la disposición adicional 1 y SE AÑADE los arts. 778 bis y 778 ter, por Ley Orgánica 8/2015, de 22 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-8167</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 45, 115 a 118, 138, 140, 147, 212, 266, 403, 483, 510 a 512 de la Ley 1/2000, por Ley Orgánica 7/2015, de 21 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-7851</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos , por Ley 19/2015, de 13 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-7391</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos y SE AÑADE el capítulo IV bis en el título I del Libro IV, por Ley 15/2015, de 2 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-5744</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 695.4, por Ley 9/2015, de 25 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2014-11404</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 256.1 y 259.4, por Ley 21/2014, de 4 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2014-9896</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 568.1 , por Ley 17/2014, de 30 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2014-9133</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 695.4, por Real Decreto-ley 11/2014, de 5 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2014-3329</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 11, por Ley 3/2014, de 27 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2014-2485</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 568, por Real Decreto-ley 4/2014, de 7 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2013-7062</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 669.1, por Real Decreto-ley 7/2013, de 28 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2013-6938</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 552.1 y 695.2, por Ley 8/2013, de 26 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2013-5941</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 22, 164, 220, 440, 497, 549 y 703, por Ley 4/2013, de 4 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2013-5073</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos , por Ley 1/2013, de 14 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2013-2029</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 241.1, por Real Decreto-ley 3/2013, de 22 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2012-14301</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 241.1.7, por Ley 10/2012, de 20 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2012-9112</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos , por Ley 5/2012, de 6 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2012-3152</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos , por Real Decreto-ley 5/2012, de 5 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-15938</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 568.2, según la redacción dada a la disposición final 3.7 de la Ley 22/2003, de 9 de julio, Concursal, por Ley 38/2011, de 10 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-15937</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>determinados preceptos , SE AÑADE la disposición adicional 6 y SE DEJA SIN EFECTO los arts. 457 y 480, por Ley 37/2011, de 10 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-12628</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>, con efectos desde el 30 de junio de 2018, el art. 52, la rúbrica del capítulo V, título I, libro IV y SE AÑADE el art. 781 bis, por Ley 20/2011, de 21 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-11641</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 669.1, 670.4 y 671, por Real Decreto-ley 8/2011, de 1 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-10970</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 519, por Ley 16/2011, de 24 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-8847</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 722, por Ley 11/2011, de 20 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-5392</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 23.2, 31.2, 437.2, 539.1, 813 y 815, SE AÑADE las disposiciones finales 23 a 25 y SE RENUMERA la disposición final 25 como 26, por Ley 4/2011, de 24 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-21162</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 15, por Ley 29/2009, de 30 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2009-18733</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 21, 22, 33, 155, 164, 220, 249 a 252, 437, 438, 440, 447, 494, 497, 549, 703, 818 y la disposición adicional 5, por Ley 19/2009, de 23 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-22438</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 164, 779, 780.1 y 781 y SE AÑADE el 141 bis, por Ley 54/2007, de 28 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-21086</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 135, 151, 154, 162, 267, 268, 274, 276, 278, 318 y 693.3, por Ley 41/2007, de 7 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-12946</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 212, 249, 404, 434, 461, 465 y SE AÑADE el art. 15 bis, por Ley 15/2007, de 3 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2007-6115</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 188.1, 217, SE AÑADE el 11 bis y SE TRANSPONE Directiva 97/80, por Ley Orgánica 3/2007, de 22 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2006-9960</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el arts. 256, 257, 259, 261, 263, 297, 298, 328, 733 y SE AÑADE la disposiciones finales 21 y 22, reenumerando la actual 21 como 23, por Ley 19/2006, de 5 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2006-9294</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 23.1, por Ley 16/2006, de 26 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2005-11864</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 770, 771, 775 y 777, por Ley 15/2005, de 8 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-23646</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 517.2.2, 550.1.1 y 559.1, por Ley 60/2003, de 23 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-23644</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 143, 525 y SE AÑADE la disposición adicional 5, por Ley Orgánica 19/2003, de 23 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-23399</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 326, por Ley 59/2003, de 19 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-21338</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 250.1, por la Ley 42/2003, de 21 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-21053</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>el art. 757.1, por Ley 41/2003, de 18 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-13863</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 22, 33, 155, 161, 437, 438, 440, 447 y 703, por Ley 23/2003, de 10 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2003-13813</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 7, 17, 98, 463, 472, 482 y 568, por Ley 22/2003, de 9 de julio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2002-20855</id_norma>
+            <relacion codigo="270">SE MODIFICA</relacion>
+            <texto>los arts. 6, 11, 15, 52, 221, 249, 250, 711 y 728, por Ley 39/2002, de 28 de octubre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2017-5855</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>la sección 1 bis al capítulo V del titulo I del Libro II, por Real Decreto-ley 9/2017, de 26 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-14222</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>, con efectos desde el 28 de marzo de 2012, la disposición final 26 y SE RENUMERA la anterior disposición final 26 como 27, por Real Decreto-ley 12/2011, de 26 de agosto</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2004-21760</id_norma>
+            <relacion codigo="407">SE AÑADE</relacion>
+            <texto>el art. 49 bis, por Ley Orgánica 1/2004, de 28 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2001-24625</id_norma>
+            <relacion codigo="404">SE ACTUALIZA</relacion>
+            <texto>, sobre conversión a euros de las cuantías indicadas: Real Decreto 1417/2001, de 17 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2001-14758</id_norma>
+            <relacion codigo="201">CORRECCIÓN de errores</relacion>
+            <texto>en BOE núm. 180, de 28 de julio de 2001</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2000-7052</id_norma>
+            <relacion codigo="201">CORRECCIÓN de errores</relacion>
+            <texto>en BOE núm. 90, de 14 de abril de 2000</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2015-9524</id_norma>
+            <relacion codigo="203">SE CORRIGEN errores</relacion>
+            <texto>, con variación de preceptos modificadores, de la Ley 15/2015, de 2 de julio, en BOE núm. 210, de 2 de septiembre de 2015</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-19798</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>con el art. 481.8, sobre los escritos de recurso de casación y oposición civiles: Acuerdo de 14 de septiembre de 2023</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-20233</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>con el art. 790, aclarando aspectos sobre emplazamiento y personación de la herencia yacente al efecto de practicar asientos registrales en procedimientos judiciales contra ella: Resolución de 3 de octubre de 2011</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2002-5333</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>con el art. 157, regulando el registro central de rebeldes civiles: Real Decreto 231/2002, de 1 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2001-12590</id_norma>
+            <relacion codigo="440">SE DICTA DE CONFORMIDAD</relacion>
+            <texto>sobre la anotación de los procesos civiles de ejecución en los libros de los Juzgados y Tribunales: Instrucción 3/2001, de 20 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-10923</id_norma>
+            <relacion codigo="331">SE DICTA EN RELACIÓN</relacion>
+            <texto>ampliación del plazo indicado del art. 151.2 hasta el 31 de diciembre de 2020 : Ley 3/2020, de 18 de septiembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-4705</id_norma>
+            <relacion codigo="331">SE DICTA EN RELACIÓN</relacion>
+            <texto>ampliación del plazo indicado del art. 151.2 hasta el 31 de diciembre de 2020 y con el alcance indicado, sobre el establecimiento de un procedimiento especial y sumario en materia de familia: Real Decreto-ley 16/2020, de 28 de abril</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-4208</id_norma>
+            <relacion codigo="331">SE DICTA EN RELACIÓN</relacion>
+            <texto>, sobre aplicación, en la forma y alcance indicados, de determinados plazos: Real Decreto-ley 11/2020, de 31 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-7119</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en el Recurso 5518/2023, la desestimación en relación con determinados preceptos, en la redacción dada por la disposición final 5 Ley 12/2023, de 24 de mayo, por Sentencia 17/2026, de 24 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2026-1756</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en el Recurso 5516/2023, la pérdida del objeto de lo indicado y la desestimación de todo lo demás, en relación con determinados preceptos en la redacción dada por la Ley 12/2023, de 24 de mayo, por Sentencia 190/2025, de 16 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2025-4079</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en el Recurso 5514/2023, la inconstitucionalidad y nulidad de los arts. 439.6.c) y 7; 655 bis.1 y 2; y por extensión al inciso indicado del art. 685.2, en la redacción dada por la disposición final 5 de la Ley 12/2023, de 24 de mayo, por Sentencia 26/2025, de 29 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-16397</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>en la Cuestión 1938/2021, su extinción, por desaparción sobrevenida de su objeto, en relación con los arts. 565.1 y 557.1, por Sentencia 66/2023, de 6 de junio</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2020-2942</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en la Cuestión 2754/2019, la inconstitucionalidad y nulidad del art. 454 bis.1 párrafo 1,  en la redacción dada por el art. 4.9 de la Ley 37/2011, de 10 de octubre, por Sentencia 15/2020, de 28 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-5727</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en la Cuestión 4820/2018, la inconstitucionalidad y nulidad de lo indicado de los arts. 35.2 y 34.2, en la redacción dada por la Ley 13/2009, de 3 de noviembre, por Sentencia 34/2019, de 14 de marzo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-4447</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en el Recurso 4703/2018, la desestimación en relación con determinados preceptos, en la redacción dada por el art. único de la Ley 5/2018, de 11 de junio, por Sentencia 32/2019, de 28 de febrero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-2032</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en la Cuestión 3323/2017, la desestimación en relación con el último inciso del art. 152.2, en la redacción dada por el art. único.17 de la Ley 42/2015, por Sentencia 6/2019, de 17 de enero</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2017-648</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en el Recurso 4985/2013, la pérdida de objeto en relación con los arts. 552 y 695, en la redacción dada por el art. 7.1 y 14 de la Ley 1/2013, de 14 de mayo, por Sentencia 213/2016, de 15 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2012-15758</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en el Recurso 1933/2004, la inconstitucionalidad y nulidad, en los términos del fj 7.b), del inciso indicado de la disposición adicional 5.1 y la DESESTIMACIÓN de todo lo demás, en la redacción dada por la Ley Orgánica 19/2003, de 23 de diciembre,  por Sentencia 224/2012, de 29 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2012-15756</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>la inadmisión en relación con el art. 261.2, por Sentencia 222/2012, de 27 de noviembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2011-274</id_norma>
+            <relacion codigo="470">SE DECLARA</relacion>
+            <texto>, en la Cuestión 4542/2001, inconstitucionales, con el efecto establecido en el fj 3, los incisos indicados del art. 763.1 y la DESESTIMACIÓN de todo lo demás, por Sentencia 132/2010, de 2 de diciembre</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2024-7202</id_norma>
+            <relacion codigo="552">Recurso</relacion>
+            <texto>1306/2024 promovido contra determinados preceptos, en la redacción dada por la disposición final 5 de la Ley 12/2023, de 24 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2023-20499</id_norma>
+            <relacion codigo="552">Recurso</relacion>
+            <texto>5518/2023 promovido contra determinados preceptos, en la redacción dada por la Ley 12/2023, de 24 de mayo</texto>
+          </posterior>
+          <posterior>
+            <id_norma>BOE-A-2019-7144</id_norma>
+            <relacion codigo="552">Recurso</relacion>
+            <texto>2208/2019 promovido contra los arts. 249.1, 440.3 y 4, 441.5, 549.4 y 686.1, en la redacción dada por el Real Decreto-ley 7/2019, de 1 de marzo</texto>
+          </posterior>
+        </posteriores>
+      </referencias>
+    </analisis>
+  </data>
+</response>

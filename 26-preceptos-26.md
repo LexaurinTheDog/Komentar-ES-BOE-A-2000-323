@@ -156,6 +156,10 @@ El artículo 487 regula ahora la decisión de casación y ordena resolver primer
 
 **Control al cerrar el capítulo sin contenido.** Identificar la fecha y el régimen transitorio del expediente; separar las rúbricas conservadas de las reglas operativas; localizar cada cuestión de acceso, escrito, traslado y resolución en los artículos vigentes. Mantener los nueve números no equivale a ofrecer nueve trámites disponibles.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO IV — De los recursos
+
 #### CAPÍTULO V — Del recurso de casación
 
 ### Artículo 477 — Motivo del recurso de casación y resoluciones recurribles en casación.
@@ -196,7 +200,7 @@ El acceso a casación exige primero una resolución comprendida en el apartado 1
 
 El apartado 2 integra infracciones procesales y sustantivas bajo la exigencia de interés casacional, con excepción de las sentencias dictadas para la tutela civil de derechos fundamentales susceptibles de amparo. Alegar incidentalmente un derecho fundamental en un litigio ordinario no identifica por sí solo esa clase de proceso. El apartado 3 concreta oposición a doctrina del Supremo, contradicción entre audiencias o ausencia de doctrina; para los tribunales superiores adapta el examen al derecho especial autonómico. El apartado 4 permite apreciar interés notorio por la proyección general de la cuestión sobre numerosas situaciones. Se trata de justificar una necesidad de interpretación uniforme, no de calificar de importante cualquier derrota individual.
 
-El apartado 5 excluye revisar hechos y valoración de prueba, salvo error de hecho patente e inmediatamente verificable en las actuaciones. Por ejemplo, atribuir al documento una fecha que visiblemente no tiene puede plantear ese examen excepcional; preferir una valoración pericial alternativa requiere una ponderación distinta y no encaja automáticamente. El apartado 6 impone, cuando haya sido posible, denuncia previa del defecto procesal, reiteración en apelación si nació en primera instancia e intento de subsanación cuando proceda. El escrito debe mostrar dónde se cumplieron esas cargas. El artículo 481 exige además formular separadamente la infracción y justificar su relevancia para el fallo. La casación no reproduce la amplitud revisora de la apelación.
+El apartado 5 excluye revisar hechos y valoración de prueba, salvo error de hecho patente e inmediatamente verificable en las actuaciones. Por ejemplo, atribuir al documento una fecha que visiblemente no tiene puede plantear ese examen excepcional; preferir una valoración pericial alternativa requiere una ponderación distinta y no encaja automáticamente. El error visible debe conectarse con una infracción relevante para el fallo conforme al artículo 481.3; una errata inocua no basta por sí sola para obtener la casación. El apartado 6 impone, cuando haya sido posible, denuncia previa del defecto procesal, reiteración en apelación si nació en primera instancia e intento de subsanación cuando proceda. El escrito debe mostrar dónde se cumplieron esas cargas. El artículo 481 exige además formular separadamente la infracción y justificar su relevancia para el fallo. La casación no reproduce la amplitud revisora de la apelación.
 
 ### Artículo 478 — Competencia. Simultaneidad de recursos.
 
@@ -298,7 +302,7 @@ Los apartados 2 a 5 ordenan la argumentación: motivos separados para infraccion
 
 El apartado 6 exige copia de la sentencia con firma electrónica o código identificativo, o certificación en otro caso, y los textos de sentencias que proceda aportar como fundamento del interés. El 482.2 contempla el impedimento para obtener certificación; no conviene confundir esa incidencia con una dispensa general de documentos. El apartado 7 requiere razonar la inexistencia de doctrina cuando se invoque esa modalidad, no limitarse a afirmarla.
 
-El apartado 8 habilita acuerdos publicados sobre extensión y condiciones extrínsecas. La fuente oficial consultada contiene el [Acuerdo de 8 de septiembre de 2023](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-19798); para escritos dirigidos a la Sala Primera fija 50.000 caracteres con espacios, comprendidas notas y gráficos, exige certificación del cómputo y justificación de excesos excepcionales, y regula formato, documentos y carátula. La carátula no suple ni amplía el recurso. Su naturaleza es organizativa y formal, y debe comprobarse su aplicación al escrito concreto. La claridad no se obtiene sólo respetando un límite material: requiere conectar norma, infracción, interés y consecuencia solicitada.
+El apartado 8 habilita acuerdos publicados sobre extensión y condiciones extrínsecas. La fuente oficial consultada contiene el [Acuerdo de 8 de septiembre de 2023](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-19798); para escritos dirigidos a la Sala Primera fija 50.000 caracteres con espacios, comprendidas notas y gráficos, exige certificación del cómputo y justificación de excesos excepcionales, y regula formato, documentos y carátula. El acuerdo exige también identificar y numerar los documentos y acompañar poder, resoluciones de primera instancia e impugnada con sus eventuales aclaraciones o complementos, resguardo del depósito y acreditación de los requisitos del artículo 449 cuando resulten aplicables. La carátula no suple ni amplía el recurso. Su naturaleza es organizativa y formal, y debe comprobarse su aplicación al escrito concreto. La claridad no se obtiene sólo respetando un límite material: requiere conectar norma, infracción, interés y consecuencia solicitada.
 
 ### Artículo 482 — Remisión de los autos. Emplazamiento de las partes. Negativa a expedir certificaciones.
 
