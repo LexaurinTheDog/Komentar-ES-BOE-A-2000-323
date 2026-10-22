@@ -1,0 +1,11 @@
+{
+  "command": [
+    "python3",
+    "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+    "/Volumes/LaCie/open-commentary/_work/es/Komentar-ES-BOE-A-2000-323"
+  ],
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 56 jednotkám, např.: ['a821', 'a822', 'a823', 'a824', 'a825', 'a826', 'a827', 'daprimera', 'dasegunda', 'datercera']\n",
+  "limitation": "El resultado de la construcción íntegra conserva el inventario completo; sus errores ajenos al lote se muestran en stderr. Se exporta únicamente el capítulo revisado por el mismo formateador."
+}

@@ -1,3 +1,36 @@
+# Segunda lectura parcial: artículos 801–820
+
+Se revisan exactamente los veinte identificadores a801–a820 frente al XML oficial y sus versiones, con corte jurídico de 19 de octubre de 2026 y comprobación actual el 22 de octubre. Se corrigen detalles de plazos (809, 811), administración (809), notificación (815) y prueba (818), conservando el texto legal y los demás comentarios. Libro incompleto; sin aprobación profesional externa.
+
+La sentencia TJUE C-618/10 se lee completa: sus antecedentes distinguen la reducción de interés acordada en instancia de la decisión europea; apartados 38–57 y primer fallo exigen control de oficio con elementos suficientes, y 61–73 y segundo fallo rechazan modificar la cláusula abusiva. Las cuestiones tercera a sexta son inadmisibles. El fallo no regula la propuesta judicial ni el silencio vigentes del artículo 815 ni decide todas las incidencias de ejecución del 816.
+
+| Unidad | Comprobación |
+|---|---|
+| a801 | Conservación y productividad bajo responsabilidad; reparaciones ordinarias indispensables frente a extraordinarias, audiencia 793.3, pericia y presupuesto; LAJ señala y tribunal resuelve. |
+| a802 | Depósito sin dilación, retención limitada a atenciones ordinarias; providencia para fondos extraordinarios y extracción subsidiaria también para gastos ordinarios sin liquidez. |
+| a803 | Prohibición de enajenar/gravar y cuatro excepciones; propuesta, audiencia y providencia; subasta notarial o voluntaria frente a mercado oficial de valores. |
+| a804 | Bases líquidas y porcentajes 2, 1 y 0,5; otros ingresos 4–10 por decisión LAJ, sin acumulación; viajes necesarios por decreto cuando justo. |
+| a805 | Continuidad de administraciones del causante, cuentas y remesas; separación solo causa justa y decreto; provisión de vacantes autorizada bajo responsabilidad. |
+| a806 | Masa común por ley/capitulaciones y falta de acuerdo; coordinación civil/procesal y diferencia de mera cotitularidad y régimen de participación. |
+| a807 | Tres conexiones con proceso matrimonial y alternativa disolución; inclusión expresa órgano violencia; cautela con denominaciones orgánicas y competencia concreta. |
+| a808 | Inventario tras admisión/inicio, cónyuges o herederos; propuesta separada y documentos; no confundir firmeza para liquidar con acceso al inventario. |
+| a809 | Diez días, citación, efectos de ausencia injustificada, acta; decisión de administración mismo día/siguiente; controversia concreta e importe, verbal y sentencia. |
+| a810 | Inventario y firmeza en su caso, herederos; reintegros y preferencias; señalamiento diez días, inasistencia/acuerdo, 788.1–2; contador/peritos 784 y 785 ss. |
+| a811 | Firmeza, estimaciones inicial/final y diferencia; señalamiento diez días, ausencia injustificada y acta; desacuerdo a verbal, sentencia fija cantidad y forma pago. |
+| a812 | Deuda dineraria sin tope, líquida/determinada/vencida/exigible; dos clases documentos, relación duradera y cuotas comunitarias; factura no prueba irrebatible. |
+| a813 | Fuero exclusivo domicilio/residencia o localización subsidiaria; finca para comunidades; no sumisión; averiguaciones infructuosas/otro partido terminan por auto. |
+| a814 | Identidad, domicilios, origen/importe, documentos y formulario; dispensa postulación solo petición inicial, sin trasladarla a fases posteriores. |
+| a815 | Principio prueba, veinte días, oposición motivada, 161; secuencia comunitaria y 164; propuestas de reducción/consumo, diez días y silencio, reserva declarativo, desistimiento y apelación. |
+| a816 | Decreto termina monitorio, solicitud ejecutiva sin espera 548; oposición como sentencias y cierre ordinario posterior; interés 576 desde auto. Fallo C-618/10 delimitado históricamente. |
+| a817 | Pago y acreditación preceden archivo LAJ; pago parcial o de otra factura no demuestra satisfacción completa; ejemplo de imputación individualizado. |
+| a818 | Oposición en plazo y cosa juzgada; postulación por cuantía, pluspetición 21.2; diez días impugnación/cinco prueba y 438.9; mes demanda/costas; alquiler urbano siempre verbal. |
+| a819 | Título cambiario presentado al incoar: letra, cheque o pagaré; requisitos ley cambiaria, distinto soporte monitorio y relación causal; sin atribuir formalidad eficacia absoluta. |
+| a820 | Domicilio demandado; pluralidad de obligados mismo título permite elección y representación separada; prohibición sumisión expresa/tácita. |
+
+Evidencia: [resultado exacto](review-batch-43-result.json), [cotejo e inventario](review-batch-43-audit.json), [preflight](preflight-result.json), [ficha de sentencia](cases/C-618-10-a801-a820.md). La validación técnica no acredita por sí sola calidad jurídica.
+
+---
+
 # Segunda lectura parcial: artículos 781 bis–800
 
 Revisadas exactamente veinte unidades. Corte jurídico: 19 de octubre de 2026; consulta oficial actualizada el 22 de octubre. No se modifica el texto legal. Se precisan contador y sorteo (784), copias (787), familiares (790), competencias y comunicación administrativa (791), promoción notarial (792) y contestación (800). Libro incompleto; sin aprobación profesional externa.

@@ -2,89 +2,79 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a781bis",
-    "a782",
-    "a783",
-    "a784",
-    "a785",
-    "a786",
-    "a787",
-    "a788",
-    "a789",
-    "a790",
-    "a791",
-    "a792",
-    "a793",
-    "a794",
-    "a795",
-    "a796",
-    "a797",
-    "a798",
-    "a799",
-    "a800"
+    "a801",
+    "a802",
+    "a803",
+    "a804",
+    "a805",
+    "a806",
+    "a807",
+    "a808",
+    "a809",
+    "a810",
+    "a811",
+    "a812",
+    "a813",
+    "a814",
+    "a815",
+    "a816",
+    "a817",
+    "a818",
+    "a819",
+    "a820"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a784",
+      "id": "a809",
       "corrected": true,
-      "detail": "Precisado funcionamiento de lista, sorteo inicial y turnos correlativos por remisión al artículo 341."
+      "detail": "Explicitados diez días y decisión de administración en el mismo día o siguiente."
     },
     {
-      "id": "a787",
+      "id": "a811",
       "corrected": true,
-      "detail": "Explicitado derecho a examinar autos y obtener copias a costa de la parte."
+      "detail": "Añadidos plazo de señalamiento de diez días y documentación del acuerdo en acta."
     },
     {
-      "id": "a790",
+      "id": "a815",
       "corrected": true,
-      "detail": "Enumeradas las categorías familiares que delimitan el aseguramiento de oficio."
+      "detail": "Explicada secuencia de domicilios para notificación comunitaria antes de edictos."
     },
     {
-      "id": "a791",
+      "id": "a818",
       "corrected": true,
-      "detail": "Diferenciadas diligencia del LAJ y providencia del tribunal; aclarado inicio del mes desde comunicación al tribunal de la resolución administrativa."
-    },
-    {
-      "id": "a792",
-      "corrected": true,
-      "detail": "Precisado que la alternativa a acreditar promoción notarial exige solicitar al tiempo de promover la declaración, no simultaneidad indeterminada."
-    },
-    {
-      "id": "a800",
-      "corrected": true,
-      "detail": "Explicitado plazo de diez días de contestación por remisión comprobada al artículo 438.1."
+      "detail": "Precisado inicio del trámite de prueba tras impugnación o agotamiento de su plazo."
     }
   ],
   "unit_checks": {
-    "a781bis": "Oposición registral: excepción nacionalidad por residencia, dos meses, escrito inicial, expediente veinte días y demanda otros veinte; comprobada remisión al 753.",
-    "a782": "Legitimación de coheredero y legatario alícuota; precedencia del partidor designado; documentos y tres posiciones de acreedores, con bloqueo anterior a entrega.",
-    "a783": "Intervención solicitada y procedente; junta diez días; citación por procurador, personal o edictal; fiscal y acreedores personados o concurrentes.",
-    "a784": "Junta con concurrentes; contador y un perito por clase; sorteo y remisión al 341, abogados especializados locales; recusación y fondos limitados al sorteado.",
-    "a785": "Aceptación y entrega de autos/objetos; cumplimiento exigible por cada interesado; plazo a petición, daños y coordinación con máximo 786.",
-    "a786": "Ley sucesoria y reglas testamentarias con límite de legítimas; evitar indivisión/fraccionamiento; escrito firmado, inventario, valoración, liquidación y lotes en dos meses.",
-    "a787": "Examen y copias, oposición concreta diez días, decreto/protocolización, comparecencia diez días, acuerdo o verbal; ausencia de cosa juzgada y salida consensual del cohecho. STC 145/2020 leída íntegra.",
-    "a788": "Entrega con notas de adjudicación, testimonio tras protocolización y a petición; no entrega a nadie con acreedor hereditario cualificado no pagado ni garantizado.",
-    "a789": "Terminación unánime en cualquier fase, sobreseimiento LAJ y puesta a disposición; coordinada con protección de acreedores y cese de intervención.",
-    "a790": "Aseguramiento de oficio: testamento y familiares enumerados, ausencia o menor sin representante; enterramiento si necesario, seguridad, entrega y declaración notarial.",
-    "a791": "Averiguación LAJ y providencia judicial diferenciadas; sin testamento ni parientes: auto, inventario, administración y comunicación; Administración sin caución, resolución comunicada y cese/entrega en un mes.",
-    "a792": "Tres legitimaciones con sus presupuestos: notario previo o simultáneo, división con límite testamentario, Administración con expediente; acreedores cualificados y remisión 791.2.",
-    "a793": "Auto de seguridad si preciso/no duplicado; señalamiento LAJ; seis categorías citadas, con presupuestos propios del fiscal y servicios jurídicos públicos.",
-    "a794": "Inventario tras citación, concurrentes, documentos, voluntad testamentaria y continuación; inclusión/exclusión con fundamento en acta, vista verbal y reserva de terceros diferenciada del 787.5.",
-    "a795": "Auto de gestión según testador y reglas subsidiarias; depósito, orden de administrador/capacidad, caución, dispensa judicial y por partícipes, garantía protegida inexcusable.",
-    "a796": "Cese por declaración salvo división y solicitud; cese unánime por decreto con excepciones de menores/ausentes; acreedor cualificado mantiene intervención hasta pago/garantía.",
-    "a797": "Nombramiento, caución exigible y posesión; comunicación, testimonio/copia auténtica con ambos extremos; constancia registral facultativa por mandamiento y requisitos hipotecarios.",
-    "a798": "Representación anterior a aceptación con referencia a declaración de herederos; tras aceptación limitada directamente a administración, custodia y conservación; facultad/deber de acciones.",
-    "a799": "Cuentas justificadas en intervalos judiciales máximo anual, consignación o resguardo original y diligencias; consulta de parte en cualquier momento, distinta del cierre.",
-    "a800": "Cese, cuenta final complementaria y todas las cuentas a término común variable; sin oposición decreto, exención y caución; oposición en plazo y contestación diez días por 438, vista solicitada y verbal."
+    "a801": "Conservación y productividad bajo responsabilidad; reparaciones ordinarias indispensables frente a extraordinarias, audiencia 793.3, pericia y presupuesto; LAJ señala y tribunal resuelve.",
+    "a802": "Depósito sin dilación, retención limitada a atenciones ordinarias; providencia para fondos extraordinarios y extracción subsidiaria también para gastos ordinarios sin liquidez.",
+    "a803": "Prohibición de enajenar/gravar y cuatro excepciones; propuesta, audiencia y providencia; subasta notarial o voluntaria frente a mercado oficial de valores.",
+    "a804": "Bases líquidas y porcentajes 2, 1 y 0,5; otros ingresos 4–10 por decisión LAJ, sin acumulación; viajes necesarios por decreto cuando justo.",
+    "a805": "Continuidad de administraciones del causante, cuentas y remesas; separación solo causa justa y decreto; provisión de vacantes autorizada bajo responsabilidad.",
+    "a806": "Masa común por ley/capitulaciones y falta de acuerdo; coordinación civil/procesal y diferencia de mera cotitularidad y régimen de participación.",
+    "a807": "Tres conexiones con proceso matrimonial y alternativa disolución; inclusión expresa órgano violencia; cautela con denominaciones orgánicas y competencia concreta.",
+    "a808": "Inventario tras admisión/inicio, cónyuges o herederos; propuesta separada y documentos; no confundir firmeza para liquidar con acceso al inventario.",
+    "a809": "Diez días, citación, efectos de ausencia injustificada, acta; decisión de administración mismo día/siguiente; controversia concreta e importe, verbal y sentencia.",
+    "a810": "Inventario y firmeza en su caso, herederos; reintegros y preferencias; señalamiento diez días, inasistencia/acuerdo, 788.1–2; contador/peritos 784 y 785 ss.",
+    "a811": "Firmeza, estimaciones inicial/final y diferencia; señalamiento diez días, ausencia injustificada y acta; desacuerdo a verbal, sentencia fija cantidad y forma pago.",
+    "a812": "Deuda dineraria sin tope, líquida/determinada/vencida/exigible; dos clases documentos, relación duradera y cuotas comunitarias; factura no prueba irrebatible.",
+    "a813": "Fuero exclusivo domicilio/residencia o localización subsidiaria; finca para comunidades; no sumisión; averiguaciones infructuosas/otro partido terminan por auto.",
+    "a814": "Identidad, domicilios, origen/importe, documentos y formulario; dispensa postulación solo petición inicial, sin trasladarla a fases posteriores.",
+    "a815": "Principio prueba, veinte días, oposición motivada, 161; secuencia comunitaria y 164; propuestas de reducción/consumo, diez días y silencio, reserva declarativo, desistimiento y apelación.",
+    "a816": "Decreto termina monitorio, solicitud ejecutiva sin espera 548; oposición como sentencias y cierre ordinario posterior; interés 576 desde auto. Fallo C-618/10 delimitado históricamente.",
+    "a817": "Pago y acreditación preceden archivo LAJ; pago parcial o de otra factura no demuestra satisfacción completa; ejemplo de imputación individualizado.",
+    "a818": "Oposición en plazo y cosa juzgada; postulación por cuantía, pluspetición 21.2; diez días impugnación/cinco prueba y 438.9; mes demanda/costas; alquiler urbano siempre verbal.",
+    "a819": "Título cambiario presentado al incoar: letra, cheque o pagaré; requisitos ley cambiaria, distinto soporte monitorio y relación causal; sin atribuir formalidad eficacia absoluta.",
+    "a820": "Domicilio demandado; pluralidad de obligados mismo título permite elección y representación separada; prohibición sumisión expresa/tácita."
   },
-  "reviewed_at": "2026-10-22T03:30:45.352723+00:00",
-  "source_audit": "review-batch-42-audit.json",
+  "reviewed_at": "2026-10-22T03:42:01.208193+00:00",
+  "source_audit": "review-batch-43-audit.json",
   "whole_book_complete": false,
   "limitations": [
-    "Segunda lectura limitada exactamente a las veinte unidades asignadas; libro incompleto.",
-    "Jurisprudencia selectiva: lectura íntegra STC 145/2020, antecedentes, fundamentos y fallo; sin investigación exhaustiva ni validación autónoma de las sentencias citadas por ella.",
-    "Corte jurídico 2026-10-19 y nueva consulta oficial 2026-10-22; sin cambios efectivos posteriores al corte en XML consultado.",
-    "Sin aprobación profesional externa; requisitos sucesorios sustantivos y registrales externos no comprobados exhaustivamente."
+    "Revisión sustantiva limitada exactamente a los veinte artículos asignados; no conclusión del libro.",
+    "Jurisprudencia selectiva: sentencia C-618/10 leída íntegramente; sin nueva investigación exhaustiva ni verificación autónoma de las decisiones citadas por ella.",
+    "Se conserva corte jurídico 2026-10-19, contrastado con selección efectiva a 2026-10-22.",
+    "Sin aprobación profesional externa; no examen exhaustivo del Derecho civil sustantivo ni de reglas transitorias para cada litigio."
   ]
 }

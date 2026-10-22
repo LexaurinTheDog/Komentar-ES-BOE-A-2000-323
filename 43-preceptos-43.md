@@ -116,6 +116,10 @@ Ejemplo ficticio: el fallecido tenía un encargado que administraba una finca di
 
 **Control práctico al cerrar la administración hereditaria:** comprobar reparaciones ordinarias y autorizaciones extraordinarias; conciliar cobros, retenciones y depósitos; identificar la excepción y autorización de cada venta; separar las bases retributivas y justificar viajes; incorporar las cuentas de administraciones subalternas a la rendición general.
 
+#### LIBRO IV — De los procesos especiales
+
+#### TÍTULO II — De la división judicial de patrimonios
+
 #### CAPÍTULO II — Del procedimiento para la liquidación del régimen económico matrimonial
 
 ### Artículo 806 — Ámbito de aplicación.
@@ -184,9 +188,9 @@ Ejemplo ficticio: admitida la demanda de divorcio, una cónyuge pide inventariar
 
 *Nota editorial del BOE:* Se modifican los párrafos primero y cuarto del apartado 1 y el párrafo primero del apartado 2 por el art. 15.368 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-El inventario se forma ante el letrado de la Administración de Justicia, con citación de los cónyuges y dentro del plazo máximo señalado por el apartado 1. La comparecencia tiene consecuencias propias: la ausencia injustificada determina conformidad con la propuesta formulada por quien comparece. Por ello debe comprobarse la regularidad de la citación y la existencia de una causa justificativa antes de atribuir ese efecto. El acuerdo de ambos se documenta igualmente en acta.
+El inventario se forma ante el letrado de la Administración de Justicia, con citación de los cónyuges y dentro del plazo máximo de diez días del apartado 1. La comparecencia tiene consecuencias propias: la ausencia injustificada determina conformidad con la propuesta formulada por quien comparece. Por ello debe comprobarse la regularidad de la citación y la existencia de una causa justificativa antes de atribuir ese efecto. El acuerdo de ambos se documenta igualmente en acta.
 
-La función del inventario comprende identificar qué integra la comunidad y discutir el importe de sus partidas. Si hay controversia, el acta debe recoger las pretensiones concretas sobre los bienes y su fundamento jurídico; el letrado cita a vista y el trámite continúa conforme al juicio verbal. La sentencia resuelve las cuestiones suscitadas y aprueba el inventario. Tanto en el escenario consensuado como en el litigioso se prevén decisiones del tribunal sobre administración y disposición: formar inventario no paraliza necesariamente toda gestión de la masa.
+La función del inventario comprende identificar qué integra la comunidad y discutir el importe de sus partidas. Si hay controversia, el acta debe recoger las pretensiones concretas sobre los bienes y su fundamento jurídico; el letrado cita a vista y el trámite continúa conforme al juicio verbal. La sentencia resuelve las cuestiones suscitadas y aprueba el inventario. En el supuesto del apartado 1, el tribunal resuelve sobre administración y disposición en el mismo día o el siguiente; si hay controversia, la sentencia incluye el pronunciamiento correspondiente: formar inventario no paraliza necesariamente toda gestión de la masa.
 
 Ejemplo ficticio: ambos cónyuges aceptan incluir una cuenta, pero discrepan sobre un crédito por obras pagadas con fondos privativos. El acta debe identificar el importe pretendido y la razón de su inclusión o exclusión, en lugar de consignar una disconformidad genérica. La sentencia resolverá esa partida antes de que se construyan lotes de liquidación sobre un pasivo incierto. No debe trasladarse la disputa sin resolver al contador como si fuera una mera operación aritmética.
 
@@ -240,11 +244,13 @@ Ejemplo ficticio: el activo aprobado asciende a 200.000 euros y existe un reinte
 
 El régimen de participación exige una liquidación específica: interesa determinar los patrimonios iniciales y finales y el crédito que resulte de la comparación conforme a las normas civiles. No se parte necesariamente de una masa común que deba repartirse por lotes. El apartado 1 exige firmeza de la resolución de disolución; no permite trasladar a esta liquidación la anticipación del inventario prevista en el artículo 808.
 
-La propuesta debe expresar las estimaciones patrimoniales de cada cónyuge y, en su caso, la cantidad a pagar por quien haya tenido mayor incremento. La comparecencia ante el letrado busca el acuerdo, con el efecto de conformidad que el apartado 4 atribuye a la inasistencia injustificada. Si no se alcanza acuerdo, se sigue juicio verbal: la sentencia determina patrimonios, cuantía debida y forma de pago. Aquí el desacuerdo conduce al pronunciamiento judicial indicado, no al nombramiento de contador del artículo 810.5 como solución automática.
+La propuesta debe expresar las estimaciones patrimoniales de cada cónyuge y, en su caso, la cantidad a pagar por quien haya tenido mayor incremento. El letrado debe señalar, dentro del máximo de diez días, día y hora de la comparecencia para buscar el acuerdo. Este se consigna en acta y concluye el acto; debe distinguirse de la sentencia que resuelve el desacuerdo. La citación cuenta con el efecto de conformidad que el apartado 4 atribuye a la inasistencia injustificada. Si no se alcanza acuerdo, se sigue juicio verbal: la sentencia determina patrimonios, cuantía debida y forma de pago. Aquí el desacuerdo conduce al pronunciamiento judicial indicado, no al nombramiento de contador del artículo 810.5 como solución automática.
 
 Ejemplo ficticio: una cónyuge afirma que el otro ha experimentado un incremento superior, pero este sostiene que se ha valorado incorrectamente un bien de su patrimonio inicial. La propuesta debe permitir reconstruir esa comparación; la sentencia resolverá los valores discutidos y la eventual prestación, en lugar de ordenar simplemente repartir el bien.
 
 **Lista práctica para liquidar:** identificar régimen y órgano competente; separar formación de inventario de liquidación; documentar cada partida y reintegro; comprobar firmeza cuando sea exigible; preparar la comparecencia y justificar cualquier impedimento; distinguir división de una masa común y cálculo del crédito de participación.
+
+#### LIBRO IV — De los procesos especiales
 
 #### TÍTULO III — De los procesos monitorio y cambiario
 
@@ -358,7 +364,7 @@ Ejemplo ficticio: una autónoma reclama el precio de tres trabajos. Puede presen
 
 *Nota editorial del BOE:* Se modifica el apartado 1 por el art. 15.373 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-La admisión combina un control documental inicial y garantías antes de que el silencio pueda conducir a ejecución. Si los documentos encajan en el artículo 812.2 o aportan principio de prueba confirmado por la petición, el letrado requiere pagar o formular oposición fundada y motivada en veinte días. Si no, da cuenta al juez sobre la admisión. La notificación remite al artículo 161 e incluye el apercibimiento de ejecución. Los edictos se reservan al supuesto comunitario del apartado 2, que establece una secuencia de domicilios y remite finalmente al artículo 164.
+La admisión combina un control documental inicial y garantías antes de que el silencio pueda conducir a ejecución. Si los documentos encajan en el artículo 812.2 o aportan principio de prueba confirmado por la petición, el letrado requiere pagar o formular oposición fundada y motivada en veinte días. Si no, da cuenta al juez sobre la admisión. La notificación remite al artículo 161 e incluye el apercibimiento de ejecución. Los edictos se reservan al supuesto comunitario del apartado 2, que exige notificar en el domicilio designado para asuntos comunitarios; si no se designó, intentar la comunicación en el piso o local y, si tampoco resulta posible, acudir al artículo 164. No cabe saltar directamente a los edictos por tratarse de cuotas comunitarias.
 
 El apartado 3 vigente regula dos motivos de propuesta judicial de reducción: incorrección de la cantidad y posible abusividad de una cláusula relevante en contratos entre profesionales y consumidores. El juez concreta el importe propuesto, excluyendo en el segundo caso la cuantía derivada de la cláusula. El peticionario dispone de diez días para aceptar o rechazar; su silencio vale aceptación. Esta no implica renunciar al resto, reclamable únicamente por el declarativo correspondiente. El rechazo determina desistimiento del monitorio y el auto de ese último supuesto es directamente apelable por la parte personada. Si no hay motivo de reducción, el apartado 4 manda continuar con el requerimiento.
 
@@ -434,13 +440,17 @@ Ejemplo ficticio: requerido por 2.400 euros, el deudor los transfiere al acreedo
 
 La oposición presentada en plazo desplaza la controversia a un juicio con sentencia dotada de cosa juzgada. Exige abogado y procurador cuando proceda por cuantía conforme a las reglas generales. Si se reconoce parte de la deuda y solo se denuncia pluspetición, el apartado 1 remite al artículo 21.2 para la parte reconocida: la discrepancia parcial no debe ocultar el alcance del reconocimiento.
 
-El apartado 2 distingue dos trayectorias. Dentro de la cuantía del verbal, el letrado termina el monitorio y da traslado al actor para impugnar en diez días. La redacción vigente incorpora después un plazo común de cinco días para proponer prueba, identificar personas que deban ser citadas y solicitar, en su caso, respuestas escritas del artículo 381; continúa por el artículo 438.9 y siguiente. No corresponde reproducir aquí el trámite histórico como si bastara solicitar vista en la impugnación.
+El apartado 2 distingue dos trayectorias. Dentro de la cuantía del verbal, el letrado termina el monitorio y da traslado al actor para impugnar en diez días. La redacción vigente incorpora después un plazo común de cinco días para proponer prueba, identificar personas que deban ser citadas y solicitar, en su caso, respuestas escritas del artículo 381; continúa por el artículo 438.9 y siguiente. Los cinco días comienzan tras la diligencia dictada una vez presentada la impugnación o agotado el plazo para formularla, incluso si el actor guarda silencio. No corresponde reproducir aquí el trámite histórico como si bastara solicitar vista en la impugnación.
 
 Por encima de esa cuantía, el acreedor dispone de un mes desde el traslado de la oposición para presentar demanda. Si no lo hace, se sobreseen las actuaciones y se le imponen las costas. Si demanda, se termina el monitorio y se da traslado conforme a los artículos 404 y siguientes, con control judicial si no procede admitirla. El apartado 3 impone siempre verbal cuando se reclaman rentas o cantidades debidas por arrendatario de finca urbana, cualquiera que sea el importe.
 
 Ejemplo ficticio: en una reclamación que debe continuar por verbal, el deudor niega la recepción de los bienes. Tras la oposición y la eventual impugnación, ambas partes deben aprovechar el plazo de prueba e identificar al transportista que no puedan presentar por sí mismas. Limitarse a reservar la prueba para una vista futura puede desconocer el trámite específico vigente.
 
 **Control práctico del monitorio:** verificar vencimiento y soporte documental; comprobar competencia y domicilio útil; desglosar capital y accesorios; realizar el control de consumo antes del requerimiento; documentar notificación, pago u oposición; identificar el cauce posterior y sus plazos; separar el decreto de terminación del auto de ejecución.
+
+#### LIBRO IV — De los procesos especiales
+
+#### TÍTULO III — De los procesos monitorio y cambiario
 
 #### CAPÍTULO II — Del juicio cambiario
 
