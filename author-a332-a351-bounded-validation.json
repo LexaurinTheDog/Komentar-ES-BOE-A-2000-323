@@ -1,0 +1,43 @@
+{
+  "complete": true,
+  "scope": [
+    "a332",
+    "a333",
+    "a334",
+    "a335",
+    "a336",
+    "a337",
+    "a338",
+    "a339",
+    "a340",
+    "a341",
+    "a342",
+    "a343",
+    "a344",
+    "a345",
+    "a346",
+    "a347",
+    "a348",
+    "a349",
+    "a350",
+    "a351"
+  ],
+  "units": 20,
+  "build_exit_code": 0,
+  "strict_validation": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 32735,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "export_matches_builder": true,
+  "independent_review": false,
+  "limitations": [
+    "Solo lote de autor; manuscrito íntegro todavía incompleto.",
+    "La longitud y los controles técnicos no prueban calidad jurídica.",
+    "Sin autoridad jurisprudencial nueva: acceso al texto íntegro del candidato fallido."
+  ]
+}

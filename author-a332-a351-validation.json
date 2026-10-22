@@ -1,0 +1,23 @@
+{
+  "build_repo": {
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 536 jednotkám, např.: ['a352', 'a353', 'a354', 'a355', 'a356', 'a357', 'a358', 'a359', 'a360', 'a361']\n"
+  },
+  "validate": {
+    "exit_code": 1,
+    "stdout": "{\"repo\": \"Komentar-ES-BOE-A-2000-323\", \"units\": 916, \"verbatim_ratio\": 1.0, \"commentary_chars\": 503799, \"errors\": [\"krátký/chybějící komentář u 536 jednotek: ['a352(0<400)', 'a353(0<400)', 'a354(0<400)', 'a355(0<400)', 'a356(0<400)', 'a357(0<400)', 'a358(0<400)', 'a359(0<400)']\"], \"warnings\": [], \"ok\": false}\n",
+    "stderr": "",
+    "result": {
+      "repo": "Komentar-ES-BOE-A-2000-323",
+      "units": 916,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 503799,
+      "errors": [
+        "krátký/chybějící komentář u 536 jednotek: ['a352(0<400)', 'a353(0<400)', 'a354(0<400)', 'a355(0<400)', 'a356(0<400)', 'a357(0<400)', 'a358(0<400)', 'a359(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  }
+}

@@ -50,3 +50,10 @@ Veinte unidades añadidas; el manuscrito alcanza 340 de 916 unidades. Se examina
 ## Lote de autor: artículos 312 a 331
 
 Veinte unidades añadidas; el manuscrito alcanza 360 de 916 unidades. Se examinan documentación y valoración del interrogatorio, documentos públicos y privados y exhibición documental. [Auditoría](author-a312-a331-audit.json), [fuentes y versiones](author-a312-a331-preflight-result.json), [comprobación del lote y validación integral](author-a312-a331-validation.json). Las 556 unidades restantes siguen pendientes; no se declara completado el libro. No se añade jurisprudencia sin lectura íntegra verificada; [búsqueda selectiva y límites](sources/case-search-a312-a331.json). Segunda lectura independiente pendiente.
+
+
+## Lote de autor: artículos 332 a 351
+
+Veinte unidades añadidas; el manuscrito alcanza 380 de 916 unidades. Se examinan exhibición oficial, copias gráficas, pericia de parte y judicial, plazos, idoneidad, tachas, operaciones y cotejo de letras. [Auditoría](author-a332-a351-audit.json), [fuentes y versiones](author-a332-a351-preflight-result.json), [comprobación del lote y validación integral](author-a332-a351-validation.json). Las 536 unidades restantes siguen pendientes; no se declara completado el libro. No se añade jurisprudencia sin lectura íntegra verificada; [búsqueda selectiva y límites](sources/case-search-a332-a351.json). Segunda lectura independiente pendiente.
+
+Validación estricta del [checkpoint de estos veinte artículos](author-a332-a351-bounded-validation.json): correcta, texto legal 100 % coincidente. Este resultado no cambia el estado incompleto del libro entero.

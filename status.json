@@ -1,11 +1,11 @@
 {
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-22T00:15:02.736439+00:00",
+  "updated_at": "2026-10-22T00:20:19.647902+00:00",
   "decisive_date": "2026-10-19",
   "title": "Comentario a la Ley de Enjuiciamiento Civil",
   "total_units": 916,
-  "completed_units": 360,
+  "completed_units": 380,
   "completed_ids": [
     "a1",
     "a2",
@@ -366,10 +366,7 @@
     "a328",
     "a329",
     "a330",
-    "a331"
-  ],
-  "remaining_units": 556,
-  "remaining_ids": [
+    "a331",
     "a332",
     "a333",
     "a334",
@@ -389,7 +386,10 @@
     "a348",
     "a349",
     "a350",
-    "a351",
+    "a351"
+  ],
+  "remaining_units": 536,
+  "remaining_ids": [
     "a352",
     "a353",
     "a354",
@@ -927,7 +927,7 @@
     "dfvigesimooctava",
     "dfvigesimonovena"
   ],
-  "commentary_chars": 470770,
+  "commentary_chars": 503799,
   "source_checks": {
     "official_http_evidence": "sources/verification.json",
     "completeness": true,
@@ -951,15 +951,15 @@
       "repo": "Komentar-ES-BOE-A-2000-323",
       "units": 916,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 470770,
+      "commentary_chars": 503799,
       "errors": [
-        "krátký/chybějící komentář u 556 jednotek: ['a332(0<400)', 'a333(0<400)', 'a334(0<400)', 'a335(0<400)', 'a336(0<400)', 'a337(0<400)', 'a338(0<400)', 'a339(0<400)']"
+        "krátký/chybějící komentář u 536 jednotek: ['a352(0<400)', 'a353(0<400)', 'a354(0<400)', 'a355(0<400)', 'a356(0<400)', 'a357(0<400)', 'a358(0<400)', 'a359(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
     "full_completion_gate": false,
-    "bounded_chapter_export": "18-preceptos-18.md"
+    "bounded_chapter_export": "19-preceptos-19.md"
   },
   "remaining_limitations": [
     "Manuscrito incompleto: faltan comentarios de las unidades enumeradas.",
@@ -968,11 +968,11 @@
     "No se alcanza la fase drafted_technical_validation."
   ],
   "local_link_errors": 0,
-  "completed_scope": "360 de 916 unidades; artículos 312–331 añadidos en este lote.",
+  "completed_scope": "380 de 916 unidades; artículos 332–351 añadidos en este lote.",
   "next_unit": {
-    "id": "a332",
-    "label": "Artículo 332",
-    "title": "Deber de exhibición de entidades oficiales."
+    "id": "a352",
+    "label": "Artículo 352",
+    "title": "Otros dictámenes periciales instrumentales de pruebas distintas."
   },
   "limitations_reason": "La sesión deja un checkpoint sustantivo incompleto; no hay un bloqueo de fuente que justifique omitir los comentarios restantes. No se solicita aprobación y no se certifica terminación.",
   "preflight": {
@@ -1073,29 +1073,30 @@
   },
   "last_author_batch": {
     "ids": [
-      "a312",
-      "a313",
-      "a314",
-      "a315",
-      "a316",
-      "a317",
-      "a318",
-      "a319",
-      "a320",
-      "a321",
-      "a322",
-      "a323",
-      "a324",
-      "a325",
-      "a326",
-      "a327",
-      "a328",
-      "a329",
-      "a330",
-      "a331"
+      "a332",
+      "a333",
+      "a334",
+      "a335",
+      "a336",
+      "a337",
+      "a338",
+      "a339",
+      "a340",
+      "a341",
+      "a342",
+      "a343",
+      "a344",
+      "a345",
+      "a346",
+      "a347",
+      "a348",
+      "a349",
+      "a350",
+      "a351"
     ],
     "completed": 20,
-    "audit": "author-a312-a331-audit.json",
-    "independent_review_pending": true
+    "audit": "author-a332-a351-audit.json",
+    "independent_review_pending": true,
+    "bounded_validation": "author-a332-a351-bounded-validation.json"
   }
 }

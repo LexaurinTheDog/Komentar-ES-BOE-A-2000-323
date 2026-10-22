@@ -428,6 +428,19 @@
       "xml_root": "response",
       "request_accept": "application/xml",
       "note": "First request without Accept returned HTTP 400; successful retry explicitly negotiated XML."
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/author-a332-a351-official.xml",
+      "accessed_at": "2026-10-22T00:20:19.647902+00:00",
+      "http_status": 200,
+      "http_headers": "sources/author-a332-a351-http.txt",
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validation": "XML response, status/code 200, 1083 blocks; byte-identical to canonical official XML",
+      "version_cutoff": "2026-10-19",
+      "request_accept": "application/xml",
+      "initial_attempt": "Explicit Accept application/xml; successful response"
     }
   ],
   "decisive_date": "2026-10-19",

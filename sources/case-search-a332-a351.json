@@ -1,0 +1,7 @@
+{
+  "checked_at": "2026-10-22T00:20:19.647902+00:00",
+  "query": "site.poderjudicial.es \"348\" \"sana crítica\" \"dictámenes\" Tribunal Supremo",
+  "results": "Official search located ECLI:ES:TS:2016:3639, URL https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TS%20Civil%2021%20julio%202016.pdf . Full-text access failed with redirect loop in web tool. No holding imported from search snippets; no local corpus search newly performed in this bounded batch.",
+  "new_verified_cases": [],
+  "limitations": "Selective search; no sufficiently relevant individual judgment verified in full for this batch. Commentary relies on statutory text and asserts no new judicial authority."
+}

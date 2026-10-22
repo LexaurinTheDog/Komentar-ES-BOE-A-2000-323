@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:17:30.993512+00:00",
+  "generated_at": "2026-10-22T00:20:19.647902+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -284,6 +284,16 @@
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
     },
     {
+      "path": "sources/author-a332-a351-http.txt",
+      "bytes": 459,
+      "sha256": "727f4ab4d7ca0d506e6f268e4da474d6258c37292c30a9ffb4bfd6944db49d97"
+    },
+    {
+      "path": "sources/author-a332-a351-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
       "path": "sources/boe-act.html",
       "bytes": 4473437,
       "sha256": "4ada6f2a90a853e47baae0542c102dd0860894697d99220b039c2a6705777fbe",
@@ -367,6 +377,11 @@
       "path": "sources/case-search-a312-a331.json",
       "bytes": 1295,
       "sha256": "7942d3595fc97b35cd682ef9d68c52003c8a289a8a70e8edf272070973f5806e"
+    },
+    {
+      "path": "sources/case-search-a332-a351.json",
+      "bytes": 717,
+      "sha256": "6f06b42c5745042c8ca1a7c98575f94db9ac7e239bd33e26c09f0bc9ceda0956"
     },
     {
       "path": "sources/case-search-log.json",
@@ -791,8 +806,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 23080,
-      "sha256": "b5e430ab432ec38e16889605cf2dc6f9f2f12cd95d57058a7e5628103ba7498a"
+      "bytes": 23792,
+      "sha256": "57d4f07bff98c561706900d5384648290d2ecafbe29eddf00a1395eb6bc02205"
     },
     {
       "path": "sources/version-selection.json",
