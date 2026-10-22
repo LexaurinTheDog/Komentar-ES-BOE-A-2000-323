@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-22T00:15:02.736439+00:00",
+  "query": "site.poderjudicial.es \"326\" \"documentos privados\" \"sana crítica\"",
+  "results": "Official legislation and secondary discussion located; no sufficiently relevant civil judgment verified in full. Local TC search also returned criminal-law references to articles 319 CP and 326 LECrim, which do not support this civil commentary.",
+  "new_verified_cases": [],
+  "limitations": "Selective search; no sufficiently relevant individual judgment verified in full for this batch. Commentary relies on statutory text and asserts no new judicial authority.",
+  "local_corpus": {
+    "root": "/Volumes/LaCie/law-intake/eu/es/tc",
+    "query": "artículo 326|art. 326|artículo 319",
+    "candidate_contexts_checked": [
+      "2013/TC-23715.md",
+      "2012/TC-23085.md",
+      "2001/TC-4506.md"
+    ],
+    "exclusion_reason": "Incidental matches or different legislation; no unverified holding cited."
+  },
+  "web_sources_screened": [
+    "https://www5.poderjudicial.es/secp10-11/Documentaci%C3%B3n%20Espa%C3%B1ol/Textos%20legales%20b%C3%A1sicos/Legislaci%C3%B3n%20civil%20y%20mercantil/Ley%20de%20Enjuiciamiento%20Civil.pdf",
+    "https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-L-2020-00000001081"
+  ]
+}
