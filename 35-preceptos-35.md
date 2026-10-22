@@ -34,7 +34,7 @@
 
 *Nota editorial del BOE:* Se modifica por el art. 1.7 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#aprimero.
 
-La subasta electrónica concentra la licitación en el Portal del BOE, pero no desplaza al órgano de ejecución la responsabilidad de controlar su regularidad. La identificación única permite relacionar anuncio, lote, pujas y resoluciones. La apertura requiere conjuntamente el intervalo mínimo de veinticuatro horas desde la publicación y la remisión de la información necesaria; el simple anuncio no equivale a apertura. La regla segunda permite que otra parte pague la tasa si el solicitante no lo hace en diez días, dando cuenta al órgano judicial.
+La subasta electrónica concentra la licitación en el Portal del BOE, pero mantiene en el órgano de ejecución la responsabilidad de controlar su regularidad. La identificación única permite relacionar anuncio, lote, pujas y resoluciones. La apertura requiere conjuntamente el intervalo mínimo de veinticuatro horas desde la publicación y la remisión de la información necesaria; el simple anuncio no equivale a apertura. La regla segunda permite que otra parte pague la tasa si el solicitante no lo hace en diez días, dando cuenta al órgano judicial.
 
 Las reglas tercera y cuarta exigen puja electrónica e identificación segura, también cuando interviene el ejecutante sin consignación. La información complementaria de la regla quinta debe canalizarse por la oficina judicial y proceder de la documentación indicada; no convierte cualquier afirmación comercial del interesado en información oficial comprobada.
 
