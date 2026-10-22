@@ -1,0 +1,44 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "a801",
+    "a802",
+    "a803",
+    "a804",
+    "a805",
+    "a806",
+    "a807",
+    "a808",
+    "a809",
+    "a810",
+    "a811",
+    "a812",
+    "a813",
+    "a814",
+    "a815",
+    "a816",
+    "a817",
+    "a818",
+    "a819",
+    "a820"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "agreement": 1.0,
+    "official_inventory": 916,
+    "audit": "author-a801-a820-audit.json"
+  },
+  "commentary_chars": 31060,
+  "case_law_sources": [
+    "cases/C-618-10-a801-a820.md"
+  ],
+  "links": {
+    "broken": []
+  },
+  "remaining_limitations": [
+    "Lote de autoría; no segunda lectura independiente.",
+    "El libro completo continúa en elaboración."
+  ],
+  "whole_book_complete": false
+}

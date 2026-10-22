@@ -1,0 +1,61 @@
+{
+  "scope": [
+    "a801",
+    "a802",
+    "a803",
+    "a804",
+    "a805",
+    "a806",
+    "a807",
+    "a808",
+    "a809",
+    "a810",
+    "a811",
+    "a812",
+    "a813",
+    "a814",
+    "a815",
+    "a816",
+    "a817",
+    "a818",
+    "a819",
+    "a820"
+  ],
+  "searched_at": "2026-10-22T03:38:47.628740+00:00",
+  "queries": [
+    {
+      "source": "web primary sources",
+      "query": "site.curia.europa.eu C-618/10 Banco Español Crédito sentencia 14 junio 2012 monitorio",
+      "result": "Full judgment fetched through official Publications Office CELLAR after EUR-Lex bot responses."
+    },
+    {
+      "source": "/Volumes/LaCie/law-intake/eu/es/tc",
+      "query": "C.?618/10|Banco Español de Crédito",
+      "result": "Local TC-23874 read in full; ATC 71/2014 concerns mortgage appeals and was excluded as insufficiently relevant to assigned units."
+    }
+  ],
+  "failed_routes": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:62010CJ0618",
+      "http_status": 202,
+      "body_bytes": 0,
+      "accepted_as_source": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=ecli%3AECLI%3AEU%3AC%3A2012%3A349",
+      "result": "Not a PDF; rejected"
+    },
+    {
+      "url": "https://www.congreso.es/docu/docum/ddocum/dosieres/sleg/legislatura_10/spl_81/pdfs/25.pdf",
+      "http_status": 403,
+      "accepted_as_source": false
+    },
+    {
+      "url": "https://curia.europa.eu/juris/document/document.jsf?docid=123843&doclang=ES",
+      "http_status": 200,
+      "result": "Application shell, rejected; overwritten by actual CELLAR judgment"
+    }
+  ],
+  "selected_case": "C-618/10; full text read, including historical provisions and inadmissible questions",
+  "limits": "Selective research. No separately verified sufficiently relevant case added for technical administration, liquidation or initial cambiario units. No exhaustive claim."
+}
