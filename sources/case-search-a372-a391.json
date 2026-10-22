@@ -1,0 +1,20 @@
+{
+  "scope": "a372–a391",
+  "queries": [
+    "site.tribunalconstitucional.es grabación 114/1984",
+    "site.poderjudicial.es 386 presunciones civil"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/es/tc/1984/TC-367.md",
+  "verified_cases": [
+    "ECLI:ES:TC:1984:114"
+  ],
+  "full_text_read": true,
+  "snapshot": {
+    "url": "https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/367",
+    "accessed_at": "2026-10-22T00:32:30.537143+00:00",
+    "http_status": 200,
+    "path": "sources/STC-114-1984.html",
+    "sha256": "0067003e6fcd7cf998544945e07e5a92e3003febc201dd39b5fc0c9ea630adcf"
+  },
+  "limitations": "Búsqueda selectiva. No se ha verificado en esta sesión una sentencia del TS suficientemente pertinente sobre presunciones; no se atribuyen doctrinas a resultados de terceros."
+}

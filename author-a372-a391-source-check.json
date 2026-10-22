@@ -1,0 +1,8 @@
+{
+  "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+  "accessed_at": "2026-10-22T00:29:22.405678+00:00",
+  "http_status": 200,
+  "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+  "bytes": 5433343,
+  "identical_to_preflight": true
+}
