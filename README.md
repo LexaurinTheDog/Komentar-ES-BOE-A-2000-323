@@ -57,3 +57,8 @@ Veinte unidades añadidas; el manuscrito alcanza 360 de 916 unidades. Se examina
 Veinte unidades añadidas; el manuscrito alcanza 380 de 916 unidades. Se examinan exhibición oficial, copias gráficas, pericia de parte y judicial, plazos, idoneidad, tachas, operaciones y cotejo de letras. [Auditoría](author-a332-a351-audit.json), [fuentes y versiones](author-a332-a351-preflight-result.json), [comprobación del lote y validación integral](author-a332-a351-validation.json). Las 536 unidades restantes siguen pendientes; no se declara completado el libro. No se añade jurisprudencia sin lectura íntegra verificada; [búsqueda selectiva y límites](sources/case-search-a332-a351.json). Segunda lectura independiente pendiente.
 
 Validación estricta del [checkpoint de estos veinte artículos](author-a332-a351-bounded-validation.json): correcta, texto legal 100 % coincidente. Este resultado no cambia el estado incompleto del libro entero.
+
+
+## Checkpoint de autoría: artículos 432–448
+
+Se añaden veinte comentarios, incluidos 438 bis, 439 bis y 447 bis, sobre el texto seleccionado a 19 de octubre de 2026 y nuevamente cotejado con XML oficial. [Fuentes y límites del lote](SOURCES-a432-a448.md), [preflight](author-a432-a448-preflight-result.json) y [auditoría](author-a432-a448-audit.json). La selección jurisprudencial examina las SSTC 26/2025 y 190/2025 para las unidades 439 y 441. Borrador parcial pendiente de segunda lectura independiente; no es aprobación profesional externa ni terminación del libro.

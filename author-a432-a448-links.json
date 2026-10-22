@@ -1,0 +1,11 @@
+{
+  "checked_files": [
+    "24-preceptos-24.md",
+    "SOURCES-a432-a448.md",
+    "cases/STC-26-2025.md",
+    "cases/STC-190-2025.md"
+  ],
+  "links_checked": 19,
+  "missing_local_targets": [],
+  "external_sources": "HTTP 200 XML evidence in sources/author-a432-a448-fetch.json"
+}

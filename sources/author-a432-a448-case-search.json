@@ -1,0 +1,65 @@
+{
+  "scope": [
+    "a432",
+    "a433",
+    "a434",
+    "a435",
+    "a436",
+    "a437",
+    "a438",
+    "a4-4",
+    "a439",
+    "a4-5",
+    "a440",
+    "a441",
+    "a442",
+    "a443",
+    "a444",
+    "a445",
+    "a446",
+    "a447",
+    "a4-2",
+    "a448"
+  ],
+  "queries": [
+    {
+      "query": "site.boe.es \"439.6\" \"26/2025\" sentencia",
+      "selected": [
+        "BOE-A-2025-4079",
+        "BOE-A-2026-1756"
+      ]
+    },
+    {
+      "query": "site.boe.es \"Sentencia 32/2019\" \"ocupantes\"",
+      "disposition": "Localizada como antecedente; no se cita como autoridad directa del lote."
+    },
+    {
+      "query": "rg BOE-A-2025-4079|BOE-A-2026-1756 /Volumes/LaCie/law-intake/eu/es/tc",
+      "selected": [
+        {
+          "path": "/Volumes/LaCie/law-intake/eu/es/tc/2025/TC-31404.md",
+          "snapshot": "sources/TC-31404-local.md",
+          "sha256": "8dd71152226f5961af384ca63f051968db3617258749c1b8c2471314f3ef0057"
+        },
+        {
+          "path": "/Volumes/LaCie/law-intake/eu/es/tc/2025/TC-32019.md",
+          "snapshot": "sources/TC-32019-local.md",
+          "sha256": "9dd6dd34192ab1ae8cd141aea30c461e721f841fe84c15980b4a3642638c53cc"
+        }
+      ]
+    }
+  ],
+  "primary_full_text_snapshots": [
+    "sources/STC-26-2025.xml",
+    "sources/STC-190-2025.xml"
+  ],
+  "analysis_scope": [
+    "STC 26/2025: FJ 6, 7 y fallo; diferenciación de antecedentes y votos",
+    "STC 190/2025: fundamentos y fallo, especialmente FJ 2, 5 y 6; diferenciación del voto"
+  ],
+  "supported_units": [
+    "a439",
+    "a441"
+  ],
+  "limits": "Investigación selectiva sobre requisitos posesorios y vulnerabilidad; no estudio exhaustivo de jurisprudencia en las veinte unidades. No se formula una afirmación de inexistencia de casos para unidades técnicas."
+}
