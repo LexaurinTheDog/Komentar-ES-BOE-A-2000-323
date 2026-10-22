@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:51:36.459237+00:00",
+  "generated_at": "2026-10-22T03:57:18.981229+00:00",
   "sources": [
     {
       "path": "sources/ATC-20-2024-a608-a627.html",
@@ -182,6 +182,16 @@
       "path": "sources/PACCAR-http.txt",
       "bytes": 590,
       "sha256": "993aae542cfbd86932803947d273d40606c589a23425cffc6cd98d241dfe8fef"
+    },
+    {
+      "path": "sources/STC-1-2018-dtsegunda-dfdecimotercera.html",
+      "bytes": 192384,
+      "sha256": "1893c85d42194e54047afc6de0f46b0b97595b56b3cb7da48d34cb8a26a976b5"
+    },
+    {
+      "path": "sources/STC-1-2018-dtsegunda-dfdecimotercera.txt",
+      "bytes": 154943,
+      "sha256": "bf80216c3db5a56e41e9658a3bd1a258335e930f985e84f2679bd40de22b7ad7"
     },
     {
       "path": "sources/STC-107-2005-http.txt",
@@ -517,6 +527,11 @@
       "path": "sources/TC-6771-a821-dtprimera-local.md",
       "sha256": "f9b59bf779711d76b00d52326beba7049b4a33ebf77c80a75dac0dc2209e3365",
       "bytes": 30470
+    },
+    {
+      "path": "sources/arbitraje-dtsegunda-dfdecimotercera.xml",
+      "bytes": 139020,
+      "sha256": "e9380a8e183022f0e2bccfca9f373c928e2a50b8bb470d19b1d59dafeb5b6c9e"
     },
     {
       "path": "sources/author-a248-a263-http.txt",
@@ -1184,6 +1199,31 @@
       "bytes": 1846
     },
     {
+      "path": "sources/author-dtsegunda-dfdecimotercera-analysis.xml",
+      "bytes": 42740,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+    },
+    {
+      "path": "sources/author-dtsegunda-dfdecimotercera-case-search.json",
+      "bytes": 901,
+      "sha256": "6b91e50e4ad014430fadd8c6434728645d2d2df60d35cc20628f593760d19e72"
+    },
+    {
+      "path": "sources/author-dtsegunda-dfdecimotercera-fetch.json",
+      "bytes": 2933,
+      "sha256": "c4b4d90ba23aaef966770feaa8a4118413810ed52cd313d7e1cdbe040af6e1b6"
+    },
+    {
+      "path": "sources/author-dtsegunda-dfdecimotercera-metadata.xml",
+      "bytes": 1196,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+    },
+    {
+      "path": "sources/author-dtsegunda-dfdecimotercera-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
       "path": "sources/boe-act.html",
       "bytes": 4473437,
       "sha256": "4ada6f2a90a853e47baae0542c102dd0860894697d99220b039c2a6705777fbe",
@@ -1299,6 +1339,11 @@
       "sha256": "e2afa3cf948cb4df5aa38fa8ddbdd59da594537aac68b7986419342c885f6a22"
     },
     {
+      "path": "sources/jurisdiccion-social-dtsegunda-dfdecimotercera.xml",
+      "bytes": 1239465,
+      "sha256": "53af4d1b81c2ad90c4799231d45dc0c4785319048b142eef23315358ab07f5a0"
+    },
+    {
       "path": "sources/no.txt",
       "bytes": 850,
       "sha256": "4269271533a2392372e91cf6b8d7282cf44b2b8986c3f3efb765fc1a41d51caa"
@@ -1307,6 +1352,11 @@
       "path": "sources/non-unit-disposition.json",
       "bytes": 550,
       "sha256": "e4b490275464a832a84dacc3a0eef80aaebfe1778cd11edb47e8888082a274ef"
+    },
+    {
+      "path": "sources/patentes-dtsegunda-dfdecimotercera.xml",
+      "bytes": 429827,
+      "sha256": "572a3f7049f472ed1f9e2665fb0b8a0c88690791de87559d4dc6020f7198c77e"
     },
     {
       "path": "sources/preambulo.txt",
@@ -2402,14 +2452,19 @@
       "bytes": 5433343
     },
     {
+      "path": "sources/sociedades-capital-dtsegunda-dfdecimotercera.xml",
+      "bytes": 1282243,
+      "sha256": "57b59f4fc31ac29a4ccbdad1877d03c1fcfa79fd91d67900ee4e95910ba024d3"
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "sha256": "2ab6dd49c5c778cc4310cd8de0fcc9a2efe5782a259f90be9575943866f35406",
-      "bytes": 96609
+      "bytes": 99667,
+      "sha256": "a56a32f2522c13f4f936bac89d1f09a5e627c23831c20bea42b954695cc727cc"
     },
     {
       "path": "sources/version-selection.json",

@@ -1,0 +1,44 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "dtsegunda",
+    "dttercera",
+    "dtcuarta",
+    "dtquinta",
+    "dtsexta",
+    "dtseptima",
+    "ddunica",
+    "dfprimera",
+    "dfsegunda",
+    "dftercera",
+    "dfcuarta",
+    "dfquinta",
+    "dfsexta",
+    "dfseptima",
+    "dfoctava",
+    "dfnovena",
+    "dfdecima",
+    "dfundecima",
+    "dfduodecima",
+    "dfdecimotercera"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "agreement": 1.0,
+    "official_inventory": 916,
+    "audit": "author-dtsegunda-dfdecimotercera-audit.json"
+  },
+  "commentary_chars": 39679,
+  "case_law_sources": [
+    "cases/STC-1-2018-dtsegunda-dfdecimotercera.md"
+  ],
+  "links": {
+    "broken": []
+  },
+  "remaining_limitations": [
+    "Lote de autoría; no segunda lectura independiente. Diecinueve unidades sin jurisprudencia específica incorporada; consulta sectorial limitada a las leyes identificadas.",
+    "El libro completo continúa en elaboración."
+  ],
+  "whole_book_complete": false
+}

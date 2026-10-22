@@ -1,0 +1,16 @@
+{
+  "searched_at": "2026-10-22T03:57:17.449841+00:00",
+  "web_query": "site.hj.tribunalconstitucional.es \"1/2018\" arbitraje",
+  "official_full_text_read": "sources/STC-1-2018-dtsegunda-dfdecimotercera.txt",
+  "local_corpus": {
+    "path": "/Volumes/LaCie/law-intake/eu/es/tc/2018/TC-25557.md",
+    "sha256": "830b4d0611ce346856d6ffd02616aa4e0a4cc1cd82cf5f1f9ceb01dadd975404",
+    "identity_checked": true
+  },
+  "local_search": "disposición transitoria (segunda|tercera|cuarta).*Ley 1/2000|disposición final octava.*Ley 1/2000",
+  "search_result_limit": "Búsqueda local exploratoria; coincidencias no se incorporan como autoridades sin examen.",
+  "supported_ids": [
+    "dfoctava"
+  ],
+  "other_assigned_units": "No se incorpora jurisprudencia específica verificada para las otras diecinueve unidades. Comentario basado en texto y contraste legislativo; cobertura jurisprudencial selectiva."
+}
