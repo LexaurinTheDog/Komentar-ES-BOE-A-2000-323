@@ -1,0 +1,9 @@
+{
+  "scope": ["a667", "a668", "a669", "a670", "a671", "a672", "a673", "a674", "a675", "a676", "a677", "a678", "a679", "a680", "a681", "a682", "a683", "a684", "a685", "a686"],
+  "method": "Investigación selectiva a partir de las notas oficiales del BOE y de la ficha y copia del corpus nacional ya conservadas en el proyecto. Recuperación del XML oficial íntegro, lectura focalizada de la fundamentación judicial y fallo pertinentes, diferenciando antecedentes, mayoría y votos particulares.",
+  "queries": ["BOE-A-2000-323 artículo 685 notas: BOE-A-2025-4079", "Corpus nacional TC 31404, evidencia local conservada y cotejada con la ficha previa"],
+  "official_url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4079",
+  "supported_units": ["a685"],
+  "other_units": "No se incorpora autoridad jurisprudencial específica a las otras diecinueve unidades; no se afirma ausencia de jurisprudencia relevante ni exhaustividad.",
+  "temporal_limit": "Decisión sobre redacción de 2023, distinguida de modificación de octubre de 2026."
+}
