@@ -70,3 +70,8 @@ Completada la segunda lectura de las veinte unidades exactas de [review-result.j
 
 
 Lote de autoría de artículos 468–487: veinte unidades, incluidas las diez sin contenido, con texto seleccionado a 19 de octubre de 2026 y comprobación XML BOE de 22 de octubre de 2026. Comentarios en [capítulo 26](26-preceptos-26.md); control de integridad y límites en [auditoría](author-a468-a487-audit.json), [preflight](author-a468-a487-preflight-result.json) y [ficha STC 144/2025](cases/STC-144-2025-a468-a487.md). Borrador de este lote pendiente de segunda lectura independiente; la obra completa sigue en elaboración.
+
+
+## Checkpoint de autoría: artículos 508–527 (22 de octubre de 2026)
+
+Se añaden veinte comentarios originales en el [capítulo 28](28-preceptos-28.md), sobre rescisión, revisión de sentencias firmes, títulos ejecutivos y ejecución provisional. El estado acumulado actualizado es de 560 de 916 unidades comentadas; quedan 356 fuera de este lote. Esta cifra actualiza las cifras históricas de los checkpoints anteriores. Texto jurídico a 19 de octubre de 2026, con nueva descarga BOE coincidente y control de todas las versiones del lote. La [validación acotada](author-a508-a527-validation.json) pasa para las veinte unidades, con acuerdo literal del 100 %. El libro integral sigue incompleto y este lote espera segunda lectura independiente. Se incorpora la [STC 18/2009](cases/STC-18-2009-a508-a527.md), leída íntegramente, con límites de aplicación expresos. [Preflight](author-a508-a527-preflight-result.json), [auditoría](author-a508-a527-audit.json) y [estado del lote](author-a508-a527-status.json).

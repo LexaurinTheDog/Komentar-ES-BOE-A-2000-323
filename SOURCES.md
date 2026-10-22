@@ -25,3 +25,8 @@ Lote 283–291: [XML oficial actualizado](sources/author-a283-a291-official.xml)
 
 
 Lote 468–487: [peticiones, HTTP y hashes](sources/author-a468-a487-fetch.json), [búsqueda selectiva](sources/author-a468-a487-search-log.json), [integridad y versiones](author-a468-a487-audit.json). La STC y el acuerdo formal cuentan con XML primario íntegro conservado. El control de este lote no constituye revisión independiente.
+
+
+## Fuentes del lote 508–527
+
+[XML BOE íntegro capturado](sources/author-a508-a527-official.xml), [metadatos](sources/author-a508-a527-metadata.xml), [análisis](sources/author-a508-a527-analysis.xml) y [peticiones HTTP con SHA-256](sources/author-a508-a527-fetch.json). La [auditoría](author-a508-a527-audit.json) compara el inventario oficial completo y las versiones efectivas del lote con units.jsonl; no hay diferencias ni anexos operativos omitidos. La [ficha STC 18/2009](cases/STC-18-2009-a508-a527.md) precisa los fundamentos utilizados y la discrepancia de fecha detectada en el resumen editorial del corpus local; se sigue el texto judicial. [Registro de búsqueda selectiva](sources/author-a508-a527-search-log.json). No se atribuye cobertura exhaustiva de jurisprudencia.
