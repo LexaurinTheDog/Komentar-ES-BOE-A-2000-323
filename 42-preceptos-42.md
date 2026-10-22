@@ -32,6 +32,8 @@ El procedimiento separa dos momentos. El escrito inicial expresa sucintamente la
 
 El título conserva la denominación histórica del centro directivo, mientras el apartado 3 utiliza la denominación actual. Esa divergencia nominal no autoriza a prescindir del expediente ni a dirigir el litigio contra una entidad distinta por mera literalidad. Por ejemplo, quien impugna la denegación de una rectificación registral presenta a tiempo el escrito inicial y, una vez emplazado tras la recepción del expediente, concreta en la demanda qué asiento pretende y por qué los antecedentes justifican su modificación. No debe esperar a recibir privadamente el expediente para iniciar una oposición cuyo plazo ya está corriendo.
 
+#### LIBRO IV — De los procesos especiales
+
 #### TÍTULO II — De la división judicial de patrimonios
 
 #### CAPÍTULO I — De la división de la herencia
@@ -106,7 +108,7 @@ Los acreedores particulares del artículo 782.5 reciben convocatoria si están p
 
 La junta se celebra con quienes concurran y la preside el letrado de la Administración de Justicia. La ausencia de un interesado debidamente citado no establece por sí sola un derecho a bloquear el acto. El objetivo inmediato es acordar un contador para las operaciones y los peritos necesarios para valorar los bienes. Las funciones son distintas: el contador organiza la partición y los peritos aportan el conocimiento técnico de tasación. La norma limita a uno por cada clase de bienes, evitando duplicar encargos dentro del mecanismo judicial de avalúo.
 
-Si falta acuerdo sobre contador, el sorteo remite al artículo 341 y se restringe a abogados ejercientes con conocimientos especiales y despacho en el lugar del juicio. No basta escoger por conveniencia a cualquier profesional de una lista indiferenciada. Si el desacuerdo afecta a los peritos, la designación sigue igual procedimiento respecto de los que se estimen necesarios para el avalúo, conservando el límite por clase de bienes. El contador sorteado queda sujeto al régimen de recusación y provisión de fondos de los peritos; no se debe extender sin examen esa remisión específica a cualquier nombramiento consensuado.
+Si falta acuerdo sobre contador, el sorteo remite al artículo 341 y se restringe a abogados ejercientes con conocimientos especiales y despacho en el lugar del juicio. La remisión al artículo 341 exige atender a la lista profesional: su primera designación se sortea y las siguientes siguen orden correlativo. No basta escoger por conveniencia a cualquier profesional de una lista indiferenciada. Si el desacuerdo afecta a los peritos, la designación sigue igual procedimiento respecto de los que se estimen necesarios para el avalúo, conservando el límite por clase de bienes. El contador sorteado queda sujeto al régimen de recusación y provisión de fondos de los peritos; no se debe extender sin examen esa remisión específica a cualquier nombramiento consensuado.
 
 Por ejemplo, una herencia reúne un inmueble y una colección cuya tasación exige otra especialidad. La junta puede acordar un contador y dos peritos correspondientes a clases distintas; el desacuerdo no justifica nombrar dos tasadores judiciales para valorar el mismo tipo de inmueble. La elección del contador tampoco anticipa la conformidad de las partes con las futuras adjudicaciones: el artículo 787 reserva un trámite específico para oponerse a las operaciones ya formuladas.
 
@@ -174,7 +176,7 @@ Por ejemplo, ante una finca y dinero en cuenta, el contador debe explicar el val
 
 *Nota editorial del BOE:* Se modifican los apartados 1 a 4 y 6 por el art. 15.355 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-El traslado abre diez días para examinar las operaciones y oponerse por escrito, precisando puntos discutidos y razones. Una protesta genérica contra la actuación del contador dificulta identificar el objeto de la controversia: conviene distinguir bienes incluidos, valoraciones, liquidación y adjudicaciones. Sin oposición, o mediando conformidad, el letrado de la Administración de Justicia aprueba por decreto y manda protocolizar. La aprobación y su documentación notarial son actuaciones diferenciadas.
+El traslado abre diez días para examinar en la oficina judicial los autos y las operaciones, obtener copias a costa de la parte y oponerse por escrito, precisando puntos discutidos y razones. Una protesta genérica contra la actuación del contador dificulta identificar el objeto de la controversia: conviene distinguir bienes incluidos, valoraciones, liquidación y adjudicaciones. Sin oposición, o mediando conformidad, el letrado de la Administración de Justicia aprueba por decreto y manda protocolizar. La aprobación y su documentación notarial son actuaciones diferenciadas.
 
 La oposición tempestiva conduce a una comparecencia del contador y las partes ante el tribunal dentro de los diez días siguientes. Si todos los interesados acuerdan resolver las cuestiones promovidas, el contador incorpora las modificaciones y se aprueban por la vía del apartado 2. Si persiste el desacuerdo, el tribunal oye a las partes y admite la prueba pertinente y útil, siguiendo el juicio verbal. El apartado 5 dispone que la sentencia se lleve a efecto y excluye su eficacia de cosa juzgada, reservando el juicio ordinario correspondiente sobre derechos en los bienes adjudicados. Esto no permite tratar todos los plazos o actuaciones como irrelevantes ni extender automáticamente ese régimen a cualquier incidente sucesorio distinto.
 
@@ -220,6 +222,12 @@ Por ejemplo, tres coherederos que inicialmente discreparon sobre una finca alcan
 
 **Comprobación práctica de la partición:** acreditar título sucesorio; verificar quién tiene el encargo de partir; citar a los interesados; documentar inventario, avalúo y liquidación; separar la oposición de diez días de las negociaciones informales; comprobar protocolización y protección de créditos antes de entregar adjudicaciones.
 
+#### LIBRO IV — De los procesos especiales
+
+#### TÍTULO II — De la división judicial de patrimonios
+
+#### CAPÍTULO I — De la división de la herencia
+
 #### Sección 2.ª De la intervención del caudal hereditario
 
 ### Artículo 790 — Aseguramiento de los bienes de la herencia y de los documentos del difunto.
@@ -236,7 +244,7 @@ Por ejemplo, tres coherederos que inicialmente discreparon sobre una finca alcan
 
 *Nota editorial del BOE:* Se modifica por la disposición final 3.15 de la ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dftercera.
 
-Este aseguramiento responde a una urgencia de protección, no a la atribución definitiva de la condición de heredero. El tribunal actúa de oficio cuando conoce el fallecimiento y no consta testamento ni las personas enumeradas con posible vinculación sucesoria; también cuando estas están ausentes o hay un menor sin representante legal. La intensidad de la actuación se limita a las medidas indispensables para el enterramiento, si resulta necesario, y para evitar sustracción u ocultación de bienes y documentación. La correspondencia y los papeles pueden importar tanto como los objetos de valor para identificar el patrimonio.
+Este aseguramiento responde a una urgencia de protección, no a la atribución definitiva de la condición de heredero. El tribunal actúa de oficio cuando conoce el fallecimiento y no consta testamento ni ascendientes, descendientes, cónyuge o persona en situación de hecho asimilable, ni colaterales dentro del cuarto grado; también cuando estas están ausentes o hay un menor sin representante legal. La intensidad de la actuación se limita a las medidas indispensables para el enterramiento, si resulta necesario, y para evitar sustracción u ocultación de bienes y documentación. La correspondencia y los papeles pueden importar tanto como los objetos de valor para identificar el patrimonio.
 
 El apartado 2 prevé la entrega y el cese de la intervención cuando comparecen los parientes o se dota de representación a los menores, salvo la continuación que proceda conforme al artículo 791. La remisión al notario para promover la declaración de herederos impide confundir esta actuación judicial protectora con el expediente declarativo sucesorio. La aparición de una persona que se afirma pariente debe examinarse en el contexto del presupuesto legal de entrega, sin transformar una simple manifestación no comprobada en una adjudicación hereditaria firme.
 
@@ -270,11 +278,11 @@ Por ejemplo, tras una muerte en domicilio sin familiares localizados, el tribuna
 
 *Nota editorial del BOE:* Se modifica el párrafo primero del apartado 1 por el art. 15.358 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-Después del aseguramiento urgente, el procedimiento busca comprobar si existe testamento y quién puede suceder. El certificado del Registro General de Actos de Última Voluntad y el de defunción son instrumentos centrales; a falta de otros medios se examina a parientes, amigos o vecinos. Que inicialmente no consten familiares no equivale a que se haya demostrado su inexistencia. La investigación del apartado 1 precede a la intervención más estable del apartado 2.
+Después del aseguramiento urgente, el procedimiento busca comprobar si existe testamento y quién puede suceder. El letrado de la Administración de Justicia acuerda mediante diligencia las medidas de averiguación; a falta de otros medios, el tribunal ordena mediante providencia el examen de parientes, amigos o vecinos. El certificado del Registro General de Actos de Última Voluntad y el de defunción son instrumentos centrales; a falta de otros medios se examina a parientes, amigos o vecinos. Que inicialmente no consten familiares no equivale a que se haya demostrado su inexistencia. La investigación del apartado 1 precede a la intervención más estable del apartado 2.
 
 Si resulta que no hay testamento ni parientes llamados, el tribunal acuerda por auto ocupar documentación, inventariar y depositar bienes y organizar su administración. Puede designar una persona para garantizar inventario y depósito a cargo del caudal. Además, comunica las actuaciones a la Delegación de Economía y Hacienda por la posible sucesión del Estado. Esa comunicación no constituye todavía la declaración de heredero público.
 
-El apartado 3 conecta con el procedimiento administrativo: desde la comunicación de su inicio por la Administración estatal o autonómica, la administración de los bienes debe recaer en ella, sin caución y con posibilidad de utilizar sus servicios técnicos. Si se descarta la declaración a su favor, debe pedir nuevo administrador en un mes desde la comunicación y cesa en todo caso al transcurrir ese mes. Si es declarada heredera, el órgano judicial adopta antes de un mes las medidas de entrega. Son desenlaces diferentes, no una autorización indefinida de gestión pública.
+El apartado 3 conecta con el procedimiento administrativo: desde la comunicación de su inicio por la Administración estatal o autonómica, la administración de los bienes debe recaer en ella, sin caución y con posibilidad de utilizar sus servicios técnicos. Si se descarta la declaración a su favor, debe comunicar al tribunal la resolución y pedir nuevo administrador en un mes desde esa comunicación y cesa en todo caso al transcurrir ese mes. Si es declarada heredera, el órgano judicial adopta antes de un mes las medidas de entrega. Son desenlaces diferentes, no una autorización indefinida de gestión pública.
 
 Por ejemplo, la Administración inicia su expediente y recibe la administración de una vivienda vacía. Si después concluye que no procede su declaración como heredera, no puede continuar cobrando indefinidamente sus rentas como administradora: debe comunicar el resultado, solicitar sustitución y respetar el cese temporal previsto, aunque la herencia todavía necesite conservación.
 
@@ -294,7 +302,7 @@ Por ejemplo, la Administración inicia su expediente y recibe la administración
 
 *Nota editorial del BOE:* Se modifica el apartado 1 por la disposición final 3.17 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391.
 
-La intervención a instancia de parte protege el caudal mientras se determina o se ejecuta la sucesión. El apartado 1 distingue tres solicitantes y exige relacionar la petición con su actuación sucesoria: cónyuge o pariente que se considere llamado, acreditando la promoción de la declaración notarial o solicitando simultáneamente la intervención; coheredero o legatario de parte alícuota al pedir división judicial; y Administración que haya iniciado el procedimiento para ser declarada heredera abintestato. No basta invocar un interés económico remoto en los bienes.
+La intervención a instancia de parte protege el caudal mientras se determina o se ejecuta la sucesión. El apartado 1 distingue tres solicitantes y exige relacionar la petición con su actuación sucesoria: cónyuge o pariente que se considere llamado, acreditando haber promovido la declaración notarial de herederos abintestato o solicitando la intervención al promover esa declaración; coheredero o legatario de parte alícuota al pedir división judicial; y Administración que haya iniciado el procedimiento para ser declarada heredera abintestato. No basta invocar un interés económico remoto en los bienes.
 
 La prohibición testamentaria expresa de intervención aparece como límite en el supuesto del coheredero o legatario que pide división. No debe trasladarse automáticamente a todas las posiciones del precepto. El apartado 2 concede solicitud propia a los acreedores hereditarios reconocidos en testamento o por los coherederos y a quienes tienen título ejecutivo. Son las categorías cualificadas que también protege el artículo 782.4. La intervención remite a las medidas del artículo 791.2: documentación, inventario, depósito y administración; no entrega al solicitante los bienes ni declara la existencia del crédito con un alcance superior al título presentado.
 
@@ -406,6 +414,12 @@ Por ejemplo, después de la declaración notarial, los herederos solicitan divis
 
 **Comprobación práctica de la intervención:** identificar su presupuesto; asegurar solo lo necesario; verificar testamento y llamamientos; citar para inventario; tramitar las controversias de inclusión; motivar administrador y caución; revisar periódicamente la causa de continuidad y documentar el supuesto concreto de cese.
 
+#### LIBRO IV — De los procesos especiales
+
+#### TÍTULO II — De la división judicial de patrimonios
+
+#### CAPÍTULO I — De la división de la herencia
+
 #### Sección 3.ª De la administración del caudal hereditario
 
 ### Artículo 797 — Posesión del cargo de administrador de la herencia.
@@ -488,6 +502,6 @@ El cese obliga a presentar una cuenta final complementaria de las periódicas. N
 
 Si no se formula oposición dentro del término, el decreto aprueba las cuentas, declara al administrador exento de responsabilidad y devuelve la caución. Esta consecuencia obliga a revisar con atención justificantes y saldos antes de que venza el plazo. No debe reformularse como una inmunidad universal respecto de cualquier hecho ajeno a las cuentas o de situaciones que la resolución no haya examinado; el alcance concreto de la aprobación requiere atender a su objeto.
 
-La impugnación en tiempo abre contradicción con el cuentadante, cuya contestación se rige por el artículo 438. Impugnante y administrador pueden solicitar vista en sus escritos, continuando por juicio verbal. Por ejemplo, si la cuenta final carga al caudal una reparación que también aparece en una cuenta trimestral, el heredero debe identificar ambos asientos y el perjuicio, y el administrador podrá justificar si hubo duplicación o prestaciones diferentes. La mera retirada de la caución no debe anticiparse a la aprobación por la vía que corresponda.
+La impugnación en tiempo abre contradicción con el cuentadante, cuya contestación se rige por el artículo 438, con el plazo escrito de diez días de su apartado 1. Impugnante y administrador pueden solicitar vista en sus escritos, continuando por juicio verbal. Por ejemplo, si la cuenta final carga al caudal una reparación que también aparece en una cuenta trimestral, el heredero debe identificar ambos asientos y el perjuicio, y el administrador podrá justificar si hubo duplicación o prestaciones diferentes. La mera retirada de la caución no debe anticiparse a la aprobación por la vía que corresponda.
 
 **Comprobación práctica de la administración:** acreditar posesión del cargo y facultades; fijar intervalos de rendición; conservar justificantes; depositar saldos; permitir examen de cuentas; documentar el cese; separar plazo común de impugnación, resolución aprobatoria y devolución de caución.

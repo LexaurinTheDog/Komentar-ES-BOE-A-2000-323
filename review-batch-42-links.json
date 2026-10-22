@@ -1,0 +1,29 @@
+{
+  "reviewed_ids": [
+    "a781bis",
+    "a782",
+    "a783",
+    "a784",
+    "a785",
+    "a786",
+    "a787",
+    "a788",
+    "a789",
+    "a790",
+    "a791",
+    "a792",
+    "a793",
+    "a794",
+    "a795",
+    "a796",
+    "a797",
+    "a798",
+    "a799",
+    "a800"
+  ],
+  "broken_local_links": [],
+  "near_duplicate_paragraphs": [],
+  "case_sha256_verified": {
+    "STC-145-2020": "e9a28d28ea89e94f171218cf24f150c5c8823ce5a32cc3ff49e15e2955d0ce80"
+  }
+}
