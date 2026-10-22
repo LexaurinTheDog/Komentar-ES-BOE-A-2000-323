@@ -7,5 +7,5 @@
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 276 jednotkám, např.: ['a608', 'a609', 'a610', 'a611', 'a612', 'a613', 'a614', 'a615', 'a616', 'a617']\n",
-  "limitation": "El constructor íntegro rechaza las 296 unidades aún sin comentario; no se alteró el inventario. Se exporta únicamente el capítulo revisado por el mismo formateador."
+  "limitation": "El constructor íntegro rechaza las 276 unidades aún sin comentario, ajenas al lote; se mantiene el inventario íntegro. El capítulo revisado se exporta por el mismo formateador y su checkpoint se reconstruye con build_repo.py sin modificaciones."
 }
