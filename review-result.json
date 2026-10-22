@@ -2,115 +2,115 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a352",
-    "a353",
-    "a354",
-    "a355",
-    "a356",
-    "a357",
-    "a358",
-    "a359",
-    "a360",
-    "a361",
-    "a362",
-    "a363",
-    "a364",
-    "a365",
-    "a366",
-    "a367",
-    "a368",
-    "a369",
-    "a370",
-    "a371"
+    "a372",
+    "a373",
+    "a374",
+    "a375",
+    "a376",
+    "a377",
+    "a378",
+    "a379",
+    "a380",
+    "a381",
+    "a382",
+    "a383",
+    "a384",
+    "a385",
+    "a386",
+    "a387",
+    "a388",
+    "a389",
+    "a390",
+    "a391"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a352",
-      "finding": "Precisado ámbito: dictámenes sobre medios admitidos al amparo de 299.2 y 299.3; conveniencia, aportación y contradicción cotejadas."
+      "id": "a372",
+      "finding": "Orden de preguntas, filtro obligatorio de pertinencia/utilidad, protesta del 369.2 y aclaraciones judiciales cotejados."
     },
     {
-      "id": "a353",
-      "finding": "Tres apartados leídos; precisada competencia del LAJ para señalamiento, cinco días, extremos y acompañamiento; corregida explicación de STC 82/2022 distinguiendo testificales y reconocimiento."
+      "id": "a373",
+      "finding": "Contradicciones graves, careo potestativo entre testigos y con partes, solicitud al término y permanencia cotejados."
     },
     {
-      "id": "a354",
-      "finding": "Entrada necesaria, concurrencia y observaciones orales y juramento previo de técnicos/prácticos cotejados; no se confunde acompañamiento con pericia."
+      "id": "a374",
+      "finding": "Corregido carácter obligatorio de ordenar grabación domiciliaria cuando concurren medios y respeto de intimidad/dignidad; audio y garantías contrastados."
     },
     {
-      "id": "a355",
-      "finding": "Interrogatorio judicial, adaptación, puerta cerrada, sede y participación condicionada cotejados; dignidad e intimidad aplicables siempre."
+      "id": "a375",
+      "finding": "Derecho por comparecencia, obligado proponente, prorrateo, decreto posterior y diez días desde firmeza cotejados."
     },
     {
-      "id": "a356",
-      "finding": "Providencia, conveniencia, identidad de objeto y solicitud de partes cotejadas; se conservan diferencias entre percepción y pericia."
+      "id": "a376",
+      "finding": "Sana crítica, razón de ciencia, circunstancias, tachas y su prueba cotejados; ejemplo distingue corroboración y vínculos."
     },
     {
-      "id": "a357",
-      "finding": "Instancia y costa de parte, acto continuo, claridad del testimonio e interrogatorio de contraria cotejados en dos apartados."
+      "id": "a377",
+      "finding": "Explicitadas relaciones actuales y pasadas de cónyuge, grados, adopción/tutela; otras cuatro causas y tacha propia sobrevenida cotejadas."
     },
     {
-      "id": "a358",
-      "finding": "Acta detallada, excepción tecnológica y autenticidad cotejadas; explicitada exigencia del apartado 2 de conservar resultados de otras pruebas acumuladas."
+      "id": "a378",
+      "finding": "Plazo admisión-comienzo, deber de reconocimiento y remisión a 367.2 cotejados sin inventar reapertura del plazo."
     },
     {
-      "id": "a359",
-      "finding": "Cuatro párrafos leídos: registro, garantías, acta subsidiaria, expediente/custodia y copia a costa de interesado; ejemplo no confunde defecto de firma con inexistencia de registro."
+      "id": "a379",
+      "finding": "Exclusión de nueva testifical, tercer día, silencio sobre fundamento y valoración con 344.2/376 cotejados."
     },
     {
-      "id": "a360",
-      "finding": "Noticia de hechos controvertidos, objeto del juicio y razón de ciencia cotejados; percepción directa distinguida de conocimiento indirecto."
+      "id": "a380",
+      "finding": "Ajustada exclusión literal de tacha por interés cuando hay encargo de parte; ratificación, límites fácticos y testigo-perito cotejados."
     },
     {
-      "id": "a361",
-      "finding": "Aptitud general, exclusiones concretas y discernimiento de menores de catorce cotejados; no se equipara discapacidad a incapacidad general."
+      "id": "a381",
+      "finding": "Aclarada citación de personas físicas también ante negativa u omisión; cinco apartados, plazo, sanciones, contradicción y excepción documental cotejados."
     },
     {
-      "id": "a362",
-      "finding": "Identificación ordinaria y alternativa por cargo/circunstancias, lugar de citación y oportunidad cotejados; no se inventa derecho a sustituir testigo."
+      "id": "a382",
+      "finding": "Reproducción, transcripción pertinente, dictámenes bilaterales y sana crítica cotejados; STC 114/1984 FJ7-8 contrastada en fuente íntegra y corpus, con límite histórico."
     },
     {
-      "id": "a363",
-      "finding": "Número libre, exceso de tres por hecho a costa de proponente y suficiencia tras tres declaraciones cotejados; discrecionalidad no automática."
+      "id": "a383",
+      "finding": "Acta identificativa, dictámenes/pruebas y custodia íntegra o expediente electrónico cotejados."
     },
     {
-      "id": "a364",
-      "finding": "Preferencia de videoconferencia, imposibilidad, domicilio, demarcación/auxilio, asistencia, escrito previo y tercer día de aclaraciones cotejados."
+      "id": "a384",
+      "finding": "Examen de datos con igualdad de conocimiento, remisión 382.2, documentación/custodia y sana crítica según naturaleza cotejados."
     },
     {
-      "id": "a365",
-      "finding": "Juramento o promesa previa, conminación, instrucción si ignorancia y excepción para menores de edad penal cotejados; aptitud separada de formalidad."
+      "id": "a385",
+      "finding": "Hecho indicio admitido/probado, dispensa, dos vías de refutación y prohibición expresa cotejados; ejemplo expresamente hipotético."
     },
     {
-      "id": "a366",
-      "finding": "Orden de propuestas con posible alteración, separación sucesiva, incomunicación y medidas cotejados; no se inventa nulidad automática."
+      "id": "a386",
+      "finding": "Base cierta, enlace preciso/directo, motivación y prueba contraria por 385.2 cotejados; no se atribuye doctrina no verificada al TS."
     },
     {
-      "id": "a367",
-      "finding": "Seis preguntas generales y circunstancias de imparcialidad leídas, incluyendo relaciones pasadas y abogados/procuradores; constancia y valoración comprobadas."
+      "id": "a387",
+      "finding": "Distinción objeto principal, relación inmediata y presupuestos procesales cotejados; ejemplo no amplía objeto del pleito."
     },
     {
-      "id": "a368",
-      "finding": "Oralidad, claridad, exclusión de valoraciones, admisión inmediata, conocimientos propios e inexistencia de constancia de respuesta inadmitida cotejados."
+      "id": "a388",
+      "finding": "Subsidiariedad del capítulo y prioridad de cauces especiales cotejadas, incluida declinatoria."
     },
     {
-      "id": "a369",
-      "finding": "Impugnación por otras partes y protesta frente a inadmisión cotejadas; STC 82/2022 FJ4 apoya carga de justificar decisividad, sin prometer éxito del recurso."
+      "id": "a389",
+      "finding": "Decisión separada en sentencia antes del fondo y ausencia de suspensión cotejadas; ejemplo preserva cargas procesales."
     },
     {
-      "id": "a370",
-      "finding": "Orden inicial, respuesta personal sin borrador, consulta documental, razón de ciencia y testigo-perito/tachas cotejados; remisiones 372,376,343 verificadas."
+      "id": "a390",
+      "finding": "Obstáculo a continuación, suspensión hasta resolución y decisión de admisión/calificación de 393.2 cotejados."
     },
     {
-      "id": "a371",
-      "finding": "Secreto profesional/estado y reserva oficial diferenciados; providencias, comprobación documental, incorporación y preguntas afectadas cotejadas; checklist revisado."
+      "id": "a391",
+      "finding": "Tres números y supuestos expresos cotejados; sobreveniencia tras audiencia, necesidad absoluta y tensión temporal con 393.1 expuestas sin borrar el límite."
     }
   ],
   "limitations": [
-    "Revisión limitada a a352–a371; no acredita terminación del libro.",
-    "Jurisprudencia selectiva: contrastados texto oficial y corpus de STC 82/2022, sin nueva cobertura exhaustiva ni nuevas sentencias.",
-    "Corte jurídico 2026-10-19 conservado; sin aprobación profesional externa."
+    "Revisión sustantiva limitada exactamente a a372–a391; no acredita terminación del libro.",
+    "Jurisprudencia selectiva; STC 114/1984 anterior a LEC, no se atribuye interpretación del actual artículo 382.",
+    "Corte jurídico original 2026-10-19 conservado; sin aprobación profesional externa."
   ],
-  "reviewed_at": "2026-10-22T00:28:24.810568+00:00",
-  "source_evidence": "review-batch-20-audit.json"
+  "reviewed_at": "2026-10-22T00:34:24.492999+00:00",
+  "source_evidence": "review-batch-21-audit.json"
 }

@@ -493,6 +493,32 @@
       "content_type": "application/xml",
       "xml_root": "response",
       "request_accept": "application/xml"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-22T00:29:22.405678+00:00",
+      "http_status": 200,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343,
+      "identical_to_preflight": true,
+      "path": "sources/author-a372-a391-official.xml"
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/367",
+      "accessed_at": "2026-10-22T00:32:30.537143+00:00",
+      "http_status": 200,
+      "path": "sources/STC-114-1984.html",
+      "sha256": "0067003e6fcd7cf998544945e07e5a92e3003febc201dd39b5fc0c9ea630adcf"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "http_status": 200,
+      "accessed_at": "2026-10-22T00:34:24.492999+00:00",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/review-batch-21-official.xml",
+      "content_type": "application/xml",
+      "xml_root": "response",
+      "request_accept": "application/xml"
     }
   ],
   "decisive_date": "2026-10-19",

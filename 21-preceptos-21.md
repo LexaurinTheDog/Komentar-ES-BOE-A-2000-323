@@ -56,7 +56,7 @@ Así, si dos empleados atribuyen a personas distintas la entrega de una llave en
 
 La documentación de la testifical permite conservar lo realmente declarado y controlar después su valoración. Para las declaraciones en juicio o vista, la remisión al artículo 146.2 integra la regla especial en el sistema general de documentación de actuaciones orales. No debe confundirse la grabación procesal de un interrogatorio con una grabación privada aportada como objeto de prueba, regulada en los artículos 382 y 383. En el primer caso se registra una actuación judicial; en el segundo se reproduce un material preexistente cuyo origen y exactitud pueden discutirse.
 
-La declaración domiciliaria del artículo 364 tiene una previsión específica. La grabación exige medios tecnológicos y una apreciación judicial favorable sobre su compatibilidad con la intimidad y dignidad de la persona. Puede limitarse al audio: la ley permite conservar las respuestas sin imponer imágenes innecesarias del domicilio o del estado físico del testigo. La autenticidad e integridad deben quedar garantizadas por el letrado de la Administración de Justicia mediante firma electrónica u otro sistema legalmente idóneo. La mera existencia de un archivo no acredita por sí sola esas garantías.
+La declaración domiciliaria del artículo 364 tiene una previsión específica. La grabación exige medios tecnológicos y una apreciación judicial favorable sobre su compatibilidad con la intimidad y dignidad de la persona. Si concurren esos presupuestos, el juez o tribunal debe ordenar la grabación; no es una opción enteramente libre. Puede limitarse al audio: la ley permite conservar las respuestas sin imponer imágenes innecesarias del domicilio o del estado físico del testigo. La autenticidad e integridad deben quedar garantizadas por el letrado de la Administración de Justicia mediante firma electrónica u otro sistema legalmente idóneo. La mera existencia de un archivo no acredita por sí sola esas garantías.
 
 Por ejemplo, al interrogar en su domicilio a una persona con movilidad muy reducida, el tribunal puede ordenar una grabación sonora si la captación de imágenes invadiría innecesariamente su intimidad. Debe asegurarse que el archivo corresponde a esa diligencia y se conserva íntegro. El comentario se refiere al texto vigente desde marzo de 2024; no debe aplicarse como si las versiones anteriores contuvieran esta misma regulación tecnológica.
 
@@ -112,7 +112,7 @@ Por ejemplo, tres empleados repiten que una máquina se entregó en perfecto est
 >
 > 2. La parte proponente del testigo podrá también tachar a éste si con posterioridad a la proposición llegare a su conocimiento la existencia de alguna de las causas de tacha establecidas en el apartado anterior.
 
-Las tachas hacen visibles circunstancias capaces de comprometer la imparcialidad del testigo. El apartado 1 permite a cada parte invocarlas respecto de los propuestos por la contraria y enumera causas concretas. El parentesco comprende el cuarto grado civil y alcanza determinadas relaciones con el abogado o procurador; la dependencia se refiere a la situación al prestar declaración e incluye servicio, sociedad e intereses. El interés en el asunto puede ser directo o indirecto. La amistad debe ser íntima, mientras que la enemistad y la condena por falso testimonio constituyen causas diferenciadas. No basta presentar cualquier conocimiento social o una discrepancia profesional como si fueran necesariamente una de estas circunstancias.
+Las tachas hacen visibles circunstancias capaces de comprometer la imparcialidad del testigo. El apartado 1 permite a cada parte invocarlas respecto de los propuestos por la contraria y enumera causas concretas. La primera causa incluye ser o haber sido cónyuge, el parentesco por consanguinidad o afinidad dentro del cuarto grado civil y los vínculos de adopción, tutela o análogos; alcanza también las relaciones indicadas con el abogado o procurador; la dependencia se refiere a la situación al prestar declaración e incluye servicio, sociedad e intereses. El interés en el asunto puede ser directo o indirecto. La amistad debe ser íntima, mientras que la enemistad y la condena por falso testimonio constituyen causas diferenciadas. No basta presentar cualquier conocimiento social o una discrepancia profesional como si fueran necesariamente una de estas circunstancias.
 
 La enumeración debe leerse con el artículo 367: las preguntas generales permiten conocer vínculos relevantes aunque no se haya promovido oportunamente una tacha. El apartado 2 admite que el propio proponente tache a su testigo cuando conozca la causa después de proponerlo. La regla evita que la designación inicial le obligue a ocultar un dato descubierto posteriormente; no permite convertir en sobrevenido lo que ya sabía.
 
@@ -162,7 +162,7 @@ Así, reconocida sin oposición la dependencia laboral del testigo respecto de l
 >
 > 2. Si los informes contuvieren también valoraciones fundadas en conocimientos científicos, artísticos, técnicos o prácticos de sus autores, se estará a lo dispuesto en el apartado 4 del artículo 370, sobre el testigo-perito.
 
-Los informes sobre hechos aportados conforme al artículo 265.1.4.º no quedan inmunizados frente a contradicción por constar por escrito. Si no todas las partes potencialmente perjudicadas reconocen esos hechos como ciertos, sus autores serán interrogados como testigos. La primera especialidad impide tacharlos por interés en el asunto por la sola circunstancia de haber elaborado el informe por encargo de una parte. Esa exclusión no equivale a certificar su neutralidad ni elimina otras causas que pudieran concurrir; tampoco obliga a dar por ciertos los hechos relatados.
+Los informes sobre hechos aportados conforme al artículo 265.1.4.º no quedan inmunizados frente a contradicción por constar por escrito. Si no todas las partes potencialmente perjudicadas reconocen esos hechos como ciertos, sus autores serán interrogados como testigos. La primera especialidad impide tacharlos por interés en el asunto cuando el informe se haya elaborado por encargo de una parte, tal como dispone expresamente la regla 1.ª. Esa exclusión no equivale a certificar su neutralidad ni elimina otras causas que pudieran concurrir; tampoco obliga a dar por ciertos los hechos relatados.
 
 Antes de las preguntas pertinentes, el autor acredita su habilitación profesional, reconoce el informe y se ratifica. Estos pasos identifican la autoría y el contenido asumido. El interrogatorio queda limitado a los hechos consignados: no sirve para introducir por sorpresa un informe distinto mediante una narración oral de pesquisas adicionales. La valoración sigue requiriendo examinar qué observó directamente el autor y cómo obtuvo sus datos.
 
@@ -198,11 +198,17 @@ Esta modalidad responde a conocimiento institucional: hechos relativos a la acti
 
 La respuesta escrita debe producirse en los diez días anteriores al juicio o vista. El requerimiento lleva los apercibimientos legales de multa y de proceder por desobediencia contra quien resulte personalmente responsable de la omisión. No convierte a cualquier empleado en responsable por el solo hecho de trabajar para la entidad. La prueba no suspende ordinariamente el procedimiento: la excepción exige que el juez lo estime necesario para impedir indefensión. Recibida la respuesta, su traslado permite ejercer contradicción efectiva.
 
-El apartado 3 admite citar personas físicas para aclarar una respuesta oscura o incompleta y, a instancia de parte, prueba pertinente para contradecirla. El apartado 4 excluye este cauce para entidades públicas cuando los hechos puedan acreditarse mediante certificaciones o testimonios documentales. Las reglas testificales restantes se aplican solo en cuanto sean compatibles.
+El apartado 3 permite citar personas físicas mediante providencia, de oficio o a instancia de parte, a la vista de las respuestas o de su negativa u omisión; no exige que exista ya una respuesta escrita para reaccionar. Su testimonio debe ser pertinente y útil para aclarar o completar la declaración. A instancia de parte puede admitirse además prueba pertinente y útil para contradecirla. El apartado 4 excluye este cauce para entidades públicas cuando los hechos puedan acreditarse mediante certificaciones o testimonios documentales. Las reglas testificales restantes se aplican solo en cuanto sean compatibles.
 
 Ejemplo: se pide a una empresa de logística información sobre el funcionamiento de un sistema de asignación durante un día concreto, sin que una sola persona concentre los datos. Una contestación que omita las incidencias puede requerir aclaración por el responsable del registro. No debe aceptarse como prueba incuestionable por llevar membrete corporativo.
 
 **Comprobación práctica de la testifical:** identificar la fuente de conocimiento; formular preguntas de contradicción; solicitar oportunamente el careo; comprobar la documentación; distinguir indemnización y costas; alegar tachas dentro de plazo y preparar su prueba sin nueva testifical; revisar las especialidades de informes profesionales y respuestas institucionales.
+
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
+
+#### CAPÍTULO VI — De los medios de prueba y las presunciones
 
 #### Sección 8.ª De la reproducción de la palabra, el sonido y la imagen y de los instrumentos que permiten archivar y conocer datos relevantes para el proceso
 
@@ -270,6 +276,12 @@ Ejemplo: una empresa aporta una hoja de cálculo para justificar cantidades pend
 
 **Comprobación práctica de soportes y datos:** delimitar lo que se pretende probar; preparar la reproducción o acceso; identificar archivo y versión; conservar el contexto y las operaciones relevantes; facilitar contradicción técnica; documentar y custodiar el material efectivamente examinado.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
+
+#### CAPÍTULO VI — De los medios de prueba y las presunciones
+
 #### Sección 9.ª De las presunciones
 
 ### Artículo 385 — Presunciones legales.
@@ -307,6 +319,10 @@ La sentencia debe exponer el razonamiento que lleva del hecho base al presumido.
 Por ejemplo, la presencia exclusiva de una empresa en un local en determinadas horas, junto con registros fiables de acceso, puede servir para razonar sobre quién realizó una retirada de bienes. Pero si otras personas conservaban llaves y podían entrar sin registro, esa explicación alternativa afecta al enlace y debe examinarse. La carga de la prueba del artículo 217 no desaparece porque la demanda presente una narración plausible: se necesita la base acreditada y una inferencia suficientemente justificada.
 
 **Comprobación de presunciones:** separar base y conclusión; identificar si el enlace procede de una norma o del razonamiento judicial; verificar la admisión o prueba del indicio; preparar contradicción sobre resultado y enlace; exigir motivación concreta cuando se aplique el artículo 386.
+
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
 
 #### CAPÍTULO VII — De las cuestiones incidentales
 
