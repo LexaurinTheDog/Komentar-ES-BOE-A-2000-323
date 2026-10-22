@@ -1,0 +1,44 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "a707",
+    "a708",
+    "a709",
+    "a710",
+    "a711",
+    "a712",
+    "a713",
+    "a714",
+    "a715",
+    "a716",
+    "a717",
+    "a718",
+    "a719",
+    "a720",
+    "a721",
+    "a722",
+    "a723",
+    "a724",
+    "a725",
+    "a726"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "agreement": 1.0,
+    "official_inventory": 916,
+    "audit": "author-a707-a726-audit.json"
+  },
+  "commentary_chars": 33675,
+  "case_law_sources": [
+    "cases/STC-14-1992-a707-a726.md"
+  ],
+  "links": {
+    "broken": []
+  },
+  "remaining_limitations": [
+    "Lote de autoría; no segunda lectura independiente.",
+    "El libro completo continúa en elaboración."
+  ],
+  "whole_book_complete": false
+}

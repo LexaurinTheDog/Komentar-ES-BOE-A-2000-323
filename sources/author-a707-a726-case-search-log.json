@@ -1,0 +1,38 @@
+{
+  "scope": [
+    "a707",
+    "a708",
+    "a709",
+    "a710",
+    "a711",
+    "a712",
+    "a713",
+    "a714",
+    "a715",
+    "a716",
+    "a717",
+    "a718",
+    "a719",
+    "a720",
+    "a721",
+    "a722",
+    "a723",
+    "a724",
+    "a725",
+    "a726"
+  ],
+  "searched_at": "2026-10-22T02:51:22.788967+00:00",
+  "queries": [
+    "site.tribunalconstitucional.es STC 14/1992 medidas cautelares tutela judicial",
+    "site.boe.es \"Sentencia 14/1992\"",
+    "local corpus tc/1992: ECLI:ES:TC:1992:14 or Sentencia 14/1992"
+  ],
+  "selected": "TC-1901 / STC 14/1992: full BOE judgment, correction, and local corpus consulted; FJ 7 used only for constitutional context",
+  "local_path": "sources/TC-1901-a707-a726-local.md",
+  "local_sha256": "266ea1d67e851ac90147903c341959a461e3c2b230347a4d9b5deeee3d6e105e",
+  "supported_units": [
+    "a721",
+    "a726"
+  ],
+  "limitations": "Selective research. No sufficiently relevant unit-specific verified decision selected for the other eighteen units. No assertion that relevant cases do not exist. Historical law and current statutory requirements distinguished."
+}
