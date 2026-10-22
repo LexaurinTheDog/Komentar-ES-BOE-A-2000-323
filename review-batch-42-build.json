@@ -7,5 +7,5 @@
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 76 jednotkám, např.: ['a801', 'a802', 'a803', 'a804', 'a805', 'a806', 'a807', 'a808', 'a809', 'a810']\n",
-  "limitation": "El constructor íntegro rechaza las 96 unidades aún sin comentario; no se alteró el inventario. Se exporta únicamente el capítulo revisado por el mismo formateador."
+  "limitation": "El constructor íntegro rechaza 76 unidades aún sin comentario, todas ajenas al lote; no se alteró el inventario. Se exporta únicamente el capítulo revisado por el mismo formateador."
 }
