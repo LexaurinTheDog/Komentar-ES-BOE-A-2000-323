@@ -38,10 +38,6 @@ La mención a Derecho civil propio debe relacionarse con la atribución competen
 
 Como en el artículo 488, el tenor conservado no permite ignorar la reforma de la casación. En el régimen actual los motivos procesales y materiales se encauzan conforme a los artículos 477 y siguientes, y el 487.3 regula la prioridad de los que determinan reposición. La remisión editorial a la disposición final decimosexta es histórica, pues ésta está suprimida. Antes de utilizar el esquema de acumulación de recursos separados es indispensable justificar su aplicabilidad temporal al expediente; no puede deducirse únicamente de que el BOE siga mostrando este artículo.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO IV — De los recursos
-
 #### CAPÍTULO VI — Del recurso en interés de la ley — (Suprimido)
 
 ### Artículo 490 — Resoluciones recurribles en interés de la ley.
@@ -100,10 +96,6 @@ El número y la rúbrica se mantienen, pero no subsiste aquí una regla vigente 
 
 Por ejemplo, una sentencia antigua dictada bajo aquel cauce puede ser un documento relevante para investigar una interpretación histórica, pero este artículo vacío no determina hoy su fuerza ni permite reabrir un litigio firme. El análisis de una autoridad anterior debe separar su fecha, la regulación que aplicó y la cuestión jurídica que resolvió. Para la decisión de una casación actual, el punto de partida es el artículo 487, no el contenido suprimido del 493.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO IV — De los recursos
-
 #### CAPÍTULO VII — Del recurso de queja
 
 ### Artículo 494 — Resoluciones recurribles en queja.
@@ -149,8 +141,6 @@ Por ejemplo, si se deniega la tramitación por una fecha de presentación consid
 Presentada en tiempo con la copia, el tribunal debe resolver en cinco días. Si confirma la negativa, comunica su decisión al tribunal de origen para constancia; si la considera incorrecta, le ordena continuar la tramitación. La estimación no prejuzga la posterior admisión ni el fondo de la casación. El apartado 3 excluye recursos contra el auto de queja: no cabe encadenar otra queja para revisar ese mismo control.
 
 **Control práctico de la queja.** Identificar un auto que niega tramitar la casación; comprobar la excepción del artículo 494; fijar el tribunal destinatario; calcular los diez días y acompañar la resolución; pedir continuación de la tramitación y distinguirla de una estimación de la casación.
-
-#### LIBRO II — De los procesos declarativos
 
 #### TÍTULO V — De la rebeldía y de la rescisión de sentencias firmes y nueva audiencia al demandado rebelde
 

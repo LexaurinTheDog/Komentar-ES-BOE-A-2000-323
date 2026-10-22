@@ -54,10 +54,6 @@ El número 2 excluye tipos diferentes por materia, con la excepción expresa de 
 
 Ejemplo: reclamar una obligación principal mercantil y otra conexa requiere explicar la atribución de la principal y la conexión, no limitarse a sumar importes. La posibilidad de subsanación permite reordenar la demanda, pero no convalida un esquema que mantiene pretensiones incompatibles con la competencia o el procedimiento.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO III — De la acumulación de acciones y de procesos
-
 #### CAPÍTULO II — De la acumulación de procesos
 
 #### Sección 1.ª De la acumulación de procesos: disposiciones generales
@@ -202,12 +198,6 @@ Los verbales pendientes ante un mismo tribunal siguen para la acumulación las r
 
 Ejemplo: dos reclamaciones verbales conexas ante el mismo órgano pueden examinarse por ese cauce, con identificación de ambos expedientes, estado y motivo. El hecho de que las cantidades sean pequeñas no justifica saltar la audiencia del artículo 83 o resolver separadamente mientras está pendiente decidir la acumulación en los términos del artículo 81. La norma de remisión hace accesible la institución al verbal, pero conserva la distinción entre reunir procesos ya iniciados y acumular acciones en una nueva demanda, que tiene sus límites específicos.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO III — De la acumulación de acciones y de procesos
-
-#### CAPÍTULO II — De la acumulación de procesos
-
 #### Sección 2.ª De la acumulación de procesos pendientes ante un mismo tribunal
 
 ### Artículo 81 — Solicitud de la acumulación de procesos.
@@ -287,12 +277,6 @@ La acumulación no significa que la fase más rápida imponga a las demás una p
 La denegación mantiene la tramitación separada de los juicios. No expresa una preferencia sobre cuál pretensión debe estimarse ni genera una declaración material sobre su conexión fuera de lo necesario para decidir el incidente. Tras la decisión deben controlarse los plazos propios de cada proceso y la reanudación de las actuaciones que hubieran quedado legalmente detenidas.
 
 Las costas del incidente no se imponen automáticamente por el solo rechazo: el apartado 2 exige temeridad o mala fe del promotor. Ejemplo: una cuestión razonablemente discutible de conexión puede ser desestimada sin que ello justifique por sí solo sanción económica incidental. En cambio, una solicitud que oculta deliberadamente una fase ya superada puede ofrecer un fundamento distinto para ese juicio. La resolución debe individualizar el comportamiento que sustenta la condena, sin confundir error jurídico, insuficiencia de prueba y uso abusivo del incidente.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO III — De la acumulación de acciones y de procesos
-
-#### CAPÍTULO II — De la acumulación de procesos
 
 #### Sección 3.ª De la acumulación de procesos pendientes ante distintos tribunales
 

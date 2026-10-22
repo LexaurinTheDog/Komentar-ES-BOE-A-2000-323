@@ -122,10 +122,6 @@ Ejemplo ficticio: si el hacer personalísimo tiene un precio de 10.000 euros, el
 
 **Control práctico del cierre de la ejecución no dineraria.** Antes de solicitar el apremio, comprobar el fallo y su eventual previsión expresa de incumplimiento; separar publicación, declaración de voluntad, hacer personalísimo y prohibición; documentar cumplimiento o infracción; justificar la base de las multas y distinguirla del crédito indemnizatorio; registrar requerimientos y plazos de reiteración.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO V — De la ejecución no dineraria
-
 #### CAPÍTULO IV — De la liquidación de daños y perjuicios, frutos y rentas y la rendición de cuentas
 
 ### Artículo 712 — Ámbito de aplicación del procedimiento.
@@ -279,8 +275,6 @@ La especialidad consiste en permitir ampliar los plazos por decreto del letrado 
 Ejemplo ficticio: se condena a un administrador a rendir cuentas de cinco años y entregar el saldo a favor del titular. La multiplicidad de contratos y justificantes puede justificar más tiempo para ordenar la documentación. Una vez presentada, el acreedor cuestiona gastos que considera ajenos a la gestión autorizada. La controversia deberá resolverse dentro de lo que el título permita examinar, sin aprobar mecánicamente el saldo porque proceda del propio administrador.
 
 **Control práctico de liquidaciones.** Identificar primero qué magnitud se liquida y qué bases impone el título; pedir la relación a quien corresponda; desglosar conceptos y justificantes; registrar el traslado y sus plazos; concretar oposiciones; preparar contradicción de la pericia; separar saldo, equivalente, daños, multas y costas antes de solicitar el apremio dinerario.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
 
 #### TÍTULO VI — De las medidas cautelares
 

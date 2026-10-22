@@ -1,0 +1,56 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "a412",
+    "a413",
+    "a414",
+    "a415",
+    "a416",
+    "a417",
+    "a418",
+    "a419",
+    "a420",
+    "a421",
+    "a422",
+    "a423",
+    "a424",
+    "a425",
+    "a426",
+    "a427",
+    "a428",
+    "a429",
+    "a430",
+    "a431"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "official_xml_equal": true,
+    "text_agreement": 1.0,
+    "whole_inventory_matches": 916,
+    "evidence": "author-a412-a431-preflight-result.json"
+  },
+  "case_law_sources": [
+    "cases/STC-5-2009.md"
+  ],
+  "validation": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 35028,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "links": {
+    "missing_local_targets": [],
+    "checked_files": 3
+  },
+  "remaining_limitations": [
+    "Sólo bloque a412–a431; quedan 456 comentarios fuera del encargo.",
+    "Jurisprudencia selectiva; una resolución primaria leída y cotejada con corpus nacional.",
+    "Pendiente de segunda lectura independiente."
+  ],
+  "whole_book_complete": false,
+  "output_commit": "e85c6905a87b2f5fb36d71f3b07002e2938e4767"
+}

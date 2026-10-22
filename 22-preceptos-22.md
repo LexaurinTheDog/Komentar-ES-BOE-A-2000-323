@@ -48,10 +48,6 @@ El régimen de impugnación depende del efecto del auto: si termina el proceso, 
 
 Comprobación práctica al cerrar el capítulo: identificar la cuestión y su cauce propio, verificar el momento preclusivo, documentar los hechos, justificar la suspensión solicitada y distinguir la decisión terminal de la que permite seguir litigando.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
 #### CAPÍTULO VIII — De la condena en costas
 
 ### Artículo 394 — Condena en las costas de la primera instancia.
@@ -165,8 +161,6 @@ En casación, la desestimación total comporta costas para el recurrente, salvo 
 Por ejemplo, una apelación reduce sólo una parte de la condena dineraria: las costas del recurso requieren examinar el artículo 394, no invocar mecánicamente la regla de casación estimada. En cambio, una casación parcialmente estimada queda comprendida en el apartado 3, aunque no prosperen todos los motivos.
 
 Lista práctica de costas: separar instancias y recursos; identificar vencimiento total o parcial; acreditar la conducta negociadora relevante; motivar dudas, temeridad o circunstancias especiales; y distinguir condena, tasación y límites de honorarios.
-
-#### LIBRO II — De los procesos declarativos
 
 #### TÍTULO II — Del juicio ordinario
 
@@ -300,12 +294,6 @@ El apartado 3 prevé comunicar la admisión en determinados litigios de competen
 
 Por ejemplo, ante una demanda con un defecto de representación reparable se concede subsanación. Si no se corrige, el letrado da cuenta al tribunal para resolver. Si la demanda está formalmente completa, su admisión y traslado no impiden al demandado negar la deuda o formular las excepciones que correspondan.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO II — Del juicio ordinario
-
-#### CAPÍTULO I — De las alegaciones iniciales
-
 #### Sección 2.ª De la contestación a la demanda y la reconvención
 
 ### Artículo 405 — Contestación y forma de la contestación a la demanda.
@@ -409,12 +397,6 @@ La decisión conjunta impide tratar la contestación y la reconvención como exp
 La unidad de tramitación no dispensa de conceder al actor reconvenido el plazo del artículo 407 ni de resolver expresamente la tutela que cada parte pide. El artículo 218 exige una respuesta congruente: desestimar la demanda principal no equivale por sí solo a estimar la reconvención. Tampoco una excepción que sólo persigue absolución se convierte en condena positiva por aparecer junto a una reconvención. Deben mantenerse identificados hechos, carga probatoria y petición de cada posición procesal.
 
 Por ejemplo, el constructor reclama el precio y el propietario reconviene por daños. La sentencia puede estimar una pretensión y rechazar la otra, o reconocer partidas de ambas, según lo alegado y probado. La tramitación común no autoriza a declarar una indemnización que no se pidió. Antes de cerrar las alegaciones conviene comprobar conexión, competencia, sujetos emplazados, contestación a la reconvención y separación de los pronunciamientos solicitados.
-
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO II — Del juicio ordinario
-
-#### CAPÍTULO I — De las alegaciones iniciales
 
 #### Sección 3.ª De los efectos de la pendencia del proceso
 

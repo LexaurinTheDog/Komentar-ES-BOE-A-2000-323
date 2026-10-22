@@ -1,0 +1,18 @@
+{
+  "assembled_at": "2026-10-22T04:16:03.290171+00:00",
+  "total_units": 916,
+  "commented_units": 916,
+  "ledger_batches": 46,
+  "ledger_reviewed_units": 916,
+  "missing_reviewed_ids": [],
+  "commentary_chars": 1438532,
+  "repeated_substantial_paragraphs": [],
+  "broken_local_links": [],
+  "source_checks": "sources/verification.json",
+  "limitations": [
+    "Síntesis de 46 revisiones registradas; esta tarea de ensamblaje no constituye una nueva lectura jurídica independiente de las 916 unidades.",
+    "Jurisprudencia selectiva, sin pretensión de exhaustividad ni aprobación profesional externa.",
+    "La validación técnica y el umbral de longitud no acreditan por sí solos calidad jurídica."
+  ],
+  "local_links_ok": true
+}

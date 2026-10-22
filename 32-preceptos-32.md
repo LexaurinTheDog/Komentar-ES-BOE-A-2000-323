@@ -140,12 +140,6 @@ Supóngase que una deuda puede cubrirse con un crédito inmediatamente cobrable 
 
 **Control práctico de localización y selección.** Comprobar la existencia del activo; separar saldo y titularidad; verificar ingresos protegidos; documentar el requerimiento patrimonial; justificar los oficios y sus destinatarios; identificar pacto, liquidez y perjuicio de la realización antes de fijar los bienes.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO III — Del embargo de bienes
-
 #### Sección 2.ª Del embargo de bienes de terceros y de la tercería de dominio
 
 ### Artículo 593 — Pertenencia al ejecutado. Prohibición de alzamiento de oficio del embargo.
@@ -333,12 +327,6 @@ El alcance se limita al bien objeto de la tercería y a las garantías de su emb
 Por ejemplo, tras estimarse la tercería sobre una máquina depositada judicialmente, deberán adoptarse los actos necesarios para remover ese depósito y dejar sin efecto la garantía ejecutiva. Si se trata de una finca anotada, habrá que identificar el asiento cuya cancelación se ordena, sin confundirlo con otras cargas registrales. La comprobación final consiste en contrastar las garantías acordadas con las efectivamente levantadas y documentar su ejecución.
 
 **Lista de control de la tercería.** Identificar bien, derecho y fecha de adquisición; aportar prueba escrita; verificar que no hubo transmisión; reunir los títulos disponibles; integrar correctamente los demandados; delimitar la suspensión; atender caución y mejora; comprobar el auto, costas y cancelación efectiva de garantías.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO III — Del embargo de bienes
 
 #### Sección 3.ª De los bienes inembargables
 

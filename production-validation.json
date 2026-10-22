@@ -1,0 +1,19 @@
+{
+  "repo": "Komentar-ES-BOE-A-2000-323",
+  "units": 916,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 285549,
+  "errors": [
+    "krátký/chybějící komentář u 652 jednotek: ['a248(0<400)', 'a249(0<400)', 'a250(0<400)', 'a251(0<400)', 'a252(0<400)', 'a253(0<400)', 'a254(0<400)', 'a255(0<400)']"
+  ],
+  "warnings": [],
+  "ok": false,
+  "independent_coverage": {
+    "ok": true,
+    "expected_units": 916,
+    "parsed_units": 916,
+    "missing": [],
+    "extra": [],
+    "evidence_file": "/Volumes/LaCie/open-commentary/_work/es/Komentar-ES-BOE-A-2000-323/coverage-evidence.json"
+  }
+}

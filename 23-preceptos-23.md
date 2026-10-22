@@ -36,10 +36,6 @@ La excepción del apartado 1 exige una privación definitiva del interés legít
 
 Ejemplo ficticio: se reclama la entrega de una máquina y, iniciado el pleito, el proveedor la entrega en las condiciones pactadas. Habrá que determinar si la pretensión de entrega ha quedado satisfecha y si subsisten otras peticiones acumuladas. Si únicamente se entrega una parte de los accesorios reclamados, la satisfacción no es automáticamente total. El examen debe separar el cambio material, la utilidad procesal restante y las consecuencias sobre costas que correspondan conforme al artículo 22.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO II — Del juicio ordinario
-
 #### CAPÍTULO II — De la audiencia previa al juicio
 
 ### Artículo 414 — Finalidad, momento procesal y sujetos intervinientes en la audiencia.
@@ -431,10 +427,6 @@ Debe distinguirse esta incidencia de la prórroga negociadora consensuada del ar
 Por ejemplo, un testigo imprescindible sufre una hospitalización imprevista que le impide comparecer. Quien solicita nueva fecha debe acreditar el impedimento y explicar qué hechos sólo pueden esclarecerse con esa declaración, en lugar de limitarse a afirmar su indisponibilidad. La decisión corresponde al órgano judicial bajo el artículo 183; la mera importancia subjetiva que la parte atribuya al testigo no impone automáticamente reprogramar todo el juicio.
 
 **Comprobación práctica al cerrar la audiencia previa.** Conviene comprobar que constan las cuestiones procesales resueltas y las pendientes, el objeto definitivo, los hechos controvertidos, las pruebas admitidas y rechazadas, las citaciones y auxilios acordados, los plazos de subsanación y la fecha o mecanismo de señalamiento. Si se ha abierto negociación, debe quedar identificado su régimen y cualquier cambio efectivo de la fecha del juicio. Esta relación permite controlar tareas concretas sin convertir la audiencia en un nuevo plazo general de alegaciones.
-
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO II — Del juicio ordinario
 
 #### CAPÍTULO III — Del juicio
 

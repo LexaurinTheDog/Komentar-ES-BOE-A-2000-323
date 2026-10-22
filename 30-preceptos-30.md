@@ -266,10 +266,6 @@ El apartado 4 establece un límite específico para la ejecución dirigida exclu
 
 Comprobación práctica del despacho: identificar título y sujetos; calcular la espera y sus excepciones; aportar documentos obligatorios; separar auto y decreto; revisar el examen de abusividad y sus advertencias; registrar la notificación; y comprobar los presupuestos propios antes de acumular expedientes.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO III — De la ejecución: disposiciones generales
-
 #### CAPÍTULO IV — De la oposición a la ejecución y de la impugnación de actos de ejecución contrarios a la ley o al título ejecutivo
 
 ### Artículo 556 — Oposición a la ejecución de resoluciones procesales o arbitrales o de los acuerdos de mediación.
@@ -531,10 +527,6 @@ El artículo no atribuye a la demanda posterior efecto suspensivo sobre la ejecu
 Ejemplo ficticio: después de constituirse el título extrajudicial surge una relación nueva entre las partes que el deudor considera relevante para exigir una prestación distinta. Si esa relación no constituye ninguna causa legal de oposición, su eficacia podrá discutirse en el proceso adecuado; no basta invocarla para detener la ejecución. Antes de demandar hay que fijar cuándo nació el hecho, qué efecto jurídico se pide y por qué no está comprendido en los artículos 556 o 557.
 
 Comprobación práctica de la defensa: clasificar el título; anotar fecha de notificación; distinguir defecto procesal, causa de fondo, exceso cuantitativo e infracción de un acto; aportar la prueba exigida; pedir vista en el escrito oportuno; y comprobar el efecto suspensivo real de cada remedio.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO III — De la ejecución: disposiciones generales
 
 #### CAPÍTULO V — De la suspensión y término de la ejecución
 

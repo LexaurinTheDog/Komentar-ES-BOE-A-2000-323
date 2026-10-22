@@ -70,8 +70,6 @@ La terminación se acuerda mediante decreto del letrado de la Administración de
 
 Si una subasta deja pendiente parte del crédito, el resultado insuficiente no acredita satisfacción completa. Si, en cambio, los ingresos cubren todo lo exigible, la expectativa de nuevas indagaciones patrimoniales carece de finalidad ejecutiva. Antes de cerrar este capítulo conviene comprobar: saldo por conceptos, pagos y consignaciones imputados, intereses liquidados, costas pendientes y resolución procesal que corresponde dictar. La falta temporal de bienes debe distinguirse de la extinción de la deuda satisfecha.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
 #### TÍTULO IV — De la ejecución dineraria
 
 #### CAPÍTULO I — De la ejecución dineraria: disposiciones generales
@@ -252,10 +250,6 @@ El apartado 2 establece especialidades para la vivienda habitual hipotecada, sin
 
 La letra b) reduce la deuda pendiente al venderse la vivienda en el 50 % de la plusvalía neta acreditada cuando se cumplen las condiciones de adjudicación, identidad del adquirente o grupo y venta dentro de diez años. No dispone una participación general en cualquier reventa. El cierre del apartado ordena devolver el exceso ejecutado sobre el importe liberatorio y reflejar las circunstancias en el decreto y Registro. Por ejemplo, tras quedar 40.000 euros pendientes, no se obtiene el beneficio pagando el 65 % del préstamo inicial: hay que reconstruir el saldo remanente, el plazo y el interés legal, y comprobar separadamente si una venta posterior genera reducción adicional.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
 #### CAPÍTULO II — Del requerimiento de pago
 
 ### Artículo 580 — Casos en que no procede el requerimiento de pago.
@@ -335,10 +329,6 @@ El pago efectuado al requerimiento, o antes del despacho, debe ponerse a disposi
 El apartado 2 atribuye al deudor las costas causadas aunque pague en el acto del requerimiento. La excepción exige justificar que no pudo pagar antes de promoverse la ejecución por una causa no imputable a él. La rapidez del pago tras ser requerido no demuestra por sí misma esa imposibilidad anterior. Debe separarse esta excepción de las reglas sobre partidas concretas, cuantía y límites de costas. El apartado 3 vincula la terminación mediante decreto a la satisfacción también de intereses y costas, si se han devengado, en consonancia con el artículo 570.
 
 Por ejemplo, un deudor paga íntegramente la suma requerida pero discute unas costas todavía no liquidadas. Procede dejar constancia del pago y comprobar lo que queda, sin presentar el ingreso como terminación automática de toda la ejecución. Para la práctica de este capítulo conviene verificar el tipo de título, la necesidad de requerimiento, el domicilio o canal válido, el pago recibido, el justificante y las partidas pendientes; si se invoca una imposibilidad no imputable, deben identificarse sus hechos y prueba.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
 
 #### CAPÍTULO III — Del embargo de bienes
 

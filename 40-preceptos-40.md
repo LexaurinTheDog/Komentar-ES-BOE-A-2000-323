@@ -246,10 +246,6 @@ Ejemplo ficticio: una sentencia establece una medida de apoyo y un familiar pide
 
 Comprobación práctica de las reglas comunes: delimitar la materia del artículo 748; determinar intervención fiscal y defensa; separar pretensiones disponibles; asegurar contradicción de hechos y prueba; verificar competencia, reserva justificada y comunicaciones registrales.
 
-#### LIBRO IV — De los procesos especiales
-
-#### TÍTULO I — De los procesos sobre provisión de medidas judiciales de apoyo a las personas con discapacidad, filiación, matrimonio y menores
-
 #### CAPÍTULO II — De los procesos sobre la adopción de medidas judiciales de apoyo a personas con discapacidad
 
 ### Artículo 756 — Ámbito de aplicación y competencia.
@@ -445,10 +441,6 @@ El apartado 4 impone seguimiento mediante informes cada seis meses o en plazo in
 Ejemplo ficticio: un ingreso urgente se comunica al tribunal a las diez del lunes. Deben registrarse también la hora real de ingreso y la de comunicación para controlar ambos plazos. No cabe esperar al siguiente lunes para ratificar por carga de trabajo ni considerar la pasividad del paciente como consentimiento informado. Si mejora antes de la revisión periódica y no precisa ingreso, el alta no debe aplazarse hasta el informe semestral.
 
 Comprobación práctica: documentar motivo y hora de ingreso; comunicación inmediata dentro del máximo legal; competencia territorial; información comprensible y defensa efectiva; entrevista y pericia judicial; resolución tempestiva y motivada; recurso, seguimiento y alta cuando proceda.
-
-#### LIBRO IV — De los procesos especiales
-
-#### TÍTULO I — De los procesos sobre provisión de medidas judiciales de apoyo a las personas con discapacidad, filiación, matrimonio y menores
 
 #### CAPÍTULO III — De los procesos sobre filiación, paternidad y maternidad
 

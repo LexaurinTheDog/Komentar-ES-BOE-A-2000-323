@@ -38,10 +38,6 @@ Este llamamiento se coordina con la legitimación del artículo 11 ter y tiene r
 
 Si los afectados están determinados o son fácilmente determinables, los actores deben comunicarles previamente su propósito de demandar y la intervención posterior respeta la preclusión. Si son indeterminados o difíciles de determinar, el llamamiento suspende por un máximo de dos meses, cuya duración fija el letrado de la Administración de Justicia atendiendo a las circunstancias o complejidad del hecho y a la dificultad de determinar y localizar a los afectados; reanudado el proceso, no cabe personación individual tardía, sin perjuicio de los artículos 221 y 519. Ejemplo: una práctica discriminatoria de una entidad frente a usuarios identificados exige la comunicación previa; una campaña dirigida a destinatarios indeterminados reclama el régimen difuso. En ambos casos debe respetarse la reserva de legitimación personal para el acoso del artículo 11 ter.3.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO I — De la comparecencia y actuación en juicio
-
 #### CAPÍTULO III — De la sucesión procesal
 
 ### Artículo 16 — Sucesión procesal por muerte.
@@ -107,10 +103,6 @@ Las razones para impedir el cambio protegen la defensa del contrario: derechos o
 La sustitución vinculada a intervención provocada requiere una decisión adicional a la llamada del tercero. El artículo 14.2.4 permite al demandado solicitar que el comparecido ocupe su lugar, pero el artículo 18 exige traslado de cinco días a las demás partes y auto del tribunal sobre la conveniencia de la sucesión. El demandado inicial no queda apartado por su propia declaración ni porque el tercero acepte informalmente la responsabilidad.
 
 La audiencia permite valorar cómo afecta el cambio a las pretensiones y a las defensas, evitando que una controversia entre demandado y tercero imponga al actor otro adversario sin control. Ejemplo: tras una llamada legalmente admisible, el tercero comparece y el demandado pide salir del pleito; el actor puede explicar por qué mantiene una pretensión frente al primero. Debe separarse esa cuestión de la posterior decisión de fondo sobre quién responde. La norma articula el cambio de posición procesal, no una liberación material automática de obligaciones.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO I — De la comparecencia y actuación en juicio
 
 #### CAPÍTULO IV — Del poder de disposición de las partes sobre el proceso y sobre sus pretensiones
 
@@ -263,10 +255,6 @@ El apartado 6, introducido por el Real Decreto-ley 29/2026 y vigente desde el 8 
 Esta enervación es independiente de la ordinaria: no consume aquella oportunidad ni queda impedida por el requerimiento fehaciente. El Estado compensa gastos autonómicos, con excepción de intereses por retraso, y prevé instrumentación bilateral para País Vasco y Navarra. La disposición transitoria segunda del decreto-ley extiende su aplicación a procedimientos y ejecuciones pendientes en los términos allí establecidos, antes del lanzamiento. Ejemplo: un requerimiento previo que impediría la enervación ordinaria no excluye por sí solo el apartado 6; hay que acreditar vulnerabilidad, comprobar su ámbito y registrar la notificación a la Administración. Esta explicación se basa en la publicación oficial conservada en [fuentes](sources/BOE-A-2026-20823.xml), no en la reforma intermedia derogada del 26/2026.
 
 **Control de terminación:** distinguir pago, renuncia, desistimiento y allanamiento; verificar poder especial; concretar costas y recursos; en desahucios, separar enervación ordinaria y extraordinaria y documentar cada presupuesto y fecha.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO I — De la comparecencia y actuación en juicio
 
 #### CAPÍTULO V — De la representación procesal y la defensa técnica
 

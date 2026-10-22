@@ -116,10 +116,6 @@ Ejemplo ficticio: el fallecido tenía un encargado que administraba una finca di
 
 **Control práctico al cerrar la administración hereditaria:** comprobar reparaciones ordinarias y autorizaciones extraordinarias; conciliar cobros, retenciones y depósitos; identificar la excepción y autorización de cada venta; separar las bases retributivas y justificar viajes; incorporar las cuentas de administraciones subalternas a la rendición general.
 
-#### LIBRO IV — De los procesos especiales
-
-#### TÍTULO II — De la división judicial de patrimonios
-
 #### CAPÍTULO II — Del procedimiento para la liquidación del régimen económico matrimonial
 
 ### Artículo 806 — Ámbito de aplicación.
@@ -249,8 +245,6 @@ La propuesta debe expresar las estimaciones patrimoniales de cada cónyuge y, en
 Ejemplo ficticio: una cónyuge afirma que el otro ha experimentado un incremento superior, pero este sostiene que se ha valorado incorrectamente un bien de su patrimonio inicial. La propuesta debe permitir reconstruir esa comparación; la sentencia resolverá los valores discutidos y la eventual prestación, en lugar de ordenar simplemente repartir el bien.
 
 **Lista práctica para liquidar:** identificar régimen y órgano competente; separar formación de inventario de liquidación; documentar cada partida y reintegro; comprobar firmeza cuando sea exigible; preparar la comparecencia y justificar cualquier impedimento; distinguir división de una masa común y cálculo del crédito de participación.
-
-#### LIBRO IV — De los procesos especiales
 
 #### TÍTULO III — De los procesos monitorio y cambiario
 
@@ -447,10 +441,6 @@ Por encima de esa cuantía, el acreedor dispone de un mes desde el traslado de l
 Ejemplo ficticio: en una reclamación que debe continuar por verbal, el deudor niega la recepción de los bienes. Tras la oposición y la eventual impugnación, ambas partes deben aprovechar el plazo de prueba e identificar al transportista que no puedan presentar por sí mismas. Limitarse a reservar la prueba para una vista futura puede desconocer el trámite específico vigente.
 
 **Control práctico del monitorio:** verificar vencimiento y soporte documental; comprobar competencia y domicilio útil; desglosar capital y accesorios; realizar el control de consumo antes del requerimiento; documentar notificación, pago u oposición; identificar el cauce posterior y sus plazos; separar el decreto de terminación del auto de ejecución.
-
-#### LIBRO IV — De los procesos especiales
-
-#### TÍTULO III — De los procesos monitorio y cambiario
 
 #### CAPÍTULO II — Del juicio cambiario
 

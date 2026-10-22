@@ -60,12 +60,6 @@ Ejemplo ficticio: se aporta una fotocopia de un recibo y el contrario sostiene q
 
 **Control práctico de exhibición y copias:** precisar qué documento se pide y quién lo custodia; comprobar el fundamento legal de una reserva; preservar escala y detalles de las imágenes; separar fidelidad de reproducción, autenticidad y fuerza probatoria del contenido.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO VI — De los medios de prueba y las presunciones
-
 #### Sección 5.ª Del dictamen de peritos
 
 ### Artículo 335 — Objeto y finalidad del dictamen de peritos. Juramento o promesa de actuar con objetividad.

@@ -102,8 +102,6 @@ Sin oposición en plazo, el apartado 3 ordena despachar ejecución por el import
 
 **Revisión de postulación y cuentas:** separar representación legal, poder y defensa; verificar facultades especiales; registrar notificaciones y cese; distinguir provisión, cuenta y costas; conservar contrato y presupuesto; identificar control judicial, recurso y efectos de cosa juzgada de cada resolución.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
 #### TÍTULO II — De la jurisdicción y de la competencia
 
 #### CAPÍTULO I — De la jurisdicción de los tribunales civiles y las cuestiones prejudiciales
@@ -165,12 +163,6 @@ La norma no autoriza una revisión territorial indiscriminada; ese presupuesto t
 El demandado dispone de la declinatoria para denunciar falta de competencia internacional, pertenencia a otro orden o sometimiento de la controversia a arbitraje o mediación. El artículo identifica el instrumento; los artículos 63 a 65 concretan legitimación, momento, suspensión y decisión. La oposición sobre estos presupuestos no debe confundirse con discutir si la pretensión está fundada.
 
 La referencia a mediación debe leerse junto con la disposición adicional duodécima, que extiende las referencias legales a los otros medios adecuados previstos por la norma allí indicada. Ello no permite presumir que cualquier conversación previa impida acudir al juez: deben precisarse la habilitación y los efectos invocados. Ejemplo: quien sostiene que existe un convenio arbitral debe articular la declinatoria en tiempo y acompañar su soporte, en vez de limitarse a una negación del fondo en la contestación. El tribunal examinará la cuestión por ese cauce, sin que la mera afirmación del demandado decida automáticamente la abstención.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO II — De la jurisdicción y de la competencia
-
-#### CAPÍTULO I — De la jurisdicción de los tribunales civiles y las cuestiones prejudiciales
 
 #### Sección 2.ª De las cuestiones prejudiciales
 
@@ -274,10 +266,6 @@ La redacción seleccionada conserva el identificador del artículo 43 bis, pero 
 
 **Control prejudicial:** precisar cuestión principal e incidental; acreditar pendencia y relevancia; valorar acumulación; identificar quién decide la suspensión y cuándo; registrar el cauce de recurso y el hecho que permite alzarla.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO II — De la jurisdicción y de la competencia
-
 #### CAPÍTULO II — De las reglas para determinar la competencia
 
 ### Artículo 44 — Predeterminación legal de la competencia.
@@ -289,12 +277,6 @@ La redacción seleccionada conserva el identificador del artículo 43 bis, pero 
 La competencia debe estar atribuida por norma con rango legal anterior a la incoación. La exigencia protege la predeterminación del tribunal y evita que una decisión singular posterior seleccione al órgano para un conflicto concreto. Debe diferenciarse atribución de competencia y reglas de reparto entre órganos de la misma clase; el artículo 68 regula estas últimas sin convertirlas en fuentes autónomas de competencia objetiva.
 
 La elección de las partes tampoco puede crear una competencia objetiva que la ley no reconoce. La disponibilidad territorial de los artículos 54 y siguientes opera dentro de sus presupuestos, no contra esta regla general. Ejemplo: un contrato que designa un órgano civil determinado no lo habilita para resolver una materia legalmente atribuida a otra clase de tribunal. Antes de discutir el domicilio pactado, hay que identificar la atribución legal por materia, cuantía y función, y comprobar que corresponde al órgano que recibió la demanda.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO II — De la jurisdicción y de la competencia
-
-#### CAPÍTULO II — De las reglas para determinar la competencia
 
 #### Sección 1.ª De la competencia objetiva
 
@@ -401,12 +383,6 @@ Conviene diferenciar ambas dimensiones: el demandado debe actuar diligentemente 
 El precepto articula el desplazamiento de un proceso civil hacia el órgano competente en violencia sobre la mujer y diferencia tres situaciones. Con proceso penal u orden de protección, el apartado 1 exige comprobar los requisitos legales y remitir, salvo iniciación material de la vista o comparecencia indicada. Sin causa penal ni orden, el apartado 2 prevé comparecencia con el Ministerio Fiscal en veinticuatro horas y su decisión en las veinticuatro siguientes; el órgano civil continúa hasta eventual requerimiento de inhibición. El apartado 3 regula ese requerimiento desde el órgano especializado, acompañado de testimonio de las resoluciones pertinentes.
 
 Los apartados 4 y 5 establecen remisión y comparecencia ante el receptor, excluyen el trámite general del artículo 48.3 y la declinatoria para estos supuestos y afirman competencia civil exclusiva y excluyente en su ámbito. Quien pretenda hacer valer esa competencia debe aportar testimonio de las resoluciones indicadas en el apartado 3; no basta una solicitud de parte sin el soporte que exige el precepto. El texto conserva remisiones distintas a la LOPJ: el artículo 87 ter está suprimido y la regulación vigente del artículo 89.7 exige simultáneamente materia civil comprendida, víctima y persona imputada en los términos allí descritos y actuaciones penales u orden de protección. Así resulta del [XML oficial de la LOPJ](sources/LOPJ-text.xml), con versión del artículo 89 efectiva desde el 3 de octubre de 2025, consultado el 19 de octubre de 2026. El artículo 89.7 incluye actualmente tanto violencia de género como violencia sexual en sus términos específicos y remite a las materias del apartado 6; esa ampliación no se deduce de la antigua remisión al artículo 87 ter. La discordancia no se corrige a mano en la cita legal ni permite asumir que toda denuncia basta. Deben contrastarse la atribución orgánica vigente y el cauce procesal del artículo 49 bis sin tratar las remisiones históricas como una norma orgánica aún vigente. Ejemplo: una simple noticia de violencia sin causa iniciada activa un examen y cauce diferente del requerimiento documentado de inhibición. Deben registrarse el estado material de la vista, los presupuestos de conexión y la resolución penal aportada; no procede paralizar indefinidamente el proceso civil por una alegación no contrastada.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO II — De la jurisdicción y de la competencia
-
-#### CAPÍTULO II — De las reglas para determinar la competencia
 
 #### Sección 2.ª De la competencia territorial
 

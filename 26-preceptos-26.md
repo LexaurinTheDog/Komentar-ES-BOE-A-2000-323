@@ -156,10 +156,6 @@ El artículo 487 regula ahora la decisión de casación y ordena resolver primer
 
 **Control al cerrar el capítulo sin contenido.** Identificar la fecha y el régimen transitorio del expediente; separar las rúbricas conservadas de las reglas operativas; localizar cada cuestión de acceso, escrito, traslado y resolución en los artículos vigentes. Mantener los nueve números no equivale a ofrecer nueve trámites disponibles.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO IV — De los recursos
-
 #### CAPÍTULO V — Del recurso de casación
 
 ### Artículo 477 — Motivo del recurso de casación y resoluciones recurribles en casación.

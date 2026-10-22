@@ -176,10 +176,6 @@ La remisión exige verificar requisitos de transmisión, autoridad competente, i
 
 **Control del auxilio:** elegir entre desplazamiento, videoconferencia y cooperación; identificar órgano y actuación; completar documentos y plazo; registrar envío y recepción; designar representación si se necesita seguimiento; preservar citaciones y contradicción; controlar devolución e incorporación al expediente principal.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO V — De las actuaciones judiciales
-
 #### CAPÍTULO VII — De la sustanciación, vista y decisión de los asuntos
 
 #### Sección 1.ª Del despacho ordinario
@@ -283,12 +279,6 @@ La transparencia de identidad permite a las partes examinar posibles causas de a
 El ponente realiza despacho ordinario y cuidado de tramitación, sin desplazar el impulso del letrado de la Administración de Justicia. Examina propuestas de prueba e informa sobre admisibilidad, pertinencia y utilidad; informa recursos que corresponde resolver al tribunal; dicta providencias y propone otras resoluciones. La distinción entre informar, proponer y decidir impide atribuirle individualmente toda potestad del colegiado.
 
 La redacción de resoluciones se le encomienda con la salvedad del artículo 203, párrafo segundo: si discrepa de la mayoría, el ponente declina redactar, formula motivadamente voto particular y el presidente encarga la redacción a otro magistrado, con rectificación del turno. Ejemplo: en un recurso, que el ponente prepare informe favorable a una prueba no equivale todavía a que la sala la haya admitido mediante la resolución correspondiente. El expediente debe permitir identificar la decisión formal y su autoría institucional, especialmente al calcular recursos o examinar composición. La organización por ponencias facilita continuidad del estudio, pero no elimina contradicción ni controles de asignación objetiva del artículo 180.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO V — De las actuaciones judiciales
-
-#### CAPÍTULO VII — De la sustanciación, vista y decisión de los asuntos
 
 #### Sección 2.ª De las vistas y las comparecencias
 

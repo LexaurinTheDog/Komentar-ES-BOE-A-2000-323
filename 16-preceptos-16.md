@@ -26,12 +26,6 @@ Ejemplo ficticio: en una reclamación por defectos de una máquina, el testimoni
 
 La [STC 165/2004, FJ 3–6](cases/STC-165-2004.md), en un proceso penal, censuró denegar una pericial por su equivalencia con otra prueba y después negar esa equivalencia al valorar esta. Su aplicación aquí es una pauta constitucional de coherencia de la justificación, no una interpretación directa del artículo 283 ni una obligación de admitir toda prueba repetida.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO V — De la prueba: disposiciones generales
-
 #### Sección 1.ª bis. Del acceso a las fuentes de prueba en procedimientos de reclamación de daños por infracción del derecho de la competencia
 
 ### Artículo 283 bis a) — Exhibición de las pruebas en procesos para el ejercicio de acciones por daños derivados de infracciones del Derecho de la competencia.
@@ -330,12 +324,6 @@ Ejemplo ficticio: un abogado remite a un competidor una tabla que solo podía co
 
 Lista práctica al cerrar la sección: delimitar acción y categorías; justificar proporcionalidad; clasificar piezas del expediente y secretos; prever gastos y caución; identificar lectores y usos autorizados; documentar cumplimiento y terminación; controlar el plazo para demandar si el acceso fue previo. Cada comprobación responde a una regla distinta y evita que una autorización de acceso se interprete como permiso general de difusión.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO V — De la prueba: disposiciones generales
-
 #### Sección 2.ª De la proposición y admisión
 
 ### Artículo 284 — Forma de proposición de la prueba.
@@ -433,12 +421,6 @@ La sanción exige que la prueba estuviera admitida y que su falta de ejecución 
 La multa oscila entre 60 y 600 euros. La otra excepción es desistir de la prueba cuando la hubiera propuesto el propio litigante. Esta salida sancionadora no implica que cualquier renuncia borre todos los efectos procesales de la conducta ni que una parte pueda disponer de prueba propuesta por la contraria. Tampoco asegura que los hechos queden acreditados: prescindir del medio puede perjudicar a quien soporta la carga de probarlos. La audiencia de las partes debe preceder a la imposición en juicio o vista.
 
 Ejemplo ficticio: una parte no facilita deliberadamente el acceso acordado para el reconocimiento de un objeto que conserva, causando que no se practique en la fecha prevista. Antes de sancionar, debe ser oída sobre el incumplimiento y su imputación. Si acredita que el objeto quedó inaccesible por una incidencia que no pudo evitar, debe valorarse esa falta de culpa. La multa de este artículo no debe confundirse con las consecuencias específicas de obstruir el acceso a fuentes en materia de competencia del artículo 283 bis h), que tienen presupuestos y magnitudes diferentes.
-
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO V — De la prueba: disposiciones generales
 
 #### Sección 3.ª De otras disposiciones generales sobre la práctica de la prueba
 

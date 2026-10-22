@@ -1,44 +1,49 @@
-# Índice de capítulos redactados
+# INDEX — Comentario a la Ley de Enjuiciamiento Civil
 
-Borrador parcial: 320 de 916 unidades. El inventario completo permanece en [units.jsonl](units.jsonl).
-
-- [Introducción](00-introduccion.md)
-- [Fuentes](SOURCES.md)
-- [Control del autor](REVIEW.md)
-- [Artículo 1 a Artículo 15 bis](01-preceptos-01.md) — 20 unidades comentadas
-- [Artículo 15 ter a Artículo 33](02-preceptos-02.md) — 20 unidades comentadas
-- [Artículo 34 a Artículo 51](03-preceptos-03.md) — 20 unidades comentadas
-- [Artículo 52 a Artículo 71](04-preceptos-04.md) — 20 unidades comentadas
-- [Artículo 72 a Artículo 91](05-preceptos-05.md) — 20 unidades comentadas
-- [Artículo 92 a Artículo 111](06-preceptos-06.md) — 20 unidades comentadas
-- [Artículo 112 a Artículo 130](07-preceptos-07.md) — 20 unidades comentadas
-- [Artículo 131 a Artículo 148](08-preceptos-08.md) — 20 unidades comentadas
-- [Artículo 149 a Artículo 168](09-preceptos-09.md) — 20 unidades comentadas
-- [Artículo 169 a Artículo 188](10-preceptos-10.md) — 20 unidades comentadas
-- [Artículo 189 a Artículo 205](11-preceptos-11.md) — 20 unidades comentadas
-- [Artículo 206 a Artículo 224](12-preceptos-12.md) — 20 unidades comentadas
-- [Artículo 225 a Artículo 244](13-preceptos-13.md) — 20 unidades comentadas
-- [Artículo 245 a Artículo 263](14-preceptos-14.md) — 20 unidades comentadas
-
-- [Artículo 264 a Artículo 282, incluido el 268 bis](15-preceptos-15.md) — 20 unidades comentadas.
-
-- [Artículo 283 a Artículo 291, incluidos 283 bis a)–k)](16-preceptos-16.md) — 20 unidades comentadas.
-
-- [Artículos 292 a 311](17-preceptos-17.md) — veinte unidades comentadas; borrador pendiente de segunda lectura.
-
-- [Artículos 312 a 331](18-preceptos-18.md) — veinte unidades comentadas; borrador pendiente de segunda lectura.
-
-- [Artículos 332 a 351](19-preceptos-19.md) — veinte unidades comentadas; borrador pendiente de segunda lectura.
-
-- [Artículos 468–487](26-preceptos-26.md) — veinte unidades; lote de autoría pendiente de segunda lectura independiente.
-
-
-- [Artículos 508–527](28-preceptos-28.md) — veinte unidades; revisión, títulos y comienzo de ejecución provisional. Borrador pendiente de segunda lectura independiente.
-
-- [Artículos 568–587](31-preceptos-31.md) — veinte unidades comentadas; borrador pendiente de segunda lectura independiente.
-- [Artículo 648 a Artículo 666, incluido el artículo 655 bis anulado](35-preceptos-35.md) — capítulo 35, borrador parcial
-
-
-- [Artículos 727–746](39-preceptos-39.md) — veinte unidades sobre medidas cautelares; borrador de autor pendiente de segunda lectura independiente.
-
-- [Finales decimocuarta a vigésimo novena](46-preceptos-46.md) — dieciséis unidades; segunda lectura parcial documentada en [resultado](review-batch-46-result.json).
+- [00-introduccion.md](00-introduccion.md) — Alcance, método y utilización
+- [01-preceptos-01.md](01-preceptos-01.md) — Capítulo de comentario 01: Artículo 1 a Artículo 15 bis
+- [02-preceptos-02.md](02-preceptos-02.md) — Capítulo de comentario 02: Artículo 15 ter a Artículo 33
+- [03-preceptos-03.md](03-preceptos-03.md) — Capítulo de comentario 03: Artículo 34 a Artículo 51
+- [04-preceptos-04.md](04-preceptos-04.md) — Capítulo de comentario 04: Artículo 52 a Artículo 71
+- [05-preceptos-05.md](05-preceptos-05.md) — Capítulo de comentario 05: Artículo 72 a Artículo 91
+- [06-preceptos-06.md](06-preceptos-06.md) — Capítulo de comentario 06: Artículo 92 a Artículo 111
+- [07-preceptos-07.md](07-preceptos-07.md) — Capítulo de comentario 07: Artículo 112 a Artículo 130
+- [08-preceptos-08.md](08-preceptos-08.md) — Capítulo de comentario 08: Artículo 131 a Artículo 148
+- [09-preceptos-09.md](09-preceptos-09.md) — Capítulo de comentario 09: Artículo 149 a Artículo 168
+- [10-preceptos-10.md](10-preceptos-10.md) — Capítulo de comentario 10: Artículo 169 a Artículo 188
+- [11-preceptos-11.md](11-preceptos-11.md) — Capítulo de comentario 11: Artículo 189 a Artículo 205
+- [12-preceptos-12.md](12-preceptos-12.md) — Capítulo de comentario 12: Artículo 206 a Artículo 224
+- [13-preceptos-13.md](13-preceptos-13.md) — Capítulo de comentario 13: Artículo 225 a Artículo 244
+- [14-preceptos-14.md](14-preceptos-14.md) — Capítulo de comentario 14: Artículo 245 a Artículo 263
+- [15-preceptos-15.md](15-preceptos-15.md) — Capítulo de comentario 15: Artículo 264 a Artículo 282
+- [16-preceptos-16.md](16-preceptos-16.md) — Capítulo de comentario 16: Artículo 283 a Artículo 291
+- [17-preceptos-17.md](17-preceptos-17.md) — Capítulo de comentario 17: Artículo 292 a Artículo 311
+- [18-preceptos-18.md](18-preceptos-18.md) — Capítulo de comentario 18: Artículo 312 a Artículo 331
+- [19-preceptos-19.md](19-preceptos-19.md) — Capítulo de comentario 19: Artículo 332 a Artículo 351
+- [20-preceptos-20.md](20-preceptos-20.md) — Capítulo de comentario 20: Artículo 352 a Artículo 371
+- [21-preceptos-21.md](21-preceptos-21.md) — Capítulo de comentario 21: Artículo 372 a Artículo 391
+- [22-preceptos-22.md](22-preceptos-22.md) — Capítulo de comentario 22: Artículo 392 a Artículo 411
+- [23-preceptos-23.md](23-preceptos-23.md) — Capítulo de comentario 23: Artículo 412 a Artículo 431
+- [24-preceptos-24.md](24-preceptos-24.md) — Capítulo de comentario 24: Artículo 432 a Artículo 448
+- [25-preceptos-25.md](25-preceptos-25.md) — Capítulo de comentario 25: Artículo 449 a Artículo 467
+- [26-preceptos-26.md](26-preceptos-26.md) — Capítulo de comentario 26: Artículo 468 a Artículo 487
+- [27-preceptos-27.md](27-preceptos-27.md) — Capítulo de comentario 27: Artículo 488 a Artículo 507
+- [28-preceptos-28.md](28-preceptos-28.md) — Capítulo de comentario 28: Artículo 508 a Artículo 527
+- [29-preceptos-29.md](29-preceptos-29.md) — Capítulo de comentario 29: Artículo 528 a Artículo 547
+- [30-preceptos-30.md](30-preceptos-30.md) — Capítulo de comentario 30: Artículo 548 a Artículo 567
+- [31-preceptos-31.md](31-preceptos-31.md) — Capítulo de comentario 31: Artículo 568 a Artículo 587
+- [32-preceptos-32.md](32-preceptos-32.md) — Capítulo de comentario 32: Artículo 588 a Artículo 607
+- [33-preceptos-33.md](33-preceptos-33.md) — Capítulo de comentario 33: Artículo 608 a Artículo 627
+- [34-preceptos-34.md](34-preceptos-34.md) — Capítulo de comentario 34: Artículo 628 a Artículo 647
+- [35-preceptos-35.md](35-preceptos-35.md) — Capítulo de comentario 35: Artículo 648 a Artículo 666
+- [36-preceptos-36.md](36-preceptos-36.md) — Capítulo de comentario 36: Artículo 667 a Artículo 686
+- [37-preceptos-37.md](37-preceptos-37.md) — Capítulo de comentario 37: Artículo 687 a Artículo 706
+- [38-preceptos-38.md](38-preceptos-38.md) — Capítulo de comentario 38: Artículo 707 a Artículo 726
+- [39-preceptos-39.md](39-preceptos-39.md) — Capítulo de comentario 39: Artículo 727 a Artículo 746
+- [40-preceptos-40.md](40-preceptos-40.md) — Capítulo de comentario 40: Artículo 747 a Artículo 766
+- [41-preceptos-41.md](41-preceptos-41.md) — Capítulo de comentario 41: Artículo 767 a Artículo 781
+- [42-preceptos-42.md](42-preceptos-42.md) — Capítulo de comentario 42: Artículo 781 bis a Artículo 800
+- [43-preceptos-43.md](43-preceptos-43.md) — Capítulo de comentario 43: Artículo 801 a Artículo 820
+- [44-preceptos-44.md](44-preceptos-44.md) — Capítulo de comentario 44: Artículo 821 a Disposición transitoria primera
+- [45-preceptos-45.md](45-preceptos-45.md) — Capítulo de comentario 45: Disposición transitoria segunda a Disposición final decimotercera
+- [46-preceptos-46.md](46-preceptos-46.md) — Capítulo de comentario 46: Disposición final decimocuarta a Disposición final vigésimo novena

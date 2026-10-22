@@ -90,12 +90,6 @@ El apartado 2 somete lo restante a la sana crítica, incluyendo las declaracione
 
 **Comprobación práctica del interrogatorio:** delimitar los hechos ya preguntados; verificar el medio y documentación de las declaraciones fuera de sede; distinguir reconocimiento perjudicial y simple versión de parte; contrastar con las demás pruebas antes de aplicar el artículo 316.1.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO VI — De los medios de prueba y las presunciones
-
 #### Sección 2.ª De los documentos públicos
 
 ### Artículo 317 — Clases de documentos públicos.
@@ -242,12 +236,6 @@ El apartado 3 separa expresamente existencia de declaraciones de voluntad y efic
 
 **Comprobación práctica de documentos públicos:** identificar categoría y competencia del emisor; comprobar soporte y autenticidad; delimitar lo efectivamente documentado; completar extractos solicitados; separar autenticación extranjera y eficacia del negocio.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO VI — De los medios de prueba y las presunciones
-
 #### Sección 3.ª De los documentos privados
 
 ### Artículo 324 — Clases de documentos privados.
@@ -317,12 +305,6 @@ La petición debe conectar los asientos con hechos relevantes y explicar por qu�
 Ejemplo ficticio: en una reclamación del saldo de una distribución, se identifican las cuentas y asientos correspondientes a devoluciones de un trimestre concreto, y se explica una discrepancia con los abonos aportados. El tribunal puede valorar motivadamente la reclamación de ese soporte. Pedir todo el sistema informático de la empresa, sin acotar operaciones, no satisface por sí solo el precepto. Este comentario se limita al cauce procesal de la LEC y no presume acreditados los presupuestos que deban verificarse conforme a la legislación mercantil remitida.
 
 **Comprobación práctica de documentos privados:** distinguir copia y autoría; presentar en tiempo y forma; precisar qué característica se impugna; identificar el servicio de confianza y el momento relevante; limitar la petición contable a asientos justificados.
-
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO VI — De los medios de prueba y las presunciones
 
 #### Sección 4.ª De las disposiciones comunes a las dos secciones anteriores
 

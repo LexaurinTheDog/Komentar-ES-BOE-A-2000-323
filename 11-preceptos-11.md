@@ -132,12 +132,6 @@ La interrupción supone que la vista ya empezó y solo procede por las causas en
 
 La vista se reanuda al desaparecer la causa. Juez o presidente señala si puede reanudarse en veinte días o fijar nueva fecha en el acto; si no concurre ninguna de esas posibilidades, lo hace el letrado de la Administración de Justicia con la agenda del artículo 182 y prontitud. Ejemplo: falta un testigo de importancia marginal y el tribunal puede decidir con la prueba disponible; la parte debe explicar por qué sería imprescindible antes de pedir interrupción. Si se admite, conviene precisar qué queda pendiente y conservar lo ya practicado, sin confundir interrupción y anulación de toda la vista.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO V — De las actuaciones judiciales
-
-#### CAPÍTULO VII — De la sustanciación, vista y decisión de los asuntos
-
 #### Sección 3.ª De las votaciones y fallos de los asuntos
 
 ### Artículo 194 — Jueces y Magistrados a los que corresponde fallar los asuntos.

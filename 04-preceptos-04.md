@@ -180,12 +180,6 @@ El conflicto negativo se evita, en primer lugar, vinculando al órgano receptor 
 
 El apartado 3 eleva los antecedentes al superior común, que fija por auto sin ulterior recurso el tribunal competente y ordena, en su caso, remisión y emplazamiento para comparecer ante el tribunal competente dentro de los diez días siguientes. Ese inciso se refiere a la comparecencia, no a un plazo de diez días impuesto al superior para resolver el conflicto. Ejemplo: dos órganos consideran que la finca o conexión territorial pertenece al otro partido; deben seguir el cauce de conflicto, evitando devolver indefinidamente la demanda entre oficinas. Para valorar si cabe la segunda declaración importa reconstruir cómo se adoptó la primera, quién fue oído y si la regla era imperativa, no solo leer la conclusión del auto de inhibición.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO II — De la jurisdicción y de la competencia
-
-#### CAPÍTULO II — De las reglas para determinar la competencia
-
 #### Sección 3.ª De la competencia funcional
 
 ### Artículo 61 — Competencia funcional por conexión.
@@ -209,10 +203,6 @@ No confiere al mismo órgano el conocimiento de todo recurso contra sus decision
 La competencia funcional para un recurso es indisponible: el recurso dirigido a órgano carente de ella no se admite. Si el defecto se advierte después de admitir, debe oírse a los personados por plazo común de diez días y dictarse auto de abstención. La resolución no equivale a desestimación del motivo de recurso ni confirma por su fondo la resolución impugnada.
 
 El apartado 2 preserva una oportunidad de correcta interposición o anuncio: cinco días desde la notificación se añaden al plazo legal previsto para los trámites indicados, con firmeza si se supera el tiempo resultante sin recurrir en forma. Debe calcularse según el cauce y las fechas reales; no se debe prometer un nuevo plazo íntegro distinto del que regula el texto. Ejemplo: un recurso ya admitido se dirige a una clase de tribunal incorrecta; tras la abstención, la parte tiene que corregir destinatario y forma con diligencia, sin confiar en que el envío previo mantendrá indefinidamente abierta la impugnación.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO II — De la jurisdicción y de la competencia
 
 #### CAPÍTULO III — De la declinatoria
 
@@ -282,10 +272,6 @@ El promotor debe acompañar documentos o principios de prueba y tantas copias co
 
 Los efectos dependen del motivo estimado. Tribunal extranjero, arbitraje o mediación conducen a abstención y sobreseimiento; otro orden y falta objetiva requieren indicar ante qué órganos ejercer el derecho. En territorio disponible solo se estima si es competente el órgano señalado por el promotor; estimada la territorial, se remiten autos y se emplaza por diez días. Ejemplo: probar que el tribunal actual no es el del domicilio no basta si el demandado solicita una remisión a otro órgano igualmente incompetente bajo una regla disponible. El escrito debe relacionar fundamento, prueba y efecto solicitado, evitando pedir simultáneamente consecuencias incompatibles sin explicar su carácter subsidiario.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO II — De la jurisdicción y de la competencia
-
 #### CAPÍTULO IV — De los recursos en materia de jurisdicción y competencia
 
 ### Artículo 66 — Recursos en materia de competencia internacional, jurisdicción, sumisión a arbitraje o mediación y competencia objetiva.
@@ -321,10 +307,6 @@ La reserva posterior exige identificar el presupuesto procesal realmente invocad
 Los autos territoriales no tienen recurso directo conforme al apartado 1. El apartado 2 admite alegar falta territorial en apelación y casación únicamente cuando la competencia estuviera determinada por normas imperativas. Esta distinción no debe confundirse con ausencia de todo control: la declinatoria y el mecanismo de conflicto negativo cumplen funciones diferentes antes de ese momento.
 
 La consecuencia práctica es clasificar correctamente el fuero desde el comienzo y no prometer que cualquier desacuerdo territorial se revisará al recurrir la sentencia. Ejemplo: en un litigio de territorio disponible, la parte no obtiene una revisión final general de su preferencia de sede por reiterarla como motivo de apelación. Si rige un fuero imperativo, debe concretar su infracción y la conexión territorial, además de cumplir los demás presupuestos del recurso que interponga. El artículo no crea por sí mismo acceso a casación para un asunto que carezca de los requisitos legales de ese recurso.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO II — De la jurisdicción y de la competencia
 
 #### CAPÍTULO V — Del reparto de los asuntos
 
@@ -375,8 +357,6 @@ La urgencia permite adoptar medidas en asuntos todavía no repartidos a instanci
 La medida no sustituye el reparto ni autoriza al solicitante a elegir el órgano que conocerá del fondo. Ejemplo: existe riesgo acreditado de desaparición inmediata del objeto que necesita protección y el escrito aún espera distribución; la petición debe describir ese riesgo, el lapso relevante y la medida necesaria, no solicitar por esta vía la resolución completa de la demanda. La conexión con el artículo 69 permite separar la urgencia excepcional de una mera queja por demora administrativa. Después deberá seguirse la distribución y tramitación ordinaria del asunto.
 
 **Comprobación de competencia:** fijar materia y función antes del territorio; verificar imperatividad y opciones; revisar validez de cláusulas; decidir declinatoria dentro de su intervalo propio; separar competencia, reparto y medidas urgentes; elegir recurso según el sentido y objeto del auto.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
 
 #### TÍTULO III — De la acumulación de acciones y de procesos
 

@@ -1,0 +1,6 @@
+{
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 476 jednotkám, např.: ['a412', 'a413', 'a414', 'a415', 'a416', 'a417', 'a418', 'a419', 'a420', 'a421']\n",
+  "scope_note": "Unassigned missing commentary is not filled by this checkpoint."
+}

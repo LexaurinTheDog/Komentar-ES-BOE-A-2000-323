@@ -32,8 +32,6 @@ El procedimiento separa dos momentos. El escrito inicial expresa sucintamente la
 
 El título conserva la denominación histórica del centro directivo, mientras el apartado 3 utiliza la denominación actual. Esa divergencia nominal no autoriza a prescindir del expediente ni a dirigir el litigio contra una entidad distinta por mera literalidad. Por ejemplo, quien impugna la denegación de una rectificación registral presenta a tiempo el escrito inicial y, una vez emplazado tras la recepción del expediente, concreta en la demanda qué asiento pretende y por qué los antecedentes justifican su modificación. No debe esperar a recibir privadamente el expediente para iniciar una oposición cuyo plazo ya está corriendo.
 
-#### LIBRO IV — De los procesos especiales
-
 #### TÍTULO II — De la división judicial de patrimonios
 
 #### CAPÍTULO I — De la división de la herencia
@@ -222,12 +220,6 @@ Por ejemplo, tres coherederos que inicialmente discreparon sobre una finca alcan
 
 **Comprobación práctica de la partición:** acreditar título sucesorio; verificar quién tiene el encargo de partir; citar a los interesados; documentar inventario, avalúo y liquidación; separar la oposición de diez días de las negociaciones informales; comprobar protocolización y protección de créditos antes de entregar adjudicaciones.
 
-#### LIBRO IV — De los procesos especiales
-
-#### TÍTULO II — De la división judicial de patrimonios
-
-#### CAPÍTULO I — De la división de la herencia
-
 #### Sección 2.ª De la intervención del caudal hereditario
 
 ### Artículo 790 — Aseguramiento de los bienes de la herencia y de los documentos del difunto.
@@ -413,12 +405,6 @@ Durante la división, los herederos pueden solicitar de común acuerdo el cese, 
 Por ejemplo, después de la declaración notarial, los herederos solicitan división y continuidad de la intervención porque sigue gestionándose un local arrendado. Más tarde alcanzan acuerdo para asumir la gestión directamente. Antes de decretar el cese debe comprobarse si hay una de las situaciones personales protegidas y si subsiste la oposición de un acreedor con título ejecutivo. La conformidad de los herederos no borra esta última protección, conectada con los artículos 782.4 y 788.3.
 
 **Comprobación práctica de la intervención:** identificar su presupuesto; asegurar solo lo necesario; verificar testamento y llamamientos; citar para inventario; tramitar las controversias de inclusión; motivar administrador y caución; revisar periódicamente la causa de continuidad y documentar el supuesto concreto de cese.
-
-#### LIBRO IV — De los procesos especiales
-
-#### TÍTULO II — De la división judicial de patrimonios
-
-#### CAPÍTULO I — De la división de la herencia
 
 #### Sección 3.ª De la administración del caudal hereditario
 

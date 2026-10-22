@@ -1,0 +1,6 @@
+{
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 516 jednotkám, např.: ['a372', 'a373', 'a374', 'a375', 'a376', 'a377', 'a378', 'a379', 'a380', 'a381']\n",
+  "scope_note": "Full build may remain blocked by unassigned unwritten units; no placeholders supplied."
+}

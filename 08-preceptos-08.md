@@ -28,12 +28,6 @@ La habilitación permite actuar en tiempo inhábil por causa urgente, de oficio 
 
 Agosto es hábil sin declaración expresa para esas actuaciones urgentes; tampoco hace falta habilitar la continuación indispensable en horas inhábiles de una actuación urgente iniciada en hora hábil. No cabe recurso contra la habilitación. Ejemplo: una diligencia urgente comienza por la tarde y debe concluir para evitar pérdida de su finalidad; puede prolongarse lo indispensable, sin convertir toda la semana o cualquier actuación posterior en hábil. La petición debe describir el riesgo y la actuación precisa, distinguiendo necesidad concreta y apertura general del calendario.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO V — De las actuaciones judiciales
-
-#### CAPÍTULO II — Del tiempo de las actuaciones judiciales
-
 #### Sección 2.ª De los plazos y los términos
 
 ### Artículo 132 — Plazos y términos.
@@ -155,10 +149,6 @@ La preclusión extingue la oportunidad de realizar un acto de parte cuando vence
 Antes de afirmar preclusión hay que verificar comunicación eficaz, cómputo, suspensión o interrupción y margen de presentación del artículo 135.5. La subsanación del artículo 231 no es una autorización general para reconstruir una actuación omitida fuera de plazo. Ejemplo: una parte presenta oposición después del vencimiento sin fuerza mayor ni incidencia justificable; no basta alegar que aún no se había dictado diligencia de preclusión. Por el contrario, un error en la fecha de inicio debe corregirse antes de atribuir pérdida de defensa. La severidad del efecto exige una base cronológica verificable.
 
 **Control del tiempo procesal:** identificar comunicación y eficacia; separar días, meses y años; comprobar calendario local y urgencia; registrar suspensiones y fuerza mayor; conservar recibos e incidencias; aplicar, cuando proceda, el margen de las quince horas; verificar el cómputo antes de declarar preclusión.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO V — De las actuaciones judiciales
 
 #### CAPÍTULO III — De la inmediación, la publicidad y la lengua oficial
 
@@ -343,10 +333,6 @@ El acta debe incluir textos originales y traducción y firma del intérprete. Pa
 El documento en idioma no oficial debe acompañarse de traducción, que puede ser privada. La traducción oficial no es requisito inicial universal. Si otra parte impugna dentro de cinco días desde el traslado, debe expresar por qué no es fiel y exacta; la discrepancia debe concretarse, no limitarse a una protesta por su origen privado.
 
 El letrado de la Administración de Justicia ordena traducción oficial de la parte discutida, inicialmente a costa del presentante. Si resulta sustancialmente idéntica a la privada, el coste corresponde a quien la pidió. Ejemplo: un contrato contiene una cláusula cuyo sentido cambia según traducir una palabra como obligación o facultad; la parte debe señalar ese pasaje y fundamento. La regla dirige el coste a una comprobación útil y evita exigir una traducción completa oficial de cientos de páginas cuando solo una sección es controvertida. No debe confundirse este régimen con los documentos en lengua cooficial válidos bajo el artículo 142.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO V — De las actuaciones judiciales
 
 #### CAPÍTULO IV — De la fe pública judicial y de la documentación de las actuaciones
 

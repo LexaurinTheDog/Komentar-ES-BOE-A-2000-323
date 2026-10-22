@@ -106,12 +106,6 @@ El ejecutado puede pedir reducción o modificación cuando no se comprometan los
 
 Resuelve el letrado de la Administración de Justicia mediante decreto, sujeto a revisión directa sin efecto suspensivo. Por ejemplo, si el pago parcial acreditado y una garantía suficiente permiten liberar un vehículo, el deudor puede pedir la reducción detallando lo ya satisfecho y la cobertura restante. Recurrir el decreto que rechaza la solicitud no paraliza por sí mismo la ejecución ni autoriza a disponer del vehículo mientras siga embargado.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO III — Del embargo de bienes
-
 #### Sección 4.ª De la prioridad del embargante y de la tercería de mejor derecho
 
 ### Artículo 613 — Efectos del embargo. Anotaciones preventivas y terceros poseedores.
@@ -243,12 +237,6 @@ La sentencia determina la existencia del privilegio y el orden de satisfacción 
 Las costas de la tercería siguen reglas expresas. Si se desestima, se imponen íntegramente al tercerista. Si se estima, corresponden al ejecutante que hubiera contestado; si también se opuso el ejecutado interviniente, se reparten por mitad entre ambos. Cuando el ejecutante se allanó y el litigio continuó sólo con el ejecutado, éste soporta todas las costas. La conducta procesal efectiva de cada parte es, por tanto, determinante.
 
 El apartado 2 separa de esas costas incidentales la contribución a las de la ejecución: antes de pagar al tercerista vencedor deben satisfacerse al ejecutante tres quintas partes de las costas ejecutivas causadas hasta la sentencia. No se trata de reducir el crédito preferente en un porcentaje fijo ni de aplicar sin más el corte temporal del artículo 619. Como lista práctica de cierre, deben comprobarse título y privilegio, partes que se opusieron, importe y fecha de las costas ejecutivas, y remanente distribuible. Por ejemplo, reconocer prioridad sobre 15.000 euros no autoriza a transferirlos íntegros omitiendo esa liquidación previa.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO III — Del embargo de bienes
 
 #### Sección 5.ª De la garantía de la traba de bienes muebles y derechos
 

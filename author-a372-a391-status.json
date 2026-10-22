@@ -1,0 +1,48 @@
+{
+  "scope": [
+    "a372",
+    "a373",
+    "a374",
+    "a375",
+    "a376",
+    "a377",
+    "a378",
+    "a379",
+    "a380",
+    "a381",
+    "a382",
+    "a383",
+    "a384",
+    "a385",
+    "a386",
+    "a387",
+    "a388",
+    "a389",
+    "a390",
+    "a391"
+  ],
+  "completed_units": 20,
+  "total_title_units": 916,
+  "stage": "bounded_batch_drafted_technical_validation",
+  "whole_book_complete": false,
+  "batch_validation": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 33452,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "whole_validation": "author-a372-a391-full-validation.json",
+  "source_check": "author-a372-a391-source-check.json",
+  "completeness": "author-a372-a391-audit.json",
+  "case_law_sources": [
+    "ECLI:ES:TC:1984:114"
+  ],
+  "link_errors": [],
+  "limitations": [
+    "Independent second pass pending",
+    "Whole-title completion outside assigned scope; missing unassigned commentaries prevent full build."
+  ]
+}

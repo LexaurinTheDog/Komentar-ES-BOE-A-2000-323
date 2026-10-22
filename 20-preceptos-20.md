@@ -20,12 +20,6 @@ La necesidad o conveniencia debe conectarse con una dificultad concreta. Puede t
 
 Ejemplo ficticio: una grabación admitida recoge una conversación parcialmente inaudible. Un especialista explica los límites de la mejora acústica y qué fragmentos siguen siendo inciertos. El informe ayuda a escuchar la prueba, pero no permite atribuir una frase que el procedimiento técnico no consigue recuperar con fiabilidad. La parte contraria puede cuestionar tanto el archivo de partida como el tratamiento utilizado.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO VI — De los medios de prueba y las presunciones
-
 #### Sección 6.ª Del reconocimiento judicial
 
 ### Artículo 353 — Objeto y finalidad del reconocimiento judicial e iniciativa para acordarlo.
@@ -157,12 +151,6 @@ Cuando sea posible deben emplearse firma electrónica u otros sistemas de seguri
 Ejemplo ficticio: una cámara registra el interior de una vivienda, pero falla el sistema de firma. Debe documentarse por escrito la actuación e identificarse el archivo conservado, evitando que una copia sin procedencia reconocible sustituya al original. Si una parte pide copia, habrá que asegurar su autenticidad y no entregar como equivalente una versión recortada que omita las observaciones del contrario.
 
 **Control práctico del reconocimiento:** concretar objeto y extremos; anunciar acompañantes; respetar antelación, acceso e intimidad; separar percepción directa y explicación especializada; identificar las pruebas acumuladas y comprobar integridad, conservación y acceso al registro.
-
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO VI — De los medios de prueba y las presunciones
 
 #### Sección 7.ª Del interrogatorio de testigos
 

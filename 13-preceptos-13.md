@@ -132,10 +132,6 @@ Debe distinguirse voluntad procesal exteriorizada defectuosamente y omisión tot
 
 **Control de invalidez:** identificar causa legal y acto; concretar indefensión cuando sea presupuesto; utilizar recurso o incidente adecuado; revisar subsidiariedad y plazo; examinar subsanación; delimitar dependencia de actos y extensión de retroacción; pedir suspensión expresa si se necesita conservar la finalidad.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO V — De las actuaciones judiciales
-
 #### CAPÍTULO X — De la reconstrucción de los autos
 
 ### Artículo 232 — Competencia e intervención del Ministerio Fiscal.
@@ -210,8 +206,6 @@ La comparecencia contrasta exactitud de escritos y documentos aportados por todo
 
 Con desacuerdo total o parcial, convoca a las partes y al Ministerio Fiscal a vista judicial en los diez días siguientes, donde se propone la prueba precisa, que se practica en el acto o, si no cabe, en quince. El tribunal decide por auto cómo queda reconstruido o su imposibilidad, con apelación. Ejemplo: ambas partes coinciden en que hubo audiencia, pero discrepan sobre una resolución oral que condicionó prueba. No debe completarse esa parte por simple mayoría de versiones ni ignorar el desacuerdo por haberse recuperado otros escritos. La decisión separa extremos suficientemente reconstituidos y los que necesitan prueba, evitando que la reconstrucción cambie lo realmente actuado por lo que una parte considera jurídicamente más correcto.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
 #### TÍTULO VI — De la cesación de las actuaciones judiciales y de la caducidad de la instancia
 
 ### Artículo 236 — Impulso del procedimiento por las partes y caducidad.
@@ -285,8 +279,6 @@ La caducidad tiene efectos diferentes según fase. En segunda instancia o casaci
 La declaración no impone costas: cada parte paga las propias y las comunes por mitad. Ejemplo: un apelante deja caducar la segunda instancia y pretende reiniciar el litigio como si solo se hubiera archivado una demanda inicial. Debe atender a la firmeza de la resolución que recurrió, que diferencia radicalmente ambos escenarios. Si caducó la primera, la nueva demanda necesita examinar el estado temporal de la acción; el artículo no garantiza que siga disponible. La resolución debe identificar la fase y las consecuencias concretas, evitando confundir caducidad procesal y extinción material.
 
 **Control de paralización:** identificar actuación pendiente y responsable; fijar última notificación; comprobar fase y periodo legal; acreditar causas no imputables; separar declarativo y ejecución; revisar efecto sobre resolución recurrida y posibilidad temporal de nueva demanda.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
 
 #### TÍTULO VII — De la tasación de costas
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:13:36.628049+00:00",
+  "generated_at": "2026-10-22T04:16:03.290171+00:00",
   "sources": [
     {
       "path": "sources/ATC-20-2024-a608-a627.html",
@@ -13,136 +13,63 @@
     },
     {
       "path": "sources/BOE-A-2014-3240.txt",
-      "bytes": 35439,
-      "sha256": "bfb9bc7fb2902499aa6a58796ffefe917e70a888c38a0967aa058781c3cf4709"
+      "sha256": "bfb9bc7fb2902499aa6a58796ffefe917e70a888c38a0967aa058781c3cf4709",
+      "bytes": 35439
     },
     {
       "path": "sources/BOE-A-2014-3240.xml",
-      "bytes": 39232,
       "sha256": "812c0fd768842c2dc3ba375ec0ae6c3e499471323b7418262398e9cc08b2bde0",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2014-3240",
-        "http_status": 200,
-        "accessed_at": "2026-10-19T21:13:35.516308+00:00",
-        "content_type": "application/xml; charset=utf-8",
-        "sha256": "812c0fd768842c2dc3ba375ec0ae6c3e499471323b7418262398e9cc08b2bde0",
-        "xml_root": "documento",
-        "path": "sources/BOE-A-2014-3240.xml"
-      }
+      "bytes": 39232
     },
     {
       "path": "sources/BOE-A-2019-5667.txt",
-      "bytes": 789,
-      "sha256": "16a2c0da216eb57b6d9404d1240365b806dfd08e8e3d4eecffa07b64eb4751a5"
+      "sha256": "16a2c0da216eb57b6d9404d1240365b806dfd08e8e3d4eecffa07b64eb4751a5",
+      "bytes": 789
     },
     {
       "path": "sources/BOE-A-2019-5667.xml",
-      "bytes": 2625,
       "sha256": "dd49d0fb2b77abe5ae6c0c772fe7d4373f13284e70c2bdbb41435d6c2b4c543e",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-5667",
-        "http_status": 200,
-        "accessed_at": "2026-10-19T20:55:35.365389+00:00",
-        "sha256": "dd49d0fb2b77abe5ae6c0c772fe7d4373f13284e70c2bdbb41435d6c2b4c543e",
-        "content_type": "application/xml; charset=utf-8",
-        "xml_root": "documento",
-        "path": "sources/BOE-A-2019-5667.xml",
-        "disposition": "Rejected search candidate: unrelated municipal employment notice; not cited."
-      }
+      "bytes": 2625
     },
     {
       "path": "sources/BOE-A-2019-5727.txt",
-      "bytes": 69374,
-      "sha256": "948c4c6db129527f16242b1cb85ab399dd784a8c6640589ba3e0a2e677dca21c"
+      "sha256": "948c4c6db129527f16242b1cb85ab399dd784a8c6640589ba3e0a2e677dca21c",
+      "bytes": 69374
     },
     {
       "path": "sources/BOE-A-2019-5727.xml",
-      "bytes": 75958,
       "sha256": "50cefab9ed03bb0c59a2589129e5447afbe31f5208060d404550d19aafb2d693",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-5727",
-        "http_status": 200,
-        "accessed_at": "2026-10-19T20:57:53.573460+00:00",
-        "sha256": "50cefab9ed03bb0c59a2589129e5447afbe31f5208060d404550d19aafb2d693",
-        "content_type": "application/xml; charset=utf-8",
-        "path": "sources/BOE-A-2019-5727.xml",
-        "xml_root": "documento"
-      }
+      "bytes": 75958
     },
     {
       "path": "sources/BOE-A-2020-2942.txt",
-      "bytes": 34378,
-      "sha256": "60156be0312a3e3f120eb8e6b15bfe46dd60a0f1db8e65ab56394b02d939bcce"
+      "sha256": "60156be0312a3e3f120eb8e6b15bfe46dd60a0f1db8e65ab56394b02d939bcce",
+      "bytes": 34378
     },
     {
       "path": "sources/BOE-A-2020-2942.xml",
-      "bytes": 39140,
       "sha256": "fd12b36cfa0923dfd015f7f117bc9925bd2124005da9fb8cd6ec03e94e49d464",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2020-2942",
-        "http_status": 200,
-        "accessed_at": "2026-10-19T20:55:34.521467+00:00",
-        "sha256": "fd12b36cfa0923dfd015f7f117bc9925bd2124005da9fb8cd6ec03e94e49d464",
-        "content_type": "application/xml; charset=utf-8",
-        "xml_root": "documento",
-        "path": "sources/BOE-A-2020-2942.xml"
-      }
+      "bytes": 39140
     },
     {
       "path": "sources/BOE-A-2025-76.xml",
-      "bytes": 1753606,
       "sha256": "e2df2f9614b5d8a632f7de751bac68aebb80dc284ddfe832860a25b1803278e8",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-76",
-        "http_status": 200,
-        "accessed_at": "2026-10-19T20:54:24.137817+00:00",
-        "sha256": "e2df2f9614b5d8a632f7de751bac68aebb80dc284ddfe832860a25b1803278e8",
-        "content_type": "application/xml; charset=utf-8",
-        "xml_root": "documento",
-        "path": "sources/BOE-A-2025-76.xml"
-      }
+      "bytes": 1753606
     },
     {
       "path": "sources/BOE-A-2026-20266.xml",
-      "bytes": 427219,
       "sha256": "26eec5e2347e9984583730215165e21c5b642bb8c0ca6503c817c44437ea20c6",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20266",
-        "http_status": 200,
-        "accessed_at": "2026-10-19T20:54:23.115893+00:00",
-        "sha256": "26eec5e2347e9984583730215165e21c5b642bb8c0ca6503c817c44437ea20c6",
-        "content_type": "application/xml; charset=utf-8",
-        "xml_root": "documento",
-        "path": "sources/BOE-A-2026-20266.xml"
-      }
+      "bytes": 427219
     },
     {
       "path": "sources/BOE-A-2026-20526.xml",
-      "bytes": 19637,
       "sha256": "c93804d6e0cb6340528344e7b3e9f5237fc403d286cea91671cea95795bdaa7c",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20526",
-        "http_status": 200,
-        "accessed_at": "2026-10-19T20:54:22.672146+00:00",
-        "sha256": "c93804d6e0cb6340528344e7b3e9f5237fc403d286cea91671cea95795bdaa7c",
-        "content_type": "application/xml; charset=utf-8",
-        "xml_root": "documento",
-        "path": "sources/BOE-A-2026-20526.xml"
-      }
+      "bytes": 19637
     },
     {
       "path": "sources/BOE-A-2026-20823.xml",
-      "bytes": 430620,
       "sha256": "85fd8f495be14e00b85595152ec21ebd70059917afae9a12f28105468c835786",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20823",
-        "http_status": 200,
-        "accessed_at": "2026-10-19T20:54:22.384969+00:00",
-        "sha256": "85fd8f495be14e00b85595152ec21ebd70059917afae9a12f28105468c835786",
-        "content_type": "application/xml; charset=utf-8",
-        "xml_root": "documento",
-        "path": "sources/BOE-A-2026-20823.xml"
-      }
+      "bytes": 430620
     },
     {
       "path": "sources/C-618-10-a801-a820.html",
@@ -161,27 +88,18 @@
     },
     {
       "path": "sources/LOPJ-text.xml",
-      "bytes": 3535113,
       "sha256": "1a30e16c1dadd8604607b056e720f991c4aa3a2a62ab7c8b5f5c24c4094e0aa5",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-12666/texto",
-        "path": "sources/LOPJ-text.xml",
-        "http_status": 200,
-        "accessed_at": "2026-10-19T21:02:12+00:00",
-        "sha256": "1a30e16c1dadd8604607b056e720f991c4aa3a2a62ab7c8b5f5c24c4094e0aa5",
-        "xml_root": "response",
-        "format_validation": "Parsed XML, BOE status 200; request with Accept application/xml."
-      }
+      "bytes": 3535113
     },
     {
       "path": "sources/PACCAR-curia.html",
-      "bytes": 130226,
-      "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6"
+      "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6",
+      "bytes": 130226
     },
     {
       "path": "sources/PACCAR-http.txt",
-      "bytes": 590,
-      "sha256": "993aae542cfbd86932803947d273d40606c589a23425cffc6cd98d241dfe8fef"
+      "sha256": "993aae542cfbd86932803947d273d40606c589a23425cffc6cd98d241dfe8fef",
+      "bytes": 590
     },
     {
       "path": "sources/STC-1-2018-dtsegunda-dfdecimotercera.html",
@@ -195,18 +113,18 @@
     },
     {
       "path": "sources/STC-107-2005-http.txt",
-      "bytes": 916,
-      "sha256": "e67c65eda1ac53e08c9f6d5ea0a527a31b80fd5ee89ca64110c3ddb148fd08d9"
+      "sha256": "e67c65eda1ac53e08c9f6d5ea0a527a31b80fd5ee89ca64110c3ddb148fd08d9",
+      "bytes": 916
     },
     {
       "path": "sources/STC-107-2005.txt",
-      "bytes": 50087,
-      "sha256": "9672d3cf0e795e9de92457a661b79b394c56d0a26e38e3a9d813a540b93cf83d"
+      "sha256": "9672d3cf0e795e9de92457a661b79b394c56d0a26e38e3a9d813a540b93cf83d",
+      "bytes": 50087
     },
     {
       "path": "sources/STC-107-2005.xml",
-      "bytes": 53343,
-      "sha256": "c5f538b8b6d72ba692ece38409ecbca162c7bd6fd52e1d6ab4b8fe9c9c81475e"
+      "sha256": "c5f538b8b6d72ba692ece38409ecbca162c7bd6fd52e1d6ab4b8fe9c9c81475e",
+      "bytes": 53343
     },
     {
       "path": "sources/STC-112-2022-a628-a647.html",
@@ -227,6 +145,11 @@
       "path": "sources/STC-113-1989-a588-a607.xml",
       "sha256": "3a7efe1d1ad3b0c67beb4cfdfc861e09a6421edbc6c90721f2e590270ea58aab",
       "bytes": 50359
+    },
+    {
+      "path": "sources/STC-114-1984.html",
+      "sha256": "0067003e6fcd7cf998544945e07e5a92e3003febc201dd39b5fc0c9ea630adcf",
+      "bytes": 84005
     },
     {
       "path": "sources/STC-132-2010-a821-dtprimera.html",
@@ -290,18 +213,18 @@
     },
     {
       "path": "sources/STC-165-2004-http.txt",
-      "bytes": 910,
-      "sha256": "88ca4f485d3ddcc967cbfebe9108581feafd4154837fcbe5e8e40269ac46a985"
+      "sha256": "88ca4f485d3ddcc967cbfebe9108581feafd4154837fcbe5e8e40269ac46a985",
+      "bytes": 910
     },
     {
       "path": "sources/STC-165-2004.txt",
-      "bytes": 59830,
-      "sha256": "ed1b171e9c0a346954edcc3c9bbaab5f34a0abcfacaf4c6b51f8644cac12e34e"
+      "sha256": "ed1b171e9c0a346954edcc3c9bbaab5f34a0abcfacaf4c6b51f8644cac12e34e",
+      "bytes": 59830
     },
     {
       "path": "sources/STC-165-2004.xml",
-      "bytes": 64710,
-      "sha256": "ba4be19e9b3b8a923879cbbb3b4f51398cf77a7ff80a19409959cc6ead64ed74"
+      "sha256": "ba4be19e9b3b8a923879cbbb3b4f51398cf77a7ff80a19409959cc6ead64ed74",
+      "bytes": 64710
     },
     {
       "path": "sources/STC-177-2007-a767-a781.txt",
@@ -315,33 +238,43 @@
     },
     {
       "path": "sources/STC-18-2009-a508-a527.txt",
-      "bytes": 31489,
-      "sha256": "de7836843f66c65fb91098d04f39d96a22c567a31e8562e2c85ffc10c3dfa977"
+      "sha256": "de7836843f66c65fb91098d04f39d96a22c567a31e8562e2c85ffc10c3dfa977",
+      "bytes": 31489
     },
     {
       "path": "sources/STC-18-2009-a508-a527.xml",
-      "bytes": 34953,
-      "sha256": "8c3429458da9b9d2cb821e919722637e6c1dcd34aabab1608786bc62358285b8"
+      "sha256": "8c3429458da9b9d2cb821e919722637e6c1dcd34aabab1608786bc62358285b8",
+      "bytes": 34953
+    },
+    {
+      "path": "sources/STC-190-2025.txt",
+      "sha256": "348546fb4b078c651f19c632fa5aa3827d838b602e3bcd78518266debd434570",
+      "bytes": 126824
+    },
+    {
+      "path": "sources/STC-190-2025.xml",
+      "sha256": "d649d8fdfcfe7b63465b678c74f5ce0117153a023b41d090d3a33bbf80d6676f",
+      "bytes": 137832
     },
     {
       "path": "sources/STC-209-2009-a568-a587.html",
-      "bytes": 71420,
-      "sha256": "14f07f0addb7e9d226db483c63ff137a87ed02ee5dc7fea23aa0a61f14fdfcac"
+      "sha256": "14f07f0addb7e9d226db483c63ff137a87ed02ee5dc7fea23aa0a61f14fdfcac",
+      "bytes": 71420
     },
     {
       "path": "sources/STC-209-2009-a568-a587.txt",
-      "bytes": 43570,
-      "sha256": "7028accb2e63c0001d2e127f9ecdfa52f7b0f02051e4dc017844283c8afbad4d"
+      "sha256": "7028accb2e63c0001d2e127f9ecdfa52f7b0f02051e4dc017844283c8afbad4d",
+      "bytes": 43570
     },
     {
       "path": "sources/STC-22-2008-a528-a547.txt",
-      "bytes": 66171,
-      "sha256": "199546d2b3d07d2f8a872af6ace21be15de4fef308e00f30ebff85cb5e421d1e"
+      "sha256": "199546d2b3d07d2f8a872af6ace21be15de4fef308e00f30ebff85cb5e421d1e",
+      "bytes": 66171
     },
     {
       "path": "sources/STC-22-2008-a528-a547.xml",
-      "bytes": 69911,
-      "sha256": "b9dc935bb1b1d6d1a0b86f370f152fe4efa0393d69e1f84a24b38768d97f6410"
+      "sha256": "b9dc935bb1b1d6d1a0b86f370f152fe4efa0393d69e1f84a24b38768d97f6410",
+      "bytes": 69911
     },
     {
       "path": "sources/STC-26-2025-a648-a666.txt",
@@ -364,14 +297,24 @@
       "bytes": 282365
     },
     {
+      "path": "sources/STC-26-2025.txt",
+      "sha256": "8f4be6563a9a7598319833a420bab08acbb82364b8dc749ed9e30da68389ffc1",
+      "bytes": 264743
+    },
+    {
+      "path": "sources/STC-26-2025.xml",
+      "sha256": "39106f9277428d79687cca60b3bd1e94ff26a6177da227bc3e3486e15c8132d4",
+      "bytes": 282365
+    },
+    {
       "path": "sources/STC-31-2019-a548-a567.txt",
-      "bytes": 91601,
-      "sha256": "b95756759a5a062485eb771ab97dbc431ba8bb89c36ddaf19878da3b110315c0"
+      "sha256": "b95756759a5a062485eb771ab97dbc431ba8bb89c36ddaf19878da3b110315c0",
+      "bytes": 91601
     },
     {
       "path": "sources/STC-31-2019-a548-a567.xml",
-      "bytes": 97170,
-      "sha256": "7903c74c90042bc05605d0d22becab8ca976d0418e878d0c946747c3f3f2155d"
+      "sha256": "7903c74c90042bc05605d0d22becab8ca976d0418e878d0c946747c3f3f2155d",
+      "bytes": 97170
     },
     {
       "path": "sources/STC-31-2019-a687-a706.txt",
@@ -384,14 +327,24 @@
       "bytes": 97170
     },
     {
+      "path": "sources/STC-5-2009.txt",
+      "sha256": "88653d782abf46fdc72910c369719ba4c26e99d020ee8d1a0159b4ed7fd1751a",
+      "bytes": 46909
+    },
+    {
+      "path": "sources/STC-5-2009.xml",
+      "sha256": "c5beddcb5b16cf1c6718e530f30dc70dcbba63f083a32c2100bc68e5dfbaa862",
+      "bytes": 49638
+    },
+    {
       "path": "sources/STC-50-2017-a488-a507.txt",
-      "bytes": 41257,
-      "sha256": "e8b5f7b3b6ced2d6fa804d3d92c82965cdd2aab0e4ff9735c90f975d4f81c19c"
+      "sha256": "e8b5f7b3b6ced2d6fa804d3d92c82965cdd2aab0e4ff9735c90f975d4f81c19c",
+      "bytes": 41257
     },
     {
       "path": "sources/STC-50-2017-a488-a507.xml",
-      "bytes": 49474,
-      "sha256": "9933052ca8e38be41e7b61cf18880c1ae4b29d85e8b28eb22212b950fd5c644c"
+      "sha256": "9933052ca8e38be41e7b61cf18880c1ae4b29d85e8b28eb22212b950fd5c644c",
+      "bytes": 49474
     },
     {
       "path": "sources/STC-56-2026-a747-a766.txt",
@@ -402,6 +355,11 @@
       "path": "sources/STC-56-2026-a747-a766.xml",
       "sha256": "f5b499b52d0d88842975e0f084e14d9870f31b6cf490efb0d6f7bf89a7064f6f",
       "bytes": 95615
+    },
+    {
+      "path": "sources/STC-82-2022.html",
+      "sha256": "5f5e614f2ee8dd5ff88630b4aab2ac10f0a9ba03cae1ac3f74c59968c57d08e0",
+      "bytes": 93122
     },
     {
       "path": "sources/TC-1319-a588-a607-local.md",
@@ -420,18 +378,18 @@
     },
     {
       "path": "sources/TC-222-2012-http.txt",
-      "bytes": 917,
-      "sha256": "fd62d203276402871a4a4b755d76e2caff4536677df10d82c852ac559bd2d6f9"
+      "sha256": "fd62d203276402871a4a4b755d76e2caff4536677df10d82c852ac559bd2d6f9",
+      "bytes": 917
     },
     {
       "path": "sources/TC-222-2012.txt",
-      "bytes": 55138,
-      "sha256": "4bc73232e162b1200656f535d51134ec8d8297bb31142d118034b3375a6b6978"
+      "sha256": "4bc73232e162b1200656f535d51134ec8d8297bb31142d118034b3375a6b6978",
+      "bytes": 55138
     },
     {
       "path": "sources/TC-222-2012.xml",
-      "bytes": 60310,
-      "sha256": "a6ce6fab889e215480728ac2b6469cf767662809fc3a2bba4728a040e0031c5f"
+      "sha256": "a6ce6fab889e215480728ac2b6469cf767662809fc3a2bba4728a040e0031c5f",
+      "bytes": 60310
     },
     {
       "path": "sources/TC-22988-a747-a766-local.md",
@@ -440,23 +398,23 @@
     },
     {
       "path": "sources/TC-23180-local.md",
-      "bytes": 57073,
-      "sha256": "0f68fc8e1dc4c93e7ef89f8e5a05f99611996663f3f725775e2571081b91928e"
+      "sha256": "0f68fc8e1dc4c93e7ef89f8e5a05f99611996663f3f725775e2571081b91928e",
+      "bytes": 57073
     },
     {
       "path": "sources/TC-23818-local.md",
-      "bytes": 36904,
-      "sha256": "52465e0c36b54f7a49375a4638157486dc2cc29a8cd2b68dcef1b8fe68b1de6b"
+      "sha256": "52465e0c36b54f7a49375a4638157486dc2cc29a8cd2b68dcef1b8fe68b1de6b",
+      "bytes": 36904
     },
     {
       "path": "sources/TC-25340-local-a488-a507.md",
-      "bytes": 43261,
-      "sha256": "16f1eef1595d6c679d145115a1ef3e4a14057402cf27984f55de2c5d0ad10dca"
+      "sha256": "16f1eef1595d6c679d145115a1ef3e4a14057402cf27984f55de2c5d0ad10dca",
+      "bytes": 43261
     },
     {
       "path": "sources/TC-25877-a548-a567-local.md",
-      "bytes": 94658,
-      "sha256": "ba8436ddb8449791a0ef7f7dbea2a7842c281c1213a79d80da3954e0c4db18af"
+      "sha256": "ba8436ddb8449791a0ef7f7dbea2a7842c281c1213a79d80da3954e0c4db18af",
+      "bytes": 94658
     },
     {
       "path": "sources/TC-25877-a687-a706-local.md",
@@ -465,18 +423,23 @@
     },
     {
       "path": "sources/TC-25878-local.md",
-      "bytes": 71427,
-      "sha256": "7c52c5eaf17d0508ae6e150b5e29fba012f5f467324ef645eba106f9bb4d5c48"
+      "sha256": "7c52c5eaf17d0508ae6e150b5e29fba012f5f467324ef645eba106f9bb4d5c48",
+      "bytes": 71427
     },
     {
       "path": "sources/TC-26201-local.md",
-      "bytes": 36648,
-      "sha256": "45b6f09f559cf9a9d18bf3d37fa6ef326701a5a71f8378b063eb270efce24a9f"
+      "sha256": "45b6f09f559cf9a9d18bf3d37fa6ef326701a5a71f8378b063eb270efce24a9f",
+      "bytes": 36648
     },
     {
       "path": "sources/TC-26450-a781bis-a800-local.md",
       "sha256": "729418ebdda2f177a0c5204c81f4d870c941ab720eb47fe8916641979930139e",
       "bytes": 22130
+    },
+    {
+      "path": "sources/TC-29033-local.md",
+      "sha256": "1f0cedde51665ad5f5588022ff7d6fb3167d4417594b275fb33d76b9aab770df",
+      "bytes": 55285
     },
     {
       "path": "sources/TC-29078-a628-a647-local.md",
@@ -494,19 +457,34 @@
       "bytes": 267106
     },
     {
+      "path": "sources/TC-31404-local.md",
+      "sha256": "8dd71152226f5961af384ca63f051968db3617258749c1b8c2471314f3ef0057",
+      "bytes": 267106
+    },
+    {
+      "path": "sources/TC-32019-local.md",
+      "sha256": "9dd6dd34192ab1ae8cd141aea30c461e721f841fe84c15980b4a3642638c53cc",
+      "bytes": 129035
+    },
+    {
       "path": "sources/TC-32129-a747-a766-local.md",
       "sha256": "f339d75bab45a99961a67df96ad7dbc287e3a21cd341b79db7f7be9327015804",
       "bytes": 92065
     },
     {
+      "path": "sources/TC-367-local.md",
+      "sha256": "1dba6579247876e33ed48fccb59b9e5cbb9c1a078c43a3f53824783baebe5470",
+      "bytes": 54530
+    },
+    {
       "path": "sources/TC-5170-local.md",
-      "bytes": 60774,
-      "sha256": "ec920eea159df8355261213cbb3bc593202d0f07a8360bebdf4ed7965aabbe36"
+      "sha256": "ec920eea159df8355261213cbb3bc593202d0f07a8360bebdf4ed7965aabbe36",
+      "bytes": 60774
     },
     {
       "path": "sources/TC-5367-local.md",
-      "bytes": 51080,
-      "sha256": "99e57752f01d1544633564b2141f4511277dd5127dc28e3bd2360d8064e64600"
+      "sha256": "99e57752f01d1544633564b2141f4511277dd5127dc28e3bd2360d8064e64600",
+      "bytes": 51080
     },
     {
       "path": "sources/TC-6144-a767-a781-local.md",
@@ -515,18 +493,33 @@
     },
     {
       "path": "sources/TC-6254-a528-a547-local.md",
-      "bytes": 69821,
-      "sha256": "eb5dee4a902cb6e9079be32b7a67496e42d7e7a2df3c5a3465b5a18ef9977d1d"
+      "sha256": "eb5dee4a902cb6e9079be32b7a67496e42d7e7a2df3c5a3465b5a18ef9977d1d",
+      "bytes": 69821
+    },
+    {
+      "path": "sources/TC-6424-local.md",
+      "sha256": "3bd78274963a6eb53485f6db147f58d131ff73be020fd6ca6e0fb8337c4e1a57",
+      "bytes": 48715
     },
     {
       "path": "sources/TC-6628-a568-a587-local.md",
-      "bytes": 39008,
-      "sha256": "eb7b1d004ef521cf6e0bea1304f65677f76de31e18cf0127f085dde3a8cf2f04"
+      "sha256": "eb7b1d004ef521cf6e0bea1304f65677f76de31e18cf0127f085dde3a8cf2f04",
+      "bytes": 39008
     },
     {
       "path": "sources/TC-6771-a821-dtprimera-local.md",
       "sha256": "f9b59bf779711d76b00d52326beba7049b4a33ebf77c80a75dac0dc2209e3365",
       "bytes": 30470
+    },
+    {
+      "path": "sources/TJUE-C224-19.html",
+      "sha256": "a1d395e11bad0855c07a9a364d381ba239c2ec47a29dc8baf852388162ba6881",
+      "bytes": 105013
+    },
+    {
+      "path": "sources/TJUE-C224-19.txt",
+      "sha256": "19e20c8d8b1bd8933efccc0fedff2708f12bb3b83013004b8fab2221bcd44613",
+      "bytes": 84597
     },
     {
       "path": "sources/arbitraje-dtsegunda-dfdecimotercera.xml",
@@ -535,263 +528,343 @@
     },
     {
       "path": "sources/author-a248-a263-http.txt",
-      "bytes": 461,
-      "sha256": "2be37c0f49538aea3277a82686024477b29893141af20f7e73f29db92fd65017"
+      "sha256": "2be37c0f49538aea3277a82686024477b29893141af20f7e73f29db92fd65017",
+      "bytes": 461
     },
     {
       "path": "sources/author-a248-a263-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a264-a282-http.txt",
-      "bytes": 461,
-      "sha256": "0d33bc4c2c9e3e5d053a618efbfc73fc66b2cc528d172fd49c93914aeb38b277"
+      "sha256": "0d33bc4c2c9e3e5d053a618efbfc73fc66b2cc528d172fd49c93914aeb38b277",
+      "bytes": 461
     },
     {
       "path": "sources/author-a264-a282-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a283-a291-http.txt",
-      "bytes": 461,
-      "sha256": "22ab520b7173c8f6e78c9c53daf5fea904f3de40958c2121f29ef56d1eca12d3"
+      "sha256": "22ab520b7173c8f6e78c9c53daf5fea904f3de40958c2121f29ef56d1eca12d3",
+      "bytes": 461
     },
     {
       "path": "sources/author-a283-a291-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a292-a311-http.txt",
-      "bytes": 461,
-      "sha256": "7a5a360e6b2df215c7c0fbb9fff7178b37396e048741646039453ce4d7ed1ba2"
+      "sha256": "7a5a360e6b2df215c7c0fbb9fff7178b37396e048741646039453ce4d7ed1ba2",
+      "bytes": 461
     },
     {
       "path": "sources/author-a292-a311-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a312-a331-http.txt",
-      "bytes": 461,
-      "sha256": "9ea4853d4bbcdb22765970ecce52b94fb342073d61bb5b92c0c3edcb0fd0d113"
+      "sha256": "9ea4853d4bbcdb22765970ecce52b94fb342073d61bb5b92c0c3edcb0fd0d113",
+      "bytes": 461
     },
     {
       "path": "sources/author-a312-a331-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a332-a351-http.txt",
-      "bytes": 459,
-      "sha256": "727f4ab4d7ca0d506e6f268e4da474d6258c37292c30a9ffb4bfd6944db49d97"
+      "sha256": "727f4ab4d7ca0d506e6f268e4da474d6258c37292c30a9ffb4bfd6944db49d97",
+      "bytes": 459
     },
     {
       "path": "sources/author-a332-a351-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
+      "path": "sources/author-a352-a371-http.txt",
+      "sha256": "197679d52c26f3a71d33c1c584a60fbf79b0b3027777edcb3453602b90070c61",
+      "bytes": 461
+    },
+    {
+      "path": "sources/author-a352-a371-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
+      "path": "sources/author-a372-a391-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
+      "path": "sources/author-a392-a411-case-fetch.json",
+      "sha256": "ec87df86136876fca2b246e5bb278c87a24cb366a0bc7182dcfcc04549dc9156",
+      "bytes": 1058
+    },
+    {
+      "path": "sources/author-a392-a411-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
+      "path": "sources/author-a412-a431-case-search.json",
+      "sha256": "f02b36450a65d57df2b7ce7326ffd850b5b8dc3559340b29672c2759296075e1",
+      "bytes": 964
+    },
+    {
+      "path": "sources/author-a412-a431-fetch.json",
+      "sha256": "1855b8d721c9134c20b545ed9242dcd6c80f3d6c41c20cfc717af75830b1f472",
+      "bytes": 752
+    },
+    {
+      "path": "sources/author-a412-a431-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
+      "path": "sources/author-a432-a448-case-fetch.json",
+      "sha256": "61917688b1bd33be9f3d44dc1f229ba4cf3560a9e435741c206f4bbd0d2d7fc2",
+      "bytes": 669
+    },
+    {
+      "path": "sources/author-a432-a448-case-search.json",
+      "sha256": "676eed8ce8c17cb63268efac31bc12a1fd4feddc264baeabe12c859c508cad53",
+      "bytes": 1782
+    },
+    {
+      "path": "sources/author-a432-a448-fetch.json",
+      "sha256": "b368912f3f7608466005d9644b2486acc8c0aaa5e44d256de64e77c0f1e7589b",
+      "bytes": 1118
+    },
+    {
+      "path": "sources/author-a432-a448-http.txt",
+      "sha256": "bc31bc5aad7e9a576b6b451240910044ed6541eccc4611fd3c74dffadffbd83f",
+      "bytes": 461
+    },
+    {
+      "path": "sources/author-a432-a448-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
+      "path": "sources/author-a449-a467-analysis.xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
+    },
+    {
+      "path": "sources/author-a449-a467-metadata.xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
+    },
+    {
+      "path": "sources/author-a449-a467-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a468-a487-STC-144-2025.txt",
-      "bytes": 93274,
-      "sha256": "1f8846fe7d67e35b463309b8725ca8259d78fc351427881d4d7e12ea87f41bd7"
+      "sha256": "1f8846fe7d67e35b463309b8725ca8259d78fc351427881d4d7e12ea87f41bd7",
+      "bytes": 93274
     },
     {
       "path": "sources/author-a468-a487-STC-144-2025.xml",
-      "bytes": 99651,
-      "sha256": "fcc8d0366d179c0e54d0e3cc764dcf9e088444ccd84b5671a01de9bfec519dce"
+      "sha256": "fcc8d0366d179c0e54d0e3cc764dcf9e088444ccd84b5671a01de9bfec519dce",
+      "bytes": 99651
     },
     {
       "path": "sources/author-a468-a487-TC-31805-local.md",
-      "bytes": 96002,
-      "sha256": "bea25a550e34f472aad3f77ccfa0c8fc97bee8e6be242a0d1ee084c3bd3ee0c5"
+      "sha256": "bea25a550e34f472aad3f77ccfa0c8fc97bee8e6be242a0d1ee084c3bd3ee0c5",
+      "bytes": 96002
     },
     {
       "path": "sources/author-a468-a487-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-a468-a487-casacion-format.txt",
-      "bytes": 9165,
-      "sha256": "1ae747ade815c304dfab8b82dab5e712223fbef1945e3d19862ed7093fecb510"
+      "sha256": "1ae747ade815c304dfab8b82dab5e712223fbef1945e3d19862ed7093fecb510",
+      "bytes": 9165
     },
     {
       "path": "sources/author-a468-a487-casacion-format.xml",
-      "bytes": 18684,
-      "sha256": "32b291513ea9d4d1bddfc06afb5b8a34ece5e747900249932b9c2450fcb6940c"
+      "sha256": "32b291513ea9d4d1bddfc06afb5b8a34ece5e747900249932b9c2450fcb6940c",
+      "bytes": 18684
     },
     {
       "path": "sources/author-a468-a487-fetch.json",
-      "bytes": 2113,
-      "sha256": "a40147596bec49fecdeb3692d44545f55b6436e0b5a10ae96d4a81c576a486d9"
+      "sha256": "a40147596bec49fecdeb3692d44545f55b6436e0b5a10ae96d4a81c576a486d9",
+      "bytes": 2113
     },
     {
       "path": "sources/author-a468-a487-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-a468-a487-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a468-a487-search-log.json",
-      "bytes": 1177,
-      "sha256": "cb6782d829a92de3755b7ed1f5798f5b9b181b5febdd3c4d9ec82e169225b459"
+      "sha256": "cb6782d829a92de3755b7ed1f5798f5b9b181b5febdd3c4d9ec82e169225b459",
+      "bytes": 1177
     },
     {
       "path": "sources/author-a488-a507-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-a488-a507-case-fetch.json",
-      "bytes": 320,
-      "sha256": "0ea2af82ce421eaf59d7b9c4a5337ea4121025aef52824c00ba1dd0d22d4af7a"
+      "sha256": "0ea2af82ce421eaf59d7b9c4a5337ea4121025aef52824c00ba1dd0d22d4af7a",
+      "bytes": 320
     },
     {
       "path": "sources/author-a488-a507-fetch.json",
-      "bytes": 1066,
-      "sha256": "98db459e64851292ba207cabfae8f18e5f1850f4d8fc2879a1169f17e9b494bf"
+      "sha256": "98db459e64851292ba207cabfae8f18e5f1850f4d8fc2879a1169f17e9b494bf",
+      "bytes": 1066
     },
     {
       "path": "sources/author-a488-a507-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-a488-a507-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a488-a507-search-log.json",
-      "bytes": 1163,
-      "sha256": "1cb3c9e17f1a743b9afc27227088aafe941263e41c8c4da5d240ec06d2f3d5b6"
+      "sha256": "1cb3c9e17f1a743b9afc27227088aafe941263e41c8c4da5d240ec06d2f3d5b6",
+      "bytes": 1163
     },
     {
       "path": "sources/author-a508-a527-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-a508-a527-case-fetch.json",
-      "bytes": 320,
-      "sha256": "fb631ce7af4587951c3807055b92fd7add11fb18aa5a792db5e49041d9b0c92d"
+      "sha256": "fb631ce7af4587951c3807055b92fd7add11fb18aa5a792db5e49041d9b0c92d",
+      "bytes": 320
     },
     {
       "path": "sources/author-a508-a527-fetch.json",
-      "bytes": 1066,
-      "sha256": "7a7a8bf407f44dd990730b735c7b9d429963cf296be22a270c1e69f6b43cf4d8"
+      "sha256": "7a7a8bf407f44dd990730b735c7b9d429963cf296be22a270c1e69f6b43cf4d8",
+      "bytes": 1066
     },
     {
       "path": "sources/author-a508-a527-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-a508-a527-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a508-a527-search-log.json",
-      "bytes": 1372,
-      "sha256": "9ef37ee12446fd82b56881c79fd3ccf71dc11cad1f7cd908a07f5873115304b6"
+      "sha256": "9ef37ee12446fd82b56881c79fd3ccf71dc11cad1f7cd908a07f5873115304b6",
+      "bytes": 1372
     },
     {
       "path": "sources/author-a528-a547-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-a528-a547-case-fetch.json",
-      "bytes": 320,
-      "sha256": "0964fc6f9bf2af994bcd2f82dac4b446cd7f7f863600446b75d2db315f39837b"
+      "sha256": "0964fc6f9bf2af994bcd2f82dac4b446cd7f7f863600446b75d2db315f39837b",
+      "bytes": 320
     },
     {
       "path": "sources/author-a528-a547-case-search.json",
-      "bytes": 1335,
-      "sha256": "c51d9e69056da1b22e4d5314cf9c71d714121e6f3fedbf816ac470e2170f78a6"
+      "sha256": "c51d9e69056da1b22e4d5314cf9c71d714121e6f3fedbf816ac470e2170f78a6",
+      "bytes": 1335
     },
     {
       "path": "sources/author-a528-a547-fetch.json",
-      "bytes": 1066,
-      "sha256": "dff1501aa9e09113a73f11585411affac8323966edb528b1eb9b95c6ed365dbe"
+      "sha256": "dff1501aa9e09113a73f11585411affac8323966edb528b1eb9b95c6ed365dbe",
+      "bytes": 1066
     },
     {
       "path": "sources/author-a528-a547-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-a528-a547-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a548-a567-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-a548-a567-case-fetch.json",
-      "bytes": 320,
-      "sha256": "0f5d5d561ebf07e695dd21bf0c3ef7cfc3f0761f1b81edd460d451e3f6fb6bc0"
+      "sha256": "0f5d5d561ebf07e695dd21bf0c3ef7cfc3f0761f1b81edd460d451e3f6fb6bc0",
+      "bytes": 320
     },
     {
       "path": "sources/author-a548-a567-case-search.json",
-      "bytes": 1291,
-      "sha256": "e3cac436803ce0fc86d90ff65b4b7aaccf41a2cc196c8483a44fdb422ab8d118"
+      "sha256": "e3cac436803ce0fc86d90ff65b4b7aaccf41a2cc196c8483a44fdb422ab8d118",
+      "bytes": 1291
     },
     {
       "path": "sources/author-a548-a567-fetch.json",
-      "bytes": 1066,
-      "sha256": "fae6f3f5cb2baba631309555fc2e02d96c622362779a551d9fec59e210e98555"
+      "sha256": "fae6f3f5cb2baba631309555fc2e02d96c622362779a551d9fec59e210e98555",
+      "bytes": 1066
     },
     {
       "path": "sources/author-a548-a567-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-a548-a567-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a568-a587-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-a568-a587-case-fetch.json",
-      "bytes": 318,
-      "sha256": "57dcdf4aec8d4403368652db141f055c029145e9ffa2f35ec1c86a40d7368535"
+      "sha256": "57dcdf4aec8d4403368652db141f055c029145e9ffa2f35ec1c86a40d7368535",
+      "bytes": 318
     },
     {
       "path": "sources/author-a568-a587-case-search.json",
-      "bytes": 1133,
-      "sha256": "64ad9b29d565e2d4ded9bf7e2da9e09005f6d318850f67fca1e30feacecdc57c"
+      "sha256": "64ad9b29d565e2d4ded9bf7e2da9e09005f6d318850f67fca1e30feacecdc57c",
+      "bytes": 1133
     },
     {
       "path": "sources/author-a568-a587-fetch.json",
-      "bytes": 1066,
-      "sha256": "c51c11bebd2262a7dc1b3cdb2745a9a3ee177565b9584a9db3c52d28c46fd095"
+      "sha256": "c51c11bebd2262a7dc1b3cdb2745a9a3ee177565b9584a9db3c52d28c46fd095",
+      "bytes": 1066
     },
     {
       "path": "sources/author-a568-a587-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-a568-a587-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a588-a607-analysis.xml",
@@ -1325,118 +1398,108 @@
     },
     {
       "path": "sources/boe-act.html",
-      "bytes": 4473437,
       "sha256": "4ada6f2a90a853e47baae0542c102dd0860894697d99220b039c2a6705777fbe",
-      "request": {
-        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
-        "accessed_at": "2026-10-19T20:53:35.986014+00:00",
-        "http_status": 200,
-        "content_type": "text/html; charset=UTF-8",
-        "sha256": "4ada6f2a90a853e47baae0542c102dd0860894697d99220b039c2a6705777fbe",
-        "path": "sources/boe-act.html"
-      }
+      "bytes": 4473437
     },
     {
       "path": "sources/boe-analysis.xml",
-      "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "accessed_at": "2026-10-19T20:53:39.301246+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/boe-analysis.xml",
-        "xml_root": "response"
-      }
+      "bytes": 42740
     },
     {
       "path": "sources/boe-metadata.xml",
-      "bytes": 1196,
       "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
-        "accessed_at": "2026-10-19T20:53:38.975641+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-        "path": "sources/boe-metadata.xml",
-        "xml_root": "response"
-      }
+      "bytes": 1196
     },
     {
       "path": "sources/boe-text.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-19T20:53:38.678968+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/boe-text.xml",
-        "xml_root": "response"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/canonical-2026-10-19.txt",
-      "bytes": 1225224,
-      "sha256": "4b517e054392e02a7ee6dd68b576d222586123db47362dae8838288532bfe118"
+      "sha256": "4b517e054392e02a7ee6dd68b576d222586123db47362dae8838288532bfe118",
+      "bytes": 1225224
     },
     {
       "path": "sources/case-search-a248-a263.json",
-      "bytes": 1038,
-      "sha256": "e55321895dcb6ab19746dfc18cace383757e28d8eedc1bdedf39dd2ae733727c"
+      "sha256": "e55321895dcb6ab19746dfc18cace383757e28d8eedc1bdedf39dd2ae733727c",
+      "bytes": 1038
     },
     {
       "path": "sources/case-search-a264-a282.json",
-      "bytes": 976,
-      "sha256": "2d77291fcd17dd0fe8fd8f58bac828230450d9ef238142494ed2521368653d45"
+      "sha256": "2d77291fcd17dd0fe8fd8f58bac828230450d9ef238142494ed2521368653d45",
+      "bytes": 976
     },
     {
       "path": "sources/case-search-a283-a291.json",
-      "bytes": 1639,
-      "sha256": "f11b318d34b9f189cf202d55c7a7065ebfdc5b72bb86f69b1864e62de09a63d5"
+      "sha256": "f11b318d34b9f189cf202d55c7a7065ebfdc5b72bb86f69b1864e62de09a63d5",
+      "bytes": 1639
     },
     {
       "path": "sources/case-search-a292-a311.json",
-      "bytes": 540,
-      "sha256": "4c1905372439ebe6cbefb54fa08fe5a587fd5cf3d0cfbdf834f955f22240c61f"
+      "sha256": "4c1905372439ebe6cbefb54fa08fe5a587fd5cf3d0cfbdf834f955f22240c61f",
+      "bytes": 540
     },
     {
       "path": "sources/case-search-a312-a331.json",
-      "bytes": 1295,
-      "sha256": "7942d3595fc97b35cd682ef9d68c52003c8a289a8a70e8edf272070973f5806e"
+      "sha256": "7942d3595fc97b35cd682ef9d68c52003c8a289a8a70e8edf272070973f5806e",
+      "bytes": 1295
     },
     {
       "path": "sources/case-search-a332-a351.json",
-      "bytes": 717,
-      "sha256": "6f06b42c5745042c8ca1a7c98575f94db9ac7e239bd33e26c09f0bc9ceda0956"
+      "sha256": "6f06b42c5745042c8ca1a7c98575f94db9ac7e239bd33e26c09f0bc9ceda0956",
+      "bytes": 717
+    },
+    {
+      "path": "sources/case-search-a352-a371.json",
+      "sha256": "40904bef7d1ca7569f894cc474ef212a21b8a2b4d38221f2a2dcc3fef769886f",
+      "bytes": 654
+    },
+    {
+      "path": "sources/case-search-a372-a391.json",
+      "sha256": "558a585b87ea37613ad3645b21bb1cb19cd79c26142cbacbaedbf3bfb484aebf",
+      "bytes": 803
     },
     {
       "path": "sources/case-search-log.json",
-      "bytes": 1590,
-      "sha256": "ac5280a1aa3d6412a3d2694a589c8cc68298fb3fe130fdce1fc00edacb3b31de"
+      "sha256": "ac5280a1aa3d6412a3d2694a589c8cc68298fb3fe130fdce1fc00edacb3b31de",
+      "bytes": 1590
     },
     {
       "path": "sources/change-map.json",
-      "bytes": 20309,
-      "sha256": "0b477be4f7bf34e8e18c9e25bf6c951c318c1b7220c8583346e550d6fe89c072"
+      "sha256": "0b477be4f7bf34e8e18c9e25bf6c951c318c1b7220c8583346e550d6fe89c072",
+      "bytes": 20309
+    },
+    {
+      "path": "sources/finalize-analysis.xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
+    },
+    {
+      "path": "sources/finalize-metadata.xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
+    },
+    {
+      "path": "sources/finalize-text.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/firma.txt",
-      "bytes": 209,
-      "sha256": "0634c6b71aec8f9b125f2db7b533287d20d089196d7ab4d0f1e66007313c6ff7"
+      "sha256": "0634c6b71aec8f9b125f2db7b533287d20d089196d7ab4d0f1e66007313c6ff7",
+      "bytes": 209
     },
     {
       "path": "sources/initial-selection-differences.json",
-      "bytes": 34728,
-      "sha256": "17263901828205f025824905fd8d77bcc67930363c04e01123336f7d5b6f944f"
+      "sha256": "17263901828205f025824905fd8d77bcc67930363c04e01123336f7d5b6f944f",
+      "bytes": 34728
     },
     {
       "path": "sources/intake-2026-10-01.md",
-      "bytes": 1778460,
-      "sha256": "e2afa3cf948cb4df5aa38fa8ddbdd59da594537aac68b7986419342c885f6a22"
+      "sha256": "e2afa3cf948cb4df5aa38fa8ddbdd59da594537aac68b7986419342c885f6a22",
+      "bytes": 1778460
     },
     {
       "path": "sources/jurisdiccion-social-dtsegunda-dfdecimotercera.xml",
@@ -1445,13 +1508,13 @@
     },
     {
       "path": "sources/no.txt",
-      "bytes": 850,
-      "sha256": "4269271533a2392372e91cf6b8d7282cf44b2b8986c3f3efb765fc1a41d51caa"
+      "sha256": "4269271533a2392372e91cf6b8d7282cf44b2b8986c3f3efb765fc1a41d51caa",
+      "bytes": 850
     },
     {
       "path": "sources/non-unit-disposition.json",
-      "bytes": 550,
-      "sha256": "e4b490275464a832a84dacc3a0eef80aaebfe1778cd11edb47e8888082a274ef"
+      "sha256": "e4b490275464a832a84dacc3a0eef80aaebfe1778cd11edb47e8888082a274ef",
+      "bytes": 550
     },
     {
       "path": "sources/patentes-dtsegunda-dfdecimotercera.xml",
@@ -1460,831 +1523,348 @@
     },
     {
       "path": "sources/preambulo.txt",
-      "bytes": 148324,
-      "sha256": "acd782d5f11a5e35c650bd51247d74bd4739639b4abad36e820b9ca0d0ca5580"
+      "sha256": "acd782d5f11a5e35c650bd51247d74bd4739639b4abad36e820b9ca0d0ca5580",
+      "bytes": 148324
     },
     {
       "path": "sources/preflight-2026-10-22-act.html",
-      "bytes": 4473437,
       "sha256": "426c336ee35836f99306ac927ab63cbabc4cd8da4cdbcce42e0b7935438ef873",
-      "request": {
-        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
-        "accessed_at": "2026-10-21T23:13:51.453702+00:00",
-        "http_status": 200,
-        "content_type": "text/html; charset=UTF-8",
-        "sha256": "426c336ee35836f99306ac927ab63cbabc4cd8da4cdbcce42e0b7935438ef873",
-        "path": "sources/preflight-2026-10-22-act.html",
-        "format_validation": "BOE identifier and statutory blocks present"
-      }
+      "bytes": 4473437
     },
     {
       "path": "sources/preflight-2026-10-22-analysis.xml",
-      "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "accessed_at": "2026-10-21T23:13:50.209114+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/preflight-2026-10-22-analysis.xml",
-        "format_validation": "Parsed BOE response/status 200"
-      }
+      "bytes": 42740
     },
     {
       "path": "sources/preflight-2026-10-22-metadata.xml",
-      "bytes": 1196,
       "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
-        "accessed_at": "2026-10-21T23:13:50.138867+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-        "path": "sources/preflight-2026-10-22-metadata.xml",
-        "format_validation": "Parsed BOE response/status 200"
-      }
+      "bytes": 1196
     },
     {
       "path": "sources/preflight-2026-10-22-text.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:13:53.022357+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/preflight-2026-10-22-text.xml",
-        "format_validation": "Parsed BOE response/status 200"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/preflight-version-audit.json",
-      "bytes": 308819,
-      "sha256": "c3dc9d0375e7a7cdd18596e5b7d20347f445a5b5b884a34cc26ebe8ef323e48e"
+      "sha256": "c3dc9d0375e7a7cdd18596e5b7d20347f445a5b5b884a34cc26ebe8ef323e48e",
+      "bytes": 308819
     },
     {
       "path": "sources/promulgation-formula.txt",
-      "bytes": 169,
-      "sha256": "4b96c4e4d727509dba771865695ddeb17a033e67227a9c1b1451c42bf1abbc55"
+      "sha256": "4b96c4e4d727509dba771865695ddeb17a033e67227a9c1b1451c42bf1abbc55",
+      "bytes": 169
     },
     {
       "path": "sources/review-batch-01-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:16:36.653212+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "path": "sources/review-batch-01-official.xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "format_validated": "XML, BOE status 200, 1083 expected structural blocks checked below",
-        "identical_to_authoring_xml": true
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-02-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:19:30.497130+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "path": "sources/review-batch-02-official.xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "format_validated": "XML response; BOE API status 200",
-        "identical_to_authoring_xml": true
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-03-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:21:31.391912+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "path": "sources/review-batch-03-official.xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "format_validated": "XML response; BOE API status 200",
-        "identical_to_authoring_xml": true
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-04-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:23:57.166516+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "bytes": 5433343,
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "local_path": "sources/review-batch-04-official.xml",
-        "format_validation": "Parsed XML; data/texto present; no HTML challenge",
-        "purpose": "Bounded independent review a52–a71"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-05-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:26:31.751587+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "local_path": "sources/review-batch-05-official.xml",
-        "format_validation": "XML parsed; 1083 bloques BOE"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-06-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:28:14.509625+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-06-official.xml"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-07-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:31:19.653209+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "local_path": "sources/review-batch-07-official.xml",
-        "bytes": 5433343,
-        "format_validation": "XML parsed; data/texto present; no HTML challenge",
-        "purpose": "Bounded substantive review a112–a130 including a1-6 (129 bis)"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-08-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:32:40.432693+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "path": "sources/review-batch-08-official.xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "format_validation": "XML parsed; data/texto present; no HTML challenge"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-09-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:34:27.702206+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-09-official.xml",
-        "xml_root": "response"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-10-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:37:20.558406+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "local_path": "sources/review-batch-10-official.xml",
-        "bytes": 5433343,
-        "format_validation": "Parsed XML with data/texto; no HTML challenge",
-        "purpose": "Bounded review a169–a188",
-        "failed_attempt": "urllib without explicit Accept returned HTTP 400; curl with Accept application/xml succeeded"
-      }
+      "bytes": 5433343
+    },
+    {
+      "path": "sources/review-batch-11-http.txt",
+      "sha256": "447c178647f8c0de9b2f428d5797cf2f9a73e0c9d435e3c214011beb39bebf5e",
+      "bytes": 460
     },
     {
       "path": "sources/review-batch-11-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:39:04.374270+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "local_path": "sources/review-batch-11-official.xml",
-        "bytes": 5433343,
-        "format_validation": "XML data/texto parsed; historical versions retained",
-        "http_headers": "sources/review-batch-11-http.txt",
-        "purpose": "Bounded review a189–a205, including bis units"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-12-http.txt",
-      "bytes": 461,
-      "sha256": "d96b16ffdd03cdfea79b783d017671f914bae936a4cc316c25b1256efaf99368"
+      "sha256": "d96b16ffdd03cdfea79b783d017671f914bae936a4cc316c25b1256efaf99368",
+      "bytes": 461
     },
     {
       "path": "sources/review-batch-12-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:40:31.227388+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "local_path": "sources/review-batch-12-official.xml",
-        "bytes": 5433343,
-        "format_validation": "XML data/texto parsed; historical versions retained",
-        "http_headers": "sources/review-batch-12-http.txt",
-        "purpose": "Bounded review a206–a224, including a213bis",
-        "request_note": "Initial request without Accept returned HTTP 400; successful retry explicitly requested application/xml."
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-13-http.txt",
-      "bytes": 459,
-      "sha256": "b99c9e00601dcb1e676654f1b734876ddb02a34e209ebb0cdf5609c7b35924de"
+      "sha256": "b99c9e00601dcb1e676654f1b734876ddb02a34e209ebb0cdf5609c7b35924de",
+      "bytes": 459
     },
     {
       "path": "sources/review-batch-13-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:42:06.685050+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "local_path": "sources/review-batch-13-official.xml",
-        "bytes": 5433343,
-        "format_validation": "Parsed XML response/data/texto; expected preceptos and historical versions present",
-        "http_headers": "sources/review-batch-13-http.txt",
-        "purpose": "Bounded second reading a225–a244, official a2-13 = artículo 226"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-14-http.txt",
-      "bytes": 454,
-      "sha256": "621c00a5ab1a0fd27197a17e7a03447c7945c52c80444f0171e6d4c604e28866"
+      "sha256": "621c00a5ab1a0fd27197a17e7a03447c7945c52c80444f0171e6d4c604e28866",
+      "bytes": 454
     },
     {
       "path": "sources/review-batch-14-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:49:02.889374+00:00",
-        "http_status": 200,
-        "path": "sources/review-batch-14-official.xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "format_validation": "XML parsed; 1083 statutory/structural blocks; no HTML response"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-15-http.txt",
-      "bytes": 461,
-      "sha256": "2d6a19fd54d22836b05db930b2f3917e889ed39abce2d92a56c077f8a8c91fb6"
+      "sha256": "2d6a19fd54d22836b05db930b2f3917e889ed39abce2d92a56c077f8a8c91fb6",
+      "bytes": 461
     },
     {
       "path": "sources/review-batch-15-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-21T23:55:50.103396+00:00",
-        "http_status": 200,
-        "path": "sources/review-batch-15-official.xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "http_headers": "sources/review-batch-15-http.txt",
-        "format_validation": "application/xml requested; response/status 200; parsed 1083 blocks",
-        "failed_attempt": "urllib without XML Accept header returned HTTP 400; curl with Accept application/xml succeeded"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-16-http.txt",
-      "bytes": 461,
-      "sha256": "26e4b2533bf3a0edf2f4c1fafbe081052d3589e9ea65ce4b7c7faa1a2d44ad8c"
+      "sha256": "26e4b2533bf3a0edf2f4c1fafbe081052d3589e9ea65ce4b7c7faa1a2d44ad8c",
+      "bytes": 461
     },
     {
       "path": "sources/review-batch-16-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "path": "sources/review-batch-16-official.xml",
-        "accessed_at": "2026-10-22T00:04:59.957858+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "format_validation": "XML response/status 200; full official blocks parsed",
-        "http_headers": "sources/review-batch-16-http.txt"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-17-http.txt",
-      "bytes": 459,
-      "sha256": "9a30731413322aa9810c3fc69db94329b17a285d0d84b0ecf8249200a11e3525"
+      "sha256": "9a30731413322aa9810c3fc69db94329b17a285d0d84b0ecf8249200a11e3525",
+      "bytes": 459
     },
     {
       "path": "sources/review-batch-17-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "path": "sources/review-batch-17-official.xml",
-        "accessed_at": "2026-10-22T00:10:33.117016+00:00",
-        "http_status": 200,
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "content_type": "application/xml",
-        "http_headers": "sources/review-batch-17-http.txt",
-        "format_validation": "Validated by XML parsing and complete official block comparison in review-batch-17-audit.json"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-18-http.txt",
-      "bytes": 461,
-      "sha256": "226588715d5993aaecd0d4161b3b2462d635707a4bc466cdc3acae3f90c242fd"
+      "sha256": "226588715d5993aaecd0d4161b3b2462d635707a4bc466cdc3acae3f90c242fd",
+      "bytes": 461
     },
     {
       "path": "sources/review-batch-18-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T00:17:26.200996+00:00",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-18-official.xml",
-        "content_type": "application/xml",
-        "xml_root": "response",
-        "request_accept": "application/xml",
-        "note": "First request without Accept returned HTTP 400; successful retry explicitly negotiated XML."
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-19-http.txt",
-      "bytes": 461,
-      "sha256": "67777921eef13eb087cf8598b196fc3be5784709085854ac6cf5c8374a52620a"
+      "sha256": "67777921eef13eb087cf8598b196fc3be5784709085854ac6cf5c8374a52620a",
+      "bytes": 461
     },
     {
       "path": "sources/review-batch-19-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T00:22:03.496899+00:00",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-19-official.xml",
-        "content_type": "application/xml",
-        "xml_root": "response",
-        "request_accept": "application/xml"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-20-http.txt",
-      "bytes": 459,
-      "sha256": "1094bb24109f53815342d7a67bc2df0e9c171b7d4cc6c1c6b29c523b490d5762"
+      "sha256": "1094bb24109f53815342d7a67bc2df0e9c171b7d4cc6c1c6b29c523b490d5762",
+      "bytes": 459
     },
     {
       "path": "sources/review-batch-20-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T00:28:24.810568+00:00",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-20-official.xml",
-        "content_type": "application/xml",
-        "xml_root": "response",
-        "request_accept": "application/xml"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-21-http.txt",
-      "bytes": 461,
-      "sha256": "ed7871d55f75c8a49c3a29a366fcac67984c9da50cb4af63e131c07c012cdc66"
+      "sha256": "ed7871d55f75c8a49c3a29a366fcac67984c9da50cb4af63e131c07c012cdc66",
+      "bytes": 461
     },
     {
       "path": "sources/review-batch-21-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T00:34:24.492999+00:00",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-21-official.xml",
-        "content_type": "application/xml",
-        "xml_root": "response",
-        "request_accept": "application/xml"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-22-http.txt",
-      "bytes": 461,
-      "sha256": "98d711b38305a0f88138624877d55a1f50c1ff3aebf966958d509c9877f0f737"
+      "sha256": "98d711b38305a0f88138624877d55a1f50c1ff3aebf966958d509c9877f0f737",
+      "bytes": 461
     },
     {
       "path": "sources/review-batch-22-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T00:41:09.712034+00:00",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-22-official.xml",
-        "content_type": "application/xml",
-        "xml_root": "response",
-        "format_validation": "XML BOE status 200, data/texto/bloque y versiones verificadas; no HTML antirrobot.",
-        "request_accept": "application/xml"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-23-http.txt",
-      "bytes": 461,
-      "sha256": "1f643028db52e5bf577a249c891831431a8a73cb5bb55b1089f6d4326973c69c"
+      "sha256": "1f643028db52e5bf577a249c891831431a8a73cb5bb55b1089f6d4326973c69c",
+      "bytes": 461
     },
     {
       "path": "sources/review-batch-23-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T00:48:24.419665+00:00",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-23-official.xml",
-        "content_type": "application/xml",
-        "format_validation": "Parseo XML, status 200 y bloques/versiones BOE; no HTML.",
-        "request_accept": "application/xml"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-24-analysis.xml",
-      "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T00:57:59.186656+00:00",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-24-analysis.xml",
-        "content_type": "application/xml",
-        "format_validation": "XML parseado, status BOE 200, estructura data validada.",
-        "request_accept": "application/xml"
-      }
+      "bytes": 42740
     },
     {
       "path": "sources/review-batch-24-http.txt",
-      "bytes": 461,
-      "sha256": "4781ba59e70aa79b4e5d7d0b5504edfe3482d78a9d0c7757e7126c1ad5981edd"
+      "sha256": "4781ba59e70aa79b4e5d7d0b5504edfe3482d78a9d0c7757e7126c1ad5981edd",
+      "bytes": 461
     },
     {
       "path": "sources/review-batch-24-metadata.xml",
-      "bytes": 1196,
       "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T00:57:59.186656+00:00",
-        "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-        "path": "sources/review-batch-24-metadata.xml",
-        "content_type": "application/xml",
-        "format_validation": "XML parseado, status BOE 200, estructura data validada.",
-        "request_accept": "application/xml"
-      }
+      "bytes": 1196
     },
     {
       "path": "sources/review-batch-24-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T00:57:59.186656+00:00",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-24-official.xml",
-        "content_type": "application/xml",
-        "format_validation": "XML parseado, status BOE 200, estructura data validada.",
-        "request_accept": "application/xml"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-25-analysis.xml",
-      "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T01:04:39.057335+00:00",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-25-analysis.xml",
-        "content_type": "application/xml",
-        "format_validation": "Parsed XML; BOE status 200"
-      }
+      "bytes": 42740
     },
     {
       "path": "sources/review-batch-25-metadata.xml",
-      "bytes": 1196,
       "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T01:04:39.057335+00:00",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-25-analysis.xml",
-        "content_type": "application/xml",
-        "format_validation": "Parsed XML; BOE status 200"
-      }
+      "bytes": 1196
     },
     {
       "path": "sources/review-batch-25-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "http_status": 200,
-        "accessed_at": "2026-10-22T01:04:39.057335+00:00",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-25-analysis.xml",
-        "content_type": "application/xml",
-        "format_validation": "Parsed XML; BOE status 200"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-26-analysis.xml",
-      "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "accessed_at": "2026-10-22T01:13:30.856141+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-26-analysis.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 42740
     },
     {
       "path": "sources/review-batch-26-metadata.xml",
-      "bytes": 1196,
       "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "accessed_at": "2026-10-22T01:13:30.856141+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-26-analysis.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 1196
     },
     {
       "path": "sources/review-batch-26-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "accessed_at": "2026-10-22T01:13:30.856141+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-26-analysis.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-27-STC-50-2017.xml",
-      "bytes": 49474,
-      "sha256": "9933052ca8e38be41e7b61cf18880c1ae4b29d85e8b28eb22212b950fd5c644c"
+      "sha256": "9933052ca8e38be41e7b61cf18880c1ae4b29d85e8b28eb22212b950fd5c644c",
+      "bytes": 49474
     },
     {
       "path": "sources/review-batch-27-analysis.xml",
-      "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2017-6846",
-        "path": "sources/review-batch-27-STC-50-2017.xml",
-        "http_status": 200,
-        "sha256": "9933052ca8e38be41e7b61cf18880c1ae4b29d85e8b28eb22212b950fd5c644c",
-        "accessed_at": "2026-10-22T01:22:57.750084+00:00",
-        "validated_format": "Official judgment XML; identical to full text reread"
-      }
+      "bytes": 42740
     },
     {
       "path": "sources/review-batch-27-metadata.xml",
-      "bytes": 1196,
       "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2017-6846",
-        "path": "sources/review-batch-27-STC-50-2017.xml",
-        "http_status": 200,
-        "sha256": "9933052ca8e38be41e7b61cf18880c1ae4b29d85e8b28eb22212b950fd5c644c",
-        "accessed_at": "2026-10-22T01:22:57.750084+00:00",
-        "validated_format": "Official judgment XML; identical to full text reread"
-      }
+      "bytes": 1196
     },
     {
       "path": "sources/review-batch-27-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2017-6846",
-        "path": "sources/review-batch-27-STC-50-2017.xml",
-        "http_status": 200,
-        "sha256": "9933052ca8e38be41e7b61cf18880c1ae4b29d85e8b28eb22212b950fd5c644c",
-        "accessed_at": "2026-10-22T01:22:57.750084+00:00",
-        "validated_format": "Official judgment XML; identical to full text reread"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-28-analysis.xml",
-      "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "accessed_at": "2026-10-22T01:31:20.522334+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-28-analysis.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 42740
     },
     {
       "path": "sources/review-batch-28-metadata.xml",
-      "bytes": 1196,
       "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
-        "accessed_at": "2026-10-22T01:31:20.212764+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-        "path": "sources/review-batch-28-metadata.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 1196
     },
     {
       "path": "sources/review-batch-28-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-22T01:31:20.025473+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-28-official.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-29-analysis.xml",
-      "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "accessed_at": "2026-10-22T01:40:10.246313+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-29-analysis.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 42740
     },
     {
       "path": "sources/review-batch-29-metadata.xml",
-      "bytes": 1196,
       "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
-        "accessed_at": "2026-10-22T01:40:09.982715+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-        "path": "sources/review-batch-29-metadata.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 1196
     },
     {
       "path": "sources/review-batch-29-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-22T01:40:09.792994+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-29-official.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-30-analysis.xml",
-      "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "accessed_at": "2026-10-22T01:50:30.856904+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-30-analysis.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 42740
     },
     {
       "path": "sources/review-batch-30-metadata.xml",
-      "bytes": 1196,
       "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
-        "accessed_at": "2026-10-22T01:50:30.523975+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-        "path": "sources/review-batch-30-metadata.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 1196
     },
     {
       "path": "sources/review-batch-30-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-22T01:50:30.315232+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-30-official.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-31-analysis.xml",
-      "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
-        "accessed_at": "2026-10-22T01:58:40.066106+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
-        "path": "sources/review-batch-31-analysis.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 42740
     },
     {
       "path": "sources/review-batch-31-metadata.xml",
-      "bytes": 1196,
       "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
-        "accessed_at": "2026-10-22T01:58:39.798505+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
-        "path": "sources/review-batch-31-metadata.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 1196
     },
     {
       "path": "sources/review-batch-31-official.xml",
-      "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-      "request": {
-        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-        "accessed_at": "2026-10-22T01:58:39.578250+00:00",
-        "http_status": 200,
-        "content_type": "application/xml",
-        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
-        "path": "sources/review-batch-31-official.xml",
-        "validated_format": "XML parsed successfully"
-      }
+      "bytes": 5433343
     },
     {
       "path": "sources/review-batch-32-STC-113-1989.xml",
@@ -2593,18 +2173,188 @@
     },
     {
       "path": "sources/structure.json",
-      "bytes": 20261,
-      "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
+      "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2",
+      "bytes": 20261
     },
     {
       "path": "sources/verification.json",
-      "sha256": "03590cffc65174be3d7f3d0d971c37690889a0d2ab526e17f954f22560fb6d69",
-      "bytes": 108475
+      "sha256": "81066ac9e6b3daa40decc34ae4922a5872af9b04a015544f772697f2c0e96dd9",
+      "bytes": 109768
     },
     {
       "path": "sources/version-selection.json",
-      "bytes": 584855,
-      "sha256": "a1faba917e5816413aa7392ba1dfb97024ae571f998197cb9fc6378892235d2a"
+      "sha256": "a1faba917e5816413aa7392ba1dfb97024ae571f998197cb9fc6378892235d2a",
+      "bytes": 584855
+    },
+    {
+      "path": "cases/ATC-20-2024-a608-a627.md",
+      "sha256": "a25f5f4cac83bb5a670cc3b01ca3ed79ac980563b6f33478cee2c50b1b15959d",
+      "bytes": 2104
+    },
+    {
+      "path": "cases/C-618-10-a801-a820.md",
+      "sha256": "dc0593b8a158b7a340ff13628489d61f9040bbed12ac62d580a28eb06f61d229",
+      "bytes": 2890
+    },
+    {
+      "path": "cases/STC-1-2018-dtsegunda-dfdecimotercera.md",
+      "sha256": "1c5428e94e5bac2136426a46a3ee75e800d3153b209142250735a815575962b4",
+      "bytes": 1095
+    },
+    {
+      "path": "cases/STC-107-2005.md",
+      "sha256": "1818e90227677817743d2dfa9e1deb927da4f3acadedea44098232532a97eb3a",
+      "bytes": 1319
+    },
+    {
+      "path": "cases/STC-112-2022-a628-a647.md",
+      "sha256": "9c662fc1c408c8fcb32cb8ee7e2ac4b511daf165098daa9a322c8606540f654a",
+      "bytes": 2348
+    },
+    {
+      "path": "cases/STC-113-1989-a588-a607.md",
+      "sha256": "f62102e36707445a67cd3a1a0437e64330cf48607ca619e29dec0cc4307faca9",
+      "bytes": 1409
+    },
+    {
+      "path": "cases/STC-114-1984.md",
+      "sha256": "7f3e479ada3ffb2576add81064fdfba6a208fd4cc184d8cb30c997429695770e",
+      "bytes": 1175
+    },
+    {
+      "path": "cases/STC-132-2010-a821-dtprimera.md",
+      "sha256": "ac56c1c4065b21e84a437eee60eec85828dd3fa30d31c37be55cf6ec8de96445",
+      "bytes": 1367
+    },
+    {
+      "path": "cases/STC-14-1992-a707-a726.md",
+      "sha256": "62894b574380752bd4a65753cc50e3be3174cee3e78ec528b5800bf8bd6a48f7",
+      "bytes": 1419
+    },
+    {
+      "path": "cases/STC-14-1992-a727-a746.md",
+      "sha256": "7599fb1c32ecacf66a2fe229d8e167c03bea6d522a68fc334b5f850a7b45c9d8",
+      "bytes": 2263
+    },
+    {
+      "path": "cases/STC-141-2012-a747-a766.md",
+      "sha256": "05f32706a739f6f8b74d8a91faa4392415cf0810b56b2c592733fca6186ab344",
+      "bytes": 1811
+    },
+    {
+      "path": "cases/STC-144-2025-a468-a487.md",
+      "sha256": "861126f1ff2df790652f0f6a51f3af68803c2ab09d22c2804585e916f1f848e6",
+      "bytes": 1539
+    },
+    {
+      "path": "cases/STC-145-2020-a781bis-a800.md",
+      "sha256": "c0e6889be13bd408239afe16ef9a04cc8ff72d5efbe4146d4fb80b771142a838",
+      "bytes": 2056
+    },
+    {
+      "path": "cases/STC-15-2020.md",
+      "sha256": "717aa3b688f706d671edfb265748d66a4de40a01ea1b9a694177bfbdaf3fec26",
+      "bytes": 1887
+    },
+    {
+      "path": "cases/STC-165-2004.md",
+      "sha256": "f76065a61f28bc7f0fe288b91caa80e6cddbc1c981f28cc9652db2ec2ace691c",
+      "bytes": 1759
+    },
+    {
+      "path": "cases/STC-177-2007-a767-a781.md",
+      "sha256": "0bba73b4471730363da3d0c81b8778ace5285dbe3663e77b3a2e076995715b53",
+      "bytes": 1571
+    },
+    {
+      "path": "cases/STC-18-2009-a508-a527.md",
+      "sha256": "0a38dc865d5e410ce74aa281fe5834a923e2d77d928c1c75324f6bbe68b96f64",
+      "bytes": 3387
+    },
+    {
+      "path": "cases/STC-190-2025.md",
+      "sha256": "68d487de9f0dc2df2ac6689310a2fbf4612175f7f03e35933a4db8bd44562ff8",
+      "bytes": 1988
+    },
+    {
+      "path": "cases/STC-209-2009-a568-a587.md",
+      "sha256": "c1b1e4af85c5933ae18ae0911febaa9d6072ea68c45b3322b1a52f8f4f1e530c",
+      "bytes": 2485
+    },
+    {
+      "path": "cases/STC-22-2008-a528-a547.md",
+      "sha256": "24b104e926059d3c8e9e6f05639ac8d350a3e05d71d24e13390973495a9e3af6",
+      "bytes": 2564
+    },
+    {
+      "path": "cases/STC-26-2025-a648-a666.md",
+      "sha256": "03b17af0620acdc39b51df61978dd32235b2703591398320a2e4f1376a58218e",
+      "bytes": 1645
+    },
+    {
+      "path": "cases/STC-26-2025-a667-a686.md",
+      "sha256": "4f52fb095c681bd6b6b5cf22890a94d4737ae8baea5e29d423e2b66abb63ff6f",
+      "bytes": 1779
+    },
+    {
+      "path": "cases/STC-26-2025.md",
+      "sha256": "4abc4a6128482554d0b2a22ee80f6936ea97aa7027e63bf9d131298313604393",
+      "bytes": 1835
+    },
+    {
+      "path": "cases/STC-30-2014.md",
+      "sha256": "26a7da27b1f4989f8b3d1fad24db43f6ce53176762e5d4dea21e371b1464ac4a",
+      "bytes": 2356
+    },
+    {
+      "path": "cases/STC-31-2019-a548-a567.md",
+      "sha256": "bccd89e1e11d9bb9b445c52516f46b4f393c211b1cfda6a0a26844377a714080",
+      "bytes": 1754
+    },
+    {
+      "path": "cases/STC-31-2019-a687-a706.md",
+      "sha256": "a5d4c8eab09ddb8dd9361a323d364f8167cd711eb592028c6c450a049a921a96",
+      "bytes": 1817
+    },
+    {
+      "path": "cases/STC-34-2019.md",
+      "sha256": "22186ecf9ebece6d3ae41efb57ad3cf0b5f1446103d69b95b4b0571d767b553d",
+      "bytes": 2080
+    },
+    {
+      "path": "cases/STC-5-2009.md",
+      "sha256": "039f28767320d21cedea6d5d8bca6770dbbaac54f1c76cccc68675c5c72c1803",
+      "bytes": 2771
+    },
+    {
+      "path": "cases/STC-50-2017-a488-a507.md",
+      "sha256": "264b21a8b6bf1bdd4c0f6d96516240dec522cf069f05f07e7dc8e438e9902068",
+      "bytes": 1409
+    },
+    {
+      "path": "cases/STC-56-2026-a747-a766.md",
+      "sha256": "c4cc75301a3ff6a873d7b2a8c1ec9138d0f75f2307c26f386072f56a1dd1fdc4",
+      "bytes": 2233
+    },
+    {
+      "path": "cases/STC-82-2022.md",
+      "sha256": "be985684ee51abf0e3f7b79c1109aa0f7c209af600de8cc4e44b038bd8f682ce",
+      "bytes": 1980
+    },
+    {
+      "path": "cases/TC-222-2012.md",
+      "sha256": "759b8f35964c2a025d5a7772cd086673cf41b4c125f9665007f8dc40873274d5",
+      "bytes": 2020
+    },
+    {
+      "path": "cases/TJUE-Bondora-df14-df29.md",
+      "sha256": "d2432895131a55d5b7d9d0f065becd8dbf2e5f58f3f8f2af6c86d215637e7c2e",
+      "bytes": 1285
+    },
+    {
+      "path": "cases/TJUE-C224-19.md",
+      "sha256": "8852b2fd400a71bd14b8ddf21b1f881376a46d6c0514923576f214c99bc34ced",
+      "bytes": 2182
     }
   ]
 }

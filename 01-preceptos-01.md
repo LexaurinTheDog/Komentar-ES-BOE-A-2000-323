@@ -60,10 +60,6 @@ El catálogo distingue la tutela de declaración, la de condena y la constitutiv
 
 El apartado 2 enlaza la pretensión con la competencia y con los sujetos afectados. No basta con describir el conflicto: el suplico debe precisar qué decisión se pretende y frente a quién. El artículo 12 completa esta exigencia cuando el pronunciamiento solo puede hacerse efectivo respecto de varios sujetos conjuntamente. Ejemplo: quien busca cobrar una deuda debe pedir condena al pago; solicitar únicamente que se reconozca su condición de acreedor puede no proporcionar el contenido ejecutivo que necesita. Las medidas cautelares protegen el resultado, pero no sustituyen la pretensión principal.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO I — De la comparecencia y actuación en juicio
-
 #### CAPÍTULO I — De la capacidad para ser parte, la capacidad procesal y la legitimación
 
 ### Artículo 6 — Capacidad para ser parte.
@@ -275,10 +271,6 @@ El apartado 3 introduce una reserva decisiva: en litigios sobre acoso discrimina
 El artículo habilita a las asociaciones profesionales del sector artístico y cultural para defender derechos de asociados, propios e intereses generales de trabajadores autónomos del sector, con la autorización exigida en el apartado 1. Extiende la legitimación a federaciones, confederaciones y uniones constituidas por esas asociaciones; la denominación de la entidad no basta sin comprobar su constitución y objeto de defensa y protección.
 
 Para afectados indeterminados o difícilmente determinables, el apartado 2 reserva la defensa difusa a esas entidades profesionales. El Ministerio Fiscal puede ejercitar cualquier acción de defensa de los intereses indicados conforme al apartado 3. La eventual entrada de interesados exige examinar los presupuestos de intervención del artículo 13; el llamamiento especial del artículo 15 quater corresponde a otra materia y no se extiende automáticamente a esta legitimación. Ejemplo: varios ilustradores autónomos afectados por una práctica de contratación pueden acudir a su asociación profesional, pero esta debe precisar la autorización y la naturaleza de los intereses reclamados. La habilitación no altera la competencia del orden jurisdiccional ni convierte por sí sola una relación laboral en trabajo autónomo.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO I — De la comparecencia y actuación en juicio
 
 #### CAPÍTULO II — De la pluralidad de partes
 

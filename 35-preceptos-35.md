@@ -210,12 +210,6 @@ Ejemplo ficticio: quedan pendientes 1.000 euros de intereses remuneratorios, 9.0
 
 Comprobación práctica al cerrar la subasta de muebles: conservar certificado de cierre y postura; identificar el régimen de pago aplicable; comprobar mejora y reservas; documentar la imputación y el saldo; devolver garantías y remanentes a sus destinatarios legales.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO IV — Del procedimiento de apremio
-
 #### Sección 6.ª De la subasta de bienes inmuebles
 
 ### Artículo 655 — Ámbito de aplicación de esta sección y aplicación supletoria de las disposiciones de la sección anterior.

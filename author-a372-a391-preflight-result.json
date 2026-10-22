@@ -1,0 +1,61 @@
+{
+  "complete": true,
+  "scope": [
+    "a372",
+    "a373",
+    "a374",
+    "a375",
+    "a376",
+    "a377",
+    "a378",
+    "a379",
+    "a380",
+    "a381",
+    "a382",
+    "a383",
+    "a384",
+    "a385",
+    "a386",
+    "a387",
+    "a388",
+    "a389",
+    "a390",
+    "a391"
+  ],
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+  "verified_at": "2026-10-22T00:29:22.405678+00:00",
+  "version_evidence": {
+    "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
+    "latest_published_change": "2026-10-07",
+    "latest_effective_change": "2026-10-08",
+    "amending_source": "sources/BOE-A-2026-20823.xml",
+    "provisions": "Artículo 5, disposición transitoria segunda y disposición final decimoprimera",
+    "repealed_intermediate_source": "sources/BOE-A-2026-20526.xml",
+    "changed_since_intake": [
+      "a22",
+      "a685"
+    ],
+    "version_selection": "Versiones con publicación y vigencia no posteriores al 2026-10-19; preferencia por publicación posterior y cotejo íntegro con HTML oficial actual. Ordenar solo por vigencia recuperaba versiones superadas: diferencias iniciales conservadas en sources/initial-selection-differences.json.",
+    "consolidation_warning": "La consolidación BOE es informativa; se conservan las publicaciones oficiales de los cambios posteriores a la captura.",
+    "fresh_comparison": "sources/preflight-version-audit.json",
+    "no_change_in_fresh_xml_metadata_analysis": true,
+    "http_and_hash_evidence": "sources/verification.json",
+    "clock_note": "Response access times are actual UTC system clock; snapshot filename uses assigned local task date 2026-10-22.",
+    "bounded_review_refresh": "review-batch-20-audit.json",
+    "fresh_xml_identical_to_authoring_snapshot": true
+  },
+  "fresh_xml_identical_to_preflight": true,
+  "historical_versions_checked": "author-a372-a391-audit.json unit_checks: all official versions considered with publication and commencement cutoff",
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "basis": "No hay encabezado de anexo entre los 1083 bloques oficiales ni tipo anexo en el XML; las disposiciones adicionales, transitorias, derogatoria y finales están incluidas como preceptos. Las reformas de otros textos contenidas dentro de las disposiciones finales permanecen íntegras en su unidad.",
+      "evidence": [
+        "sources/preflight-2026-10-22-act.html",
+        "sources/preflight-2026-10-22-text.xml"
+      ]
+    }
+  ],
+  "unresolved_blockers": []
+}

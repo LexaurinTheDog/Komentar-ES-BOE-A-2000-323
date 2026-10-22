@@ -32,10 +32,6 @@ La decisión del incidente no admite recurso autónomo, pero se preserva plantea
 
 No crea un recurso extraordinario al margen de sus requisitos ni permite alegar por primera vez cualquier sospecha que se pudo plantear tempestivamente. Ejemplo: tras rechazar la recusación, el pleito continúa y termina con resolución adversa; el recurrente debe identificar la causa ya alegada, su relación con quien decidió y el efecto de nulidad solicitado, dentro del recurso procedente. Una simple reproducción de desacuerdos sobre valoración de prueba no demuestra parcialidad. La conservación ordenada de escrito de recusación, prueba y auto es necesaria para que el control posterior tenga un objeto claro.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO IV — De la abstención y la recusación
-
 #### CAPÍTULO IV — De la recusación de los Letrados de la Administración de Justicia de los Tribunales civiles
 
 ### Artículo 114 — Regulación aplicable.
@@ -120,10 +116,6 @@ La presentación del escrito produce el reemplazo del letrado recusado por su su
 
 El sustituto no lo elige la parte ni surge de un pacto entre profesionales, sino del régimen legal. Ejemplo: presentado un escrito que luego será desestimado, las actuaciones durante su tramitación deben quedar a cargo de quien corresponda sustituir, sin esperar al informe del artículo 116 como condición adicional que el artículo 119 no establece. Debe distinguirse esta sustitución de la suspensión general del pleito prevista para recusación judicial en el artículo 109: el régimen del letrado contiene su propia técnica. La constancia de la fecha de entrada y del sustituto facilita comprobar quién estaba habilitado para cada actuación.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO IV — De la abstención y la recusación
-
 #### CAPÍTULO V — De la recusación de los funcionarios pertenecientes a los Cuerpos de Gestión Procesal y Administrativa, de Tramitación Procesal y Administrativa, y de Auxilio Judicial
 
 ### Artículo 120 — Legislación aplicable.
@@ -177,10 +169,6 @@ Ejemplo: la parte pide apartar a un funcionario porque realizó una actuación q
 Admitida la petición, el recusado se manifiesta al día siguiente de recibirla. Si reconoce la causa, el letrado de la Administración de Justicia dispone su reemplazo legal sin recurso. La aceptación evita una instrucción innecesaria sobre hechos admitidos, dentro del presupuesto de causa que superó el filtro del artículo 122.
 
 Si la niega, el letrado oye sus alegaciones, practica dentro del quinto día las comprobaciones que proponga el propio recusado y sean pertinentes, así como las que el instructor considere necesarias, y remite lo actuado a quien decide. Esta atribución expresa de la iniciativa al recusado no debe confundirse con un trámite genérico de prueba a propuesta de todas las partes. El instructor no debe convertir esa remisión en resolución final de un hecho controvertido que corresponde al órgano del artículo 121. Ejemplo: se aporta una relación documental que el funcionario considera inexacta; deben comprobarse los extremos relevantes y transmitirse las versiones y soporte al decisor. La brevedad del trámite exige concretar los hechos, pero no justifica omitir la información necesaria para resolver imparcialmente el incidente.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO IV — De la abstención y la recusación
 
 #### CAPÍTULO VI — De la recusación de los peritos
 
@@ -268,8 +256,6 @@ Ejemplo: la parte promueve recusación de un experto con apoyo documental, pero 
 
 **Control de imparcialidad:** identificar sujeto y cauce; separar abstención, recusación y tacha; concretar causa legal; documentar existencia y conocimiento; comprobar firma y poder; seguir sustitución y suspensión propias; conservar el incidente para la reserva de nulidad o instancia superior que proceda.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
 #### TÍTULO V — De las actuaciones judiciales
 
 #### CAPÍTULO I — Del lugar de las actuaciones judiciales y de los actos procesales mediante presencia telemática
@@ -327,10 +313,6 @@ La presencia telemática es preferente si existen medios técnicos y se utiliza 
 El apartado 3 permite imponer presencia física motivadamente a los casos de las letras b y c por causas precisas. El apartado 4 extiende el régimen a actuaciones solo ante letrados de la Administración de Justicia o representantes del Ministerio Fiscal, que pueden adoptar las decisiones correspondientes. El apartado 5 exige asistencia letrada efectiva, interpretación, traducción e información y acceso al expediente.
 
 Ejemplo: una parte reside en otra localidad y pide declarar desde punto seguro. La distancia habilita el examen de la excepción, pero el órgano puede exigir comparecencia física con motivación concreta; tampoco debe obligarla a usar un sistema que impida consultar reservadamente con su abogado o entender la interpretación. Preferencia tecnológica y garantías de inmediación y defensa deben resolverse para el acto real, no por una regla administrativa indiferenciada.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO V — De las actuaciones judiciales
 
 #### CAPÍTULO II — Del tiempo de las actuaciones judiciales
 

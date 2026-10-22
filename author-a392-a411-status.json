@@ -1,0 +1,55 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "a392",
+    "a393",
+    "a394",
+    "a395",
+    "a396",
+    "a397",
+    "a398",
+    "a399",
+    "a400",
+    "a401",
+    "a402",
+    "a403",
+    "a404",
+    "a405",
+    "a406",
+    "a407",
+    "a408",
+    "a409",
+    "a410",
+    "a411"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "official_xml_equal": true,
+    "text_agreement": 1.0,
+    "whole_inventory_matches": 916,
+    "evidence": "author-a392-a411-preflight-result.json"
+  },
+  "case_law_sources": [
+    "cases/TJUE-C224-19.md"
+  ],
+  "validation": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 32189,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "links": {
+    "missing_local_targets": []
+  },
+  "remaining_limitations": [
+    "Sólo bloque a392–a411; quedan 476 comentarios fuera del encargo.",
+    "Jurisprudencia selectiva; no búsqueda exhaustiva en corpus nacionales.",
+    "Pendiente de segunda lectura independiente."
+  ],
+  "whole_book_complete": false,
+  "output_commit": "2b155d9f5fe6c4b2dadca72c99afd6ff5a18f8a8"
+}

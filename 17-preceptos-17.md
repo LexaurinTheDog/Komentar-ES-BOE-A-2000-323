@@ -32,12 +32,6 @@ El apartado 3 separa la disciplina del compareciente de la continuidad del proce
 
 Ejemplo ficticio: un perito citado no acude porque afirma haber sido hospitalizado. Antes de multarlo debe tramitarse la audiencia y examinarse la justificación. Mientras tanto, el tribunal escucha a las partes sobre la posibilidad de practicar los testimonios disponibles y sobre si resulta necesaria una nueva sesión para la explicación pericial.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO V — De la prueba: disposiciones generales
-
 #### Sección 4.ª De la anticipación y el aseguramiento de la prueba
 
 ### Artículo 293 — Casos y causas de anticipación de la prueba. Competencia.
@@ -164,10 +158,6 @@ La contradicción se desplaza entonces a una oposición en veinte días desde la
 
 **Comprobación práctica del aseguramiento:** identificar fuente y prueba futura; acreditar peligro y utilidad; comparar alternativas; precisar afectados y garantías; justificar cualquier exclusión de audiencia; registrar adopción y notificación; controlar oposición y plazo de demanda.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
 #### CAPÍTULO VI — De los medios de prueba y las presunciones
 
 ### Artículo 299 — Medios de prueba.
@@ -221,12 +211,6 @@ El orden ordinario comienza con interrogatorio de partes y testigos, sigue con l
 La mención de presentación excepcional de dictámenes no abre una vía para eludir los plazos de aportación pericial. Primero debe existir admisión conforme a las reglas pertinentes; después se ordena su práctica. Tampoco la falta de una fase oral específica para documentos significa que estos carezcan de valor o queden excluidos del proceso: la documental tiene su régimen de aportación y examen.
 
 Si un medio admitido no puede practicarse en la audiencia, esta continúa con los restantes por el orden procedente. Ello evita convertir cualquier dificultad aislada en suspensión total, sin resolver por sí solo cómo y cuándo se recuperará la actuación pendiente. Ejemplo ficticio: una perita se retrasa por una incidencia de transporte, mientras dos testigos están disponibles. Puede practicarse su testimonio y reorganizarse la sesión; esa alteración no justifica aceptar un dictamen nuevo que era extemporáneo ni prescindir de una aclaración pericial esencial sin decisión sobre su realización.
-
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO VI — De los medios de prueba y las presunciones
 
 #### Sección 1.ª Del interrogatorio de las partes
 

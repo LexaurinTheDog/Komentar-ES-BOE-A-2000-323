@@ -48,10 +48,6 @@ La audiencia de los afectados es la regla, con remisión a los artículos 734 a 
 
 Por ejemplo, en una reclamación ficticia acompañada de indicios de paternidad, la necesidad de alimentación inmediata de un niño puede justificar una prestación provisional. Su cuantía y fundamento deben motivarse, sin presentar ese pago como reconocimiento definitivo de filiación. Al finalizar este bloque conviene comprobar: tipo de acción, persona protegida, necesidad concreta, audiencia o urgencia documentada, fecha de comparecencia y eventual dispensa de caución.
 
-#### LIBRO IV — De los procesos especiales
-
-#### TÍTULO I — De los procesos sobre provisión de medidas judiciales de apoyo a las personas con discapacidad, filiación, matrimonio y menores
-
 #### CAPÍTULO IV — De los procesos matrimoniales y de menores
 
 ### Artículo 769 — Competencia.
@@ -436,10 +432,6 @@ El traslado ordinario concede veinticuatro horas para alegar exclusivamente sobr
 
 La autorización delimita material y temporalmente la diligencia. Se entrega testimonio, se notifica conforme al apartado 6 y la practica el letrado de la Administración de Justicia con la Entidad Pública, pudiendo recibir auxilio policial. La apelación se interpone en tres días, sin suspensión; una denegación permite nueva petición si cambian las circunstancias. Por ejemplo, una orden ficticia de recogida no habilita un registro indiscriminado de documentos familiares. La diligencia debe ceñirse al fin, lugar y tiempo autorizados, dejando constancia de su ejecución antes del archivo.
 
-#### LIBRO IV — De los procesos especiales
-
-#### TÍTULO I — De los procesos sobre provisión de medidas judiciales de apoyo a las personas con discapacidad, filiación, matrimonio y menores
-
 #### CAPÍTULO IV BIS — Medidas relativas a la restitución o retorno de menores en los supuestos de sustracción internacional
 
 ### Artículo 778 quáter — Artículo 778 quáter. Ámbito de aplicación. Normas generales.
@@ -573,10 +565,6 @@ La declaración de ilicitud atiende al supuesto inverso del procedimiento de ret
 Para la decisión o certificación del artículo 15 del Convenio de La Haya de 1980, la norma identifica primero a la última autoridad judicial española que haya conocido de responsabilidad parental respecto del menor. En su defecto, atribuye competencia al juzgado del último domicilio del menor en España. La asistencia de la Autoridad Central procura que el solicitante pueda obtener la documentación, pero no sustituye la decisión judicial acerca de los presupuestos de ilicitud.
 
 Por ejemplo, un progenitor ficticio reclama en otro Estado el retorno de su hija y necesita acreditar el carácter ilícito de la retención conforme al artículo 3 del convenio. Puede acudir al órgano español indicado, aportando la situación de responsabilidad parental y los hechos relevantes. La existencia de una resolución española no permite omitir el procedimiento ni las excepciones del instrumento aplicable en el Estado requerido. Deben distinguirse finalidad probatoria de la certificación, medidas protectoras internas y decisión extranjera sobre restitución.
-
-#### LIBRO IV — De los procesos especiales
-
-#### TÍTULO I — De los procesos sobre provisión de medidas judiciales de apoyo a las personas con discapacidad, filiación, matrimonio y menores
 
 #### CAPÍTULO V — De la oposición a las resoluciones administrativas en materia de protección de menores, del procedimiento para determinar la necesidad de asentimiento en la adopción y de la oposición a determinadas resoluciones y actos de la Dirección General de los Registros y del Notariado en materia de Registro Civil.
 

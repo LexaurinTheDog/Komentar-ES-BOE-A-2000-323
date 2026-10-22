@@ -18,8 +18,6 @@ La consecuencia tampoco consiste en archivar la causa o mantener sin más la sen
 
 Ejemplo ficticio: rescindida una condena al pago de una factura, el demandado recibe el traslado previsto en el artículo 507 y no presenta escrito dentro del plazo. Comprobada la regularidad del traslado, se dicta una nueva sentencia con el mismo contenido condenatorio. La rescisión no le permite conservar indefinidamente abierto el litigio sin participar.
 
-#### LIBRO II — De los procesos declarativos
-
 #### TÍTULO VI — De la revisión de sentencias firmes
 
 ### Artículo 509 — Órgano competente y resoluciones recurribles.
@@ -366,10 +364,6 @@ Debe distinguirse entre resistirse al contenido de la sentencia y advertir un ob
 
 Ejemplo ficticio: una persona favorecida por una sentencia constitutiva encuentra que la entidad llamada a reconocer la nueva situación sigue actuando como si el fallo no existiera. Puede solicitar al tribunal las actuaciones necesarias para hacerlo eficaz. Si el registrador señala una discordancia de identificación que deriva del propio Registro, habrá que examinar ese obstáculo y su cauce de solución; este artículo no permite ordenar sin más una inscripción distinta de la que la sentencia y la normativa registral consientan.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO I — De los títulos ejecutivos
-
 #### CAPÍTULO II — De los títulos ejecutivos extranjeros
 
 ### Artículo 523 — Fuerza ejecutiva en España. Ley aplicable al procedimiento.
@@ -385,8 +379,6 @@ La ejecución de un título extranjero exige resolver dos cuestiones sucesivas: 
 El apartado 2 somete la actividad ejecutiva en España a la Ley de Enjuiciamiento Civil, con la salvedad expresa de los tratados vigentes. La remisión del apartado 1 tampoco permite omitir, cuando resulte aplicable, un régimen europeo directamente pertinente: debe comprobarse la norma internacional o supranacional que gobierna el supuesto concreto. Esta explicación no atribuye aquí una solución uniforme a todos los países ni presupone que todos los títulos necesiten el mismo procedimiento de reconocimiento. Reconocimiento, declaración de ejecutividad cuando proceda y medidas concretas de ejecución no son conceptos intercambiables.
 
 Ejemplo ficticio: un acreedor presenta una sentencia firme dictada en otro Estado y pide embargar una cuenta española. Antes de examinar el embargo debe determinar qué régimen permite ejecutar esa sentencia y qué documentación exige. Superado ese control, la selección y práctica de medidas en España se somete al régimen procesal que corresponda. Si el título extranjero aún no es firme, la cuestión cambia y debe confrontarse específicamente con la restricción del artículo 525.2; el presente artículo no resuelve por sí solo su ejecución provisional.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
 
 #### TÍTULO II — De la ejecución provisional de resoluciones judiciales
 
@@ -449,10 +441,6 @@ La regla 2.ª excluye las condenas a emitir una declaración de voluntad y la 3.
 El apartado 2 excluye sentencias extranjeras no firmes salvo previsión expresa contraria en los tratados vigentes. El apartado 3 se refiere específicamente a los pronunciamientos indemnizatorios de sentencias sobre honor, intimidad e imagen. La preferencia del artículo 524.5 en tutela de derechos fundamentales no deroga esa prohibición económica, ni esta autoriza a afirmar que todo pronunciamiento de esas sentencias queda necesariamente excluido.
 
 Ejemplo ficticio: una sentencia recurrida aprecia lesión de la intimidad, impone una indemnización y ordena retirar cierto contenido. La indemnización no puede ejecutarse provisionalmente por el apartado 3. La posibilidad de actuar sobre la retirada requiere analizar ese pronunciamiento y el régimen aplicable, sin extender automáticamente la exclusión indemnizatoria ni presumir su ejecutabilidad por la sola etiqueta del proceso.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO II — De la ejecución provisional de resoluciones judiciales
 
 #### CAPÍTULO II — De la ejecución provisional de sentencias de condena dictadas en primera instancia
 

@@ -94,12 +94,6 @@ El letrado de la Administración de Justicia acuerda la suspensión por decreto.
 
 Ejemplo ficticio: una sociedad condenada provisionalmente al pago de 18.000 euros ingresa esa suma y las cantidades incluidas por intereses y costas en el despacho, con destino al ejecutante. La ejecución puede suspenderse; si la liquidación revela un resto pendiente, habrá de decidirse cómo continuar por él. Si todo queda satisfecho, procede resolver el archivo. El cálculo de costas debe coordinarse con el artículo 527.5, que excluye su cargo al ejecutado cuando cumple lo ordenado dentro de los veinte días allí previstos. La consignación no elimina el derecho restitutorio del artículo 533 si después se revoca la condena.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO II — De la ejecución provisional de resoluciones judiciales
-
-#### CAPÍTULO II — De la ejecución provisional de sentencias de condena dictadas en primera instancia
-
 #### Sección 2.ª De la revocación o confirmación de la sentencia provisionalmente ejecutada
 
 ### Artículo 532 — Confirmación de la resolución provisionalmente ejecutada.
@@ -160,10 +154,6 @@ Cuando devolver resulta imposible de hecho o de derecho, el ejecutado puede pedi
 
 Los apartados 3 y 4 permiten actuar incluso sin firmeza de la sentencia revocatoria, ante el tribunal competente para la ejecución provisional y con oposición conforme al artículo 528. La remisión debe adaptarse a la prestación que ahora se exige. Ejemplo ficticio: se entregó una máquina que produjo ingresos durante seis meses y luego se revoca la condena. Quien la recibió debe devolverla y rendir cuenta de los frutos o del uso pertinente. Si fue destruida y la restitución es imposible, se pasa al resarcimiento probado. El mecanismo explica la importancia de documentar estado, posesión y rendimientos desde la primera entrega provisional.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO II — De la ejecución provisional de resoluciones judiciales
-
 #### CAPÍTULO III — De la ejecución provisional de sentencias de condena dictadas en segunda instancia
 
 ### Artículo 535 — Ejecución provisional de sentencias dictadas en segunda instancia.
@@ -217,8 +207,6 @@ Para dinero deben distinguirse revocación total y parcial, cantidades realmente
 Ejemplo ficticio: la sentencia de apelación ordenó entregar un vehículo y fue ejecutada antes de resolverse la casación. Revocada aquella condena, la respuesta se construye con el artículo 534: devolver el vehículo en el concepto posesorio procedente, examinar el uso y, si la devolución es imposible, liquidar los daños acreditados. Si la condena hubiese consistido en dinero, correspondería aplicar el artículo 533.
 
 Comprobación práctica al cerrar el régimen provisional: identificar la resolución ejecutada y su firmeza; separar pronunciamientos dinerarios y no dinerarios; conservar justificantes de percepción, entrega y gastos; precisar si la confirmación o revocación es total; y cuantificar la restitución sin confundirla con una nueva discusión sobre el fondo del litigio.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
 
 #### TÍTULO III — De la ejecución: disposiciones generales
 
@@ -381,10 +369,6 @@ El presupuesto es un título frente a una entidad que opere en el tráfico como 
 El segundo párrafo excluye expresamente las comunidades de propietarios en propiedad horizontal. Esa exclusión impide utilizar este mecanismo para pasar directamente de un título contra la comunidad a la ejecución contra propietarios individuales; la cuestión debe resolverse por el régimen que efectivamente corresponda, sin inventar aquí una responsabilidad ilimitada.
 
 Ejemplo ficticio: una agrupación vecinal sin personalidad contrató suministros y dos gestores actuaron frente al proveedor. El acreedor con título contra la agrupación debe acreditar la condición y actuación de cada gestor al pedir despacho frente a ellos. No puede añadir a una persona que únicamente asistió a reuniones. Si la contratante era una comunidad de propietarios sometida a propiedad horizontal, esta extensión del artículo 544 queda excluida, aunque su administrador hubiera firmado el contrato en representación de ella.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO III — De la ejecución: disposiciones generales
 
 #### CAPÍTULO II — Del tribunal competente
 

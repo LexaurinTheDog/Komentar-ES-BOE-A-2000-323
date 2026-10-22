@@ -28,12 +28,6 @@ Transporte, custodia, exhibición y administración pueden exigir anticipos. El 
 
 Cuando interviene un establecimiento adecuado conforme al artículo 626.1, el apartado 2 permite fijar remuneración según tarifas y precios usuales. Conviene documentar el criterio de mercado y separar esa remuneración de gastos ya incluidos para evitar duplicidades. Por ejemplo, si una máquina embargada se almacena en una nave especializada, el ejecutante debe atender la remuneración fijada, aunque la recuperación final del crédito resulte incierta. El almacén no puede añadir sin justificación un segundo cargo por la misma custodia.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO III — Del embargo de bienes
-
 #### Sección 6.ª De la garantía del embargo de inmuebles y de otros bienes susceptibles de inscripción
 
 ### Artículo 629 — Anotación preventiva de embargo.
@@ -57,12 +51,6 @@ La anotación preventiva proporciona publicidad registral al embargo y preserva 
 La redacción vigente permite autorizar a la procura del ejecutante, a costa de este, para diligenciar el mandamiento. En ese supuesto el registro comunica directamente al profesional la anotación o los defectos y este debe informar al órgano judicial en dos días hábiles. La delegación material exige seguimiento: un defecto no subsanado no desaparece porque el documento haya salido de la oficina judicial.
 
 El apartado 2 contempla la falta de inmatriculación y la inscripción a nombre de quien transmite el derecho al ejecutado. Permite una anotación de suspensión con los efectos previstos en la legislación hipotecaria, sin dispensar de acreditar la cadena de titularidades. Por ejemplo, embargado el inmueble adquirido por el deudor pero todavía inscrito a nombre de su vendedor, debe examinarse esta vía registral; no cabe presentar el embargo como si el registro ya reflejara al comprador. Para la realización posterior han de coordinarse publicidad, titularidad y certificación de cargas.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO III — Del embargo de bienes
 
 #### Sección 7.ª De la administración judicial
 
@@ -149,10 +137,6 @@ Las discrepancias sobre actos concretos se resuelven por decreto, previa audienc
 Si existe oposición se cita a comparecencia y el decreto resultante admite revisión directa ante el tribunal. Por ejemplo, un interventor puede cuestionar durante la administración un contrato de mantenimiento y, al examinar la cuenta final, detectar facturas duplicadas que antes desconocía. Debe precisar los conceptos discutidos y su soporte, sin asumir que la audiencia anterior cerró toda posibilidad de control contable. La solicitud de ampliación del plazo debe relacionarse con el volumen y dificultad reales de la documentación.
 
 Comprobación práctica de la garantía del embargo: identificar al depositario y sus costes; confirmar el asiento registral efectivamente practicado; definir gestión, intervención y autorizaciones; conservar justificantes para la cuenta final. Son controles distintos y ninguno sustituye a los demás.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
 
 #### CAPÍTULO IV — Del procedimiento de apremio
 
@@ -244,12 +228,6 @@ En ausencia de convenio, el apartado 2 establece la subasta judicial. La redacci
 
 El apartado 3 impide que la mera expectativa de un acuerdo paralice la preparación de la subasta. Tras el embargo se practican las actuaciones necesarias y solo una solicitud y decisión conformes a la ley desplazan esa realización. Por ejemplo, el ofrecimiento informal de un comprador para maquinaria no obliga a detener tasación y formación de lotes. Las partes pueden desarrollar un convenio que incluya su venta, pero mientras no se ordene legalmente otra forma de realización debe avanzar la preparación. La suspensión y su alcance concreto sobre los bienes se rigen por el artículo 640, sin extenderse automáticamente al resto de la ejecución.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO IV — Del procedimiento de apremio
-
 #### Sección 2.ª Valoración de los bienes embargados
 
 ### Artículo 637 — Avalúo de los bienes.
@@ -310,12 +288,6 @@ El apartado 3 impone valor de mercado. En inmuebles el perito no descuenta las c
 
 Durante el plazo de cinco días desde la entrega, partes y acreedores del artículo 659 pueden formular alegaciones y aportar informes de tasador. En ese caso el letrado fija la valoración definitiva mediante decreto, apreciando conjuntamente los informes según sana crítica. No existe obligación de elegir la cifra más alta ni promediar automáticamente. Por ejemplo, si el informe judicial valora una máquina sin considerar una avería acreditada, la parte puede aportar una pericia que cuantifique su incidencia. La resolución debe tratar esa objeción y no limitarse a invocar el origen judicial del primer tasador.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO IV — Del procedimiento de apremio
-
 #### Sección 3.ª Del convenio de realización
 
 ### Artículo 640 — Convenio de realización aprobado por el letrado o la letrada de la Administración de Justicia.
@@ -349,12 +321,6 @@ La aprobación por decreto suspende la ejecución respecto de los bienes conveni
 El apartado 4 conserva el régimen legal de subsistencia y cancelación de cargas. Para inmuebles exige aprobación de la enajenación, conocimiento por el adquirente de la situación que resulte de la certificación y los consentimientos expresos indicados. Distribución del producto, inscripción y cancelaciones se coordinan con la subasta inmobiliaria; el testimonio del decreto aprobatorio es mandamiento bastante en los términos del artículo.
 
 Por ejemplo, vender una nave a un comprador localizado por una entidad especializada puede mejorar el rendimiento, pero el pacto no permite borrar unilateralmente un embargo posterior. Deben obtenerse las conformidades exigidas y documentar la transmisión antes de solicitar los efectos registrales. La reforma concentra aquí materias antes reguladas en los artículos 641 y 642; sus redacciones históricas no deben añadirse al régimen vigente.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO IV — Del procedimiento de apremio
 
 #### Sección 4.ª De la realización por persona o entidad especializada
 
@@ -393,12 +359,6 @@ La indicación «Sin contenido» impide utilizar este artículo como regla vigen
 Por ejemplo, el comprador de una finca en ejecución mediante convenio no obtiene la cancelación de toda carga por citar el antiguo artículo 642. La aprobación de la transmisión, el conocimiento de la certificación y los consentimientos exigidos se analizan conforme al artículo 640 vigente. Para procedimientos a los que pudiera corresponder una regulación anterior debe justificarse primero la norma temporal aplicable. La conservación de este espacio en el libro permite detectar ese riesgo sin reproducir una versión histórica como derecho simultáneamente vigente.
 
 Comprobación práctica de la realización convenida: precisar bien, precio, plazo y forma de pago; identificar terceros afectados y conformidades expresas; fijar el alcance de la suspensión; verificar cumplimiento, cargas y título de inscripción antes de solicitar el sobreseimiento respecto del bien.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO IV — Del procedimiento de apremio
 
 #### Sección 5.ª De la subasta de bienes muebles
 

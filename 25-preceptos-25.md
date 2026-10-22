@@ -54,10 +54,6 @@ El apartado 1 establece una excepción expresa para la casación: el desistimien
 
 Cuando hay varios recurrentes, el apartado 2 evita que la retirada de uno clausure el recurso de los demás. Se abandonan las pretensiones impugnatorias exclusivas del desistido, pero la resolución no adquiere firmeza por ese solo desistimiento. Por ejemplo, si dos codemandados apelan por motivos propios y uno se retira, el otro conserva su recurso; el tribunal deberá identificar qué peticiones seguían vivas y cuáles dependían exclusivamente de quien desistió. Antes de retirar conviene comprobar también si existe impugnación de la contraparte conforme al artículo 461, pues la retirada del recurso propio no debe confundirse con un acuerdo que haya extinguido todas las controversias de segunda instancia.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO IV — De los recursos
-
 #### CAPÍTULO II — De los recursos de reposición y revisión
 
 ### Artículo 451 — Resoluciones recurribles en reposición. Inexistencia de efectos suspensivos.
@@ -168,10 +164,6 @@ Por ejemplo, si un decreto desestima la reposición sobre una actuación ejecuti
 
 **Control de recursos interlocutorios.** Identificar autor y forma de la resolución; comprobar si procede reposición o revisión directa; anotar los cinco días y la infracción concreta; atender las actuaciones no suspendidas; conservar la denuncia para la resolución definitiva cuando corresponda. El pie de recurso debe contrastarse con la vía legal aplicable.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO IV — De los recursos
-
 #### CAPÍTULO III — Del recurso de apelación y de la segunda instancia
 
 #### Sección 1.ª Del recurso de apelación y de la segunda instancia: disposiciones generales
@@ -221,12 +213,6 @@ La segunda instancia permite revisar la decisión sobre las pretensiones de prim
 La posibilidad de nueva prueba está limitada por el artículo 460. No basta que un medio hubiera sido útil: hay que justificar el supuesto que permite introducirlo en segunda instancia. El alcance efectivo de la revisión también depende de los puntos recurridos y de la eventual impugnación de la contraparte, según los artículos 461 y 465.5.
 
 Los apartados 2 y 3 distinguen efectos. La apelación contra sentencias desestimatorias y autos que ponen fin al proceso no suspende ni permite actuar contra lo decidido. Para sentencias estimatorias se remite al régimen de ejecución provisional del título II del libro III, que exige examinar la naturaleza de cada pronunciamiento. Por ejemplo, quien apela una condena al pago no obtiene por presentar el recurso una inmunidad automática frente a ejecución provisional; quien apela una desestimación tampoco puede tratar su demanda como estimada mientras espera. Conviene separar la petición de revocación, que afecta a la decisión final, de las incidencias sobre eficacia o ejecución durante la tramitación del recurso.
-
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO IV — De los recursos
-
-#### CAPÍTULO III — Del recurso de apelación y de la segunda instancia
 
 #### Sección 2.ª De la sustanciación de la apelación
 

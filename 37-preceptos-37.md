@@ -304,8 +304,6 @@ Por ejemplo, un interesado que ejercita una reclamación ajena a las causas tasa
 
 **Comprobación práctica del cierre hipotecario:** verificar garantía y rango en la certificación; documentar requerimientos y comunicaciones; separar cuotas vencidas de vencimiento total; clasificar cada motivo de oposición y su prueba; controlar fechas de liberación y cierre de subasta; distribuir el precio por conceptos y coberturas; reflejar notificaciones y destino del sobrante en las actuaciones cancelatorias.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
 #### TÍTULO V — De la ejecución no dineraria
 
 #### CAPÍTULO I — De las disposiciones generales
@@ -343,10 +341,6 @@ La demora material en hacer, no hacer o entregar permite asegurar la eficacia de
 Este embargo no declara ya imposible el cumplimiento específico ni reconoce definitivamente todos los daños alegados. Preserva bienes para un eventual resultado económico de la ejecución. La cuantía ha de guardar relación con esa exposición, evitando usar una estimación desproporcionada como presión para obtener prestaciones ajenas al título. Contra el decreto cabe revisión directa ante el tribunal que dictó la orden general, sin efecto suspensivo.
 
 El ejecutado puede obtener el alzamiento prestando caución por la cuantía fijada y en las formas del artículo 529.3, párrafo segundo. No basta ofrecer una promesa de pago o una garantía cuyo importe no cubra el fijado. Por ejemplo, si una empresa debe entregar una pieza industrial cuya localización llevará varias semanas, el ejecutante puede pedir embargo para asegurar la compensación que pudiera resultar necesaria y las costas. Una caución suficiente sustituirá ese embargo, pero la empresa seguirá obligada a entregar la pieza mientras tal cumplimiento sea procedente.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO V — De la ejecución no dineraria
 
 #### CAPÍTULO II — De la ejecución por deberes de entregar cosas
 
@@ -451,10 +445,6 @@ El apartado 2 separa a los verdaderos terceros de quienes comparten con el ejecu
 Por ejemplo, al ejecutar la entrega aparece una persona que afirma ser arrendataria independiente y aporta contrato. Debe dársele la oportunidad procesal prevista para justificar su situación; la mera exhibición del documento tampoco obliga a reconocer definitivamente su oponibilidad. En cambio, la familia conviviente del ejecutado se sitúa, en principio, en el régimen del apartado 1, no en un incidente de tercero artificialmente separado.
 
 **Comprobación práctica de las entregas:** individualizar el bien y la prestación; agotar la localización del mueble antes de sustituirlo por dinero; justificar compras de bienes genéricos; documentar entrega efectiva, objetos y desperfectos del inmueble; identificar ocupantes y títulos; controlar plazos de retirada, reclamación y desalojo, y señalar exactamente el lanzamiento.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO V — De la ejecución no dineraria
 
 #### CAPÍTULO III — De la ejecución por obligaciones de hacer y no hacer
 

@@ -204,12 +204,6 @@ Ejemplo: se pide a una empresa de logística información sobre el funcionamient
 
 **Comprobación práctica de la testifical:** identificar la fuente de conocimiento; formular preguntas de contradicción; solicitar oportunamente el careo; comprobar la documentación; distinguir indemnización y costas; alegar tachas dentro de plazo y preparar su prueba sin nueva testifical; revisar las especialidades de informes profesionales y respuestas institucionales.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO VI — De los medios de prueba y las presunciones
-
 #### Sección 8.ª De la reproducción de la palabra, el sonido y la imagen y de los instrumentos que permiten archivar y conocer datos relevantes para el proceso
 
 ### Artículo 382 — Instrumentos de filmación, grabación y semejantes. Valor probatorio.
@@ -276,12 +270,6 @@ Ejemplo: una empresa aporta una hoja de cálculo para justificar cantidades pend
 
 **Comprobación práctica de soportes y datos:** delimitar lo que se pretende probar; preparar la reproducción o acceso; identificar archivo y versión; conservar el contexto y las operaciones relevantes; facilitar contradicción técnica; documentar y custodiar el material efectivamente examinado.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
-#### CAPÍTULO VI — De los medios de prueba y las presunciones
-
 #### Sección 9.ª De las presunciones
 
 ### Artículo 385 — Presunciones legales.
@@ -319,10 +307,6 @@ La sentencia debe exponer el razonamiento que lleva del hecho base al presumido.
 Por ejemplo, la presencia exclusiva de una empresa en un local en determinadas horas, junto con registros fiables de acceso, puede servir para razonar sobre quién realizó una retirada de bienes. Pero si otras personas conservaban llaves y podían entrar sin registro, esa explicación alternativa afecta al enlace y debe examinarse. La carga de la prueba del artículo 217 no desaparece porque la demanda presente una narración plausible: se necesita la base acreditada y una inferencia suficientemente justificada.
 
 **Comprobación de presunciones:** separar base y conclusión; identificar si el enlace procede de una norma o del razonamiento judicial; verificar la admisión o prueba del indicio; preparar contradicción sobre resultado y enlace; exigir motivación concreta cuando se aplique el artículo 386.
-
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
 
 #### CAPÍTULO VII — De las cuestiones incidentales
 

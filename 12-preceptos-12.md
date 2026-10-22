@@ -266,12 +266,6 @@ La subsanación judicial se acuerda mediante auto; el régimen alcanza también 
 
 Ejemplo: se pidió expresamente una condena accesoria y la sentencia no la trata. El complemento exige demostrar que era objeto oportunamente debatido; no sirve para añadir una pretensión olvidada por el actor. Si el tribunal desestimó expresamente, aunque sus razones parezcan erróneas, no hay un silencio que completar sino una decisión que impugnar por la vía procedente.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO V — De las actuaciones judiciales
-
-#### CAPÍTULO VIII — De las resoluciones procesales
-
 #### Sección 2.ª De los requisitos internos de la sentencia y de sus efectos
 
 ### Artículo 216 — Principio de justicia rogada.
@@ -419,12 +413,6 @@ El apartado 2 distingue hechos posteriores a la completa preclusión de alegacio
 El apartado 4 contiene efecto positivo: lo resuelto como antecedente lógico vincula en proceso posterior si hay identidad subjetiva o extensión legal, aunque el nuevo objeto no sea idéntico. Ejemplo: tras sentencia firme sobre una relación, otro pleito reclama una consecuencia diferente que presupone esa relación. Puede no proceder exclusión total del segundo proceso, pero sí vinculación sobre lo ya decidido. Deben comparar pretensiones, causa, sujetos, momento de hechos y parte efectivamente resuelta, no solo títulos de demandas. La cosa juzgada formal del artículo 207 actúa dentro del expediente y no sustituye este análisis material.
 
 **Control de resoluciones:** identificar autor y clase; verificar motivación y fallo expreso; separar definitiva y firme; revisar oportunidad de aclarar o completar sin modificar fondo; concretar cuantía y futuro devengo; distinguir carga probatoria e insuficiencia de prueba; comparar objeto y sujetos antes de invocar cosa juzgada.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO V — De las actuaciones judiciales
-
-#### CAPÍTULO VIII — De las resoluciones procesales
 
 #### Sección 3.ª De las diligencias de ordenación
 

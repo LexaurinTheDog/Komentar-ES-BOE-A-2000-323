@@ -264,12 +264,6 @@ Ejemplo ficticio: quien compra un piso ocupado por una persona que invoca un arr
 
 Comprobación práctica al cerrar la realización inmobiliaria: contrastar el pago y la adjudicación, las cargas anteriores subsistentes, el destino del remanente, el testimonio inscribible, el mandamiento cancelatorio y la situación de cada ocupante. La publicidad de la subasta no sustituye ninguno de estos controles.
 
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
-
-#### CAPÍTULO IV — Del procedimiento de apremio
-
 #### Sección 7.ª De la administración para pago
 
 ### Artículo 676 — Constitución de la administración.
@@ -363,10 +357,6 @@ El apartado 2 permite al ejecutado anticipar el final pagando en cualquier momen
 Ejemplo ficticio: las rentas de un local apenas cubren sus gastos y el acreedor solicita pasar a la venta forzosa. Antes debe rendir cuentas de la gestión. En cambio, si el deudor paga el saldo pendiente de 12.000 euros conforme al último estado, recupera inmediatamente la posesión, aunque después se discuta una partida de la cuenta final.
 
 Lista práctica de cierre de la administración: verificar la causa de terminación, el saldo y su imputación, la entrega de bienes y documentos y la cuenta final; separar las partidas discutidas de las controversias sobre el modo de gestión y evitar seguir cobrando frutos sin título tras el cese.
-
-#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
-
-#### TÍTULO IV — De la ejecución dineraria
 
 #### CAPÍTULO V — De las particularidades de la ejecución sobre bienes hipotecados o pignorados
 

@@ -54,10 +54,6 @@ El apartado 3 permite el informe jurídico, pero impide alterar las pretensiones
 
 **Control al terminar el juicio ordinario.** Conviene dejar identificadas las incidencias sobre prueba ilícita, el tratamiento de los hechos sobrevenidos, las pruebas efectivamente practicadas, las decisiones impugnadas y el resultado que cada parte atribuye a cada hecho. Las conclusiones deben permitir al tribunal distinguir un hecho no probado de otro admitido y una consecuencia jurídica de una petición nueva.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO II — Del juicio ordinario
-
 #### CAPÍTULO IV — De la sentencia
 
 ### Artículo 434 — Sentencia.
@@ -127,8 +123,6 @@ Después de practicarlas, las partes disponen de cinco días para un escrito de 
 Por ejemplo, recibida la declaración de un testigo cuya comparecencia había resultado imposible por causas ajenas al proponente, ambas partes podrán explicar por escrito qué acredita y qué contradicciones presenta. No procede dictar sentencia suprimiendo esa oportunidad de valoración. La planificación debe registrar la práctica efectiva, su traslado y la terminación del período de cinco días antes de calcular el plazo de decisión.
 
 **Comprobación del cierre probatorio.** La solicitud debe identificar la regla habilitante del artículo 435, el auto debe motivar lo exigible en cada caso y la oficina judicial debe controlar práctica, contradicción escrita y nuevo cómputo para sentencia. Que una diligencia sea útil no subsana por sí solo su proposición tardía imputable a la parte.
-
-#### LIBRO II — De los procesos declarativos
 
 #### TÍTULO III — Del juicio verbal
 
@@ -735,8 +729,6 @@ Las reglas 9.ª a 11.ª conceden veinte días para formalizar demanda tras entre
 Por ejemplo, quien recurre una denegación de registro debe interponer dentro del plazo correspondiente, pero no confundir ese acto con la posterior demanda de veinte días. Si la OEPM no envía el expediente, puede pedir formalizar sin él, reservando el contraste posterior mediante las alegaciones complementarias previstas. El precepto no determina por sí solo la solución de fondo sobre registrabilidad ni permite prescindir de los demás presupuestos de competencia y representación.
 
 **Control del recurso OEPM.** Conviene anotar por separado agotamiento de vía, notificación o publicación, interposición, entrada de la reclamación del expediente, integridad de éste, emplazamientos, entrega para demanda y traslado para contestaciones. Cada hito tiene destinatario y plazo propio; una agenda única de «veinte días» puede ocultar una preclusión decisiva.
-
-#### LIBRO II — De los procesos declarativos
 
 #### TÍTULO IV — De los recursos
 

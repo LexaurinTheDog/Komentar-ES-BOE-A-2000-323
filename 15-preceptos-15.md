@@ -220,10 +220,6 @@ Por ejemplo, el tribunal devuelve una certificación al considerar injustificada
 
 **Comprobación práctica del capítulo III.** Clasificar cada material como procesal, de fondo o requisito especial de admisión; verificar su disponibilidad y momento de aportación; identificar con precisión lo no disponible; conservar originales y justificantes de petición; justificar cada excepción temporal; comprobar que la reproducción y el envío cumplen sus requisitos propios.
 
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
-
 #### CAPÍTULO IV — De las copias de los escritos y documentos y su traslado
 
 ### Artículo 273 — Forma de presentación de los escritos y documentos.
@@ -415,10 +411,6 @@ Si concurre ese riesgo, el tribunal declara la nulidad de lo actuado desde la en
 Por ejemplo, la copia de una reclamación entregada a la contraria omite el anexo que individualiza varias facturas, aunque éste sí consta en el original. Si esa omisión pudo impedir discutir pagos concretos, procede examinar la nulidad con audiencia de todos. Un error tipográfico sin efecto sobre las alegaciones exige una valoración distinta.
 
 **Comprobación práctica del capítulo IV.** Determinar quién realiza el traslado; incluir todos los anexos y destinatarios; conservar el resguardo y comprobar su eficacia temporal; no esperar una resolución judicial cuando la ley abre el plazo con el traslado; contrastar las copias relevantes y denunciar las diferencias capaces de afectar a la defensa.
-
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
 
 #### CAPÍTULO V — De la prueba: disposiciones generales
 

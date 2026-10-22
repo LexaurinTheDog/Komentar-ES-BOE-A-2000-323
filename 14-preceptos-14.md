@@ -94,8 +94,6 @@ Por inclusión indebida u omisión de gastos reclamados se oye al contrario tres
 
 Si se alega una partida indebida y subsidiariamente excesiva, se tramitan ambas pero se suspende resolver exceso hasta decidir devengo. La obligación de la Administración de pagar por justicia gratuita queda fuera del incidente. Ejemplo: una actuación nunca realizada se combate por indebida; solo si se reconoce que era debida tiene sentido discutir su precio excesivo. El escrito debe formular esa relación subsidiaria con conceptos concretos, no confundir desacuerdo contractual con toda la condena en costas.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
 #### TÍTULO VIII — De la buena fe procesal
 
 ### Artículo 247 — Respeto a las reglas de la buena fe procesal. Multas por su incumplimiento.
@@ -463,10 +461,6 @@ En ordinario se plantea en la contestación y se resuelve en la audiencia previa
 Ejemplo: una reclamación dineraria común se presenta como de 14.000 euros, pero la documentación y la propia petición revelan 18.000 euros. El demandado puede explicar en su contestación por qué la corrección exige ordinario. En cambio, si una materia está legalmente atribuida al verbal con independencia del importe, elevar el valor no basta para exigir ordinario; habrá que justificar, en su caso, el otro efecto expresamente previsto respecto de la apelación. La impugnación no resuelve si la deuda existe: separa la magnitud procesal de la controversia y el juicio sobre su fundamento.
 
 **Comprobación práctica de cauce y cuantía:** identificar primero la tutela y la regla material; aplicar después la valoración del objeto y de las acumulaciones; documentar el cálculo a fecha de demanda; comprobar el límite de 15.000 euros y sus excepciones; expresar la cuantía aunque no determine el cauce; y plantear en la contestación la impugnación con su efecto procesal concreto.
-
-#### LIBRO II — De los procesos declarativos
-
-#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
 
 #### CAPÍTULO II — De las diligencias preliminares
 

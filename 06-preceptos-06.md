@@ -96,12 +96,6 @@ La prohibición de un segundo incidente se dirige al supuesto descrito: quien in
 
 El letrado de la Administración de Justicia rechaza por decreto. Si el incidente se tramita pese a la prohibición, el tribunal anula lo actuado por esa solicitud y condena en sus costas al presentante. Ejemplo: el mismo actor genera un pleito adicional y pretende encadenar incidentes sucesivos de reunión; la norma evita prolongar así la incertidumbre procesal. La consecuencia se limita a lo actuado a causa de la solicitud prohibida y debe distinguirse de la validez del proceso principal. El historial de demandas e incidentes es esencial para motivar la aplicación.
 
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO III — De la acumulación de acciones y de procesos
-
-#### CAPÍTULO II — De la acumulación de procesos
-
 #### Sección 4.ª De la acumulación de procesos singulares a procesos universales
 
 ### Artículo 98 — Casos en que corresponde la acumulación de procesos singulares a un proceso universal.
@@ -127,8 +121,6 @@ La acumulación al proceso universal responde a la sujeción de un caudal común
 El apartado 2 desplaza la prioridad temporal ordinaria: se pide al tribunal del universal y se acumula a este aunque sea posterior. El apartado 3 conserva las reglas del capítulo con las especialidades legales. Ejemplo: una reclamación singular contra el caudal hereditario no se dirige para acumular al órgano de la demanda más antigua por simple aplicación del artículo 79; debe examinarse la especialidad universal. Si es ejecución limitada a un bien hipotecado, hay que respetar la excepción sin extenderla automáticamente a reclamaciones personales o a bienes distintos.
 
 **Control de acumulación:** listar cada proceso y parte; acreditar fechas de demanda y reparto; explicar conexión y por qué no bastaba litispendencia; revisar competencia y fase; dirigir al órgano receptor correcto; mantener cargas no suspendidas; controlar personaciones y ajuste de fases tras el auto.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
 
 #### TÍTULO IV — De la abstención y la recusación
 
@@ -175,10 +167,6 @@ La apreciación debe seguir el procedimiento propio del sujeto: el deber de comu
 Solo las partes pueden recusar en asuntos civiles, con la habilitación del Ministerio Fiscal cuando por la naturaleza de los derechos pueda o deba intervenir. La legitimación no se extiende a cualquier observador, profesional o tercero con interés social en el pleito. La posición del Fiscal se conecta con su intervención legal, no con una potestad ilimitada para iniciar incidentes en toda controversia civil.
 
 El abogado actúa técnicamente por la parte y no sustituye sus requisitos personales de proposición del artículo 107. Ejemplo: una asociación ajena al procedimiento que discrepa del órgano judicial no adquiere legitimación para recusarlo por presentar un escrito de apoyo a un litigante; debe verificarse su condición procesal si pretende intervenir. Una parte legítima, por su parte, debe identificar causa y observar plazo y forma. La delimitación protege el proceso frente a incidentes promovidos por personas extrañas sin reducir el deber autónomo de abstenerse cuando efectivamente exista causa.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO IV — De la abstención y la recusación
 
 #### CAPÍTULO II — De la abstención de Jueces, Magistrados, Letrados de la Administración de Justicia, Fiscales y del personal al servicio de los tribunales civiles
 
@@ -261,10 +249,6 @@ Si la causa surge o se conoce tras aceptar, decide quien hizo la designación, p
 La abstención de miembros del Ministerio Fiscal se remite a su Estatuto Orgánico. La norma no los equipara sin más al juez civil para la decisión de su apartamiento. El deber general del artículo 100 debe concretarse a través de esa organización y del procedimiento específico, manteniendo la intervención fiscal que el litigio requiera.
 
 Ejemplo: en un proceso donde la presencia del Fiscal protege intereses de una persona menor, la abstención de un miembro no permite suprimir esa intervención institucional; debe articularse la sustitución conforme a su régimen. Tampoco una discrepancia de las partes con el criterio del Fiscal demuestra por sí misma causa de abstención. La petición o comunicación debe describir hechos jurídicamente relevantes y distinguir la posición institucional de las circunstancias personales del miembro interviniente. No se atribuye aquí a la parte una facultad de recusación que este artículo no establece; la lectura del título exige respetar sus remisiones diferenciadas.
-
-#### LIBRO I — De las disposiciones generales relativas a los juicios civiles
-
-#### TÍTULO IV — De la abstención y la recusación
 
 #### CAPÍTULO III — De la recusación de Jueces y Magistrados
 
