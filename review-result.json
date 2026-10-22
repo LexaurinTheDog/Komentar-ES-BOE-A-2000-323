@@ -2,115 +2,116 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a548",
-    "a549",
-    "a550",
-    "a551",
-    "a552",
-    "a553",
-    "a554",
-    "a555",
-    "a556",
-    "a557",
-    "a558",
-    "a559",
-    "a560",
-    "a561",
-    "a562",
-    "a563",
-    "a564",
-    "a565",
-    "a566",
-    "a567"
+    "a568",
+    "a569",
+    "a570",
+    "a571",
+    "a572",
+    "a573",
+    "a574",
+    "a575",
+    "a576",
+    "a577",
+    "a578",
+    "a579",
+    "a580",
+    "a581",
+    "a582",
+    "a583",
+    "a584",
+    "a585",
+    "a586",
+    "a587"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a548",
-      "finding": "Espera de veinte días: hitos de firmeza y notificación, cómputo procesal y excepción 549.4 comprobados; no confusión con caducidad ni oposición."
+      "id": "a568",
+      "finding": "Comprobados los tres apartados: impedimento de despacho, suspensión por LAJ y continuidad respecto de codemandados no afectados. Las remisiones 5 bis y 57.3 se conservan como referencias históricas de la literalidad oficial, sin inventar equivalencias actuales ni excepciones concursales autónomas."
     },
     {
-      "id": "a549",
-      "finding": "Comprobados cinco contenidos, solicitud simplificada, desahucios y día/hora exactos; vivienda habitual y remisión a 441.5–7 conservados."
+      "id": "a569",
+      "finding": "Corregido el ejemplo: la suspensión debe acordarse una vez verificados causa pendiente, conexión decisiva y audiencia. Diferenciadas denuncia aislada, indemnización con remisión a 40.7 y continuación bajo caución de 529.3."
     },
     {
-      "id": "a550",
-      "finding": "Cotejados cuatro documentos, excepción título en autos, laudo y notificación, actas de MASC y poder electrónico; reforma 2025 no sustituida por versión histórica."
+      "id": "a570",
+      "finding": "Satisfacción completa y decreto con revisión contrastados; intereses y costas pendientes diferenciados de invalidez del despacho y falta temporal de bienes. Comprobada conexión con 583.3."
     },
     {
-      "id": "a551",
-      "finding": "Cinco apartados y seis contenidos del auto revisados; consulta concursal, delegación material y recursos distinguidos. STC 31/2019 releída con límites temporales."
+      "id": "a571",
+      "finding": "Ámbito de ejecución dineraria y liquidez directa o indirecta cotejados; ejemplo distingue conversión de obligación de hacer y liquidación previa, sin crear un título ejecutivo."
     },
     {
-      "id": "a552",
-      "finding": "Comprobados audiencia de quince días, decisión en cinco hábiles, recursos, firmeza y cosa juzgada. Discordancia oficial 561.1.3.ª frente a vigente 561.2 correctamente señalada."
+      "id": "a572",
+      "finding": "Liquidez, prioridad de letras, excepción provisional de intereses y costas, pacto de saldo y notificación previa a deudor y fiador comprobados separadamente."
     },
     {
-      "id": "a553",
-      "finding": "Conjunto de notificación, destinatario, personación sin emplazamiento y preclusión de remedios contrastados."
+      "id": "a573",
+      "finding": "Cotejados los tres documentos obligatorios, justificantes facultativos y reserva de partidas dudosas para declarativo simultáneo; remisiones 550 y 575.3 verificadas."
     },
     {
-      "id": "a554",
-      "finding": "Remisión limitada a 551.3.2.º verificada; investigación inmediata frente a petición y riesgo justificado si hay requerimiento."
+      "id": "a574",
+      "finding": "Dos supuestos de cálculo contrastados; remisión exacta a 573.1.2.º y 3.º y 573.2–3 preservada; no se confunde préstamo variable con autorización contractual para cualquier cálculo."
     },
     {
-      "id": "a555",
-      "finding": "Acumulación obligatoria mismas partes, discrecional mismo deudor, trámite 74 y excepción hipotecaria sobre mismos bienes comprobados."
+      "id": "a575",
+      "finding": "Comprobados base de principal e intereses vencidos, reserva conjunta ordinaria del 30 %, excepción justificada, límite de costas del 5 % en vivienda habitual y presupuestos de denegación."
     },
     {
-      "id": "a556",
-      "finding": "Diez días, prueba documental, documento público, no suspensión y tres causas especiales del auto de tráfico contrastados."
+      "id": "a576",
+      "finding": "Tres apartados cotejados y STC 209/2009 íntegra releída: amparo por igualdad, anulación parcial y retroacción, sin tarifa pública universal ni liquidación judicial definitiva. Contexto histórico y diferencia devengo/exigibilidad preservados."
     },
     {
-      "id": "a557",
-      "finding": "Siete causas y requisitos probatorios diferenciados; suspensión coordinada con especialidad de pluspetición; no se extiende caso constitucional a toda preclusión."
+      "id": "a577",
+      "finding": "Objeto principal en moneda extranjera, partidas en moneda nacional y conversión instrumental al despacho comprobados; remisión de liquidación 714–716 contrastada."
     },
     {
-      "id": "a558",
-      "finding": "Cantidad reconocida para entrega inmediata, retención del exceso, perito, cinco días comunes y vista ante alegación unilateral comprobados."
+      "id": "a578",
+      "finding": "Petición y vencimientos de misma obligación, advertencia inicial, consignación, liquidación final y medidas patrimoniales no automáticas contrastados; remisión literal a 613.4 conservada."
     },
     {
-      "id": "a559",
-      "finding": "Completada remisión del ordinal 3.º a 520: títulos tasados, superior a 300 euros y suma de títulos. Revisadas las otras causas, subsanación y costas."
+      "id": "a579",
+      "finding": "Precisada la condición de la vía del 80 %: no haber podido satisfacer 65 % en cinco años. Cotejados remanente, interés legal, sujetos de reventa, diez años, plusvalía neta, devolución del exceso y constancia registral."
     },
     {
-      "id": "a560",
-      "finding": "Plazo de cinco días según dos hitos, solicitud de vista, documentos y consecuencias asimétricas de incomparecencia cotejados."
+      "id": "a580",
+      "finding": "Enumeración de títulos y dispensa de requerimiento previo al embargo verificadas; distinguida de demanda, despacho, comunicaciones y plazo de espera 548."
     },
     {
-      "id": "a561",
-      "finding": "Precisadas providencia, remisión a 700 y objeto indemnizatorio de caución del ejecutante en apelación estimatoria. Cotejadas pluspetición, costas, reintegración y cosa juzgada sobre abusividad."
+      "id": "a581",
+      "finding": "Requerimiento tras despacho, importe requerido y cobertura del embargo diferenciados; acta notarial y diez días contrastados, con especialidades del 580."
     },
     {
-      "id": "a562",
-      "finding": "Cauces reposición, apelación expresa y escrito sin resolución distinguidos; nulidad remitida a tribunal conforme 225 y siguientes."
+      "id": "a582",
+      "finding": "Domicilio del título, sede electrónica para obligados, lugar accidental a petición y ausencia con embargo solicitado cotejados; la ausencia no equivale a comunicación ni habilita automáticamente edictos."
     },
     {
-      "id": "a563",
-      "finding": "Reposición/apelación judicial frente a reposición/revisión/apelación de resolución LAJ comprobadas; suspensión concreta y caución 529.3."
+      "id": "a583",
+      "finding": "Pago, puesta a disposición y justificante, costas con excepción por imposibilidad no imputable y decreto tras intereses/costas cotejados; ejemplo evita cierre automático por principal."
     },
     {
-      "id": "a564",
-      "finding": "Posterioridad, relevancia y exclusión de causas de oposición verificadas; proceso posterior no confiere suspensión automática."
+      "id": "a584",
+      "finding": "Suficiencia respecto de cantidad despachada, valoración previsible y excepción de únicos bienes superiores necesarios contrastadas; coordinación con criterios y orden del 592 comprobada."
     },
     {
-      "id": "a565",
-      "finding": "Reforma efectiva 3-4-2025 cotejada: sometimiento MASC, alzamiento sin acuerdo, archivo por cumplimiento/innecesariedad u homologación; garantías durante suspensión."
+      "id": "a585",
+      "finding": "Consignación íntegra anterior suspende embargo; posterior antes de resolver oposición produce alzamiento. No confundida con pago definitivo ni estimación de oposición."
     },
     {
-      "id": "a566",
-      "finding": "Cuatro apartados comprobados: admisión, petición, caución y Fiscal para revisión; desestimación, estimación y nueva condena tras rescisión diferenciadas."
+      "id": "a586",
+      "finding": "Destino diferenciado de consignación con y sin oposición cotejado; depósito y suspensión frente a entrega con ulterior liquidación, sin apropiación definitiva de reserva provisional."
     },
     {
-      "id": "a567",
-      "finding": "Recurso no suspensivo, daño de difícil reparación, caución y tribunal competente comprobados; limitado a actuación recurrida."
+      "id": "a587",
+      "finding": "Precisado que el procurador receptor es el del ejecutante. Revisados nacimiento de traba por decreto o acta, garantía/publicidad inmediata y protección del tercero de buena fe."
     }
   ],
   "limitations": [
-    "Segunda lectura limitada exactamente a548–a567; no revisión íntegra del libro.",
-    "Fecha jurídica conservada: 19-10-2026; consulta renovada de BOE sin cambio respecto al XML de autoría.",
-    "Jurisprudencia selectiva: STC 31/2019 íntegra, incluido voto particular; no investigación exhaustiva de evolución posterior.",
-    "Revisión de borrador; sin aprobación profesional externa."
+    "Segunda lectura limitada exactamente a568–a587; no revisión íntegra del libro.",
+    "Fecha jurídica conservada: 19-10-2026; nueva consulta BOE de texto, metadatos y análisis sin cambios desde la captura de autoría.",
+    "Jurisprudencia selectiva: STC 209/2009, texto íntegro y corpus nacional conservado; sin cobertura exhaustiva de evolución jurisprudencial posterior.",
+    "El artículo 568 conserva remisiones concursales históricas: no se ofrece una concordancia integral con el régimen concursal ni asesoramiento temporal de un expediente concreto.",
+    "Borrador sin aprobación profesional externa."
   ],
-  "reviewed_at": "2026-10-22T01:51:12.880864+00:00"
+  "reviewed_at": "2026-10-22T01:59:45.597518+00:00"
 }

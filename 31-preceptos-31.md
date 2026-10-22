@@ -52,7 +52,7 @@ La denuncia no concede al ejecutado un poder unilateral de detener la ejecución
 
 El apartado 2 regula una consecuencia distinta de la reanudación: permite al ejecutante pedir daños y perjuicios si la causa concluye declarando la inexistencia del hecho o su carácter no delictivo, con la remisión al artículo 40.7. No convierte cualquier archivo penal en una condena indemnizatoria automática ni dispensa de concretar los daños atribuibles a la suspensión. El apartado 3 permite continuar si el ejecutante presta caución suficiente para responder tanto de lo percibido como del perjuicio causado al ejecutado; la suficiencia debe valorarse judicialmente y la forma se rige por el artículo 529.3.
 
-Supóngase que se investiga la falsificación de la firma en el documento que sirve de título. La ejecución puede suspenderse si el resultado penal condiciona su validez. Si el acreedor solicita continuar ofreciendo garantía, debe cubrir también el daño de una realización patrimonial que después resulte ilegítima, no únicamente devolver el principal cobrado.
+Supóngase que se investiga la falsificación de la firma en el documento que sirve de título. Acreditada una causa penal pendiente con la conexión decisiva descrita, el tribunal debe acordar la suspensión tras oír a las partes y al Ministerio Fiscal; no es una facultad discrecional una vez comprobados esos presupuestos. Si el acreedor solicita continuar ofreciendo garantía, debe cubrir también el daño de una realización patrimonial que después resulte ilegítima, no únicamente devolver el principal cobrado.
 
 ### Artículo 570 — Final de la ejecución.
 
@@ -69,6 +69,8 @@ La satisfacción completa es el criterio de terminación ordinaria de la ejecuci
 La terminación se acuerda mediante decreto del letrado de la Administración de Justicia. El recurso directo de revisión permite someter al tribunal una discrepancia sobre esa decisión, por ejemplo cuando se discute si la suma entregada cubre realmente la obligación ejecutada. Esta regla debe coordinarse con las causas legales de suspensión y con las decisiones que dejan sin efecto una ejecución improcedente: la frase «sólo terminará» no autoriza conservar una ejecución cuyo título o despacho ha sido invalidado.
 
 Si una subasta deja pendiente parte del crédito, el resultado insuficiente no acredita satisfacción completa. Si, en cambio, los ingresos cubren todo lo exigible, la expectativa de nuevas indagaciones patrimoniales carece de finalidad ejecutiva. Antes de cerrar este capítulo conviene comprobar: saldo por conceptos, pagos y consignaciones imputados, intereses liquidados, costas pendientes y resolución procesal que corresponde dictar. La falta temporal de bienes debe distinguirse de la extinción de la deuda satisfecha.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
 
 #### TÍTULO IV — De la ejecución dineraria
 
@@ -246,9 +248,13 @@ Si durante la ejecución vencen tres mensualidades, la cláusula de ampliación 
 
 La realización de la garantía y la reclamación del déficit son fases jurídicamente diferenciadas. Cuando se procede exclusivamente contra bienes hipotecados o pignorados rige el capítulo V del título. Si su realización resulta insuficiente, el acreedor puede pedir ejecución por la cantidad pendiente y contra quienes proceda. Esta última expresión exige justificar la responsabilidad personal del destinatario: la insuficiencia del bien no convierte automáticamente a su propietario en deudor de todo el saldo.
 
-El apartado 2 establece especialidades para la vivienda habitual hipotecada, sin suspender la continuación por el remanente. La letra a) permite la liberación si en cinco años se cubre el 65 % de la cantidad pendiente al aprobarse el remate o adjudicación, incrementada exclusivamente con interés legal; alternativamente, el 80 % dentro de diez años en los términos indicados. Fuera de esas condiciones permanece la reclamación conforme al contrato y a las normas aplicables. Los porcentajes se refieren al remanente definido por la norma, no al principal originario del préstamo.
+El apartado 2 establece especialidades para la vivienda habitual hipotecada, sin suspender la continuación por el remanente. La letra a) permite la liberación si en cinco años se cubre el 65 % de la cantidad pendiente al aprobarse el remate o adjudicación, incrementada exclusivamente con interés legal; si no pudo satisfacer ese 65 % dentro de los cinco años, puede obtener la liberación satisfaciendo el 80 % dentro de diez años, en los mismos términos. No son dos opciones temporalmente indiferentes. Fuera de esas condiciones permanece la reclamación conforme al contrato y a las normas aplicables. Los porcentajes se refieren al remanente definido por la norma, no al principal originario del préstamo.
 
 La letra b) reduce la deuda pendiente al venderse la vivienda en el 50 % de la plusvalía neta acreditada cuando se cumplen las condiciones de adjudicación, identidad del adquirente o grupo y venta dentro de diez años. No dispone una participación general en cualquier reventa. El cierre del apartado ordena devolver el exceso ejecutado sobre el importe liberatorio y reflejar las circunstancias en el decreto y Registro. Por ejemplo, tras quedar 40.000 euros pendientes, no se obtiene el beneficio pagando el 65 % del préstamo inicial: hay que reconstruir el saldo remanente, el plazo y el interés legal, y comprobar separadamente si una venta posterior genera reducción adicional.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO IV — De la ejecución dineraria
 
 #### CAPÍTULO II — Del requerimiento de pago
 
@@ -330,6 +336,10 @@ El apartado 2 atribuye al deudor las costas causadas aunque pague en el acto del
 
 Por ejemplo, un deudor paga íntegramente la suma requerida pero discute unas costas todavía no liquidadas. Procede dejar constancia del pago y comprobar lo que queda, sin presentar el ingreso como terminación automática de toda la ejecución. Para la práctica de este capítulo conviene verificar el tipo de título, la necesidad de requerimiento, el domicilio o canal válido, el pago recibido, el justificante y las partidas pendientes; si se invoca una imposibilidad no imputable, deben identificarse sus hechos y prueba.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO IV — De la ejecución dineraria
+
 #### CAPÍTULO III — Del embargo de bienes
 
 #### Sección 1.ª De la traba de los bienes
@@ -386,7 +396,7 @@ Imaginemos que el ejecutado consigna para liberar bienes y presenta oposición p
 
 *Nota editorial del BOE:* Se modifica el apartado 1 por el art. 15.240 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-La traba nace desde el decreto del letrado de la Administración de Justicia o desde la descripción del bien en el acta de la diligencia. No debe posponerse su existencia hasta la anotación registral, el depósito u otra garantía. El apartado 1 distingue así la constitución del embargo de las actuaciones que aseguran su eficacia y publicidad, y ordena adoptar estas últimas inmediatamente, con expedición de oficio de los despachos necesarios y su eventual entrega al procurador que lo solicite.
+La traba nace desde el decreto del letrado de la Administración de Justicia o desde la descripción del bien en el acta de la diligencia. No debe posponerse su existencia hasta la anotación registral, el depósito u otra garantía. El apartado 1 distingue así la constitución del embargo de las actuaciones que aseguran su eficacia y publicidad, y ordena adoptar estas últimas inmediatamente, con expedición de oficio de los despachos necesarios y su eventual entrega al procurador del ejecutante que lo solicite.
 
 El apartado 2 impide extraer de esa prioridad temporal una eficacia absoluta frente a todo tercero. Deben respetarse las normas de protección del tercero de buena fe que resulten aplicables. Para decidir un conflicto no basta, por tanto, comparar la fecha interna del decreto con la de una adquisición posterior: hay que identificar el bien, la publicidad exigible y el régimen de protección pertinente. Tampoco la entrega del despacho al procurador sustituye la efectiva práctica de la medida de garantía.
 

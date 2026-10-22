@@ -267,3 +267,14 @@ Correcciones: se completa en 559 la remisión a 520 y su umbral exclusivo para t
 Releída íntegramente la [STC 31/2019](cases/STC-31-2019-a548-a567.md), antecedentes, fundamentos, fallo y voto particular. Su apoyo queda limitado al control efectivo de cláusulas no examinadas; no declara abusividad ni extingue el préstamo. No se extrapola al régimen posterior de advertencias y cosa juzgada. Investigación jurisprudencial selectiva.
 
 El control técnico global no supone revisión sustantiva de unidades ajenas. Libro todavía parcial, sin aprobación profesional externa.
+
+
+## Segunda lectura limitada: artículos 568 a 587
+
+Revisadas las veinte unidades a568–a587, todos sus apartados, remisiones, consecuencias y ejemplos, frente al [XML oficial renovado](sources/review-batch-31-official.xml). Los identificadores exactos y el resultado individual constan en [review-result.json](review-result.json). Se conserva el corte jurídico del 19 de octubre de 2026; la descarga renovada de texto, metadatos y análisis coincide con la evidencia de autoría. La [auditoría](review-batch-31-audit.json) registra versiones históricas, inventario independiente, ausencia de anexos separados y fórmula promulgatoria conservada.
+
+Correcciones: el ejemplo del 569 expresa la obligatoriedad de suspender cuando concurren los presupuestos de la causa penal decisiva, tras audiencia; en 579 se explicita que el beneficio del 80 % en diez años depende de no haber podido satisfacer el 65 % en cinco; en 587 se identifica al procurador del ejecutante. Los restantes comentarios se conservan tras contraste. En 568 se mantiene la advertencia de remisiones concursales históricas, sin cambiar la literalidad oficial ni inventar una concordancia.
+
+Releída íntegramente la [STC 209/2009](cases/STC-209-2009-a568-a587.md), antecedentes, cinco fundamentos y fallo, frente a la captura oficial y el corpus nacional conservado. Se verificó la distinción entre argumentos del Abogado del Estado y doctrina del Tribunal, la lesión del artículo 14 CE, la retroacción y los límites de su uso en 576.3. La sentencia no fija una tarifa universal para las Haciendas Públicas. Investigación selectiva.
+
+El checkpoint de veinte unidades se reconstruye con el constructor existente y se valida estrictamente. El build y la validación globales registran separadamente las unidades del libro aún sin redactar. La revisión acotada no acredita terminación integral ni aprobación profesional externa.
