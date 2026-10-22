@@ -1,0 +1,40 @@
+{
+  "scope": [
+    "a508",
+    "a509",
+    "a510",
+    "a511",
+    "a512",
+    "a513",
+    "a514",
+    "a515",
+    "a516",
+    "a517",
+    "a518",
+    "a519",
+    "a520",
+    "a521",
+    "a522",
+    "a523",
+    "a524",
+    "a525",
+    "a526",
+    "a527"
+  ],
+  "searched_at": "2026-10-22T01:29:42.048083+00:00",
+  "queries": [
+    "site.tribunalconstitucional.es ejecución provisional artículo 527 525 sentencia 2006",
+    "site.boe.es sentencia tribunal constitucional revisión 510 maquinación fraudulenta"
+  ],
+  "selected": "STC 18/2009; full official BOE XML and full judicial text in local national corpus read",
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/es/tc/2009/TC-6437.md",
+  "local_sha256": "220fb252fb0c625a121a7c578db0f48cea58213a3d662186094788b1348a612c",
+  "official_full_text": "sources/STC-18-2009-a508-a527.xml",
+  "not_relied_on": [
+    "STC 22/2008: search hit, not read in full, not relied on",
+    "STC cited by STC 18/2009: not separately verified or cited as autonomous authorities",
+    "Commercial summaries returned by search: not used"
+  ],
+  "discrepancy": "Local editorial summary says 4 December; actual judgment antecedent 2.c and FJ 4, as official BOE XML, say 9 December 2004. Commentary follows actual judgment.",
+  "limits": "Selective research; no exhaustive CENDOJ coverage, no decision claimed for every technical unit."
+}

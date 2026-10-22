@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:23:07.281422+00:00",
+  "generated_at": "2026-10-22T01:29:43.010917+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -187,6 +187,16 @@
       "path": "sources/STC-165-2004.xml",
       "bytes": 64710,
       "sha256": "ba4be19e9b3b8a923879cbbb3b4f51398cf77a7ff80a19409959cc6ead64ed74"
+    },
+    {
+      "path": "sources/STC-18-2009-a508-a527.txt",
+      "bytes": 31489,
+      "sha256": "de7836843f66c65fb91098d04f39d96a22c567a31e8562e2c85ffc10c3dfa977"
+    },
+    {
+      "path": "sources/STC-18-2009-a508-a527.xml",
+      "bytes": 34953,
+      "sha256": "8c3429458da9b9d2cb821e919722637e6c1dcd34aabab1608786bc62358285b8"
     },
     {
       "path": "sources/STC-50-2017-a488-a507.txt",
@@ -387,6 +397,36 @@
       "path": "sources/author-a488-a507-search-log.json",
       "bytes": 1163,
       "sha256": "1cb3c9e17f1a743b9afc27227088aafe941263e41c8c4da5d240ec06d2f3d5b6"
+    },
+    {
+      "path": "sources/author-a508-a527-analysis.xml",
+      "bytes": 42740,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+    },
+    {
+      "path": "sources/author-a508-a527-case-fetch.json",
+      "bytes": 320,
+      "sha256": "fb631ce7af4587951c3807055b92fd7add11fb18aa5a792db5e49041d9b0c92d"
+    },
+    {
+      "path": "sources/author-a508-a527-fetch.json",
+      "bytes": 1066,
+      "sha256": "7a7a8bf407f44dd990730b735c7b9d429963cf296be22a270c1e69f6b43cf4d8"
+    },
+    {
+      "path": "sources/author-a508-a527-metadata.xml",
+      "bytes": 1196,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+    },
+    {
+      "path": "sources/author-a508-a527-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
+      "path": "sources/author-a508-a527-search-log.json",
+      "bytes": 1372,
+      "sha256": "9ef37ee12446fd82b56881c79fd3ccf71dc11cad1f7cd908a07f5873115304b6"
     },
     {
       "path": "sources/boe-act.html",
@@ -1130,6 +1170,11 @@
       }
     },
     {
+      "path": "sources/review-batch-27-STC-50-2017.xml",
+      "bytes": 49474,
+      "sha256": "9933052ca8e38be41e7b61cf18880c1ae4b29d85e8b28eb22212b950fd5c644c"
+    },
+    {
       "path": "sources/review-batch-27-analysis.xml",
       "bytes": 42740,
       "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
@@ -1175,18 +1220,13 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 41525,
-      "sha256": "fddfd56b0f9396caf69bfaa76784105779693e6e4a4c08034ad50766c057c6ad"
+      "bytes": 42990,
+      "sha256": "a140b4314c9c38698250d210dbec1c8637d387d7bb742c788dab0d0237c2de64"
     },
     {
       "path": "sources/version-selection.json",
       "bytes": 584855,
       "sha256": "a1faba917e5816413aa7392ba1dfb97024ae571f998197cb9fc6378892235d2a"
-    },
-    {
-      "path": "sources/review-batch-27-STC-50-2017.xml",
-      "bytes": 49474,
-      "sha256": "9933052ca8e38be41e7b61cf18880c1ae4b29d85e8b28eb22212b950fd5c644c"
     }
   ]
 }
