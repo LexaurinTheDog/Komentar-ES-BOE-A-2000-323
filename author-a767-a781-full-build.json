@@ -1,0 +1,6 @@
+{
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 96 jednotkám, např.: ['a781bis', 'a782', 'a783', 'a784', 'a785', 'a786', 'a787', 'a788', 'a789', 'a790']\n",
+  "limitation": "Se intenta la reconstrucción íntegra sin rellenar unidades fuera del encargo; checkpoint de veinte unidades construido por separado."
+}

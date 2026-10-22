@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2007-15672",
+    "path": "sources/STC-177-2007-a767-a781.xml",
+    "http_status": 200,
+    "sha256": "3d6b9c331379ae3de89f3bf948b52c067d5dfa2d4f63ea56834cec488ac1a2e3",
+    "accessed_at": "2026-10-22T03:16:30.054287+00:00",
+    "format": "validated XML"
+  }
+]

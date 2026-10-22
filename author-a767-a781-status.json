@@ -1,0 +1,44 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "a767",
+    "a768",
+    "a769",
+    "a770",
+    "a771",
+    "a772",
+    "a773",
+    "a774",
+    "a775",
+    "a776",
+    "a777",
+    "a778",
+    "a778bis",
+    "a778ter",
+    "a778quater",
+    "a778quinquies",
+    "a778sexies",
+    "a779",
+    "a780",
+    "a781"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "agreement": 1.0,
+    "official_inventory": 916,
+    "audit": "author-a767-a781-audit.json"
+  },
+  "commentary_chars": 31739,
+  "case_law_sources": [
+    "cases/STC-177-2007-a767-a781.md"
+  ],
+  "links": {
+    "broken": []
+  },
+  "remaining_limitations": [
+    "Lote de autoría; no segunda lectura independiente.",
+    "El libro completo continúa en elaboración."
+  ],
+  "whole_book_complete": false
+}
