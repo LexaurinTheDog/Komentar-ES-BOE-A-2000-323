@@ -18,6 +18,8 @@ La consecuencia tampoco consiste en archivar la causa o mantener sin más la sen
 
 Ejemplo ficticio: rescindida una condena al pago de una factura, el demandado recibe el traslado previsto en el artículo 507 y no presenta escrito dentro del plazo. Comprobada la regularidad del traslado, se dicta una nueva sentencia con el mismo contenido condenatorio. La rescisión no le permite conservar indefinidamente abierto el litigio sin participar.
 
+#### LIBRO II — De los procesos declarativos
+
 #### TÍTULO VI — De la revisión de sentencias firmes
 
 ### Artículo 509 — Órgano competente y resoluciones recurribles.
@@ -54,7 +56,7 @@ El apartado 1 enumera causas extraordinarias que comprometen la fiabilidad o la 
 
 Los números 2 y 3 tienen presupuestos penales específicos y distintos. En el segundo debe existir falsedad documental declarada penalmente, anterior pero ignorada por una parte, o declarada después. En el tercero se requiere condena de testigos o peritos por el falso testimonio de las declaraciones que fundamentaron la sentencia. Una discrepancia pericial o una denuncia penal pendiente no equivalen por sí solas a esos presupuestos. El número 4 comprende cohecho, violencia o maquinación fraudulenta: debe mostrarse la relación entre la conducta y la obtención injusta de la sentencia, no solo una irregularidad periférica.
 
-El apartado 2 abre una vía diferente tras una declaración de violación del Convenio por el Tribunal Europeo de Derechos Humanos. Exige efectos persistentes que, por la naturaleza y gravedad de la lesión, solo puedan cesar mediante revisión, y preserva derechos de terceros adquiridos de buena fe. No establece la reapertura automática de cualquier proceso relacionado con una condena a España. Debe leerse con la legitimación especial del artículo 511 y el plazo anual del 512.
+El apartado 2 abre una vía diferente contra una resolución judicial firme —categoría literalmente más amplia que la sentencia del apartado 1— tras una declaración de violación del Convenio o sus Protocolos por el Tribunal Europeo de Derechos Humanos. Exige efectos persistentes que, por la naturaleza y gravedad de la lesión, solo puedan cesar mediante revisión, y preserva derechos de terceros adquiridos de buena fe. No establece la reapertura automática de cualquier proceso relacionado con una condena a España. Debe leerse con la legitimación especial del artículo 511 y el plazo anual del 512.
 
 Ejemplo ficticio: una empresa recupera un recibo que el vencedor había retenido y que acredita el pago de la deuda litigiosa. La demanda debe probar tanto la relevancia del recibo como la imposibilidad anterior de aportarlo. En cambio, encargar un nuevo dictamen que discrepa del valor atribuido al inmueble no activa, sin más, el número 3. La [STC 18/2009](cases/STC-18-2009-a508-a527.md) se cita aquí únicamente para distinguir el conocimiento del proceso del descubrimiento del fraude alegado, no como declaración de que hubo maquinación en aquel litigio.
 
@@ -240,9 +242,9 @@ El título ejecutivo es la base jurídica de la acción ejecutiva. El apartado 1
 
 Los números 1 a 3 reúnen la sentencia firme de condena, las resoluciones arbitrales y determinados acuerdos. La mediación y los acuerdos de otros medios adecuados de solución de controversias necesitan elevación a escritura pública en los términos del número 2; no todo pacto privado alcanzado en una negociación permite ejecutar directamente. En los acuerdos judiciales homologados puede ser necesario completar el título con testimonios que hagan constar su contenido concreto. La ejecución provisional de sentencias todavía no firmes responde al régimen de los artículos 524 y siguientes.
 
-Los números 4 y 5 deben leerse en su redacción vigente desde el 3 de abril de 2025: copia de la escritura matriz solicitada con carácter ejecutivo y testimonio del original de la póliza o copia autorizada, acompañados en este último caso de la certificación del artículo 572.2. Aplicar sin comprobación fórmulas históricas sobre la primera copia o la conservación de pólizas puede conducir a exigir documentos distintos de los actuales. El número 6 exige vencimiento y confrontación de títulos y cupones con los libros talonarios; la protesta de falsedad no impide el despacho si la confrontación es conforme, aunque queda abierta la oposición por falsedad.
+Los números 4 y 5 deben leerse en su redacción vigente desde el 3 de abril de 2025: copia de la escritura matriz solicitada con carácter ejecutivo y testimonio del original de la póliza o copia autorizada, acompañados en este último caso de la certificación del artículo 572.2. Aplicar sin comprobación fórmulas históricas sobre la primera copia puede conducir a exigir documentos distintos de los actuales. En las pólizas se mantiene expresamente la conservación del original en el Libro-Registro notarial; la alternativa de copia autorizada y la certificación exigida deben distinguirse de una mera fotocopia privada. El número 6 exige vencimiento y confrontación de títulos y cupones con los libros talonarios; la protesta de falsedad no impide el despacho si la confrontación es conforme, aunque queda abierta la oposición por falsedad.
 
-El número 7 regula los certificados no caducados de valores anotados en cuenta y la documentación de representación o emisión cuando sea legalmente necesaria; despachada la ejecución, los certificados no caducan. El número 8 recoge el auto de cuantía máxima indemnizatoria en los supuestos penales de circulación cubiertos por el seguro obligatorio. El número 9 exige identificar la ley que atribuye ejecución a otro documento o resolución.
+El número 7 regula los certificados no caducados de valores anotados en cuenta y la documentación de representación o emisión cuando sea legalmente necesaria; instada y despachada la ejecución, los certificados no caducan. La sola petición sin despacho no satisface los dos presupuestos que el texto exige para ese efecto. El número 8 recoge el auto de cuantía máxima indemnizatoria en los supuestos penales de circulación cubiertos por el seguro obligatorio. El número 9 exige identificar la ley que atribuye ejecución a otro documento o resolución.
 
 Ejemplo ficticio: dos sociedades firman un acuerdo privado tras una negociación. Aunque fija una cantidad vencida, no se transforma por ello en título del número 2; deben comprobar su formalización y categoría antes de demandar ejecutivamente. Si aportan una póliza, además deben revisar la certificación exigida y el umbral del artículo 520.
 
@@ -364,6 +366,10 @@ Debe distinguirse entre resistirse al contenido de la sentencia y advertir un ob
 
 Ejemplo ficticio: una persona favorecida por una sentencia constitutiva encuentra que la entidad llamada a reconocer la nueva situación sigue actuando como si el fallo no existiera. Puede solicitar al tribunal las actuaciones necesarias para hacerlo eficaz. Si el registrador señala una discordancia de identificación que deriva del propio Registro, habrá que examinar ese obstáculo y su cauce de solución; este artículo no permite ordenar sin más una inscripción distinta de la que la sentencia y la normativa registral consientan.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO I — De los títulos ejecutivos
+
 #### CAPÍTULO II — De los títulos ejecutivos extranjeros
 
 ### Artículo 523 — Fuerza ejecutiva en España. Ley aplicable al procedimiento.
@@ -379,6 +385,8 @@ La ejecución de un título extranjero exige resolver dos cuestiones sucesivas: 
 El apartado 2 somete la actividad ejecutiva en España a la Ley de Enjuiciamiento Civil, con la salvedad expresa de los tratados vigentes. La remisión del apartado 1 tampoco permite omitir, cuando resulte aplicable, un régimen europeo directamente pertinente: debe comprobarse la norma internacional o supranacional que gobierna el supuesto concreto. Esta explicación no atribuye aquí una solución uniforme a todos los países ni presupone que todos los títulos necesiten el mismo procedimiento de reconocimiento. Reconocimiento, declaración de ejecutividad cuando proceda y medidas concretas de ejecución no son conceptos intercambiables.
 
 Ejemplo ficticio: un acreedor presenta una sentencia firme dictada en otro Estado y pide embargar una cuenta española. Antes de examinar el embargo debe determinar qué régimen permite ejecutar esa sentencia y qué documentación exige. Superado ese control, la selección y práctica de medidas en España se somete al régimen procesal que corresponda. Si el título extranjero aún no es firme, la cuestión cambia y debe confrontarse específicamente con la restricción del artículo 525.2; el presente artículo no resuelve por sí solo su ejecución provisional.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
 
 #### TÍTULO II — De la ejecución provisional de resoluciones judiciales
 
@@ -442,6 +450,10 @@ El apartado 2 excluye sentencias extranjeras no firmes salvo previsión expresa 
 
 Ejemplo ficticio: una sentencia recurrida aprecia lesión de la intimidad, impone una indemnización y ordena retirar cierto contenido. La indemnización no puede ejecutarse provisionalmente por el apartado 3. La posibilidad de actuar sobre la retirada requiere analizar ese pronunciamiento y el régimen aplicable, sin extender automáticamente la exclusión indemnizatoria ni presumir su ejecutabilidad por la sola etiqueta del proceso.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO II — De la ejecución provisional de resoluciones judiciales
+
 #### CAPÍTULO II — De la ejecución provisional de sentencias de condena dictadas en primera instancia
 
 #### Sección 1.ª De la ejecución provisional y de la oposición a ella
@@ -485,6 +497,8 @@ Ejemplo ficticio: una sentencia concede a la actora 12.000 euros y rechaza otros
 *Nota editorial del BOE:* Se modifican los apartados 1 y 2 por el art. 15.212 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
 El apartado 1 fija una ventana procesal: la solicitud puede formularse desde la notificación de la resolución que tiene por interpuesta la apelación o, en su caso, desde el traslado del escrito del apelado que se adhiere al recurso, y antes de que se dicte sentencia en él. No basta presentar la solicitud al conocerse informalmente que alguien va a apelar. Cuando ya existe sentencia de segunda instancia, debe examinarse el régimen que corresponda a esa nueva situación, en lugar de aplicar sin ajuste esta fase de ejecución provisional de primera instancia.
+
+La secuencia debe coordinarse con el artículo 458 vigente, que sitúa la interposición ante el tribunal competente para la apelación y prevé que este recabe los autos antes de tener el recurso por interpuesto. El artículo 527 conserva literalmente referencias a una solicitud anterior a la remisión y al escrito del apelado «adhiriéndose» al recurso; no deben convertirse en una descripción de la tramitación ordinaria actual ni sustituir la oposición e impugnación reguladas en el artículo 461. La resolución efectivamente notificada y la situación documental del expediente deben comprobarse también a la luz del régimen transitorio aplicable.
 
 El apartado 2 asegura que el tribunal de ejecución disponga de documentación aunque los autos se remitan al órgano de apelación. Si ya se remitieron, el solicitante obtiene del tribunal de apelación el testimonio necesario y lo acompaña; si la solicitud fue anterior, lo expide el letrado de la Administración de Justicia antes de la remisión. No se exige devolver todo el expediente para permitir la ejecución. El apartado 3 manda despacharla salvo inclusión en el artículo 525 o inexistencia de condena favorable al solicitante, sin sustituir este control por una anticipación del resultado de la apelación.
 

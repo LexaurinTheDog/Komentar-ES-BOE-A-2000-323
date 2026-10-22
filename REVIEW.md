@@ -234,3 +234,14 @@ Comprobados los efectos históricos de 488–489, los cuatro números sin conten
 Releída íntegramente la [STC 50/2017](cases/STC-50-2017-a488-a507.md): los antecedentes y alegaciones no se confunden con la doctrina propia de FJ 3–5. La sentencia no decide autónomamente la queja sobre remisión a rescisión, no amplía en general el artículo 502 y no interpreta reformas electrónicas posteriores. No se añaden decisiones no verificadas ni se afirma exhaustividad jurisprudencial.
 
 [Construcción](review-batch-27-build.json), [validación estricta](review-batch-27-validation.json) y [enlaces](review-batch-27-links.json) documentan el checkpoint. Libro todavía incompleto fuera de este lote; revisión interna sin aprobación profesional externa.
+
+
+## Segunda lectura limitada: artículos 508 a 527
+
+Revisadas exactamente las veinte unidades de [review-result.json](review-result.json) contra [XML oficial renovado](sources/review-batch-28-official.xml), metadatos y análisis BOE. El [cotejo reproducible](review-batch-28-audit.json) selecciona publicación y vigencia a 19 de octubre de 2026, enumera independientemente los 916 identificadores oficiales, verifica ausencia de anexos separados y preservación de fórmula promulgatoria. El control técnico global de fuentes no equivale a revisión sustantiva de las demás unidades.
+
+Correcciones: en 510 se explicita que la revisión por sentencia del TEDH se refiere a resolución judicial firme y al Convenio y sus Protocolos; en 517 se precisa la conservación del original de póliza en Libro-Registro y la exigencia conjunta de instar y despachar ejecución para evitar caducidad del certificado. En 527 se añade coordinación con 458 vigente: interposición ante tribunal de apelación y reclamación de autos antes de tener el recurso por interpuesto; se explica sin modificar el texto legal la persistencia de referencias a solicitud anterior a remisión y adhesión. Los restantes preceptos se conservan tras examen de requisitos, consecuencias, ejemplos y remisiones.
+
+Releída íntegramente la [STC 18/2009](cases/STC-18-2009-a508-a527.md), incluidos antecedentes, FFJJ y fallo. La doctrina sobre acceso a jurisdicción y descubrimiento del fraude no se convierte en declaración del fraude ni en orden de admisión de revisión; tampoco se aplica ficticiamente a reformas posteriores del TEDH o de ejecución. Investigación selectiva, sin autoridades nuevas no verificadas.
+
+[Construcción](review-batch-28-build.json), [validación estricta](review-batch-28-validation.json) y [enlaces](review-batch-28-links.json) documentan el lote. Borrador parcial; libro incompleto fuera de las unidades revisadas; sin aprobación profesional externa.

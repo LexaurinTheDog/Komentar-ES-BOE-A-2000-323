@@ -2,115 +2,115 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a488",
-    "a489",
-    "a490",
-    "a491",
-    "a492",
-    "a493",
-    "a494",
-    "a495",
-    "a496",
-    "a497",
-    "a498",
-    "a499",
-    "a500",
-    "a501",
-    "a502",
-    "a503",
-    "a504",
-    "a505",
-    "a506",
-    "a507"
+    "a508",
+    "a509",
+    "a510",
+    "a511",
+    "a512",
+    "a513",
+    "a514",
+    "a515",
+    "a516",
+    "a517",
+    "a518",
+    "a519",
+    "a520",
+    "a521",
+    "a522",
+    "a523",
+    "a524",
+    "a525",
+    "a526",
+    "a527"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a488",
-      "finding": "Comprobados tres apartados: preferencia, admisión previa a suspensión, comunicación y efecto de estimación. La remisión a 467 y DF 16 se trata como histórica, sin recrear recurso separado vigente."
+      "id": "a508",
+      "finding": "Comprobados renuncia a audiencia, nueva sentencia con contenido idéntico e irrecurribilidad; correcta distinción respecto de archivo o mantenimiento de sentencia rescindida."
     },
     {
-      "id": "a489",
-      "finding": "Acumulación en una pieza y sentencia y prioridad de la infracción procesal comprobadas. Competencia foral del 478 y aplicabilidad temporal diferenciadas."
+      "id": "a509",
+      "finding": "Competencia TS/TSJ condicionada por LOPJ y naturaleza autónoma de revisión cotejadas. STC 18/2009 FJ 3 respalda acceso a jurisdicción, no apelación tardía."
     },
     {
-      "id": "a490",
-      "finding": "Sin contenido desde 29-7-2023; conservado identificador, no habilita recurso en interés de la ley."
+      "id": "a510",
+      "finding": "Comprobadas cuatro causas ordinarias y sus requisitos penales diferenciados. Precisado que apartado 2 comprende resolución judicial firme y Convenio con Protocolos; efectos persistentes y terceros de buena fe conservados."
     },
     {
-      "id": "a491",
-      "finding": "Legitimación histórica eliminada; ejemplo no atribuye a entidades habilitación vigente."
+      "id": "a511",
+      "finding": "Legitimación por ser parte perjudicada y filtro exclusivo de demandante ante TEDH comprobados; no extensión automática a codemandados."
     },
     {
-      "id": "a492",
-      "finding": "Vaciamiento comprobado: no se reconstruyen plazos ni fases históricos."
+      "id": "a512",
+      "finding": "Publicación, quinquenio y tres meses comprobados; excepción anual desde firmeza TEDH separada. STC 18/2009 FFJJ 3–4 y fallo releídos: no declara fraude ni admisión automática."
     },
     {
-      "id": "a493",
-      "finding": "Supresión y efectos históricos correctamente separados de la casación vigente del 487."
+      "id": "a513",
+      "finding": "300 euros, devolución en estimación, subsanación señalada por LAJ hasta cinco días y decisión judicial de repeler cotejados; depósito separado de caución de ejecución."
     },
     {
-      "id": "a494",
-      "finding": "Dos párrafos cotejados: queja contra denegación de tramitación de casación, órgano destinatario, preferencia y excepción de desahucio sin cosa juzgada."
+      "id": "a514",
+      "finding": "Veinte días, vista con 440 y siguientes, informe fiscal siempre y prejudicialidad penal cotejados. Apartado 5 y ausencia de condición de parte de Abogacía General comprobados con versión desde 20-3-2024."
     },
     {
-      "id": "a495",
-      "finding": "Tres apartados: diez días y copia, decisión en cinco días, comunicación/orden de continuar e irrecurribilidad comprobados."
+      "id": "a515",
+      "finding": "No suspensión por demanda y remisión a 566 cotejadas con su texto íntegro: admisión, instancia, circunstancias, caución y audiencia fiscal; no confundidas con depósito."
     },
     {
-      "id": "a496",
-      "finding": "Dos apartados: competencia LAJ/tribunal y ausencia de allanamiento o confesión por mera rebeldía. STC 50/2017 releída; no convalida emplazamiento inválido."
+      "id": "a516",
+      "finding": "Cuatro apartados: rescisión, declaraciones vinculantes, devolución autos, costas y depósito en desestimación, irrecurribilidad y comunicaciones a Abogacía comprobados."
     },
     {
-      "id": "a497",
-      "finding": "Dos apartados y párrafo final cotejados: comunicación inicial electrónica/correo/edictos diferenciada de notificación final personal/TEJU y aplicación a apelación/casación. Límite temporal de STC explicitado."
+      "id": "a517",
+      "finding": "Catálogo completo de nueve títulos cotejado con versión desde 3-4-2025. Precisada conservación notarial de póliza y requisito acumulativo de instar y despachar para no caducidad de certificado."
     },
     {
-      "id": "a498",
-      "finding": "Comunicación de pendencia tan pronto se conozca lugar útil, de oficio o a instancia de cualquier parte; no se promete retroacción automática."
+      "id": "a518",
+      "finding": "Caducidad de cinco años e interposición de demanda comprobadas. Alcance literal de títulos y dificultad de trasladar firmeza a mediación explicitados sin inventar solución jurisprudencial."
     },
     {
-      "id": "a499",
-      "finding": "Personación en estado actual sin retroceso distinguida de nulidad por emplazamiento inválido; lectura del fallo STC confirma que la retroacción no procede por mera personación tardía."
+      "id": "a519",
+      "finding": "Seis apartados y letras a–e cotejados: individualización colectiva separada de extensión, competencia, transparencia, identidad, un año, diez y cinco días, silencio, costas, apelación y ejecución del auto."
     },
     {
-      "id": "a500",
-      "finding": "Dos párrafos cotejados: recursos condicionados y dies a quo personal/edictal/electrónico; discordancia literal de remisión a 497.2 identificada sin corregir texto legal."
+      "id": "a520",
+      "finding": "Umbral superior a 300 euros solo para títulos 517.2.4–7, tres modalidades y suma comprobados; ejemplo supera umbral sin convertir factura en título."
     },
     {
-      "id": "a501",
-      "finding": "Tres causas, rebeldía constante y firmeza comprobadas. No atribuye al TC decisión sobre la segunda queja ni adapta ficticiamente el requisito territorial al TEJU."
+      "id": "a521",
+      "finding": "Cuatro apartados cotejados: exclusión de despacho declarativo/constitutivo, acceso registral firme, condena mixta y remisión de oficio de acciones individuales o colectivas."
     },
     {
-      "id": "a502",
-      "finding": "Veinte días/cuatro meses y prolongación por fuerza mayor con techo de dieciséis meses comprobados. STC no se presenta como ampliación general de caducidad."
+      "id": "a522",
+      "finding": "Respeto de situación constitutiva y salvedad de obstáculos registrales cotejados; legitimación de partes e interesados directos diferenciada de curiosidad ajena."
     },
     {
-      "id": "a503",
-      "finding": "Exclusión de sentencia sin cosa juzgada material correctamente diferenciada de firmeza y del tipo verbal; remisión al 447 comprobada."
+      "id": "a523",
+      "finding": "Dos apartados comprobados: régimen de fuerza ejecutiva extranjera y ejecución LEC con reserva de tratados; sin afirmar exequátur universal ni añadir reglamento no verificado."
     },
     {
-      "id": "a504",
-      "finding": "Dos apartados cotejados. Mejorada explicación de remisión a 566.1: demanda interpuesta y admitida, solicitud de parte, valoración circunstancial y caución por valor litigado y daños. Ordinario y legitimación contextualizados."
+      "id": "a524",
+      "finding": "Cinco apartados cotejados: demanda/solicitud 549, tribunal primera instancia, facultades, anotación mientras subsista riesgo de rescisión, preferencia fundamental y restitución 533–534."
     },
     {
-      "id": "a505",
-      "finding": "Dos apartados: prueba de causa rescisoria, sentencia irrecurrible y suspensión obligada a instancia de parte después de rescisión comprobados; no equivale a absolución."
+      "id": "a525",
+      "finding": "Tres exclusiones del apartado 1, excepción patrimonial, sentencias extranjeras y prohibición indemnizatoria cotejadas; no se generaliza prohibición a retirada de contenido."
     },
     {
-      "id": "a506",
-      "finding": "Costas por rechazo y regla de ausencia de condena en estimación con excepción de temeridad comprobadas; separado el proceso original."
+      "id": "a526",
+      "finding": "Condena favorable primera instancia, excepción 525 y ausencia de caución inicial comprobadas. Ejemplo de estimación parcial y remisión temporal a 527 correctos."
     },
     {
-      "id": "a507",
-      "finding": "Tres reglas del apartado 1 y excepción del 2 comprobadas: certificación, dos traslados sucesivos de diez días y declarativo con recursos; consecuencia específica de inactividad conforme al 508 correcta."
+      "id": "a527",
+      "finding": "Cinco apartados cotejados: ventana, testimonios, despacho, recursos/oposición, costas y veinte días. Añadida coordinación con 458 vigente y advertencia sobre referencias literales históricas a remisión y adhesión, sin alterar texto."
     }
   ],
   "limitations": [
-    "Segunda lectura sustantiva limitada exactamente a a488–a507; no certifica el libro completo.",
-    "Jurisprudencia selectiva: texto íntegro de STC 50/2017 releído, incluidos antecedentes, fundamentos y fallo; citas contenidas en la sentencia no verificadas como autoridades autónomas.",
-    "Corte jurídico de autoría conservado: 2026-10-19; actualización BOE comprobada de nuevo durante esta revisión. Revisión interna sin aprobación profesional externa."
+    "Revisión sustantiva limitada exactamente a a508–a527. No certifica el libro completo.",
+    "Texto jurídico fijado al inicio de autoría, 2026-10-19. XML, metadatos y análisis actualizados por consulta BOE durante esta segunda lectura e idénticos a evidencia de autoría.",
+    "Jurisprudencia selectiva: STC 18/2009 releída íntegra; no se verifican autónomamente sentencias que esta cita. No cobertura exhaustiva ni aprobación profesional externa."
   ],
-  "reviewed_at": "2026-10-22T01:22:50.793942+00:00",
-  "source_evidence": "review-batch-27-audit.json"
+  "reviewed_at": "2026-10-22T01:32:11.123758+00:00",
+  "source_evidence": "review-batch-28-audit.json"
 }
