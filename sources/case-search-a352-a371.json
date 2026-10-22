@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-10-22T00:26:41.554737+00:00",
+  "queries": [
+    "site.poderjudicial.es \"370.4\" \"testigo\" \"sentencia\"",
+    "site.tribunalconstitucional.es \"reconocimiento judicial\" \"prueba\" civil"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/es/tc/2022/TC-29033.md",
+  "verified_cases": [
+    "ECLI:ES:TC:2022:82"
+  ],
+  "official_snapshot": "sources/STC-82-2022.html",
+  "snapshot_sha256": "5f5e614f2ee8dd5ff88630b4aab2ac10f0a9ba03cae1ac3f74c59968c57d08e0",
+  "full_text_read": true,
+  "limitations": "Selective search; no additional sufficiently relevant TS judgment verified. No holdings taken from third-party snippets."
+}

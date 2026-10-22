@@ -1,0 +1,526 @@
+{
+  "authoring_date": "2026-10-19",
+  "requests": [
+    {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+      "accessed_at": "2026-10-19T20:53:35.986014+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "4ada6f2a90a853e47baae0542c102dd0860894697d99220b039c2a6705777fbe",
+      "path": "sources/boe-act.html"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-19T20:53:38.678968+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/boe-text.xml",
+      "xml_root": "response"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+      "accessed_at": "2026-10-19T20:53:38.975641+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "path": "sources/boe-metadata.xml",
+      "xml_root": "response"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+      "accessed_at": "2026-10-19T20:53:39.301246+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "path": "sources/boe-analysis.xml",
+      "xml_root": "response"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20823",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:54:22.384969+00:00",
+      "sha256": "85fd8f495be14e00b85595152ec21ebd70059917afae9a12f28105468c835786",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2026-20823.xml"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20526",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:54:22.672146+00:00",
+      "sha256": "c93804d6e0cb6340528344e7b3e9f5237fc403d286cea91671cea95795bdaa7c",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2026-20526.xml"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-20266",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:54:23.115893+00:00",
+      "sha256": "26eec5e2347e9984583730215165e21c5b642bb8c0ca6503c817c44437ea20c6",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2026-20266.xml"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-76",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:54:24.137817+00:00",
+      "sha256": "e2df2f9614b5d8a632f7de751bac68aebb80dc284ddfe832860a25b1803278e8",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2025-76.xml"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2020-2942",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:55:34.521467+00:00",
+      "sha256": "fd12b36cfa0923dfd015f7f117bc9925bd2124005da9fb8cd6ec03e94e49d464",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2020-2942.xml"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-5667",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:55:35.365389+00:00",
+      "sha256": "dd49d0fb2b77abe5ae6c0c772fe7d4373f13284e70c2bdbb41435d6c2b4c543e",
+      "content_type": "application/xml; charset=utf-8",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2019-5667.xml",
+      "disposition": "Rejected search candidate: unrelated municipal employment notice; not cited."
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2019-5727",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T20:57:53.573460+00:00",
+      "sha256": "50cefab9ed03bb0c59a2589129e5447afbe31f5208060d404550d19aafb2d693",
+      "content_type": "application/xml; charset=utf-8",
+      "path": "sources/BOE-A-2019-5727.xml",
+      "xml_root": "documento"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-12666/texto",
+      "path": "sources/LOPJ-text.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T21:02:12+00:00",
+      "sha256": "1a30e16c1dadd8604607b056e720f991c4aa3a2a62ab7c8b5f5c24c4094e0aa5",
+      "xml_root": "response",
+      "format_validation": "Parsed XML, BOE status 200; request with Accept application/xml."
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2014-3240",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T21:13:35.516308+00:00",
+      "content_type": "application/xml; charset=utf-8",
+      "sha256": "812c0fd768842c2dc3ba375ec0ae6c3e499471323b7418262398e9cc08b2bde0",
+      "xml_root": "documento",
+      "path": "sources/BOE-A-2014-3240.xml"
+    },
+    {
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+      "accessed_at": "2026-10-21T23:13:51.453702+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "426c336ee35836f99306ac927ab63cbabc4cd8da4cdbcce42e0b7935438ef873",
+      "path": "sources/preflight-2026-10-22-act.html",
+      "format_validation": "BOE identifier and statutory blocks present"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:13:53.022357+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/preflight-2026-10-22-text.xml",
+      "format_validation": "Parsed BOE response/status 200"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+      "accessed_at": "2026-10-21T23:13:50.138867+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "path": "sources/preflight-2026-10-22-metadata.xml",
+      "format_validation": "Parsed BOE response/status 200"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+      "accessed_at": "2026-10-21T23:13:50.209114+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "path": "sources/preflight-2026-10-22-analysis.xml",
+      "format_validation": "Parsed BOE response/status 200"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:16:36.653212+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/review-batch-01-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validated": "XML, BOE status 200, 1083 expected structural blocks checked below",
+      "identical_to_authoring_xml": true
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:19:30.497130+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/review-batch-02-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validated": "XML response; BOE API status 200",
+      "identical_to_authoring_xml": true
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:21:31.391912+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/review-batch-03-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validated": "XML response; BOE API status 200",
+      "identical_to_authoring_xml": true
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:23:57.166516+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "local_path": "sources/review-batch-04-official.xml",
+      "format_validation": "Parsed XML; data/texto present; no HTML challenge",
+      "purpose": "Bounded independent review a52–a71"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:26:31.751587+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "local_path": "sources/review-batch-05-official.xml",
+      "format_validation": "XML parsed; 1083 bloques BOE"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:28:14.509625+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/review-batch-06-official.xml"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:31:19.653209+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "local_path": "sources/review-batch-07-official.xml",
+      "bytes": 5433343,
+      "format_validation": "XML parsed; data/texto present; no HTML challenge",
+      "purpose": "Bounded substantive review a112–a130 including a1-6 (129 bis)"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:32:40.432693+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/review-batch-08-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validation": "XML parsed; data/texto present; no HTML challenge"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:34:27.702206+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/review-batch-09-official.xml",
+      "xml_root": "response"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:37:20.558406+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "local_path": "sources/review-batch-10-official.xml",
+      "bytes": 5433343,
+      "format_validation": "Parsed XML with data/texto; no HTML challenge",
+      "purpose": "Bounded review a169–a188",
+      "failed_attempt": "urllib without explicit Accept returned HTTP 400; curl with Accept application/xml succeeded"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:39:04.374270+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "local_path": "sources/review-batch-11-official.xml",
+      "bytes": 5433343,
+      "format_validation": "XML data/texto parsed; historical versions retained",
+      "http_headers": "sources/review-batch-11-http.txt",
+      "purpose": "Bounded review a189–a205, including bis units"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:40:31.227388+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "local_path": "sources/review-batch-12-official.xml",
+      "bytes": 5433343,
+      "format_validation": "XML data/texto parsed; historical versions retained",
+      "http_headers": "sources/review-batch-12-http.txt",
+      "purpose": "Bounded review a206–a224, including a213bis",
+      "request_note": "Initial request without Accept returned HTTP 400; successful retry explicitly requested application/xml."
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:42:06.685050+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "local_path": "sources/review-batch-13-official.xml",
+      "bytes": 5433343,
+      "format_validation": "Parsed XML response/data/texto; expected preceptos and historical versions present",
+      "http_headers": "sources/review-batch-13-http.txt",
+      "purpose": "Bounded second reading a225–a244, official a2-13 = artículo 226"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:47:39.927887+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a248-a263-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "http_headers": "sources/author-a248-a263-http.txt",
+      "format_validation": "Parsed response/status 200 and 1083 statutory blocks; not HTML",
+      "purpose": "Author batch a248–a263; unchanged official XML, original legal cutoff retained"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-15756",
+      "accessed_at": "2026-10-21T23:47:39.927887+00:00",
+      "http_status": 200,
+      "content_type": "application/xml; charset=utf-8",
+      "path": "sources/TC-222-2012.xml",
+      "sha256": "a6ce6fab889e215480728ac2b6469cf767662809fc3a2bba4728a040e0031c5f",
+      "http_headers": "sources/TC-222-2012-http.txt",
+      "format_validation": "Parsed documento; title, date, full antecedents, grounds and fallo checked"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:49:02.889374+00:00",
+      "http_status": 200,
+      "path": "sources/review-batch-14-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validation": "XML parsed; 1083 statutory/structural blocks; no HTML response"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:54:39.002432+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/author-a264-a282-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "http_headers": "sources/author-a264-a282-http.txt",
+      "format_validation": "response/status 200; 1083 statutory blocks; identical authoring snapshot",
+      "version_cutoff": "2026-10-19"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2005-9515",
+      "accessed_at": "2026-10-21T23:54:39.002432+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "path": "sources/STC-107-2005.xml",
+      "sha256": "c5f538b8b6d72ba692ece38409ecbca162c7bd6fd52e1d6ab4b8fe9c9c81475e",
+      "http_headers": "sources/STC-107-2005-http.txt",
+      "format_validation": "documento root; full antecedents, FJ 1–6 and fallo",
+      "version_cutoff": "2026-10-19"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-21T23:55:50.103396+00:00",
+      "http_status": 200,
+      "path": "sources/review-batch-15-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "http_headers": "sources/review-batch-15-http.txt",
+      "format_validation": "application/xml requested; response/status 200; parsed 1083 blocks",
+      "failed_attempt": "urllib without XML Accept header returned HTTP 400; curl with Accept application/xml succeeded"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/author-a283-a291-official.xml",
+      "http_headers": "sources/author-a283-a291-http.txt",
+      "format_validation": "response/status 200; 1083 complete XML blocks; identical to verified canonical snapshot",
+      "version_cutoff": "2026-10-19",
+      "accessed_at": "2026-10-22T00:03:32.524760+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2004-19065",
+      "path": "sources/STC-165-2004.xml",
+      "http_headers": "sources/STC-165-2004-http.txt",
+      "format_validation": "documento root; complete antecedents, FJ 1–7, fallo and signature",
+      "accessed_at": "2026-10-22T00:03:32.524760+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "ba4be19e9b3b8a923879cbbb3b4f51398cf77a7ff80a19409959cc6ead64ed74"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/review-batch-16-official.xml",
+      "accessed_at": "2026-10-22T00:04:59.957858+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validation": "XML response/status 200; full official blocks parsed",
+      "http_headers": "sources/review-batch-16-http.txt"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/author-a292-a311-official.xml",
+      "accessed_at": "2026-10-22T00:09:25.341240+00:00",
+      "http_status": 200,
+      "http_headers": "sources/author-a292-a311-http.txt",
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validation": "XML response, status/code 200, 1083 blocks; byte-identical to canonical official XML",
+      "version_cutoff": "2026-10-19",
+      "request_accept": "application/xml",
+      "initial_attempt": "HTTP 400 without explicit Accept; repeated with application/xml successfully"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/review-batch-17-official.xml",
+      "accessed_at": "2026-10-22T00:10:33.117016+00:00",
+      "http_status": 200,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "content_type": "application/xml",
+      "http_headers": "sources/review-batch-17-http.txt",
+      "format_validation": "Validated by XML parsing and complete official block comparison in review-batch-17-audit.json"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/author-a312-a331-official.xml",
+      "accessed_at": "2026-10-22T00:15:02.736439+00:00",
+      "http_status": 200,
+      "http_headers": "sources/author-a312-a331-http.txt",
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validation": "XML response, status/code 200, 1083 blocks; byte-identical to canonical official XML",
+      "version_cutoff": "2026-10-19",
+      "request_accept": "application/xml",
+      "initial_attempt": "HTTP 400 without explicit Accept; repeated with application/xml successfully"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "http_status": 200,
+      "accessed_at": "2026-10-22T00:17:26.200996+00:00",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/review-batch-18-official.xml",
+      "content_type": "application/xml",
+      "xml_root": "response",
+      "request_accept": "application/xml",
+      "note": "First request without Accept returned HTTP 400; successful retry explicitly negotiated XML."
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/author-a332-a351-official.xml",
+      "accessed_at": "2026-10-22T00:20:19.647902+00:00",
+      "http_status": 200,
+      "http_headers": "sources/author-a332-a351-http.txt",
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validation": "XML response, status/code 200, 1083 blocks; byte-identical to canonical official XML",
+      "version_cutoff": "2026-10-19",
+      "request_accept": "application/xml",
+      "initial_attempt": "Explicit Accept application/xml; successful response"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "http_status": 200,
+      "accessed_at": "2026-10-22T00:22:03.496899+00:00",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/review-batch-19-official.xml",
+      "content_type": "application/xml",
+      "xml_root": "response",
+      "request_accept": "application/xml"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-22T00:26:41.554737+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/author-a352-a371-official.xml",
+      "xml_root": "response",
+      "scope": [
+        "a352",
+        "a353",
+        "a354",
+        "a355",
+        "a356",
+        "a357",
+        "a358",
+        "a359",
+        "a360",
+        "a361",
+        "a362",
+        "a363",
+        "a364",
+        "a365",
+        "a366",
+        "a367",
+        "a368",
+        "a369",
+        "a370",
+        "a371"
+      ],
+      "same_as_original_authoring_xml": true
+    }
+  ],
+  "decisive_date": "2026-10-19",
+  "commencement_evidence": {
+    "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
+    "latest_published_change": "2026-10-07",
+    "latest_effective_change": "2026-10-08",
+    "amending_source": "sources/BOE-A-2026-20823.xml",
+    "provisions": "Artículo 5, disposición transitoria segunda y disposición final decimoprimera",
+    "repealed_intermediate_source": "sources/BOE-A-2026-20526.xml",
+    "changed_since_intake": [
+      "a22",
+      "a685"
+    ],
+    "version_selection": "Versiones con publicación y vigencia no posteriores al 2026-10-19; preferencia por publicación posterior y cotejo íntegro con HTML oficial actual. Ordenar solo por vigencia recuperaba versiones superadas: diferencias iniciales conservadas en sources/initial-selection-differences.json.",
+    "consolidation_warning": "La consolidación BOE es informativa; se conservan las publicaciones oficiales de los cambios posteriores a la captura."
+  },
+  "parser_correction": {
+    "reason": "General amendments with later commencement can appear alongside later published substantive amendments; current consolidated HTML was independently compared to prevent revival of superseded clauses.",
+    "affected": [
+      "a33",
+      "a439",
+      "a661",
+      "a673",
+      "a674",
+      "a688",
+      "a691",
+      "a781"
+    ],
+    "evidence": "sources/initial-selection-differences.json"
+  },
+  "preflight_recheck": {
+    "result": "preflight-result.json",
+    "verified_at": "2026-10-21T23:13:53.022357+00:00",
+    "decisive_date": "2026-10-19",
+    "latest_metadata_update": "20261007T095140Z",
+    "new_source_versions_since_authoring": false,
+    "fresh_text_agreement_units": 916,
+    "opening_formula_repaired": true
+  }
+}
