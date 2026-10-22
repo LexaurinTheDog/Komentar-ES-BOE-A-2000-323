@@ -30,7 +30,7 @@
 
 *Nota editorial del BOE:* Se modifica el apartado 6 por el art. 15.183 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-El acceso al recurso queda sometido aquí a garantías patrimoniales específicas, distintas de la razón de fondo de la impugnación. El apartado 1 se refiere al demandado en procesos que llevan aparejado lanzamiento: al interponer apelación o casación debe manifestar y acreditar por escrito el pago de rentas vencidas y anticipadas exigibles según el contrato. El apartado 2 convierte esa exigencia en una carga continuada: dejar de pagar durante el recurso puede determinar que se declare desierto, aunque ya hubiera sido admitido. El anticipo o consignación de varios períodos queda sujeto a liquidación y no modifica por sí mismo el contrato.
+El acceso al recurso queda sometido aquí a garantías patrimoniales específicas, distintas de la razón de fondo de la impugnación. El apartado 1 se refiere al demandado en procesos que llevan aparejado lanzamiento: al interponer apelación o casación debe manifestar y acreditar por escrito el pago de rentas vencidas y anticipadas exigibles según el contrato. El apartado 2 convierte esa exigencia en una carga continuada: dejar de pagar durante el recurso determina que se declare desierto, cualquiera que sea su estado, sin perjuicio del examen de subsanación del apartado 6. El anticipo o consignación de varios períodos queda sujeto a liquidación y no modifica por sí mismo el contrato.
 
 Los apartados 3 y 4 protegen créditos distintos. En daños por circulación, el condenado debe depositar el importe de la condena, intereses y recargos exigibles; en deudas de un propietario con la comunidad, debe satisfacer o consignar la cantidad líquida de la sentencia. No cabe trasladar sin más la base de cálculo de un supuesto al otro. La garantía tampoco neutraliza la ejecución provisional, expresamente preservada en ambos apartados.
 
@@ -53,6 +53,10 @@ El desistimiento dispone del recurso interpuesto y permite abandonarlo antes de 
 El apartado 1 establece una excepción expresa para la casación: el desistimiento deja de estar permitido una vez señalado día para deliberación, votación y fallo. El límite atiende al señalamiento, no a que la deliberación se haya celebrado. No debe aplicarse a esa fase la regla general de retirada hasta que recaiga resolución. Tampoco puede utilizarse este artículo para deducir por sí solo el régimen de costas, que requiere su examen específico.
 
 Cuando hay varios recurrentes, el apartado 2 evita que la retirada de uno clausure el recurso de los demás. Se abandonan las pretensiones impugnatorias exclusivas del desistido, pero la resolución no adquiere firmeza por ese solo desistimiento. Por ejemplo, si dos codemandados apelan por motivos propios y uno se retira, el otro conserva su recurso; el tribunal deberá identificar qué peticiones seguían vivas y cuáles dependían exclusivamente de quien desistió. Antes de retirar conviene comprobar también si existe impugnación de la contraparte conforme al artículo 461, pues la retirada del recurso propio no debe confundirse con un acuerdo que haya extinguido todas las controversias de segunda instancia.
+
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO IV — De los recursos
 
 #### CAPÍTULO II — De los recursos de reposición y revisión
 
@@ -164,6 +168,10 @@ Por ejemplo, si un decreto desestima la reposición sobre una actuación ejecuti
 
 **Control de recursos interlocutorios.** Identificar autor y forma de la resolución; comprobar si procede reposición o revisión directa; anotar los cinco días y la infracción concreta; atender las actuaciones no suspendidas; conservar la denuncia para la resolución definitiva cuando corresponda. El pie de recurso debe contrastarse con la vía legal aplicable.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO IV — De los recursos
+
 #### CAPÍTULO III — Del recurso de apelación y de la segunda instancia
 
 #### Sección 1.ª Del recurso de apelación y de la segunda instancia: disposiciones generales
@@ -213,6 +221,12 @@ La segunda instancia permite revisar la decisión sobre las pretensiones de prim
 La posibilidad de nueva prueba está limitada por el artículo 460. No basta que un medio hubiera sido útil: hay que justificar el supuesto que permite introducirlo en segunda instancia. El alcance efectivo de la revisión también depende de los puntos recurridos y de la eventual impugnación de la contraparte, según los artículos 461 y 465.5.
 
 Los apartados 2 y 3 distinguen efectos. La apelación contra sentencias desestimatorias y autos que ponen fin al proceso no suspende ni permite actuar contra lo decidido. Para sentencias estimatorias se remite al régimen de ejecución provisional del título II del libro III, que exige examinar la naturaleza de cada pronunciamiento. Por ejemplo, quien apela una condena al pago no obtiene por presentar el recurso una inmunidad automática frente a ejecución provisional; quien apela una desestimación tampoco puede tratar su demanda como estimada mientras espera. Conviene separar la petición de revocación, que afecta a la decisión final, de las incidencias sobre eficacia o ejecución durante la tramitación del recurso.
+
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO IV — De los recursos
+
+#### CAPÍTULO III — Del recurso de apelación y de la segunda instancia
 
 #### Sección 2.ª De la sustanciación de la apelación
 
