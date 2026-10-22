@@ -1,0 +1,41 @@
+{
+  "scope": [
+    "a568",
+    "a569",
+    "a570",
+    "a571",
+    "a572",
+    "a573",
+    "a574",
+    "a575",
+    "a576",
+    "a577",
+    "a578",
+    "a579",
+    "a580",
+    "a581",
+    "a582",
+    "a583",
+    "a584",
+    "a585",
+    "a586",
+    "a587"
+  ],
+  "searched_at": "2026-10-22T01:57:10.038681+00:00",
+  "web_queries": [
+    "site.tribunalconstitucional.es \"579\" \"plusvalía\"",
+    "site.boe.es \"576\" \"intereses\" \"Tribunal Constitucional\""
+  ],
+  "local_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/es/tc/2009",
+    "result": "/Volumes/LaCie/law-intake/eu/es/tc/2009/TC-6628.md",
+    "snapshot": "sources/TC-6628-a568-a587-local.md",
+    "sha256": "eb7b1d004ef521cf6e0bea1304f65677f76de31e18cf0127f085dde3a8cf2f04"
+  },
+  "selected_case": "cases/STC-209-2009-a568-a587.md",
+  "full_text_read": "Antecedentes 1–9, fundamentos 1–5 y fallo; HTML oficial y corpus nacional TC-6628.",
+  "limitations": [
+    "Investigación selectiva: no se ha verificado un precedente específico para cada unidad.",
+    "Resultados doctrinales y comerciales de búsqueda no utilizados como resoluciones primarias."
+  ]
+}

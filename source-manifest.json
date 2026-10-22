@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:51:17.238883+00:00",
+  "generated_at": "2026-10-22T01:57:11.142275+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -199,6 +199,16 @@
       "sha256": "8c3429458da9b9d2cb821e919722637e6c1dcd34aabab1608786bc62358285b8"
     },
     {
+      "path": "sources/STC-209-2009-a568-a587.html",
+      "bytes": 71420,
+      "sha256": "14f07f0addb7e9d226db483c63ff137a87ed02ee5dc7fea23aa0a61f14fdfcac"
+    },
+    {
+      "path": "sources/STC-209-2009-a568-a587.txt",
+      "bytes": 43570,
+      "sha256": "7028accb2e63c0001d2e127f9ecdfa52f7b0f02051e4dc017844283c8afbad4d"
+    },
+    {
       "path": "sources/STC-22-2008-a528-a547.txt",
       "bytes": 66171,
       "sha256": "199546d2b3d07d2f8a872af6ace21be15de4fef308e00f30ebff85cb5e421d1e"
@@ -287,6 +297,11 @@
       "path": "sources/TC-6254-a528-a547-local.md",
       "bytes": 69821,
       "sha256": "eb5dee4a902cb6e9079be32b7a67496e42d7e7a2df3c5a3465b5a18ef9977d1d"
+    },
+    {
+      "path": "sources/TC-6628-a568-a587-local.md",
+      "bytes": 39008,
+      "sha256": "eb7b1d004ef521cf6e0bea1304f65677f76de31e18cf0127f085dde3a8cf2f04"
     },
     {
       "path": "sources/author-a248-a263-http.txt",
@@ -515,6 +530,36 @@
     },
     {
       "path": "sources/author-a548-a567-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
+      "path": "sources/author-a568-a587-analysis.xml",
+      "bytes": 42740,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+    },
+    {
+      "path": "sources/author-a568-a587-case-fetch.json",
+      "bytes": 318,
+      "sha256": "57dcdf4aec8d4403368652db141f055c029145e9ffa2f35ec1c86a40d7368535"
+    },
+    {
+      "path": "sources/author-a568-a587-case-search.json",
+      "bytes": 1133,
+      "sha256": "64ad9b29d565e2d4ded9bf7e2da9e09005f6d318850f67fca1e30feacecdc57c"
+    },
+    {
+      "path": "sources/author-a568-a587-fetch.json",
+      "bytes": 1066,
+      "sha256": "c51c11bebd2262a7dc1b3cdb2745a9a3ee177565b9584a9db3c52d28c46fd095"
+    },
+    {
+      "path": "sources/author-a568-a587-metadata.xml",
+      "bytes": 1196,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+    },
+    {
+      "path": "sources/author-a568-a587-official.xml",
       "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
     },
@@ -1436,8 +1481,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 49793,
-      "sha256": "d41d89dcf63cb2566efd6ed19c1bfe85f434285836a4d26fee93caf2cad129f3"
+      "bytes": 51256,
+      "sha256": "859427a9bb11228e8bf8f6b24ff6a24270834cc6761ae0feda84c56baa87aa6a"
     },
     {
       "path": "sources/version-selection.json",
