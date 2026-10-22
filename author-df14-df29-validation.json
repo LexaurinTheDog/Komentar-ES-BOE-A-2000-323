@@ -1,0 +1,22 @@
+{
+  "batch": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 16,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 43867,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "whole_book": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 916,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1437621,
+    "errors": [
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  }
+}

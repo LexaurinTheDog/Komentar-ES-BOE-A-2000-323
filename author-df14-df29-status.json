@@ -1,0 +1,66 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "dfdecimocuarta",
+    "dfdecimoquinta",
+    "dfdecimosexta",
+    "dfdecimoseptima",
+    "dfdecimoctava",
+    "dfdecimonovena",
+    "dfvigesima",
+    "dfvigesimaprimera",
+    "dfvigesimasegunda",
+    "dfvigesimatercera",
+    "dfvigesimacuarta",
+    "dfvigesimoquinta",
+    "dfvigesimosexta",
+    "dfvigesimoseptima",
+    "dfvigesimooctava",
+    "dfvigesimonovena"
+  ],
+  "total_units": 16,
+  "completed_units": 16,
+  "source_checks": {
+    "agreement": 1.0,
+    "official_inventory": 916,
+    "audit": "author-df14-df29-audit.json"
+  },
+  "commentary_chars": 43867,
+  "case_law_sources": [
+    "cases/TJUE-Bondora-df14-df29.md"
+  ],
+  "links": {
+    "broken": []
+  },
+  "remaining_limitations": [
+    "Autoría limitada a dieciséis unidades; pendiente segunda lectura independiente. No certifica el libro completo.",
+    "Una sentencia TJUE incorporada; quince unidades sin jurisprudencia específica. Investigación selectiva nacional y europea.",
+    "EUR-Lex rechazó descargas directas; el texto íntegro de Bondora se conserva mediante capturas del extractor web oficial, sin código HTTP originario expuesto. Reglamentos cotejados en PDFs oficiales BOE, sin presentar esos PDFs originales como consolidaciones actuales.",
+    "La validación integral detecta cambios fuera del lote en OUTPUT; se preservan y no se incluyen en el commit acotado. La validación estricta del checkpoint de 16 unidades pasa."
+  ],
+  "whole_book_complete": false,
+  "unresolved_batch_blockers": [],
+  "validation": {
+    "batch": {
+      "repo": "Komentar-ES-BOE-A-2000-323",
+      "units": 16,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 43867,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "whole_book": {
+      "repo": "Komentar-ES-BOE-A-2000-323",
+      "units": 916,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 1437621,
+      "errors": [
+        "necommitnuté změny v repu"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  },
+  "checkpoint_commit": "95f8562fb8f54a70ee0333ae6d4486f34f1db056"
+}
