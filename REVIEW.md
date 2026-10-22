@@ -150,3 +150,10 @@ Revisadas individualmente las veinte unidades de [review-result.json](review-res
 No se atribuyen criterios a sentencias sin verificar. Estas unidades no contienen citas jurisprudenciales; se conserva la [búsqueda selectiva previa y sus límites](sources/case-search-a292-a311.json). Las remisiones internas se contrastan con los preceptos, especialmente 183, 304–309, 312, 382–384 y 435. La [auditoría](review-batch-17-audit.json) controla inventario, versiones, texto y repetición; esos controles no sustituyen la lectura jurídica.
 
 Se registra el [build integral](review-batch-17-build.json) y la [validación estricta](review-batch-17-validation.json). Las unidades pendientes fuera del lote impiden completar el libro; se exporta únicamente el capítulo 17 revisado. No se declara revisión profesional externa ni terminación del conjunto.
+
+
+## Segunda lectura limitada: artículos 312 a 331
+
+Leídos los veinte artículos y comentarios de [review-result.json](review-result.json) frente al [XML oficial renovado](sources/review-batch-18-official.xml), con sus versiones históricas y remisiones internas. Se conserva el corte jurídico del 19 de octubre de 2026. Se precisan la iniciativa de comprobación electrónica no cualificada del artículo 326.3 y el efecto limitado de la exclusión de terceros del artículo 330.2. Se confirma la discordancia oficial entre la remisión del 313 y la numeración efectiva del 169, sin modificar el texto legal.
+
+La [auditoría](review-batch-18-audit.json) coteja el inventario completo y el tenor literal, verifica ausencia de anexos separados y conserva la fórmula de promulgación. No se añaden sentencias: se conserva la [búsqueda selectiva previa](sources/case-search-a312-a331.json), sin atribuirle exhaustividad. El [build](review-batch-18-build.json) y la [validación estricta](review-batch-18-validation.json) registran el estado global; se exporta el capítulo 18 y se preservan los otros capítulos. La revisión de este lote no equivale a libro terminado ni a aprobación profesional externa.

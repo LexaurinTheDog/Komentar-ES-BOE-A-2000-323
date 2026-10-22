@@ -1,119 +1,117 @@
 {
   "complete": true,
-  "scope": "Exclusivamente a292–a311",
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a292",
-    "a293",
-    "a294",
-    "a295",
-    "a296",
-    "a297",
-    "a298",
-    "a299",
-    "a300",
-    "a301",
-    "a302",
-    "a303",
-    "a304",
-    "a305",
-    "a306",
-    "a307",
-    "a308",
-    "a309",
-    "a310",
-    "a311"
+    "a312",
+    "a313",
+    "a314",
+    "a315",
+    "a316",
+    "a317",
+    "a318",
+    "a319",
+    "a320",
+    "a321",
+    "a322",
+    "a323",
+    "a324",
+    "a325",
+    "a326",
+    "a327",
+    "a328",
+    "a329",
+    "a330",
+    "a331"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a292",
-      "finding": "Cuatro apartados cotejados: audiencia cinco días, multa 180–600, nueva citación y desobediencia, decisión de continuidad y remisión 304; excusa coordinada con 183."
+      "id": "a312",
+      "finding": "Acta, lectura, modificación y firmas cotejadas; grabación obligatoria si concurren medios y juicio favorable, audio y garantías alternativas correctamente distinguidos."
     },
     {
-      "id": "a293",
-      "finding": "Diferenciadas anticipación y conservación; legitimación previa y pendiente, peligro fundado, control competencial y exclusión de declinatoria; ejemplo de demolición coherente."
+      "id": "a313",
+      "finding": "Prioridad videoconferencia comprobada; discordancia literal 169.5 cotejada con cuatro apartados efectivos del 169; pliego condicionado y pertinencia preservados."
     },
     {
-      "id": "a294",
-      "finding": "Cotejada proposición por medio, motivación del riesgo, providencia y señalamiento LAJ anterior al juicio; no se inventa recurso por la rúbrica."
+      "id": "a314",
+      "finding": "Identidad de personas y hechos cotejada; continuación y nuevos hechos no eximen de admisibilidad temporal."
     },
     {
-      "id": "a295",
-      "finding": "Comprobados citación mínima cinco días, intervención, pérdida de valor tras dos meses y excepción causal, repetición solicitada y valoración de ambas pruebas."
+      "id": "a315",
+      "finding": "Tres apartados cotejados: preguntas al admitirse, respuesta previa, lectura, complemento, justificación y diligencia final; remisión 307 con advertencias."
     },
     {
-      "id": "a296",
-      "finding": "Corregida omisión expresa de incorporación a la demanda; custodia de todos los materiales y reclamación oficial a instancia de parte contrastadas."
+      "id": "a316",
+      "finding": "Requisitos acumulativos del reconocimiento enteramente perjudicial y sana crítica contrastados; remisiones 301.2,304,307 sin automatismo."
     },
     {
-      "id": "a297",
-      "finding": "Cotejados providencia, medidas positivas y negativas, especialidad industrial/intelectual, competencia y veinte días desde adopción efectiva con costas y daños."
+      "id": "a317",
+      "finding": "Seis categorías comprobadas; diferencias entre fe documental y verdad de declaraciones; referencias históricas sin actualización inventada."
     },
     {
-      "id": "a298",
-      "finding": "Ocho apartados revisados: requisitos acumulativos, dos garantías distintas, audiencia y legitimación restringida, excepción motivada, notificación, oposición veinte días, vista cinco y auto tres días sin recurso."
+      "id": "a318",
+      "finding": "Original/copia fehaciente y copia simple no impugnada cotejados; remisión 267 y distinción autenticidad/interpretación correctas."
     },
     {
-      "id": "a299",
-      "finding": "Catálogo íntegro, medios tecnológicos y apertura residual cotejados; remisiones 382–384 leídas, sin automatismo de autenticidad o valor probatorio."
+      "id": "a319",
+      "finding": "Tres apartados comprobados: objeto de prueba plena, régimen administrativo subsidiario y excepción usura; ejemplo no confunde relato con percepción fedataria."
     },
     {
-      "id": "a300",
-      "finding": "Cinco categorías y posibilidad de orden distinto, presentación pericial excepcional y continuidad con restantes pruebas comprobadas; no se confunde orden con valoración."
+      "id": "a320",
+      "finding": "Tres vías y tres apartados cotejados; citación, firma/CSV, experto, gastos y temeridad con multa diferenciados."
     },
     {
-      "id": "a301",
-      "finding": "Cotejadas noticia de hechos, conflicto entre colitigantes y disociación legitimación/titularidad; ejemplo respeta imposibilidad ordinaria de proponer declaración propia."
+      "id": "a321",
+      "finding": "Completitud distinta de falsedad; adiciones solicitadas por perjudicado y suspensión de prueba plena contrastadas."
     },
     {
-      "id": "a302",
-      "finding": "Oralidad afirmativa, claridad, exclusión de calificaciones y decisión inmediata contrastadas; ejemplo distingue hechos de valoración."
+      "id": "a322",
+      "finding": "Dos categorías, prueba contraria y cotejo posible revisados; remisión literal 1221 CC sin atribuirle contenido no investigado."
     },
     {
-      "id": "a303",
-      "finding": "Impugnación por declarante y abogado y momento del acto comprobados; ejemplo de premisa controvertida no se convierte en derecho a negarse globalmente."
+      "id": "a323",
+      "finding": "Prioridad régimen especial y requisitos subsidiarios acumulativos; eficacia del negocio separada de autenticidad; no se invoca convenio particular."
     },
     {
-      "id": "a304",
-      "finding": "Intervención personal, perjuicio enteramente desfavorable, facultad judicial, apercibimiento y multa diferenciados; no equivale a allanamiento general."
+      "id": "a324",
+      "finding": "Definición residual cotejada; soporte electrónico no determina por sí solo clasificación; ejemplo de testimonio no altera contenido privado."
     },
     {
-      "id": "a305",
-      "finding": "Corregida palabra preferencia para expresar obligación de respuesta afirmativa o negativa cuando sea posible; consulta de notas autorizada y explicación relacionada preservadas."
+      "id": "a325",
+      "finding": "Remisión íntegra a 268 leída; presentación distinta de plazo, copia distinta de autoría; ejemplo coherente con 268.2."
     },
     {
-      "id": "a306",
-      "finding": "Turnos de abogados, preguntas aclaratorias judiciales, intervención sin abogado con venia y resolución de impugnación antes de responder contrastados."
+      "id": "a326",
+      "finding": "Cuatro apartados cotejados. Corregida omisión de activación del régimen no cualificado a instancia de quien interesa eficacia; presunción cualificada, momento y multas bien delimitados."
     },
     {
-      "id": "a307",
-      "finding": "Apercibimiento, secreto legal, hechos personales perjudiciales total o parcialmente y evasivas comprobados; ejemplo no equipara desconocimiento real a resistencia."
+      "id": "a327",
+      "finding": "Remisión mercantil, excepcionalidad motivada y precisión de asientos cotejadas; no se afirma fuerza uniforme ni acceso general a sistemas."
     },
     {
-      "id": "a308",
-      "finding": "Conocimiento no personal y origen, tercero con aceptación de consecuencias, conformidad del proponente y alternativa testifical discrecional cotejados."
+      "id": "a328",
+      "finding": "Tres apartados cotejados: indisponibilidad, copia o descripción, escala comercial, principio de prueba y reserva a instancia; ejemplo adecuado."
     },
     {
-      "id": "a309",
-      "finding": "Explicitada inclusión de entes sin personalidad; identificación en audiencia previa, antiguo miembro testigo, conocimiento indirecto y diligencia final 435.1.2 leída; efectos 307 con garantías."
+      "id": "a329",
+      "finding": "Negativa injustificada, valoración facultativa conjunta y requerimiento alternativo por providencia comprobados; sin admisión automática."
     },
     {
-      "id": "a310",
-      "finding": "Incomunicación de partes/personas asimiladas y litisconsortes cotejada; aplicación telemática presentada como medida organizativa, sin nulidad automática inventada."
+      "id": "a330",
+      "finding": "Propiedad, trascendencia, audiencia, irrecurribilidad, reiteración en apelación y domicilio cotejados. Precisado que exclusión de tercero no atribuye automáticamente condición de parte."
     },
     {
-      "id": "a311",
-      "finding": "Dos apartados cotejados: audiencia, videoconferencia válida o domicilio, presencia LAJ, asistencia condicionada y pliego solo domiciliario; remisión 312 leída con alternativa de grabación."
+      "id": "a331",
+      "finding": "Testimonio solicitado en sede y digitalización bajo fe cotejados; conservación no acredita verdad material; remisión domiciliaria 330 correcta."
     }
   ],
   "limitations": [
-    "No completa el libro: permanecen unidades sin comentario fuera de esta tanda.",
-    "No hay sentencias citadas en estas veinte unidades; búsqueda previa selectiva sin resolución individual suficientemente pertinente verificada; no se añaden autoridades.",
-    "Corte jurídico original 2026-10-19 conservado, contrastado con nueva descarga oficial; no determina régimen transitorio de expedientes concretos.",
-    "Segunda lectura por este proceso, sin aprobación profesional externa; controles técnicos no acreditan por sí solos calidad jurídica."
+    "Revisión limitada a a312–a331; no acredita terminación del libro.",
+    "Sin nuevas autoridades judiciales: búsqueda previa selectiva conservada; estas unidades no citan decisiones individuales.",
+    "Corte jurídico 2026-10-19; acceso nuevo no sustituye fecha de vigencia.",
+    "Sin aprobación profesional externa."
   ],
-  "reviewed_at": "2026-10-22T00:11:04.923739+00:00",
-  "source_evidence": "review-batch-17-audit.json",
-  "case_sources": []
+  "reviewed_at": "2026-10-22T00:17:26.200996+00:00",
+  "source_evidence": "review-batch-18-audit.json"
 }
