@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:48:45.330487+00:00",
+  "generated_at": "2026-10-22T03:51:36.459237+00:00",
   "sources": [
     {
       "path": "sources/ATC-20-2024-a608-a627.html",
@@ -156,8 +156,8 @@
     },
     {
       "path": "sources/LCCH-a821-dtprimera.xml",
-      "bytes": 192112,
-      "sha256": "60847decc016a6e8d966e3bac95256ba14d68f9431558681ffd1ec1f539a3f8e"
+      "sha256": "60847decc016a6e8d966e3bac95256ba14d68f9431558681ffd1ec1f539a3f8e",
+      "bytes": 192112
     },
     {
       "path": "sources/LOPJ-text.xml",
@@ -220,13 +220,13 @@
     },
     {
       "path": "sources/STC-132-2010-a821-dtprimera.html",
-      "bytes": 61024,
-      "sha256": "bd3e5d9d873dca98d0369caba7a831678b43354ade1be1fe9997b236e9c68aba"
+      "sha256": "bd3e5d9d873dca98d0369caba7a831678b43354ade1be1fe9997b236e9c68aba",
+      "bytes": 61024
     },
     {
       "path": "sources/STC-132-2010-a821-dtprimera.txt",
-      "bytes": 35304,
-      "sha256": "08f79b3ac630cad1c24ba3edb6f47ad4f7f7a06d75fddc81f5d398ce5898e811"
+      "sha256": "08f79b3ac630cad1c24ba3edb6f47ad4f7f7a06d75fddc81f5d398ce5898e811",
+      "bytes": 35304
     },
     {
       "path": "sources/STC-14-1992-a707-a726.txt",
@@ -515,8 +515,8 @@
     },
     {
       "path": "sources/TC-6771-a821-dtprimera-local.md",
-      "bytes": 30470,
-      "sha256": "f9b59bf779711d76b00d52326beba7049b4a33ebf77c80a75dac0dc2209e3365"
+      "sha256": "f9b59bf779711d76b00d52326beba7049b4a33ebf77c80a75dac0dc2209e3365",
+      "bytes": 30470
     },
     {
       "path": "sources/author-a248-a263-http.txt",
@@ -1150,38 +1150,38 @@
     },
     {
       "path": "sources/author-a821-dtprimera-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-a821-dtprimera-case-fetch.json",
-      "bytes": 349,
-      "sha256": "35315b02ba8d751a167b0617f4f832c061496f7903185611853e989f570e1a31"
+      "sha256": "35315b02ba8d751a167b0617f4f832c061496f7903185611853e989f570e1a31",
+      "bytes": 349
     },
     {
       "path": "sources/author-a821-dtprimera-fetch.json",
-      "bytes": 1081,
-      "sha256": "c6b8914853332be3660f35dc671aca1241b20526597e213d3cfd874387d13ac9"
+      "sha256": "c6b8914853332be3660f35dc671aca1241b20526597e213d3cfd874387d13ac9",
+      "bytes": 1081
     },
     {
       "path": "sources/author-a821-dtprimera-lcch-fetch.json",
-      "bytes": 772,
-      "sha256": "44465d07e74535e52ca6f77c71630aee1bbb89fe927fe615b5bb0f88e985c342"
+      "sha256": "44465d07e74535e52ca6f77c71630aee1bbb89fe927fe615b5bb0f88e985c342",
+      "bytes": 772
     },
     {
       "path": "sources/author-a821-dtprimera-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-a821-dtprimera-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a821-dtprimera-search-log.md",
-      "bytes": 1846,
-      "sha256": "eb1bb0b6fc40449139478ae345265c777255d314eb8002765d5ce32fb3d13387"
+      "sha256": "eb1bb0b6fc40449139478ae345265c777255d314eb8002765d5ce32fb3d13387",
+      "bytes": 1846
     },
     {
       "path": "sources/boe-act.html",
@@ -2382,14 +2382,34 @@
       "bytes": 5433343
     },
     {
+      "path": "sources/review-batch-44-STC-132-2010.html",
+      "sha256": "bd3e5d9d873dca98d0369caba7a831678b43354ade1be1fe9997b236e9c68aba",
+      "bytes": 61024
+    },
+    {
+      "path": "sources/review-batch-44-analysis.xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
+    },
+    {
+      "path": "sources/review-batch-44-metadata.xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
+    },
+    {
+      "path": "sources/review-batch-44-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 94890,
-      "sha256": "06564a029282132d71cf400d985f35144d786d1f1f136d9506b874c5fc15db29"
+      "sha256": "2ab6dd49c5c778cc4310cd8de0fcc9a2efe5782a259f90be9575943866f35406",
+      "bytes": 96609
     },
     {
       "path": "sources/version-selection.json",

@@ -1,0 +1,29 @@
+{
+  "reviewed_ids": [
+    "a821",
+    "a822",
+    "a823",
+    "a824",
+    "a825",
+    "a826",
+    "a827",
+    "daprimera",
+    "dasegunda",
+    "datercera",
+    "dacuarta",
+    "daquinta",
+    "dasexta",
+    "da",
+    "da-2",
+    "da-3",
+    "da-4",
+    "da-5",
+    "da-6",
+    "dtprimera"
+  ],
+  "broken_local_links": [],
+  "near_duplicate_paragraphs": [],
+  "case_sha256_verified": {
+    "STC-132-2010": "bd3e5d9d873dca98d0369caba7a831678b43354ade1be1fe9997b236e9c68aba"
+  }
+}

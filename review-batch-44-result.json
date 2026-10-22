@@ -1,0 +1,91 @@
+{
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "a821",
+    "a822",
+    "a823",
+    "a824",
+    "a825",
+    "a826",
+    "a827",
+    "daprimera",
+    "dasegunda",
+    "datercera",
+    "dacuarta",
+    "daquinta",
+    "dasexta",
+    "da",
+    "da-2",
+    "da-3",
+    "da-4",
+    "da-5",
+    "da-6",
+    "dtprimera"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "a821",
+      "corrected": true,
+      "detail": "Explicitadas las dos vías de recurso y sustanciación sólo con acreedor."
+    },
+    {
+      "id": "a823",
+      "corrected": true,
+      "detail": "Desglosadas las tres exclusiones del alzamiento y sus formalidades."
+    },
+    {
+      "id": "a827",
+      "corrected": true,
+      "detail": "Precisados momento de solicitud cautelar, audiencia y decisión antes de remisión de autos."
+    },
+    {
+      "id": "daquinta",
+      "corrected": true,
+      "detail": "Desarrolladas reserva completa de agenda, potestad reglamentaria e imputación por turno."
+    },
+    {
+      "id": "da-2",
+      "corrected": true,
+      "detail": "Corregida formulación facultativa: remisión por acceso obligatoria si sistemas lo permiten."
+    },
+    {
+      "id": "da-3",
+      "corrected": true,
+      "detail": "Incluidas referencias a sede contenidas en otras leyes, no sólo la LEC."
+    }
+  ],
+  "unit_checks": {
+    "a821": "Demanda sucinta y título; control formal por auto, requerimiento diez días y embargo inmediato, principal/accesorios; denegación por 552.2: apelación directa o reposición previa.",
+    "a822": "Pago conforme 583 con costas especiales a cargo del deudor; separación previsión cautelar y liquidación, justificante y terminación.",
+    "a823": "Personación propia/representada cinco días, negación categórica o falta absoluta representación; discreción y caución; tres exclusiones detalladas del apartado 2.",
+    "a824": "Demanda oposición diez días; autonomía 823; artículo 67 LCCH leído en versión efectiva, excepciones personales y tres categorías cambiarias, adquisición a sabiendas en perjuicio.",
+    "a825": "No oposición: despacho tribunal y traba LAJ, incluida reposición embargo alzado; ejecución conforme sentencias, sin reabrir oposición cambiaria omitida.",
+    "a826": "Traslado diez días, vista solicitada en escritos y 438 ss.; decisión sin vista; ausencia deudor desistimiento/825, ausencia acreedor decisión sin oírle.",
+    "a827": "Sentencia diez días; desestimación recurrida provisionalmente ejecutable; estimación recurrida 744 con solicitud al recurrir, audiencia y decisión; cosa juzgada de lo alegable.",
+    "daprimera": "Ley ordinaria y tres excepciones orgánicas, competencia 149.1.6 y especialidades necesarias; STC 132/2010 íntegra y contexto histórico frente a reforma 2015.",
+    "dasegunda": "Actualización facultativa quinquenal por RD e informes, sin indexación automática; conversión histórica euro y coexistencia escrita pesetas, no elección de moneda procesal.",
+    "datercera": "Mandato anual histórico a Gobierno y comunidades con transferencias, medios y personal para 147; falta de grabación no causa automática de nulidad.",
+    "dacuarta": "Mandato seis meses, RD y precios tasados sólo copias simples pedidas por partes; no tarifa concreta ni ejecución normativa presumida.",
+    "daquinta": "Creación OSI facultativa con acuerdo/informe; cinco materias y domicilio, seis reglas y comunicaciones procura; detalladas agenda completa, reglamentación y reparto por turno; referencias 440 desfasadas advertidas.",
+    "dasexta": "Dos reglas adicionales adjudicación no vivienda habitual; discordancia con actuales 670.3/671 confirmada en fuente; coordinación temporal indispensable, sin sentencia resolutoria inventada.",
+    "da": "Ámbito penal usurpación 245.2, cautela y sentencia; dependientes, víctimas violencia y menores; traslado administraciones protección, sin suspensión automática añadida.",
+    "da-2": "Remisión interinstitucional expediente total/parcial: acceso seguro y controlado obligatorio si sistemas lo permiten, sin extensión a terceros.",
+    "da-3": "Automatización funciones enumeradas, formación Administración y supervisión LAJ; referencias de esta u otras leyes a sede incluyen sede electrónica/Carpeta sólo con servicio disponible.",
+    "da-4": "Potestad Comité condiciones seguridad; no homologación concreta ni ampliación competencia jurisdiccional por herramienta.",
+    "da-5": "Mandato formulario Ministerio, encargo expreso y delegación en su caso; consentimiento coste y alternativa tribunal, sin presumir modelo aprobado.",
+    "da-6": "Referencias mediación ampliadas a otros MASC legales; no equiparación de requisitos particulares ni negociación informal automáticamente acreditada.",
+    "dtprimera": "Resolución interlocutoria/no definitiva dictada tras entrada vigor 2000 y recursos ordinarios; distinguir notificación y reformas posteriores."
+  },
+  "reviewed_at": "2026-10-22T03:51:12.449906+00:00",
+  "source_audit": "review-batch-44-audit.json",
+  "whole_book_complete": false,
+  "limitations": [
+    "Revisión sustantiva limitada exactamente a veinte unidades asignadas; libro incompleto.",
+    "Jurisprudencia selectiva: STC 132/2010 íntegra; no verificación autónoma de todas las decisiones citadas en ella.",
+    "Discordancia adicional sexta/670–671 expuesta, sin afirmar solución judicial vinculante; aplicación temporal depende del expediente.",
+    "Mandatos sobre formularios, tarifas y servicios no prueban su implantación concreta, que no se certifica.",
+    "Corte jurídico 2026-10-19 contrastado con 2026-10-22; sin aprobación profesional externa."
+  ]
+}

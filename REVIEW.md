@@ -1,3 +1,36 @@
+# Segunda lectura parcial: artículo 821 a disposición transitoria primera
+
+Revisados exactamente los veinte identificadores indicados en el resultado, frente al XML BOE completo y sus versiones. Corte jurídico conservado: 19 de octubre de 2026; comprobación actual: 22 de octubre. Se precisan recursos, exclusiones de alzamiento, mantenimiento cautelar al recurrir, agenda y reparto OSI, remisión electrónica obligatoria bajo condición técnica y alcance interlegal de sede electrónica. Se conserva el resto del manuscrito. Libro incompleto, sin aprobación profesional externa.
+
+La STC 132/2010 se lee íntegra: antecedentes 1–11, FFJJ 1–4 y fallo; se distingue posición del Abogado del Estado, petición fiscal y decisión. El fallo conserva la referencia literal a párrafo tercero para el segundo inciso, mientras la argumentación trata párrafos primero y segundo; la ficha señala esa discordancia sin corregir el original. El defecto histórico de rango no se atribuye a la adicional vigente de 2015. Artículo 67 LCCH contrastado en su versión efectiva, sin mezclar el cierre procesal de 1985.
+
+| Unidad | Comprobación |
+|---|---|
+| a821 | Demanda sucinta y título; control formal por auto, requerimiento diez días y embargo inmediato, principal/accesorios; denegación por 552.2: apelación directa o reposición previa. |
+| a822 | Pago conforme 583 con costas especiales a cargo del deudor; separación previsión cautelar y liquidación, justificante y terminación. |
+| a823 | Personación propia/representada cinco días, negación categórica o falta absoluta representación; discreción y caución; tres exclusiones detalladas del apartado 2. |
+| a824 | Demanda oposición diez días; autonomía 823; artículo 67 LCCH leído en versión efectiva, excepciones personales y tres categorías cambiarias, adquisición a sabiendas en perjuicio. |
+| a825 | No oposición: despacho tribunal y traba LAJ, incluida reposición embargo alzado; ejecución conforme sentencias, sin reabrir oposición cambiaria omitida. |
+| a826 | Traslado diez días, vista solicitada en escritos y 438 ss.; decisión sin vista; ausencia deudor desistimiento/825, ausencia acreedor decisión sin oírle. |
+| a827 | Sentencia diez días; desestimación recurrida provisionalmente ejecutable; estimación recurrida 744 con solicitud al recurrir, audiencia y decisión; cosa juzgada de lo alegable. |
+| daprimera | Ley ordinaria y tres excepciones orgánicas, competencia 149.1.6 y especialidades necesarias; STC 132/2010 íntegra y contexto histórico frente a reforma 2015. |
+| dasegunda | Actualización facultativa quinquenal por RD e informes, sin indexación automática; conversión histórica euro y coexistencia escrita pesetas, no elección de moneda procesal. |
+| datercera | Mandato anual histórico a Gobierno y comunidades con transferencias, medios y personal para 147; falta de grabación no causa automática de nulidad. |
+| dacuarta | Mandato seis meses, RD y precios tasados sólo copias simples pedidas por partes; no tarifa concreta ni ejecución normativa presumida. |
+| daquinta | Creación OSI facultativa con acuerdo/informe; cinco materias y domicilio, seis reglas y comunicaciones procura; detalladas agenda completa, reglamentación y reparto por turno; referencias 440 desfasadas advertidas. |
+| dasexta | Dos reglas adicionales adjudicación no vivienda habitual; discordancia con actuales 670.3/671 confirmada en fuente; coordinación temporal indispensable, sin sentencia resolutoria inventada. |
+| da | Ámbito penal usurpación 245.2, cautela y sentencia; dependientes, víctimas violencia y menores; traslado administraciones protección, sin suspensión automática añadida. |
+| da-2 | Remisión interinstitucional expediente total/parcial: acceso seguro y controlado obligatorio si sistemas lo permiten, sin extensión a terceros. |
+| da-3 | Automatización funciones enumeradas, formación Administración y supervisión LAJ; referencias de esta u otras leyes a sede incluyen sede electrónica/Carpeta sólo con servicio disponible. |
+| da-4 | Potestad Comité condiciones seguridad; no homologación concreta ni ampliación competencia jurisdiccional por herramienta. |
+| da-5 | Mandato formulario Ministerio, encargo expreso y delegación en su caso; consentimiento coste y alternativa tribunal, sin presumir modelo aprobado. |
+| da-6 | Referencias mediación ampliadas a otros MASC legales; no equiparación de requisitos particulares ni negociación informal automáticamente acreditada. |
+| dtprimera | Resolución interlocutoria/no definitiva dictada tras entrada vigor 2000 y recursos ordinarios; distinguir notificación y reformas posteriores. |
+
+Evidencia: [resultado exacto](review-batch-44-result.json), [inventario y cotejo](review-batch-44-audit.json), [preflight](preflight-result.json), [ficha STC](cases/STC-132-2010-a821-dtprimera.md). La validación técnica no acredita por sí sola calidad jurídica.
+
+---
+
 # Segunda lectura parcial: artículos 801–820
 
 Se revisan exactamente los veinte identificadores a801–a820 frente al XML oficial y sus versiones, con corte jurídico de 19 de octubre de 2026 y comprobación actual el 22 de octubre. Se corrigen detalles de plazos (809, 811), administración (809), notificación (815) y prueba (818), conservando el texto legal y los demás comentarios. Libro incompleto; sin aprobación profesional externa.
