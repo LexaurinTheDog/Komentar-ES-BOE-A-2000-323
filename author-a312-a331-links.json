@@ -1,3 +1,29 @@
 {
-  "broken_local_links": []
+  "broken_local_links": [],
+  "internal_article_references": [
+    "137",
+    "144",
+    "169",
+    "267",
+    "268",
+    "301",
+    "307",
+    "311",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "323",
+    "326",
+    "328",
+    "329",
+    "330"
+  ],
+  "external_statutory_remission": {
+    "1221": "Código Civil: remisión literal del artículo 322.2; no desarrollo de su régimen sin verificación externa"
+  },
+  "unresolved_internal_identifiers": [],
+  "exported_statutory_text_agreement": 1.0,
+  "exported_units": 20
 }
