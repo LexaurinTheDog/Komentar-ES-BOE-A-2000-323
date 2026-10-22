@@ -1,6 +1,6 @@
 {
   "exit_code": 1,
-  "stdout": "{\"repo\": \"Komentar-ES-BOE-A-2000-323\", \"units\": 916, \"verbatim_ratio\": 1.0, \"commentary_chars\": 407841, \"errors\": [\"krátký/chybějící komentář u 596 jednotek: ['a292(0<400)', 'a293(0<400)', 'a294(0<400)', 'a295(0<400)', 'a296(0<400)', 'a297(0<400)', 'a298(0<400)', 'a299(0<400)']\", \"necommitnuté změny v repu\"], \"warnings\": [], \"ok\": false}\n",
+  "stdout": "{\"repo\": \"Komentar-ES-BOE-A-2000-323\", \"units\": 916, \"verbatim_ratio\": 1.0, \"commentary_chars\": 407841, \"errors\": [\"krátký/chybějící komentář u 596 jednotek: ['a292(0<400)', 'a293(0<400)', 'a294(0<400)', 'a295(0<400)', 'a296(0<400)', 'a297(0<400)', 'a298(0<400)', 'a299(0<400)']\"], \"warnings\": [], \"ok\": false}\n",
   "stderr": "",
   "result": {
     "repo": "Komentar-ES-BOE-A-2000-323",
@@ -8,10 +8,12 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 407841,
     "errors": [
-      "krátký/chybějící komentář u 596 jednotek: ['a292(0<400)', 'a293(0<400)', 'a294(0<400)', 'a295(0<400)', 'a296(0<400)', 'a297(0<400)', 'a298(0<400)', 'a299(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 596 jednotek: ['a292(0<400)', 'a293(0<400)', 'a294(0<400)', 'a295(0<400)', 'a296(0<400)', 'a297(0<400)', 'a298(0<400)', 'a299(0<400)']"
     ],
     "warnings": [],
     "ok": false
-  }
+  },
+  "post_commit_validation": true,
+  "validated_manuscript_commit": "01cea7d",
+  "validated_at": "2026-10-22T00:03:58.592307+00:00"
 }

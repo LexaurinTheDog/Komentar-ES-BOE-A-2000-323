@@ -953,8 +953,7 @@
       "verbatim_ratio": 1.0,
       "commentary_chars": 407841,
       "errors": [
-        "krátký/chybějící komentář u 596 jednotek: ['a292(0<400)', 'a293(0<400)', 'a294(0<400)', 'a295(0<400)', 'a296(0<400)', 'a297(0<400)', 'a298(0<400)', 'a299(0<400)']",
-        "necommitnuté změny v repu"
+        "krátký/chybějící komentář u 596 jednotek: ['a292(0<400)', 'a293(0<400)', 'a294(0<400)', 'a295(0<400)', 'a296(0<400)', 'a297(0<400)', 'a298(0<400)', 'a299(0<400)']"
       ],
       "warnings": [],
       "ok": false
