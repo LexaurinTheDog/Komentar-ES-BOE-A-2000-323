@@ -23,3 +23,5 @@ Borrador parcial: 320 de 916 unidades. El inventario completo permanece en [unit
 - [Artículo 264 a Artículo 282, incluido el 268 bis](15-preceptos-15.md) — 20 unidades comentadas.
 
 - [Artículo 283 a Artículo 291, incluidos 283 bis a)–k)](16-preceptos-16.md) — 20 unidades comentadas.
+
+- [Artículos 292 a 311](17-preceptos-17.md) — veinte unidades comentadas; borrador pendiente de segunda lectura.

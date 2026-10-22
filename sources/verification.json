@@ -381,6 +381,19 @@
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
       "format_validation": "XML response/status 200; full official blocks parsed",
       "http_headers": "sources/review-batch-16-http.txt"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/author-a292-a311-official.xml",
+      "accessed_at": "2026-10-22T00:09:25.341240+00:00",
+      "http_status": 200,
+      "http_headers": "sources/author-a292-a311-http.txt",
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "format_validation": "XML response, status/code 200, 1083 blocks; byte-identical to canonical official XML",
+      "version_cutoff": "2026-10-19",
+      "request_accept": "application/xml",
+      "initial_attempt": "HTTP 400 without explicit Accept; repeated with application/xml successfully"
     }
   ],
   "decisive_date": "2026-10-19",

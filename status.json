@@ -1,11 +1,11 @@
 {
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-22T00:03:32.524760+00:00",
+  "updated_at": "2026-10-22T00:09:25.341240+00:00",
   "decisive_date": "2026-10-19",
   "title": "Comentario a la Ley de Enjuiciamiento Civil",
   "total_units": 916,
-  "completed_units": 320,
+  "completed_units": 340,
   "completed_ids": [
     "a1",
     "a2",
@@ -326,10 +326,7 @@
     "a288",
     "a289",
     "a290",
-    "a291"
-  ],
-  "remaining_units": 596,
-  "remaining_ids": [
+    "a291",
     "a292",
     "a293",
     "a294",
@@ -349,7 +346,10 @@
     "a308",
     "a309",
     "a310",
-    "a311",
+    "a311"
+  ],
+  "remaining_units": 576,
+  "remaining_ids": [
     "a312",
     "a313",
     "a314",
@@ -927,7 +927,7 @@
     "dfvigesimooctava",
     "dfvigesimonovena"
   ],
-  "commentary_chars": 407841,
+  "commentary_chars": 438648,
   "source_checks": {
     "official_http_evidence": "sources/verification.json",
     "completeness": true,
@@ -951,15 +951,15 @@
       "repo": "Komentar-ES-BOE-A-2000-323",
       "units": 916,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 407841,
+      "commentary_chars": 438648,
       "errors": [
-        "krátký/chybějící komentář u 596 jednotek: ['a292(0<400)', 'a293(0<400)', 'a294(0<400)', 'a295(0<400)', 'a296(0<400)', 'a297(0<400)', 'a298(0<400)', 'a299(0<400)']"
+        "krátký/chybějící komentář u 576 jednotek: ['a312(0<400)', 'a313(0<400)', 'a314(0<400)', 'a315(0<400)', 'a316(0<400)', 'a317(0<400)', 'a318(0<400)', 'a319(0<400)']"
       ],
       "warnings": [],
       "ok": false
     },
     "full_completion_gate": false,
-    "bounded_chapter_export": "16-preceptos-16.md"
+    "bounded_chapter_export": "17-preceptos-17.md"
   },
   "remaining_limitations": [
     "Manuscrito incompleto: faltan comentarios de las unidades enumeradas.",
@@ -968,11 +968,11 @@
     "No se alcanza la fase drafted_technical_validation."
   ],
   "local_link_errors": 0,
-  "completed_scope": "Título preliminar y libro I; libro II artículos 248–291, incluidos 268 bis y 283 bis a)–k). Total: 320 de 916 unidades.",
+  "completed_scope": "340 de 916 unidades; artículos 292–311 añadidos en este lote.",
   "next_unit": {
-    "id": "a292",
-    "label": "Artículo 292",
-    "title": "Obligatoriedad de comparecer a la audiencia. Multas."
+    "id": "a312",
+    "label": "Artículo 312",
+    "title": "Constancia en acta del interrogatorio domiciliario."
   },
   "limitations_reason": "La sesión deja un checkpoint sustantivo incompleto; no hay un bloqueo de fuente que justifique omitir los comentarios restantes. No se solicita aprobación y no se certifica terminación.",
   "preflight": {
@@ -1073,29 +1073,29 @@
   },
   "last_author_batch": {
     "ids": [
-      "a283",
-      "a2-2",
-      "a2-3",
-      "a2-4",
-      "a2-5",
-      "a2-6",
-      "a2-7",
-      "a2-8",
-      "a2-9",
-      "a2-10",
-      "a2-11",
-      "a2-12",
-      "a284",
-      "a285",
-      "a286",
-      "a287",
-      "a288",
-      "a289",
-      "a290",
-      "a291"
+      "a292",
+      "a293",
+      "a294",
+      "a295",
+      "a296",
+      "a297",
+      "a298",
+      "a299",
+      "a300",
+      "a301",
+      "a302",
+      "a303",
+      "a304",
+      "a305",
+      "a306",
+      "a307",
+      "a308",
+      "a309",
+      "a310",
+      "a311"
     ],
     "completed": 20,
-    "audit": "author-a283-a291-audit.json",
+    "audit": "author-a292-a311-audit.json",
     "independent_review_pending": true
   }
 }

@@ -1,0 +1,23 @@
+{
+  "build_repo": {
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "CHYBÍ komentář k 576 jednotkám, např.: ['a312', 'a313', 'a314', 'a315', 'a316', 'a317', 'a318', 'a319', 'a320', 'a321']\n"
+  },
+  "validate": {
+    "exit_code": 1,
+    "stdout": "{\"repo\": \"Komentar-ES-BOE-A-2000-323\", \"units\": 916, \"verbatim_ratio\": 1.0, \"commentary_chars\": 438648, \"errors\": [\"krátký/chybějící komentář u 576 jednotek: ['a312(0<400)', 'a313(0<400)', 'a314(0<400)', 'a315(0<400)', 'a316(0<400)', 'a317(0<400)', 'a318(0<400)', 'a319(0<400)']\"], \"warnings\": [], \"ok\": false}\n",
+    "stderr": "",
+    "result": {
+      "repo": "Komentar-ES-BOE-A-2000-323",
+      "units": 916,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 438648,
+      "errors": [
+        "krátký/chybějící komentář u 576 jednotek: ['a312(0<400)', 'a313(0<400)', 'a314(0<400)', 'a315(0<400)', 'a316(0<400)', 'a317(0<400)', 'a318(0<400)', 'a319(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  }
+}

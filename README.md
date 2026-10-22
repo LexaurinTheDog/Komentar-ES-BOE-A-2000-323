@@ -40,3 +40,8 @@ Veinte unidades, incluido el artículo 268 bis: aportación documental, copias y
 ## Lote de autor: artículos 283 a 291
 
 Veinte unidades, incluidos los once artículos 283 bis: admisión, acceso a fuentes en daños de competencia y práctica probatoria. [Auditoría](author-a283-a291-audit.json), [preflight](author-a283-a291-preflight-result.json), [STC 165/2004](cases/STC-165-2004.md) y [búsqueda selectiva y límites de acceso](sources/case-search-a283-a291.json). El build integral sigue rechazando las 596 unidades pendientes; el capítulo 16 se exporta con las funciones del constructor existente. Las veinte unidades requieren segunda lectura independiente.
+
+
+## Lote de autor: artículos 292 a 311
+
+Veinte unidades añadidas; el manuscrito alcanza 340 de 916 unidades. Se examinan comparecencia, prueba anticipada, aseguramiento e interrogatorio de partes. [Auditoría](author-a292-a311-audit.json), [fuentes y versiones](author-a292-a311-preflight-result.json), [comprobación del lote y validación integral](author-a292-a311-validation.json). Las 576 unidades restantes siguen pendientes; no se declara completado el libro. No se añade jurisprudencia sin lectura íntegra verificada; [búsqueda selectiva y límites](sources/case-search-a292-a311.json). Segunda lectura independiente pendiente.
