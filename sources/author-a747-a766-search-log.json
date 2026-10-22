@@ -1,0 +1,44 @@
+{
+  "scope": [
+    "a747",
+    "a748",
+    "a749",
+    "a750",
+    "a751",
+    "a752",
+    "a753",
+    "a754",
+    "a755",
+    "a756",
+    "a757",
+    "a758",
+    "a759",
+    "a760",
+    "a761",
+    "a762",
+    "a763",
+    "a764",
+    "a765",
+    "a766"
+  ],
+  "searched_at": "2026-10-22T03:12:16.336406+00:00",
+  "searches": [
+    {
+      "source": "BOE official web search",
+      "query": "site.boe.es STC 141/2012 internamiento 72 horas 763",
+      "results_read_full_xml": [
+        "BOE-A-2012-10254",
+        "BOE-A-2026-17881"
+      ]
+    },
+    {
+      "source": "local national constitutional corpus",
+      "query": "ECLI:ES:TC:2012:141; ECLI:ES:TC:2026:56; sentencia numbers",
+      "matches": [
+        "/Volumes/LaCie/law-intake/eu/es/tc/2012/TC-22988.md",
+        "/Volumes/LaCie/law-intake/eu/es/tc/2026/TC-32129.md"
+      ]
+    }
+  ],
+  "disposition": "Selective research focused on a763 and related defense rules a749/a758. No sufficiently relevant verified decision added to other assigned units; no assertion of exhaustive negative search."
+}

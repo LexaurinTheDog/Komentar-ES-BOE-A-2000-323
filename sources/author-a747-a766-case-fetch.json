@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2012-10254",
+    "path": "sources/STC-141-2012-a747-a766.xml",
+    "http_status": 200,
+    "sha256": "6b7a131daf50ab7acf74dca87de1d1393996e40506ca460927c979a9473cf012",
+    "accessed_at": "2026-10-22T03:05:07.372204+00:00",
+    "format": "validated XML"
+  },
+  {
+    "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-17881",
+    "path": "sources/STC-56-2026-a747-a766.xml",
+    "http_status": 200,
+    "sha256": "f5b499b52d0d88842975e0f084e14d9870f31b6cf490efb0d6f7bf89a7064f6f",
+    "accessed_at": "2026-10-22T03:05:07.699432+00:00",
+    "format": "validated XML"
+  }
+]
