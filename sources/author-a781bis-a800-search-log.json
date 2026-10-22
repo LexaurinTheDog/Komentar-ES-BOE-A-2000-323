@@ -1,0 +1,15 @@
+{
+  "searched_at": "2026-10-22T03:28:21.715542+00:00",
+  "queries": [
+    "site.poderjudicial.es \"787\" \"cosa juzgada\" herencia",
+    "site.boe.es \"división judicial de la herencia\" \"Tribunal Constitucional\"",
+    "Local corpus es/tc/2020: 1332-2019 | SENTENCIA 145/2020"
+  ],
+  "local_match": "/Volumes/LaCie/law-intake/eu/es/tc/2020/TC-26450.md",
+  "selected": "STC 145/2020, ECLI:ES:TC:2020:145",
+  "full_text_read": true,
+  "supported_ids": [
+    "a787"
+  ],
+  "limits": "Investigación selectiva. Sin autoridad individual añadida a las otras diecinueve unidades. Resultados comerciales no usados como fuente jurídica."
+}

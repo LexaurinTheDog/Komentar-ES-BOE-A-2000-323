@@ -1,0 +1,139 @@
+---
+source: tc
+country: ES
+document_type: decision
+court: Tribunal Constitucional
+id: TC-26450
+hj_id: 26450
+tipo_resolucion: SENTENCIA
+numero: '145'
+anno: '2020'
+bis: false
+title: Sentencia 145/2020
+fecha: '2020-10-19'
+fecha_firma: de 19 de octubre de 2020
+sala: Sala Primera
+asuntos:
+- Recurso de amparo 1332-2019
+tipo_numerado: Recurso de amparo 1332-2019
+ponente:
+- Balaguer Callejón, María Luisa
+magistrados:
+- González Rivas, Juan José
+- Ollero Tassara, Andrés
+- Martínez-Vares García, Santiago
+- Montoya Melgar, Alfredo
+- Conde-Pumpido Tourón, Cándido
+- Balaguer Callejón, María Luisa
+referencia_boe: BOE-A-2020-14642
+fecha_boe: '2020-11-20'
+numero_boe: '305'
+url: https://hj.tribunalconstitucional.es/es/Resolucion/Show/26450
+text_chars: 19124
+retrieved_at: '2026-10-04T16:36:44Z'
+---
+
+# Sentencia 145/2020
+
+- **Fecha:** 2020-10-19
+- **Sala:** Sala Primera
+- **Asunto:** Recurso de amparo 1332-2019
+
+## Síntesis descriptiva
+
+Promovido por don José Daniel Palacios Muñoz y don Ricardo Palacios Muñoz respecto de la providencia dictada por un juzgado de primera instancia e instrucción de Sueca (Valencia) en procedimiento de división de herencia.
+
+## Síntesis analítica
+
+Vulneración del derecho a la tutela judicial efectiva (acceso a la jurisdicción): resolución que, al aplicar el precepto legal anulado por la STC 15/2020, de 28 de enero, deniega la revisión judicial de un decreto del letrado de la administración de justicia (STC 33/2020).
+
+## Resumen
+
+Contra los demandantes de amparo se promovió procedimiento de ejecución de títulos judiciales. El letrado de la administración de justicia inadmitió los recursos interpuestos contra las resoluciones aplicando el art. 454 bis 1 de la Ley de enjuiciamiento civil.
+
+Se otorga el amparo por vulneración del derecho a la tutela judicial efectiva, al haberse rechazado las pretensiones de los entonces ejecutados y ahora recurrentes en amparo aplicando un precepto legal declarado inconstitucional y nulo por la STC 15/2020, de 28 de enero.  La exclusión del control judicial de las resoluciones dictadas por los letrados de la administración de justicia representa una vulneración del derecho a la tutela judicial efectiva, que en su vertiente de acceso a la jurisdicción garantiza un pronunciamiento por jueces y magistrados, titulares únicos de la potestad jurisdiccional.
+
+## Encabezamiento
+
+La Sala Primera del Tribunal Constitucional compuesta por el magistrado don Juan José González Rivas, presidente; los magistrados don Andrés Ollero Tassara, don Santiago Martínez-Vares García, don Alfredo Montoya Melgar, don Cándido Conde-Pumpido Tourón y la magistrada doña María Luisa Balaguer Callejón, ha pronunciado,
+
+En el recurso de amparo núm. 1332-2019, promovido por don José Daniel Palacios Muñoz y don Ricardo Palacios Muñoz, representados por el procurador de los tribunales don Enrique Serra Bertran y asistidos por el letrado don Ricardo Cebolla Aparicio, contra la providencia de 14 de enero de 2019, dictada en el procedimiento de división de herencia núm. 241-2012, seguido ante el Juzgado de Primera Instancia e Instrucción núm. 2 de Sueca (Valencia), que inadmite a trámite el recurso de revisión interpuesto contra el decreto del letrado de la Administración de Justicia de 28 de septiembre de 2018. Ha intervenido el Ministerio Fiscal. Ha sido ponente la magistrada doña María Luisa Balaguer Callejón.
+
+## Antecedentes
+
+1. Mediante escrito registrado en este tribunal el 1 de marzo de 2019, el procurador de los tribunales don Enrique Serra Bertran, en nombre y representación de don José Daniel Palacios Muñoz y de don Ricardo Palacios Muñoz, interpuso recurso de amparo contra la resolución que se cita en el encabezamiento de esta sentencia.
+
+2. Los hechos en los que se fundamenta la demanda de amparo son, sucintamente expuestos, los siguientes:
+
+a) Con fecha de 29 de marzo de 2018, don Emilio Moncho Matoses presentó ante el Juzgado de Primera Instancia e Instrucción núm. 2 de Sueca (Valencia) escrito adjuntando la minuta de liquidación de los honorarios devengados por su intervención como contador-partidor en la división de la herencia de doña Elvira Muñoz Pons, del que se dio traslado a las partes por el letrado de la Administración de Justicia mediante diligencia de ordenación de 17 de abril de 2018.
+
+b) Habiendo formulado estas las observaciones que consideraron oportunas, por diligencia de ordenación de 4 de junio de 2018, se acordó que las cantidades pendientes de abono fueran satisfechas a partes iguales por los herederos.
+
+c) Al estar en desacuerdo con tal distribución, don José Daniel y don Ricardo Palacios Muñoz interpusieron recurso de reposición, que fue desestimado por decreto de 28 de septiembre de 2018, manteniendo en su integridad la resolución recurrida y declarando su firmeza, con arreglo a lo dispuesto en el art. 454 bis.1 de la Ley de enjuiciamiento civil (en adelante, LEC).
+
+d) Recurrido en revisión el decreto anterior, fue inadmitida esta impugnación por providencia de 14 de enero de 2019 “por no cumplir lo previsto en el apartado 1 del artículo 454 bis”.
+
+3. Las vulneraciones constitucionales denunciadas en la demanda consisten en el quebrantamiento del derecho a la tutela judicial efectiva, en su vertiente del derecho de acceso a los recursos, pues, según aseveran los recurrentes, se les priva “de una respuesta por parte del órgano jurisdiccional mediante la admisión a trámite y resolución del recurso de revisión, a la controversia y las cuestiones que se plantean y que afectan a su patrimonio”. A lo que se añade que “entenderlo de otro modo supone la existencia de un sector de inmunidad jurisdiccional, lo que no se compadece con el derecho a la tutela judicial efectiva”. Los actores invocan en favor de su tesis la doctrina constitucional emanada de las SSTC 58/2016, de 17 de marzo, y 72/2018, de 21 de junio, que declararon inconstitucionales los arts. 102 bis.2 de la Ley reguladora de la jurisdicción contencioso-administrativa (LJCA) y 188.1 de la Ley de la jurisdicción social (LJS), respectivamente.
+
+4. La Sección Segunda de este tribunal acordó, mediante providencia de 15 de julio de 2019, la admisión a trámite del recurso de amparo, apreciando que concurre en el mismo una especial trascendencia constitucional (art. 50.1 de la Ley Orgánica del Tribunal Constitucional, en adelante, LOTC) toda vez que la posible vulneración del derecho fundamental que se denuncia pudiera provenir de la ley o de otra disposición de carácter general [STC 155/2009, FJ 2 c)]. Asimismo, en cumplimiento de lo preceptuado por el art. 51 LOTC, se dispuso dirigir atenta comunicación al Juzgado de Primera Instancia e Instrucción núm. 2 de Sueca, interesando la remisión de certificación o copia adverada de las actuaciones correspondientes al procedimiento de división de herencia núm. 241-2012, previo emplazamiento de quienes hubieran sido parte en el procedimiento, con excepción de la parte demandante de amparo, al objeto de que, si así lo desearan, pudieran comparecer en el plazo de diez días en el presente recurso de amparo.
+
+5. Mediante diligencia de ordenación de 4 de octubre de 2019, se decidió dar vista de las actuaciones recibidas al Ministerio Fiscal y al recurrente de amparo para que pudieran presentar las alegaciones que estimaran pertinentes, conforme determina el art. 52.1 LOTC.
+
+6. Los recurrentes formularon alegaciones a través de escrito registrado el 30 de octubre de 2019, en el que se remiten a lo expresado en la demanda de amparo, considerando que, a tenor del motivo de especial trascendencia constitucional concurrente en la presente causa, procedería el planteamiento de una cuestión interna de inconstitucionalidad en relación con el art. 454 bis LEC, en la que se deberán tener en cuenta los precedentes que representan las SSTC 58/2016, de 17 de marzo, y 72/2018, de 21 de junio, anteriormente citadas.
+
+7. El fiscal presentó su escrito de alegaciones el 31 de octubre de 2019, manifestándose favorable a la suspensión del procedimiento hasta la resolución de la cuestión de inconstitucionalidad núm. 2754-2019, relativa al art. 454 bis LEC, o, subsidiariamente, a la denegación del amparo solicitado.
+
+Inicia sus alegaciones delimitando los hechos y el fundamento del amparo solicitado, reconociendo que cuando el recurso invoca la vulneración del derecho a la tutela judicial efectiva sin indefensión (art. 24.1 CE), “parece referirse al derecho de acceso a la jurisdicción o al recurso pues hace énfasis precisamente en la negativa a admitir el de revisión, en contra de la doctrina que emana de las sentencias que cita”. Según se afirma: “la vulneración la basan los recurrentes en que el juez no hizo una interpretación del artículo 454 bis LEC, que, a pesar de su indudable prohibición de recurso frente al decreto del letrado, permitiera el control judicial, y lo fundamenta en la doctrina que considera aplicable por analogía ya que se remite a sentencias dictadas en el marco de procesos de otros órdenes jurisdiccionales, cuya regulación dice es idéntica o, al menos, similar”. Destaca más adelante el fiscal que lo determinante de esas últimas sentencias, en particular, de la STC 58/2016, de 17 de marzo, es que analiza, no tanto si el decreto del letrado de la Administración de Justicia es irrecurrible, sino si está sometido a control judicial. Discrepa, no obstante, de los recurrentes en cuanto a que existiría una diferencia fundamental entre el art. 102 bis LJCA y el art. 454 bis.1 LEC, toda vez que mientras en el primero se prevé como única vía alternativa la posibilidad de “reproducir la cuestión al recurrir, si fuere procedente, la resolución definitiva", en el segundo de los preceptos se contempla una vía alternativa al recurso pues, tras establecer que “[c]ontra el decreto resolutivo de la reposición no se dará recurso alguno”, se añade: “sin perjuicio de reproducir la cuestión, necesariamente, en la primera audiencia ante el tribunal tras la toma de la decisión y, si no fuera posible por el estado de los autos, se podrá solicitar mediante escrito antes de que se dicte la resolución definitiva para que se solvente en ella“. Solo si, en atención a esto último, pudiera considerarse que “siempre quedará un hipotético ámbito de impunidad” fuera del control judicial, cabría confirmar la existencia de una vulneración del derecho a la tutela judicial efectiva, pero señala que “[e]n todo caso lo obvio es que en este último supuesto la vulneración se habría producido en la propia ley […] y no tanto en la resolución objeto de este amparo, por lo que debemos entender que no ha habido vulneración del derecho fundamental denunciada”.
+
+Sin perjuicio de los razonamientos precedentes, el fiscal hace hincapié en la necesidad de planteamiento de una cuestión interna de constitucionalidad respecto del art. 454 bis LEC, razón por la cual interesa la suspensión del procedimiento de amparo hasta su resolución, con carácter preferente, como ya se puso de manifiesto.
+
+8. El Pleno de este tribunal dictó la STC 15/2020, de 28 de enero, en la que estimó la cuestión interna de inconstitucionalidad núm. 2754-2019, promovida por la Sala Segunda de este tribunal, en relación con el párrafo primero del art. 454 bis.1 LEC mediante el ATC 23/2019, de 8 de abril. En dicha sentencia se declaró “la inconstitucionalidad y nulidad del artículo 454 bis.1, párrafo primero, de la Ley de enjuiciamiento civil, en la redacción dada por la Ley 37/2011, de 10 de octubre, de medidas de agilización procesal”.
+
+9. Por providencia de 15 de octubre de 2020, se señaló para deliberación y votación de la presente sentencia el día 19 del mismo mes y año.
+
+## Fundamentos jurídicos
+
+1. Objeto del recurso y pretensiones de las partes.
+
+El presente recurso de amparo se dirige contra la providencia de 14 de enero de 2019, dictada por el Juzgado de Primera Instancia e Instrucción núm. 2 de Sueca (Valencia), recaída en el procedimiento de división de herencia núm. 241-2012, por la que se acuerda la inadmisión a trámite del recurso de revisión interpuesto contra el decreto de 28 de septiembre de 2018 del letrado de la Administración de Justicia de aquel órgano jurisdiccional.
+
+A título principal, en la demanda se invoca la vulneración del derecho a la tutela judicial efectiva (art. 24.1 CE), porque se considera que la resolución impugnada ha impedido el control judicial de una resolución del letrado de la Administración de Justicia que había desestimado el recurso de reposición formalizado por los actores frente a una precedente diligencia de ordenación, obviando la doctrina constitucional resultante de las SSTC 58/2016, de 17 de marzo, y 72/2018, de 21 de junio, en las que, en circunstancias similares, se había declarado la inconstitucionalidad y nulidad del art. 102 bis.2 LJCA y el párrafo primero del art. 188 LJS, respectivamente; y reconociendo al propio tiempo la virtualidad de la vía impugnativa, que en los presentes autos se encuentra vedada.
+
+El Ministerio Fiscal interesó, con anterioridad a la resolución de la cuestión interna de inconstitucionalidad núm. 2754-2019, la suspensión del trámite y resolución de este recurso de amparo hasta que el Pleno de este tribunal hubiera dictado sentencia en aquel procedimiento, proponiendo, de modo subsidiario, la desestimación del recurso.
+
+2. Doctrina constitucional sobre el art. 454 bis.1, párrafo primero, LEC y su relación con el derecho a la tutela judicial efectiva: STC 15/2020, de 28 de enero.
+
+El art. 454 bis.1, párrafo primero, LEC dispone que “contra el decreto resolutivo de la reposición no se dará recurso alguno, sin perjuicio de reproducir la cuestión, necesariamente, en la primera audiencia ante el tribunal tras la toma de la decisión y, si no fuera posible por el estado de los autos, se podrá solicitar mediante escrito antes de que se dicte la resolución definitiva para que se solvente en ella”. La STC 15/2020, de 28 de enero, del Pleno de este tribunal, que estimó la cuestión interna de inconstitucionalidad núm. 2754-2019, declaró, precisamente, la inconstitucionalidad y nulidad de dicho precepto por vulnerar el derecho a la tutela judicial efectiva consagrado en el art. 24.1 CE.
+
+La exclusión del recurso de revisión —y de cualquier otro recurso— en relación con los decretos no definitivos del letrado de la Administración de Justicia se desprende del propio texto del precepto citado, en la redacción dada al mismo por la Ley 37/2011, de 10 de octubre, de medidas de agilización procesal.
+
+Al respecto, conviene recordar en primer lugar que, tal y como expusimos en el fundamento jurídico 3 de la STC 15/2020, con la constatación de que esa norma prohíbe la impugnación directa en revisión ante el juez o magistrado del decreto dictado por el letrado de la Administración de Justicia resolutorio del recurso de reposición promovido contra sus propias resoluciones, se puede concluir que “no cabe este control judicial directo frente a la generalidad de los dictados en el proceso civil, con independencia de la importancia del asunto resuelto por el decreto correspondiente”. Pero además, que “tampoco cabe apreciar que este control judicial pueda obtenerse de manera real y efectiva en el marco del propio proceso de una manera indirecta a través de instrumentos o remedios alternativos al régimen de recursos”; pues, aunque “el párrafo primero del art. 454 bis.1 LEC establece, como alternativa a la imposibilidad de impugnación judicial directa, la posibilidad de ‘reproducir la cuestión, necesariamente, en la primera audiencia ante el tribunal tras la toma de la decisión y, si no fuera posible por el estado de los autos, se podrá solicitar mediante escrito antes de que se dicte la resolución definitiva para que se solvente en ella’ […], tal posibilidad no satisface en todos los casos la garantía de control judicial impuesta por el derecho a la tutela judicial efectiva”.
+
+La sentencia rememorada —y las posteriores SSTC 17/2020, de 10 de febrero, y 33/2020, de 24 de febrero— tiene su origen en un proceso de ejecución civil, destacándose en su fundamento jurídico 4, que, en semejante marco procedimental, no está contemplada ni “la realización de comparecencias (audiencia) ante el titular del órgano judicial, excepto en el incidente de oposición a la ejecución (arts. 560 y 695 LEC)”, que posibiliten “reproducir la cuestión […] en la primera audiencia ante el tribunal”; ni tampoco cabe su planteamiento por escrito ”antes de que se dicte la resolución definitiva para que se solvente en ella”, meramente, porque “[e]n el proceso de ejecución, no resulta posible identificar una resolución judicial definitiva que, a semejanza de lo que sucede en el proceso de declaración, se pronuncie sobre las pretensiones planteadas por las partes, ya que, por su propia naturaleza ejecutiva, su finalización normal se produce ex lege cuando se constata que se ha satisfecho completamente al acreedor (art. 570 LEC)”. De modo que tampoco era posible un control judicial indirecto, como prevé el precepto cuestionado.
+
+A idéntica conclusión hemos de llegar en el presente caso, en el que, aprobadas ya las operaciones divisorias por sentencia, la Ley de enjuiciamiento civil no contempla comparecencia alguna ante el órgano jurisdiccional en el trámite de liquidación y abono de los honorarios del contador-partidor y tampoco se vislumbra posibilidad de plantear la cuestión por escrito para que se “solvente” en una hipotética resolución definitiva, que, por otro lado, y en cuanto a la división misma del patrimonio hereditario, es previa al incidente que nos ocupa.
+
+La STC 15/2020 concluye señalando en su fundamento jurídico 3 que “[e]n definitiva, el precepto cuestionado vulnera el derecho a la tutela judicial efectiva (art. 24.1 CE), ya que ha creado un régimen de impugnación de las decisiones de los letrados de la administración de justicia generador de un espacio inmune al control jurisdiccional. En coherencia con ello, se debe declarar la inconstitucionalidad y nulidad del precepto cuestionado, precisando, al igual que se hizo en las SSTC 58/2016, FJ 7; 72/2018, FJ 4, y 34/2019, FJ 7, que, en tanto el legislador no se pronuncie al respecto, el recurso judicial procedente frente al decreto del letrado de la administración de justicia resolutivo de la reposición ha de ser el directo de revisión al que se refiere el propio artículo 454 bis LEC”.
+
+3. Aplicación de la doctrina al caso: vulneración del derecho a la tutela judicial efectiva (art. 24.1 CE).
+
+Aplicando la doctrina contenida en nuestra STC 33/2020, de 24 de febrero, FJ 3, a la resolución del presente caso “cobra especial relevancia la declaración de inconstitucionalidad y nulidad del art. 454 bis.1 párrafo primero LEC, efectuada por la STC 15/2020, toda vez que, como se ha destacado en otras resoluciones de este tribunal (por todas las SSTC 92/2019, de 15 de julio, FJ 3; 125/2019, de 31 de octubre, FJ 4, y 17/2020, de 10 de febrero, FJ 4), los mismos razonamientos que han determinado la nulidad de la norma son los que deben conducir también a la estimación del recurso de amparo y a la apreciada vulneración del derecho a la tutela judicial efectiva del recurrente”.
+
+En el procedimiento de división de herencia del que trae causa este proceso constitucional de amparo, la providencia de 14 de enero de 2019 del Juzgado de Primera Instancia e Instrucción núm. 2 de Sueca, por la que se inadmitió a trámite el recurso de revisión que los actores habían interpuesto contra el decreto de 28 de septiembre de 2018, del letrado de la Administración de Justicia dicho órgano judicial, empleó, como único argumento para llegar a aquella decisión, el de la imposibilidad legal de todo recurso contra aquella resolución porque así lo disponía el art. 454 bis LEC (literalmente: “por no cumplir lo previsto en el apartado 1 del artículo 454 bis”).
+
+De acuerdo con la doctrina expuesta, procede, por consiguiente, estimar la queja de los recurrentes, fundada en la vulneración de su derecho a la tutela judicial efectiva, y concederles el amparo solicitado, con declaración de nulidad de la providencia impugnada y retroacción de las actuaciones al momento inmediatamente posterior al dictado del decreto del letrado de la Administración de Justicia de 28 de septiembre de 2018, para que el órgano judicial dicte una nueva resolución proveyendo el recurso de revisión formalizado por los actores, de manera acorde con el derecho fundamental reconocido. Esto último supone la admisión a trámite del recurso de revisión, de acuerdo con lo así establecido en la STC 15/2020, de 28 de enero, FJ 3.
+
+## Fallo
+
+En atención a todo lo expuesto, el Tribunal Constitucional, por la autoridad que le confiere la Constitución de la Nación española, ha decidido estimar el recurso de amparo interpuesto por don José Daniel Palacios Muñoz y don Ricardo Palacios Muñoz y, en consecuencia:
+
+1º Declarar que ha sido vulnerado el derecho fundamental de los actores a la tutela judicial efectiva sin indefensión (art. 24.1 CE).
+
+2º Restablecerlos en su derecho y, a tal fin, declarar la nulidad de la providencia de 14 de enero de 2019, dictada por el Juzgado de Primera e Instrucción núm. 2 de Sueca en el procedimiento de división de herencia núm. 241-2012.
+
+3º Retrotraer las actuaciones al momento inmediatamente posterior al dictado del decreto de 28 de septiembre de 2018, para que el juzgado admita a trámite el recurso de revisión formulado y reparar así el derecho fundamental lesionado, en los términos que se especifican en el fundamento jurídico 3 de esta sentencia.
+
+## Pie
+
+Publíquese esta sentencia en el “Boletín Oficial del Estado”.
+Dada en Madrid, a diecinueve de octubre de dos mil veinte.
