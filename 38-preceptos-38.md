@@ -68,7 +68,7 @@ Ejemplo ficticio: una condena a formalizar una venta identifica objeto y precio,
 
 El hacer personalísimo se caracteriza por las cualidades singulares de la prestación debida, que impiden satisfacer el título mediante una sustitución ordinaria por un tercero. El ejecutado puede alegar sus motivos de negativa y discutir esa calificación dentro del plazo del requerimiento del artículo 699. Corresponde al tribunal decidir por auto: si no aprecia las cualidades especiales, debe reconducir la ejecución al artículo 706, sin convertir la simple preferencia del acreedor por un profesional concreto en personalismo obligatorio.
 
-Ante la falta de cumplimiento, el ejecutante puede pedir equivalente pecuniario o multas mensuales de apremio. La primera opción lleva aparejada una multa única conforme al artículo 711; la multa no se confunde con el valor de la prestación que recibirá el acreedor. En la segunda, el letrado de la Administración de Justicia reitera trimestralmente los requerimientos hasta completar un año desde el primero. La periodicidad trimestral del requerimiento no convierte en trimestral la multa mensual.
+Ante la falta de cumplimiento, el ejecutante puede pedir equivalente pecuniario o multas mensuales de apremio. Estas últimas se computan por cada mes sin realizar la prestación desde la finalización del plazo concedido para cumplir, y no desde cada requerimiento trimestral. La primera opción lleva aparejada una multa única conforme al artículo 711; la multa no se confunde con el valor de la prestación que recibirá el acreedor. En la segunda, el letrado de la Administración de Justicia reitera trimestralmente los requerimientos hasta completar un año desde el primero. La periodicidad trimestral del requerimiento no convierte en trimestral la multa mensual.
 
 Agotado el año sin cumplimiento, procede el equivalente o, a petición del ejecutante y oído el ejecutado, otras medidas idóneas que acuerde el tribunal. La delegación de requerimientos en la procura requiere solicitud y coste del ejecutante. El apartado 4 da prioridad a la disposición expresa del título para el incumplimiento; debe leerse antes de elegir la vía de apremio.
 
@@ -92,7 +92,7 @@ Ejemplo ficticio: se condena a una retratista a terminar una obra cuya autoría 
 
 La condena de no hacer se ejecuta cuando se acredita un acto contrario a la prohibición contenida en el título. A instancia del ejecutante, el letrado de la Administración de Justicia requiere deshacer lo realizado, si es posible, indemnizar los daños y abstenerse de reiterar el quebrantamiento cuando proceda. Son respuestas con finalidades diferentes: restaurar la situación, reparar el perjuicio y prevenir nuevas infracciones. La indemnización debe cuantificarse por el cauce de los artículos 712 y siguientes cuando no esté liquidada.
 
-El requerimiento incluye apercibimiento de desobediencia a la autoridad judicial, pero este artículo no declara automáticamente cometido un delito por cualquier incumplimiento. La eventual responsabilidad penal exige su propia apreciación. Para obtener que se deshaga lo mal hecho pueden imponerse multas mensuales, cuya cuantía se rige por el artículo 711. La ley permite repetir la actuación ante cada incumplimiento y delegar las notificaciones en la procura a petición y costa del ejecutante.
+El requerimiento incluye apercibimiento de desobediencia a la autoridad judicial, pero este artículo no declara automáticamente cometido un delito por cualquier incumplimiento. La eventual responsabilidad penal exige su propia apreciación. Para obtener que se deshaga lo mal hecho, la ley ordena intimar al ejecutado con multas por cada mes que transcurra sin hacerlo; su cuantía se rige por el artículo 711. La facultad de graduar la cuantía no convierte esta previsión de apremio en una mera posibilidad indiferente. La ley permite repetir la actuación ante cada incumplimiento y delegar las notificaciones en la procura a petición y costa del ejecutante.
 
 El apartado 2 contempla conjuntamente dos circunstancias: que el acto prohibido no pueda reiterarse y que sea imposible deshacerlo. En ese caso la ejecución se orienta al resarcimiento. Una infracción irreversible no extingue por sí sola una prohibición que todavía pueda ser nuevamente quebrantada.
 
@@ -121,6 +121,10 @@ El apartado 2 establece un régimen específico para la sentencia estimatoria de
 Ejemplo ficticio: si el hacer personalísimo tiene un precio de 10.000 euros, el límite mensual del apartado 1 es 2.000 euros; el tribunal debe motivar la cuantía concreta. Una condena colectiva de cesación exige, en cambio, aplicar su escala diaria y los criterios propios del apartado 2.
 
 **Control práctico del cierre de la ejecución no dineraria.** Antes de solicitar el apremio, comprobar el fallo y su eventual previsión expresa de incumplimiento; separar publicación, declaración de voluntad, hacer personalísimo y prohibición; documentar cumplimiento o infracción; justificar la base de las multas y distinguirla del crédito indemnizatorio; registrar requerimientos y plazos de reiteración.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO V — De la ejecución no dineraria
 
 #### CAPÍTULO IV — De la liquidación de daños y perjuicios, frutos y rentas y la rendición de cuentas
 
@@ -170,7 +174,7 @@ La conformidad del deudor permite aprobar la relación y su importe mediante dec
 
 El apartado 2 atribuye consecuencias concretas a la pasividad: transcurridos diez días sin contestar, o ante una negación puramente genérica, se entiende prestada conformidad a los hechos alegados. Para abrir una controversia útil no basta afirmar que «no existen daños»; deben concretarse puntos discrepantes, razones y alcance. Es especialmente importante comprobar la regularidad del traslado del artículo 713 antes de atribuir a un silencio el efecto legal. El precepto habla de hechos, por lo que no debe presentarse como una aprobación incondicionada de cualquier calificación jurídica o de partidas manifiestamente ajenas a la ejecución.
 
-Ejemplo ficticio: el acreedor reclama tres facturas por reparaciones derivadas del incumplimiento. El deudor responde que una reparación ya estaba realizada antes y que otra duplica la primera, precisando importes. Hay una oposición concreta que debe tramitarse conforme al artículo 715. Una respuesta limitada a negar toda responsabilidad, sin identificar siquiera las partidas discutidas, corre el riesgo expresamente previsto en este artículo. El plazo debe aprovecharse para una contestación verificable, no para una reserva abstracta de defensas.
+Ejemplo ficticio: el acreedor reclama tres facturas por reparaciones derivadas del incumplimiento. El deudor responde que una reparación ya estaba realizada antes y que otra duplica la primera, precisando importes. Hay una oposición concreta que debe tramitarse conforme al artículo 715. Una respuesta limitada a negar toda responsabilidad, sin identificar siquiera las partidas discutidas, produce la conformidad a los hechos que establece este artículo, siempre que el traslado sea regular y se cumplan sus presupuestos. El plazo debe aprovecharse para una contestación verificable, no para una reserva abstracta de defensas.
 
 ### Artículo 715 — Oposición del deudor.
 
@@ -275,6 +279,8 @@ La especialidad consiste en permitir ampliar los plazos por decreto del letrado 
 Ejemplo ficticio: se condena a un administrador a rendir cuentas de cinco años y entregar el saldo a favor del titular. La multiplicidad de contratos y justificantes puede justificar más tiempo para ordenar la documentación. Una vez presentada, el acreedor cuestiona gastos que considera ajenos a la gestión autorizada. La controversia deberá resolverse dentro de lo que el título permita examinar, sin aprobar mecánicamente el saldo porque proceda del propio administrador.
 
 **Control práctico de liquidaciones.** Identificar primero qué magnitud se liquida y qué bases impone el título; pedir la relación a quien corresponda; desglosar conceptos y justificantes; registrar el traslado y sus plazos; concretar oposiciones; preparar contradicción de la pericia; separar saldo, equivalente, daños, multas y costas antes de solicitar el apremio dinerario.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
 
 #### TÍTULO VI — De las medidas cautelares
 
