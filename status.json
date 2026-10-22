@@ -1780,7 +1780,13 @@
     "checkpoint_commit": "95f8562fb8f54a70ee0333ae6d4486f34f1db056"
   },
   "validation_result": {
-    "pending_final_strict_run": true
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 916,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1438532,
+    "errors": [],
+    "warnings": [],
+    "ok": true
   },
   "finalization_scope": "Complete book assembled from 46 ledger-reviewed batches; no new independent whole-book review or editorial completion claimed."
 }
