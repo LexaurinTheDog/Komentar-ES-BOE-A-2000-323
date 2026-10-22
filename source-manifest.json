@@ -1109,11 +1109,6 @@
       "sha256": "f442ae91a87b31dd4913715fa40e6c867d4fee054d956fd8d533e89a2495bd10"
     },
     {
-      "path": "sources/author-a801-a820-case-url.txt",
-      "bytes": 75,
-      "sha256": "a8742ea264bcea170125abe3faa2ad306607bd5a38406c1e32753193e4dbea1a"
-    },
-    {
       "path": "sources/author-a801-a820-fetch.json",
       "bytes": 1066,
       "sha256": "e3518369f2dfea5c9bbff86071539f7e63ca9a2713edbcf1b6bd85e3168960cd"
@@ -2320,6 +2315,11 @@
       "path": "sources/version-selection.json",
       "bytes": 584855,
       "sha256": "a1faba917e5816413aa7392ba1dfb97024ae571f998197cb9fc6378892235d2a"
+    },
+    {
+      "path": "sources/author-a801-a820-search-log.json",
+      "bytes": 1926,
+      "sha256": "646eb54d130a7c26e247514a1830471e4da27224656391beb2af83001bdc26e1"
     }
   ]
 }
