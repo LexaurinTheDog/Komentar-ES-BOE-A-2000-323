@@ -24,7 +24,7 @@
   ],
   "decisive_date": "2026-10-19",
   "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
-  "verified_at": "2026-10-22T03:53:11.575217+00:00",
+  "verified_at": "2026-10-22T03:58:21.827595+00:00",
   "version_evidence": {
     "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
     "latest_published_change": "2026-10-07",
@@ -42,7 +42,7 @@
     "no_change_in_fresh_xml_metadata_analysis": true,
     "http_and_hash_evidence": "sources/verification.json",
     "clock_note": "Response access times are actual UTC system clock; snapshot filename uses assigned local task date 2026-10-22.",
-    "bounded_review_refresh": "review-batch-44-audit.json",
+    "bounded_review_refresh": "review-batch-45-audit.json",
     "fresh_xml_identical_to_authoring_snapshot": true,
     "bounded_author_refresh": "author-dtsegunda-dfdecimotercera-audit.json",
     "current_check_date": "2026-10-22",
@@ -67,7 +67,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dttercera",
@@ -83,7 +83,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dtcuarta",
@@ -99,7 +99,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dtquinta",
@@ -115,7 +115,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dtsexta",
@@ -131,7 +131,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dtseptima",
@@ -147,7 +147,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "ddunica",
@@ -163,7 +163,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfprimera",
@@ -179,7 +179,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfsegunda",
@@ -195,7 +195,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dftercera",
@@ -211,7 +211,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfcuarta",
@@ -227,7 +227,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfquinta",
@@ -243,7 +243,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfsexta",
@@ -259,7 +259,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfseptima",
@@ -275,7 +275,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfoctava",
@@ -291,7 +291,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfnovena",
@@ -307,7 +307,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfdecima",
@@ -323,7 +323,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfundecima",
@@ -339,7 +339,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfduodecima",
@@ -355,7 +355,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "dfdecimotercera",
@@ -376,7 +376,7 @@
           "fecha_vigencia": "20041106"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     }
   ],
   "annexes_checked": true,
@@ -391,7 +391,7 @@
   "fresh_source_identical_to_authoring_xml": true,
   "unresolved_blockers": [],
   "limitations": [
-    "Lote de autoría; no segunda lectura independiente. Diecinueve unidades sin jurisprudencia específica incorporada; consulta sectorial limitada a las leyes identificadas.",
-    "El libro completo continúa en elaboración."
+    "Fecha jurídica conservada: 19 de octubre de 2026; el análisis transitorio de cada expediente requiere examen propio.",
+    "La segunda lectura sustantiva de este checkpoint comprende exclusivamente los 20 identificadores de review-result.json; el manuscrito entero permanece incompleto."
   ]
 }

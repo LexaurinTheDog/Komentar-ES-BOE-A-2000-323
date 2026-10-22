@@ -1,3 +1,34 @@
+# Segunda lectura parcial: transitoria segunda a final decimotercera
+
+Revisadas exactamente veinte unidades frente al XML BOE y sus versiones; corte de 19 de octubre de 2026 contrastado el 22 de octubre. Se corrigen las precisiones indicadas en el resultado. La revisión no comprende otras unidades ni certifica terminación del libro.
+
+| Unidad | Comprobación sustantiva |
+|---|---|
+| dtsegunda | Primera instancia antigua hasta sentencia; salvedad transitoria primera y cambio para apelación, ejecución y extraordinarios. |
+| dttercera | Segunda instancia pendiente conserva ley anterior; ejecución provisional anticipada bajo nueva LEC y cambio general desde sentencia. |
+| dtcuarta | Casación pendiente se sustancia y decide por ley anterior; ejecución provisional según nueva ley. |
+| dtquinta | Juicio ejecutivo cualquiera que sea título; excepción apremio no alcanzado a entrada en vigor. |
+| dtsexta | Ejecución iniciada: actos realizables o modificables, sin reapertura indiscriminada de actos consumados. |
+| dtseptima | Dos apartados: solicitud nueva y medidas antiguas regidas por legislación anterior con revisión/modificación nueva. |
+| ddunica | Tres excepciones de conservación de 1881; exclusiones 1827/1880–1900; listas complementarias; veintiún números derogatorios; incompatibilidad y conservación 52/1997. |
+| dfprimera | Cesación comunitaria autorizada y seis reglas monitorias: legitimación, certificación, gastos, solidaridad, embargo a instancia y costas. |
+| dfsegunda | Cuatro reformas: remuneración, programas, cautela penal y legitimación/oposición tasada de entidades, sin probar cuantía por autorización. |
+| dftercera | Ordinario impugnación, renumeración 122 y derogación posterior de ley receptora comprobada en XML. |
+| dfcuarta | Ordinario competencia desleal, coordinación derogaciones 23/25/26 y separación del derecho material. |
+| dfquinta | Cauce civil y explotación/preparativos serios para cautelas de 1986; derogación posterior y transitorias verificadas. |
+| dfsexta | Cesación/restitución accesoria, retractación, declarativa/inscripción, personación entidades y extensión procesal a adherentes no consumidores. |
+| dfseptima | Cinco apartados: protección registral, título 517.2.4/5, sumarios 250.1.10/11, arrendamiento financiero e inscripción/modelo como alternativa. |
+| dfoctava | Convenio y declinatoria, renuncia expresa/tácita histórica, pluralidad demandados, ley sustitutiva; STC 1/2018 contextual sin atribuirle interpretación de 1988. |
+| dfnovena | Diez grupos hipotecarios: certificación, prórrogas, derecho rematante, vías judicial/notarial, asiento, nota, calificación y cancelaciones. |
+| dfdecima | Cuatro reformas cambiarias: excepciones 67, cauce 49/68, ejecución 66 y accesorios 58/59/62, sin reconocimiento previo ni indefensión. |
+| dfundecima | Diez grupos laborales y remisiones limitadas; condición final 17 para recusación, jurisdicción, plazos, revisión, ejecución y valores; ley receptora derogada. |
+| dfduodecima | Seis grupos penales; condición final 17, instructor/decisor y excepción juez paz, inadmisión temporal, instrucción hábil y casación constitucional. |
+| dfdecimotercera | Slot derogado conservado, causa RDL 8/2004 y versión efectiva 20041106, sin reconstrucción de norma eliminada. |
+
+Evidencia: [resultado exacto](review-batch-45-result.json), [cotejo e inventario](review-batch-45-audit.json), [preflight](preflight-result.json), [ficha STC](cases/STC-1-2018-dtsegunda-dfdecimotercera.md). La validación técnica no sustituye la revisión jurídica. Jurisprudencia selectiva, sin aprobación profesional externa.
+
+---
+
 # Segunda lectura parcial: artículo 821 a disposición transitoria primera
 
 Revisados exactamente los veinte identificadores indicados en el resultado, frente al XML BOE completo y sus versiones. Corte jurídico conservado: 19 de octubre de 2026; comprobación actual: 22 de octubre. Se precisan recursos, exclusiones de alzamiento, mantenimiento cautelar al recurrir, agenda y reparto OSI, remisión electrónica obligatoria bajo condición técnica y alcance interlegal de sede electrónica. Se conserva el resto del manuscrito. Libro incompleto, sin aprobación profesional externa.

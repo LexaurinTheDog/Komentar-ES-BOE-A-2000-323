@@ -1,0 +1,29 @@
+{
+  "reviewed_ids": [
+    "dtsegunda",
+    "dttercera",
+    "dtcuarta",
+    "dtquinta",
+    "dtsexta",
+    "dtseptima",
+    "ddunica",
+    "dfprimera",
+    "dfsegunda",
+    "dftercera",
+    "dfcuarta",
+    "dfquinta",
+    "dfsexta",
+    "dfseptima",
+    "dfoctava",
+    "dfnovena",
+    "dfdecima",
+    "dfundecima",
+    "dfduodecima",
+    "dfdecimotercera"
+  ],
+  "broken_local_links": [],
+  "near_duplicate_paragraphs": [],
+  "case_sha256_verified": {
+    "STC-1-2018": "1893c85d42194e54047afc6de0f46b0b97595b56b3cb7da48d34cb8a26a976b5"
+  }
+}

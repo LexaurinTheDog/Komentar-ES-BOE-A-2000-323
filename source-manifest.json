@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:57:18.981229+00:00",
+  "generated_at": "2026-10-22T03:59:52.400197+00:00",
   "sources": [
     {
       "path": "sources/ATC-20-2024-a608-a627.html",
@@ -185,13 +185,13 @@
     },
     {
       "path": "sources/STC-1-2018-dtsegunda-dfdecimotercera.html",
-      "bytes": 192384,
-      "sha256": "1893c85d42194e54047afc6de0f46b0b97595b56b3cb7da48d34cb8a26a976b5"
+      "sha256": "1893c85d42194e54047afc6de0f46b0b97595b56b3cb7da48d34cb8a26a976b5",
+      "bytes": 192384
     },
     {
       "path": "sources/STC-1-2018-dtsegunda-dfdecimotercera.txt",
-      "bytes": 154943,
-      "sha256": "bf80216c3db5a56e41e9658a3bd1a258335e930f985e84f2679bd40de22b7ad7"
+      "sha256": "bf80216c3db5a56e41e9658a3bd1a258335e930f985e84f2679bd40de22b7ad7",
+      "bytes": 154943
     },
     {
       "path": "sources/STC-107-2005-http.txt",
@@ -530,8 +530,8 @@
     },
     {
       "path": "sources/arbitraje-dtsegunda-dfdecimotercera.xml",
-      "bytes": 139020,
-      "sha256": "e9380a8e183022f0e2bccfca9f373c928e2a50b8bb470d19b1d59dafeb5b6c9e"
+      "sha256": "e9380a8e183022f0e2bccfca9f373c928e2a50b8bb470d19b1d59dafeb5b6c9e",
+      "bytes": 139020
     },
     {
       "path": "sources/author-a248-a263-http.txt",
@@ -1200,28 +1200,28 @@
     },
     {
       "path": "sources/author-dtsegunda-dfdecimotercera-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-dtsegunda-dfdecimotercera-case-search.json",
-      "bytes": 901,
-      "sha256": "6b91e50e4ad014430fadd8c6434728645d2d2df60d35cc20628f593760d19e72"
+      "sha256": "6b91e50e4ad014430fadd8c6434728645d2d2df60d35cc20628f593760d19e72",
+      "bytes": 901
     },
     {
       "path": "sources/author-dtsegunda-dfdecimotercera-fetch.json",
-      "bytes": 2933,
-      "sha256": "c4b4d90ba23aaef966770feaa8a4118413810ed52cd313d7e1cdbe040af6e1b6"
+      "sha256": "c4b4d90ba23aaef966770feaa8a4118413810ed52cd313d7e1cdbe040af6e1b6",
+      "bytes": 2933
     },
     {
       "path": "sources/author-dtsegunda-dfdecimotercera-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-dtsegunda-dfdecimotercera-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/boe-act.html",
@@ -1340,8 +1340,8 @@
     },
     {
       "path": "sources/jurisdiccion-social-dtsegunda-dfdecimotercera.xml",
-      "bytes": 1239465,
-      "sha256": "53af4d1b81c2ad90c4799231d45dc0c4785319048b142eef23315358ab07f5a0"
+      "sha256": "53af4d1b81c2ad90c4799231d45dc0c4785319048b142eef23315358ab07f5a0",
+      "bytes": 1239465
     },
     {
       "path": "sources/no.txt",
@@ -1355,8 +1355,8 @@
     },
     {
       "path": "sources/patentes-dtsegunda-dfdecimotercera.xml",
-      "bytes": 429827,
-      "sha256": "572a3f7049f472ed1f9e2665fb0b8a0c88690791de87559d4dc6020f7198c77e"
+      "sha256": "572a3f7049f472ed1f9e2665fb0b8a0c88690791de87559d4dc6020f7198c77e",
+      "bytes": 429827
     },
     {
       "path": "sources/preambulo.txt",
@@ -2452,9 +2452,29 @@
       "bytes": 5433343
     },
     {
+      "path": "sources/review-batch-45-STC-1-2018.html",
+      "sha256": "1893c85d42194e54047afc6de0f46b0b97595b56b3cb7da48d34cb8a26a976b5",
+      "bytes": 192384
+    },
+    {
+      "path": "sources/review-batch-45-analysis.xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
+    },
+    {
+      "path": "sources/review-batch-45-metadata.xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
+    },
+    {
+      "path": "sources/review-batch-45-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
       "path": "sources/sociedades-capital-dtsegunda-dfdecimotercera.xml",
-      "bytes": 1282243,
-      "sha256": "57b59f4fc31ac29a4ccbdad1877d03c1fcfa79fd91d67900ee4e95910ba024d3"
+      "sha256": "57b59f4fc31ac29a4ccbdad1877d03c1fcfa79fd91d67900ee4e95910ba024d3",
+      "bytes": 1282243
     },
     {
       "path": "sources/structure.json",
@@ -2463,8 +2483,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 99667,
-      "sha256": "a56a32f2522c13f4f936bac89d1f09a5e627c23831c20bea42b954695cc727cc"
+      "sha256": "c533fbe536a0dcf264ec1be8522b1f2984e9f9e3575334d51fdb9b3edd3de3d6",
+      "bytes": 101385
     },
     {
       "path": "sources/version-selection.json",
