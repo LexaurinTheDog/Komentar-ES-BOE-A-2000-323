@@ -48,6 +48,10 @@ El régimen de impugnación depende del efecto del auto: si termina el proceso, 
 
 Comprobación práctica al cerrar el capítulo: identificar la cuestión y su cauce propio, verificar el momento preclusivo, documentar los hechos, justificar la suspensión solicitada y distinguir la decisión terminal de la que permite seguir litigando.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
+
 #### CAPÍTULO VIII — De la condena en costas
 
 ### Artículo 394 — Condena en las costas de la primera instancia.
@@ -82,9 +86,9 @@ La regla del vencimiento total atribuye las costas de primera instancia a quien 
 
 La redacción vigente incorpora consecuencias específicas de la conducta negociadora. El apartado 1 impide un pronunciamiento favorable a quien rehúsa, sin justa causa y de manera expresa o concluyente, participar tras convocatoria efectiva en el medio legalmente obligatorio o acordado con conformidad de las partes durante el proceso. El apartado 2 permite, mediante motivación, condenar al inasistente injustificado incluso con estimación parcial en los supuestos que describe. No son consecuencias idénticas: perder el derecho al reembolso no equivale siempre a pagar las costas contrarias. El apartado 4 protege al requirente cuya contraparte rehusó la negociación previa, salvo abuso del servicio público de Justicia. Deben acreditarse requerimiento, recepción y conducta, sin identificar el fracaso de una negociación con una negativa a participar.
 
-El límite del apartado 3 afecta conjuntamente a abogados y profesionales sin arancel: un tercio de la cuantía por cada litigante favorecido, no a toda partida de costas. Las pretensiones inestimables se valoran a estos efectos en 24.000 euros, salvo decisión distinta por complejidad. La temeridad excluye ese límite. La asistencia jurídica gratuita exige aplicar sus reglas especiales; cuando beneficia al vencedor, el texto prevé pago a los profesionales designados, devolución de fondos públicos y comunicación a los colegios. El Ministerio Fiscal queda excluido de la condena.
+Cuando la condena se impone en aplicación del apartado 1, el límite del apartado 3 afecta conjuntamente a abogados y profesionales sin arancel: un tercio de la cuantía por cada litigante favorecido, no a toda partida de costas. Las pretensiones inestimables se valoran a estos efectos en 24.000 euros, salvo decisión distinta por complejidad. La temeridad excluye ese límite. La asistencia jurídica gratuita exige aplicar sus reglas especiales; cuando beneficia al vencedor, el texto prevé pago a los profesionales designados, devolución de fondos públicos y comunicación a los colegios. El Ministerio Fiscal queda excluido de la condena.
 
-En litigios sobre cláusulas abusivas, la STJUE de 16 de julio de 2020, C-224/19 y C-259/19, apartados 93–99, impide que una distribución vinculada a la restitución parcial disuada al consumidor de obtener el control judicial de la cláusula. No decidió las nuevas consecuencias negociadoras de 2025. Véase la ficha TJUE-C224-19 para contexto y límites.
+En litigios sobre cláusulas abusivas, la STJUE de 16 de julio de 2020, C-224/19 y C-259/19, apartados 93–99, impide que una distribución vinculada a la restitución parcial disuada al consumidor de obtener el control judicial de la cláusula. No decidió las nuevas consecuencias negociadoras de 2025. Véase la [ficha TJUE-C224-19](cases/TJUE-C224-19.md) para contexto y límites.
 
 Por ejemplo, una reclamación ordinaria estimada sólo en parte no permite imponer automáticamente todas las costas al actor. Hay que examinar el régimen de estimación parcial, la eventual temeridad y los hechos de la negociación; si se trata de nulidad de una cláusula abusiva, también el límite europeo descrito.
 
@@ -108,7 +112,7 @@ Por ejemplo, una reclamación ordinaria estimada sólo en parte no permite impon
 
 *Nota editorial del BOE:* Se modifica el párrafo segundo del apartado 1 por la disposición final 2.9 del Real Decreto-ley 5/2012, de 5 de marzo. Ref. BOE-A-2012-3152.
 
-El allanamiento anterior a la contestación permite evitar la condena en costas, pero no la garantiza. El tribunal puede apreciar motivadamente mala fe o abuso del servicio público de Justicia. La regla busca que la aceptación temprana reduzca actividad procesal sin premiar a quien obligó injustificadamente al acreedor a demandar. El segundo párrafo identifica como mala fe el requerimiento previo fehaciente y justificado de cumplimiento y el rechazo del acuerdo ofrecido o de la participación en un medio adecuado de solución de controversias. Deben examinarse el contenido y la recepción de esos actos, no sólo la existencia de una comunicación cualquiera.
+El allanamiento anterior a la contestación permite evitar la condena en costas, pero no la garantiza. El tribunal puede apreciar motivadamente mala fe o abuso del servicio público de Justicia. La regla busca que la aceptación temprana reduzca actividad procesal sin premiar a quien obligó injustificadamente al acreedor a demandar. El segundo párrafo identifica como mala fe el requerimiento previo fehaciente y justificado de cumplimiento, o bien el rechazo del acuerdo ofrecido o de la participación en un medio adecuado de solución de controversias. Deben examinarse el contenido y la recepción de esos actos, no sólo la existencia de una comunicación cualquiera.
 
 El allanamiento posterior a la contestación remite al artículo 394.1; ya no opera la misma ventaja ligada a evitar el debate inicial. El apartado 3 establece, además, la condena cuando el demandado faltó sin justificación a un medio legalmente preceptivo o acordado durante el proceso y después se allana. Para apartarse de esa consecuencia se necesitan circunstancias excepcionales y motivación expresa. Es una previsión específica que no debe diluirse en la regla general sobre allanamiento temprano.
 
@@ -161,6 +165,8 @@ En casación, la desestimación total comporta costas para el recurrente, salvo 
 Por ejemplo, una apelación reduce sólo una parte de la condena dineraria: las costas del recurso requieren examinar el artículo 394, no invocar mecánicamente la regla de casación estimada. En cambio, una casación parcialmente estimada queda comprendida en el apartado 3, aunque no prosperen todos los motivos.
 
 Lista práctica de costas: separar instancias y recursos; identificar vencimiento total o parcial; acreditar la conducta negociadora relevante; motivar dudas, temeridad o circunstancias especiales; y distinguir condena, tasación y límites de honorarios.
+
+#### LIBRO II — De los procesos declarativos
 
 #### TÍTULO II — Del juicio ordinario
 
@@ -294,6 +300,12 @@ El apartado 3 prevé comunicar la admisión en determinados litigios de competen
 
 Por ejemplo, ante una demanda con un defecto de representación reparable se concede subsanación. Si no se corrige, el letrado da cuenta al tribunal para resolver. Si la demanda está formalmente completa, su admisión y traslado no impiden al demandado negar la deuda o formular las excepciones que correspondan.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO II — Del juicio ordinario
+
+#### CAPÍTULO I — De las alegaciones iniciales
+
 #### Sección 2.ª De la contestación a la demanda y la reconvención
 
 ### Artículo 405 — Contestación y forma de la contestación a la demanda.
@@ -314,7 +326,7 @@ Por ejemplo, ante una demanda con un defecto de representación reparable se con
 
 *Nota editorial del BOE:* Se añade el apartado 4 por el art. 15.172 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-La contestación organiza la defensa con la estructura del artículo 399. El demandado debe expresar sus razones de oposición y las excepciones materiales, como el pago que invoca frente a una deuda, y puede allanarse total o parcialmente. También debe razonar la oposición a una acumulación indebida. La exigencia vigente sobre comunicaciones electrónicas se refiere a los supuestos descritos en el apartado 1; no convierte cualquier correo aportado en autorización irrestricta para omitir las garantías de emplazamiento.
+La contestación organiza la defensa con la estructura del artículo 399. El demandado debe expresar sus razones de oposición y las excepciones materiales, como el pago que invoca frente a una deuda, y puede allanarse total o parcialmente. También debe razonar la oposición a una acumulación indebida. El apartado 1 exige asumir el mismo compromiso de recepción directa de comunicaciones que el demandante, en los supuestos legalmente previstos o cuando se actúe sin procurador y siempre que se trate de personas obligadas a relacionarse electrónicamente; no convierte cualquier correo aportado en autorización irrestricta para omitir las garantías de emplazamiento.
 
 El apartado 2 obliga a admitir o negar los hechos de la demanda. El silencio y las evasivas pueden considerarse admisión tácita de los hechos perjudiciales: se trata de una facultad judicial, no de una automática confesión de todo el relato ni de aceptación de sus consecuencias jurídicas. Contestar de forma individualizada ayuda a separar lo controvertido de lo que ya no requiere prueba. El apartado 3 sitúa aquí las excepciones procesales que impiden una válida prosecución o sentencia de fondo, sin desplazar los cauces específicos que la Ley imponga, como la declinatoria.
 
@@ -397,6 +409,12 @@ La decisión conjunta impide tratar la contestación y la reconvención como exp
 La unidad de tramitación no dispensa de conceder al actor reconvenido el plazo del artículo 407 ni de resolver expresamente la tutela que cada parte pide. El artículo 218 exige una respuesta congruente: desestimar la demanda principal no equivale por sí solo a estimar la reconvención. Tampoco una excepción que sólo persigue absolución se convierte en condena positiva por aparecer junto a una reconvención. Deben mantenerse identificados hechos, carga probatoria y petición de cada posición procesal.
 
 Por ejemplo, el constructor reclama el precio y el propietario reconviene por daños. La sentencia puede estimar una pretensión y rechazar la otra, o reconocer partidas de ambas, según lo alegado y probado. La tramitación común no autoriza a declarar una indemnización que no se pidió. Antes de cerrar las alegaciones conviene comprobar conexión, competencia, sujetos emplazados, contestación a la reconvención y separación de los pronunciamientos solicitados.
+
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO II — Del juicio ordinario
+
+#### CAPÍTULO I — De las alegaciones iniciales
 
 #### Sección 3.ª De los efectos de la pendencia del proceso
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:34:44.229790+00:00",
+  "generated_at": "2026-10-22T00:41:10.539151+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -860,14 +860,35 @@
       }
     },
     {
+      "path": "sources/review-batch-22-http.txt",
+      "bytes": 461,
+      "sha256": "98d711b38305a0f88138624877d55a1f50c1ff3aebf966958d509c9877f0f737"
+    },
+    {
+      "path": "sources/review-batch-22-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+        "http_status": 200,
+        "accessed_at": "2026-10-22T00:41:09.712034+00:00",
+        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+        "path": "sources/review-batch-22-official.xml",
+        "content_type": "application/xml",
+        "xml_root": "response",
+        "format_validation": "XML BOE status 200, data/texto/bloque y versiones verificadas; no HTML antirrobot.",
+        "request_accept": "application/xml"
+      }
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 26631,
-      "sha256": "30cc85a9720c55cca332e355083ad844a429d2349bb10b217948168f9c7e2207"
+      "bytes": 28779,
+      "sha256": "afacd08b935362000f185d871f15cd40cfcdd2197271a052d5311b83849a24b9"
     },
     {
       "path": "sources/version-selection.json",

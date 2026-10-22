@@ -519,6 +519,47 @@
       "content_type": "application/xml",
       "xml_root": "response",
       "request_accept": "application/xml"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-22T00:35:41.168152+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/author-a392-a411-official.xml",
+      "xml_root": "response",
+      "same_as_authoring_snapshot": true
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?cid=178515&dir=&docid=228668&doclang=es&mode=req&occ=first&pageIndex=0&part=1&text=",
+      "http_status": 200,
+      "accessed_at": "2026-10-22T00:39:16.961681+00:00",
+      "path": "sources/TJUE-C224-19.html",
+      "sha256": "a1d395e11bad0855c07a9a364d381ba239c2ec47a29dc8baf852388162ba6881",
+      "format_validation": "HTML judicial íntegro: título, ECLI, apartados 1–100 y fallo contrastados; extracción auxiliar por retirada de etiquetas, sin modificar HTML.",
+      "rejected_attempts": [
+        "EUR-Lex challenge/empty body",
+        "curia.europa.eu abbreviated URL empty body",
+        "portal-cec PDF connection reset"
+      ],
+      "search_log": [
+        {
+          "query": "site.curia.europa.eu C-224/19 C-259/19 costas 16 julio 2020 apartado 95 99",
+          "result": "Full primary judgment located and read; relied on only for a394."
+        }
+      ],
+      "limits": "Investigación selectiva. No se efectuó una búsqueda exhaustiva en corpus nacionales; no se añaden autoridades no verificadas a las otras 19 unidades."
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "http_status": 200,
+      "accessed_at": "2026-10-22T00:41:09.712034+00:00",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/review-batch-22-official.xml",
+      "content_type": "application/xml",
+      "xml_root": "response",
+      "format_validation": "XML BOE status 200, data/texto/bloque y versiones verificadas; no HTML antirrobot.",
+      "request_accept": "application/xml"
     }
   ],
   "decisive_date": "2026-10-19",
