@@ -1,0 +1,254 @@
+{
+  "complete": true,
+  "scope": [
+    "a449",
+    "a450",
+    "a451",
+    "a452",
+    "a453",
+    "a454",
+    "a454bis",
+    "a455",
+    "a456",
+    "a457",
+    "a458",
+    "a459",
+    "a460",
+    "a461",
+    "a462",
+    "a463",
+    "a464",
+    "a465",
+    "a466",
+    "a467"
+  ],
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+  "verified_at": "2026-10-22T01:03:24.321624+00:00",
+  "version_evidence": {
+    "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
+    "latest_published_change": "2026-10-07",
+    "latest_effective_change": "2026-10-08",
+    "amending_source": "sources/BOE-A-2026-20823.xml",
+    "provisions": "Artículo 5, disposición transitoria segunda y disposición final decimoprimera",
+    "repealed_intermediate_source": "sources/BOE-A-2026-20526.xml",
+    "changed_since_intake": [
+      "a22",
+      "a685"
+    ],
+    "version_selection": "Versiones con publicación y vigencia no posteriores al 2026-10-19; preferencia por publicación posterior y cotejo íntegro con HTML oficial actual. Ordenar solo por vigencia recuperaba versiones superadas: diferencias iniciales conservadas en sources/initial-selection-differences.json.",
+    "consolidation_warning": "La consolidación BOE es informativa; se conservan las publicaciones oficiales de los cambios posteriores a la captura.",
+    "fresh_comparison": "author-a449-a467-audit.json",
+    "no_change_in_fresh_xml_metadata_analysis": true,
+    "http_and_hash_evidence": "sources/verification.json",
+    "clock_note": "Response access times are actual UTC system clock; snapshot filename uses assigned local task date 2026-10-22.",
+    "bounded_review_refresh": "review-batch-24-audit.json",
+    "fresh_xml_identical_to_authoring_snapshot": true,
+    "fresh_metadata_identical": true,
+    "fresh_analysis_identical": true
+  },
+  "historical_versions_checked": [
+    {
+      "id": "a449",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 4,
+      "text_matches": true
+    },
+    {
+      "id": "a450",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 2,
+      "text_matches": true
+    },
+    {
+      "id": "a451",
+      "selected": {
+        "id_norma": "BOE-A-2015-8167",
+        "fecha_publicacion": "20150722",
+        "fecha_vigencia": "20151001"
+      },
+      "versions_examined": 3,
+      "text_matches": true
+    },
+    {
+      "id": "a452",
+      "selected": {
+        "id_norma": "BOE-A-2009-17493",
+        "fecha_publicacion": "20091104",
+        "fecha_vigencia": "20100504"
+      },
+      "versions_examined": 2,
+      "text_matches": true
+    },
+    {
+      "id": "a453",
+      "selected": {
+        "id_norma": "BOE-A-2015-8167",
+        "fecha_publicacion": "20150722",
+        "fecha_vigencia": "20151001"
+      },
+      "versions_examined": 3,
+      "text_matches": true
+    },
+    {
+      "id": "a454",
+      "selected": {
+        "id_norma": "BOE-A-2009-17493",
+        "fecha_publicacion": "20091104",
+        "fecha_vigencia": "20100504"
+      },
+      "versions_examined": 2,
+      "text_matches": true
+    },
+    {
+      "id": "a454bis",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 5,
+      "text_matches": true
+    },
+    {
+      "id": "a455",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 3,
+      "text_matches": true
+    },
+    {
+      "id": "a456",
+      "selected": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1,
+      "text_matches": true
+    },
+    {
+      "id": "a457",
+      "selected": {
+        "id_norma": "BOE-A-2011-15937",
+        "fecha_publicacion": "20111011",
+        "fecha_vigencia": "20111031"
+      },
+      "versions_examined": 3,
+      "text_matches": true
+    },
+    {
+      "id": "a458",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 5,
+      "text_matches": true
+    },
+    {
+      "id": "a459",
+      "selected": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1,
+      "text_matches": true
+    },
+    {
+      "id": "a460",
+      "selected": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1,
+      "text_matches": true
+    },
+    {
+      "id": "a461",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 5,
+      "text_matches": true
+    },
+    {
+      "id": "a462",
+      "selected": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1,
+      "text_matches": true
+    },
+    {
+      "id": "a463",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 6,
+      "text_matches": true
+    },
+    {
+      "id": "a464",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 4,
+      "text_matches": true
+    },
+    {
+      "id": "a465",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 4,
+      "text_matches": true
+    },
+    {
+      "id": "a466",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 2,
+      "text_matches": true
+    },
+    {
+      "id": "a467",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 2,
+      "text_matches": true
+    }
+  ],
+  "annexes_checked": "Examinados todos los bloques oficiales por tipo y título: no hay anexos operativos en esta ley. Las disposiciones de cierre y las unidades sin contenido permanecen en la enumeración oficial.",
+  "unresolved_blockers": []
+}
