@@ -187,3 +187,12 @@ Revisados exactamente los veinte identificadores de [review-result.json](review-
 Se relee el texto íntegro de la [STJUE de 16 de julio de 2020](cases/TJUE-C224-19.md): los apartados 93–99 y el fallo 5 respaldan exclusivamente la explicación sobre costas de consumidores, sin atribuir a la sentencia una decisión sobre las reformas negociadoras de 2025. Se distingue la objeción de Caixabank de la conclusión del Tribunal. Investigación selectiva, sin pretensión de exhaustividad ni nuevas autoridades.
 
 La [auditoría](review-batch-22-audit.json) contrasta versiones históricas, texto íntegro, inventario oficial y ausencia de anexos separados. Los controles de longitud y repetición no prueban calidad jurídica. Se registran el [build integral](review-batch-22-build.json) y la [validación estricta](review-batch-22-validation.json), incluidas las carencias ajenas al lote. Se exporta exclusivamente el capítulo 22 revisado; no se declara terminado el libro ni aprobación profesional externa.
+
+
+## Segunda lectura limitada: artículos 412 a 431
+
+Revisadas exactamente las veinte unidades de [review-result.json](review-result.json) frente al [XML BOE renovado](sources/review-batch-23-official.xml), conservando el corte jurídico del 19 de octubre de 2026. Se precisa el carácter obligatorio de la comparecencia electrónica acordada del artículo 414 y la suspensión de audiencia al integrar litisconsortes del 420. Los demás comentarios se conservan tras cotejar apartados, plazos, efectos, remisiones y ejemplos.
+
+Se releen antecedentes, fundamentos 1–8 y fallo de la [STC 5/2009](cases/STC-5-2009.md), distinguiendo alegaciones de las partes y decisión constitucional. Los fundamentos 4–8 sustentan el comentario del 421, sin generalizar una libertad de reiterar pretensiones ni resolver reformas posteriores. Investigación selectiva, sin afirmación de cobertura exhaustiva.
+
+La [auditoría reproducible](review-batch-23-audit.json) registra versiones, inventario independiente, ausencia de anexos separados y coincidencia íntegra del texto legal. La longitud y la ausencia de repeticiones no acreditan calidad jurídica. Se conservan [build integral](review-batch-23-build.json) y [validación estricta](review-batch-23-validation.json) con carencias ajenas al lote; sólo se exporta el capítulo 23 revisado. El libro sigue incompleto.

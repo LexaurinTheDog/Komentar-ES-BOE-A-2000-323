@@ -560,6 +560,34 @@
       "xml_root": "response",
       "format_validation": "XML BOE status 200, data/texto/bloque y versiones verificadas; no HTML antirrobot.",
       "request_accept": "application/xml"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-22T00:42:17.437653+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/author-a412-a431-official.xml",
+      "xml_root": "response"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2009-2494",
+      "accessed_at": "2026-10-22T00:42:17.717861+00:00",
+      "http_status": 200,
+      "content_type": "application/xml; charset=utf-8",
+      "sha256": "c5beddcb5b16cf1c6718e530f30dc70dcbba63f083a32c2100bc68e5dfbaa862",
+      "path": "sources/STC-5-2009.xml",
+      "xml_root": "documento"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "http_status": 200,
+      "accessed_at": "2026-10-22T00:48:24.419665+00:00",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/review-batch-23-official.xml",
+      "content_type": "application/xml",
+      "format_validation": "Parseo XML, status 200 y bloques/versiones BOE; no HTML.",
+      "request_accept": "application/xml"
     }
   ],
   "decisive_date": "2026-10-19",

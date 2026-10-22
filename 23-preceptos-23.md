@@ -36,6 +36,10 @@ La excepción del apartado 1 exige una privación definitiva del interés legít
 
 Ejemplo ficticio: se reclama la entrega de una máquina y, iniciado el pleito, el proveedor la entrega en las condiciones pactadas. Habrá que determinar si la pretensión de entrega ha quedado satisfecha y si subsisten otras peticiones acumuladas. Si únicamente se entrega una parte de los accesorios reclamados, la satisfacción no es automáticamente total. El examen debe separar el cambio material, la utilidad procesal restante y las consecuencias sobre costas que correspondan conforme al artículo 22.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO II — Del juicio ordinario
+
 #### CAPÍTULO II — De la audiencia previa al juicio
 
 ### Artículo 414 — Finalidad, momento procesal y sujetos intervinientes en la audiencia.
@@ -74,7 +78,7 @@ Ejemplo ficticio: se reclama la entrega de una máquina y, iniciado el pleito, e
 
 La audiencia previa concentra cuatro tareas: explorar un acuerdo, depurar obstáculos procesales, concretar el litigio y preparar la prueba. El apartado 1 distingue la convocatoria por el letrado de la Administración de Justicia, dentro del tercer día tras la contestación o el vencimiento de sus plazos, de la celebración dentro de veinte días desde la convocatoria. No debe confundirse el primer plazo con un plazo concedido a las partes para pedir la audiencia.
 
-El apartado 2 exige asistencia letrada. La comparecencia por medios electrónicos procede cuando la acuerde el tribunal y con los requisitos del artículo 137 bis; no depende únicamente de que una parte disponga de una aplicación de videollamada. Si la parte no asiste personalmente, su procurador necesita poder para renunciar, allanarse o transigir a efectos del intento de arreglo. La insuficiencia de ese poder puede determinar que se tenga a la parte por no comparecida, aunque exista representación ordinaria para otros actos.
+El apartado 2 exige asistencia letrada. La comparecencia por medios electrónicos es obligatoria cuando la acuerde el tribunal, de oficio o a instancia de parte, con los requisitos del artículo 137 bis; no depende únicamente de que una parte disponga de una aplicación de videollamada. Si la parte no asiste personalmente, su procurador necesita poder para renunciar, allanarse o transigir a efectos del intento de arreglo. La insuficiencia de ese poder puede determinar que se tenga a la parte por no comparecida, aunque exista representación ordinaria para otros actos.
 
 Los apartados 3 y 4 establecen consecuencias asimétricas. La ausencia de ambas partes conduce al sobreseimiento y archivo. La ausencia del actor o de su abogado permite continuar si el demandado alega interés legítimo en una decisión de fondo. Si falta el demandado o su abogado, la audiencia sigue con el actor en lo procedente; ello no supone estimación automática de la demanda ni dispensa al actor de probar los hechos controvertidos.
 
@@ -196,7 +200,7 @@ Por ejemplo, una demanda reúne una pretensión de cumplimiento de contrato y ot
 
 *Nota editorial del BOE:* Se modifica el apartado 4 por el art. 15.175 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-La integración del litisconsorcio necesario protege a quienes deben estar presentes para resolver válidamente la relación jurídica discutida. No basta con que un tercero conozca hechos útiles o tenga interés económico: hay que justificar por qué la tutela pedida exige su presencia, en conexión con el artículo 12. El apartado 1 permite al actor aceptar la objeción de la contestación y presentar en la audiencia el escrito y las copias dirigidos a los nuevos demandados. El tribunal debe apreciar que el litisconsorcio procede y ordenar el emplazamiento; la conformidad de las partes iniciales no sustituye ese control.
+La integración del litisconsorcio necesario protege a quienes deben estar presentes para resolver válidamente la relación jurídica discutida. No basta con que un tercero conozca hechos útiles o tenga interés económico: hay que justificar por qué la tutela pedida exige su presencia, en conexión con el artículo 12. El apartado 1 permite al actor aceptar la objeción de la contestación y presentar en la audiencia el escrito y las copias dirigidos a los nuevos demandados. El tribunal debe apreciar que el litisconsorcio procede y ordenar el emplazamiento, con suspensión de la audiencia; la conformidad de las partes iniciales no sustituye ese control.
 
 Las nuevas alegaciones sólo pueden ser las imprescindibles para justificar la pretensión frente a los incorporados, sin alterar sustancialmente la causa de pedir. Si el actor discute la necesidad de integración, el apartado 2 exige oír a las partes y permite resolver dentro de cinco días cuando la dificultad lo aconseje; mientras, la audiencia continúa para sus demás finalidades. Apreciada la necesidad, el apartado 3 concede al actor un plazo no inferior a diez días para constituirla. Este mínimo no debe confundirse con el máximo de diez días previsto en el artículo 418 para otro tipo de subsanación.
 
@@ -427,6 +431,10 @@ Debe distinguirse esta incidencia de la prórroga negociadora consensuada del ar
 Por ejemplo, un testigo imprescindible sufre una hospitalización imprevista que le impide comparecer. Quien solicita nueva fecha debe acreditar el impedimento y explicar qué hechos sólo pueden esclarecerse con esa declaración, en lugar de limitarse a afirmar su indisponibilidad. La decisión corresponde al órgano judicial bajo el artículo 183; la mera importancia subjetiva que la parte atribuya al testigo no impone automáticamente reprogramar todo el juicio.
 
 **Comprobación práctica al cerrar la audiencia previa.** Conviene comprobar que constan las cuestiones procesales resueltas y las pendientes, el objeto definitivo, los hechos controvertidos, las pruebas admitidas y rechazadas, las citaciones y auxilios acordados, los plazos de subsanación y la fecha o mecanismo de señalamiento. Si se ha abierto negociación, debe quedar identificado su régimen y cualquier cambio efectivo de la fecha del juicio. Esta relación permite controlar tareas concretas sin convertir la audiencia en un nuevo plazo general de alegaciones.
+
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO II — Del juicio ordinario
 
 #### CAPÍTULO III — Del juicio
 

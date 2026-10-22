@@ -2,115 +2,115 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a392",
-    "a393",
-    "a394",
-    "a395",
-    "a396",
-    "a397",
-    "a398",
-    "a399",
-    "a400",
-    "a401",
-    "a402",
-    "a403",
-    "a404",
-    "a405",
-    "a406",
-    "a407",
-    "a408",
-    "a409",
-    "a410",
-    "a411"
+    "a412",
+    "a413",
+    "a414",
+    "a415",
+    "a416",
+    "a417",
+    "a418",
+    "a419",
+    "a420",
+    "a421",
+    "a422",
+    "a423",
+    "a424",
+    "a425",
+    "a426",
+    "a427",
+    "a428",
+    "a429",
+    "a430",
+    "a431"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a392",
-      "finding": "Escrito, documentos, proposición probatoria, indicación de suspensión y rechazo por auto cotejados; ejemplo de representación leído con 387–391."
+      "id": "a412",
+      "finding": "Contrastados ambos apartados: estabilidad del objeto y excepciones complementarias; remisiones 218,426,286 y ejemplo de facturas correctos."
     },
     {
-      "id": "a393",
-      "finding": "Cinco apartados cotejados: límites temporales distintos, providencia, cinco días, vista, diez días y apelación según terminación; checklist conservado."
+      "id": "a413",
+      "finding": "Contrastados dos apartados: innovaciones, pérdida definitiva de interés y remisión a 22; satisfacción parcial no equiparada a total."
     },
     {
-      "id": "a394",
-      "finding": "Cinco apartados cotejados; precisado que límite del tercio corresponde a condena conforme al apartado 1. MASC, 24.000 euros, gratuidad y Fiscal contrastados. STJUE 2020: apartados 93–99 y fallo 5 comprobados; enlace de ficha añadido."
+      "id": "a414",
+      "finding": "Cuatro apartados cotejados: convocatoria, celebración, poder y ausencias. Precisado carácter obligatorio de comparecencia remota acordada por tribunal."
     },
     {
-      "id": "a395",
-      "finding": "Tres apartados cotejados; aclarado carácter alternativo del requerimiento y rechazo negociador para mala fe; distinción temporal y excepción motivada conservadas."
+      "id": "a415",
+      "finding": "Tres apartados cotejados: desistimiento, homologación, suspensión consensuada y continuación. Efectos ejecutivos e impugnación correctamente distinguidos."
     },
     {
-      "id": "a396",
-      "finding": "Dos modalidades de desistimiento y costas cotejadas con artículo 20; ejemplo no confunde consentimiento con necesidad de consentimiento."
+      "id": "a416",
+      "finding": "Cinco cuestiones y exclusión de declinatoria tardía cotejadas; preservado control de oficio y diferencia entre capacidad y titularidad material."
     },
     {
-      "id": "a397",
-      "finding": "Remisión a 394 para costas de primera instancia en apelación cotejada; separación de costas del recurso y tasación correcta."
+      "id": "a417",
+      "finding": "Orden conforme a artículos siguientes y auto conjunto en cinco días cotejados; no se generaliza posibilidad de diferir decisión."
     },
     {
-      "id": "a398",
-      "finding": "Tres apartados cotejados con versión de 2023 efectiva 2024: apelación remite a 394, casación desestimada admite excepción y estimada no impone costas."
+      "id": "a418",
+      "finding": "Tres apartados cotejados: subsanación máxima diez días, suspensión, terminación y excepción de rebeldía del demandado."
     },
     {
-      "id": "a399",
-      "finding": "Cinco apartados cotejados: identificación/contacto, profesionales, relato/documentos, negociación previa, presupuestos y petición subsidiaria; remisiones 155,162,264,218,400 verificadas."
+      "id": "a419",
+      "finding": "Oposición motivada, audiencia del actor, decisión oral y continuación de acciones admisibles cotejadas; subsidiariedad correctamente tratada."
     },
     {
-      "id": "a400",
-      "finding": "Concentración de fundamentos de la misma tutela y límites de hechos nuevos cotejados con 222,286,426; no se convierte en acumulación obligatoria universal."
+      "id": "a420",
+      "finding": "Cuatro apartados cotejados. Explicitada suspensión de audiencia del apartado 1; mínimo diez días y emplazamiento para contestar diferenciados."
     },
     {
-      "id": "a401",
-      "finding": "Preclusión tras contestación y nuevo cómputo desde traslado de ampliación cotejados; remisiones 71–73 y 412 comprobadas."
+      "id": "a421",
+      "finding": "Tres apartados cotejados: cosa juzgada negativa/positiva, decisión oral y diferida. STC 5/2009 íntegra releída, FJ 4–8 y fallo verificados."
     },
     {
-      "id": "a402",
-      "finding": "Oposición motivada en contestación y resolución en audiencia cotejadas con 405 y 419; diferenciación frente a declinatoria conservada."
+      "id": "a422",
+      "finding": "Dos apartados cotejados: valoración acordada o motivada, conversión a verbal, reparto del señalamiento y excepción de caducidad."
     },
     {
-      "id": "a403",
-      "finding": "Dos apartados cotejados en versión 2025; causas expresas, documentos exigidos, circunstancias negociadoras y supuestos especiales; subsanación no suple presupuesto inexistente."
+      "id": "a423",
+      "finding": "Tres apartados cotejados: materia, decisión inmediata o en cinco días, verbal y sobreseimiento por caducidad o requisitos especiales."
     },
     {
-      "id": "a404",
-      "finding": "Tres apartados cotejados: decreto LAJ, veinte días, dación de cuenta y referencias históricas de competencia; no se altera literalmente norma oficial."
+      "id": "a424",
+      "finding": "Dos apartados cotejados: aclaración a petición o de oficio y umbral de absoluta imposibilidad; ejemplo no autoriza sustitución de demandado."
     },
     {
-      "id": "a405",
-      "finding": "Cuatro apartados cotejados; explicitados compromiso de recepción directa y condiciones electrónicas del apartado 1. Silencio facultativo y subsanación no reabren defensas."
+      "id": "a425",
+      "finding": "Cláusula de analogía cotejada; se distingue procedimiento de resolución de creación de presupuestos de admisión."
     },
     {
-      "id": "a406",
-      "finding": "Cuatro apartados cotejados: conexión, competencia/procedimiento, remisión mercantil, audiencia cinco días, apelación suspensiva, forma y preclusión de fundamentos."
+      "id": "a426",
+      "finding": "Seis apartados cotejados: complemento, aclaración, accesoriedad, novedad, documentos y advertencia judicial; 286.4,267,268 verificados."
     },
     {
-      "id": "a407",
-      "finding": "Dos apartados cotejados: litisconsorcio de terceros respecto de reconvención y veinte días desde notificación, contenido conforme a 405."
+      "id": "a427",
+      "finding": "Cuatro apartados cotejados: documentos, pericias e informes 265.1.5; cinco días de 338.2 verificados y perito judicial correctamente separado."
     },
     {
-      "id": "a408",
-      "finding": "Tres apartados cotejados: compensación, solicitud de réplica a nulidad absoluta por decreto y cosa juzgada; conexión mercantil 406.2 verificada."
+      "id": "a428",
+      "finding": "Tres apartados cotejados: hechos conformes, acuerdo y sentencia veinte días; diferencia con 429.8 correcta."
     },
     {
-      "id": "a409",
-      "finding": "Sustanciación y resolución conjunta contrastadas; autonomía de cada tutela y congruencia 218 correctas; ejemplo no concede indemnización sin petición."
+      "id": "a429",
+      "finding": "Ocho apartados cotejados: escrito dos días, insuficiencia, señalamiento, negociación 2025, auxilio tres días y sentencia sin juicio. No se reabre proposición omitida."
     },
     {
-      "id": "a410",
-      "finding": "Interposición condicionada a admisión y efectos procesales cotejados; remisiones 400 y 421 verificadas, sin equiparar identidad de partes a identidad de objeto."
+      "id": "a430",
+      "finding": "Remisión a 183 cotejada: impedimento, acreditación y solicitud inmediata; alternativas para testigo y necesidad de decisión correctamente señaladas."
     },
     {
-      "id": "a411",
-      "finding": "Momento inicial de litispendencia y alteraciones posteriores cotejados con 410,412,413; regla no sana incompetencia originaria."
+      "id": "a431",
+      "finding": "Contenido probatorio y conclusiones cotejados con 433; no amplía objeto ni ignora hipótesis de sentencia sin juicio."
     }
   ],
   "limitations": [
-    "Revisión sustantiva limitada a a392–a411; libro incompleto fuera del lote.",
-    "Investigación jurisprudencial selectiva; sentencia europea íntegra releída, sin nuevas autoridades ni búsqueda exhaustiva nacional.",
-    "Corte jurídico de autoría 2026-10-19; no aprobación profesional externa."
+    "Segunda lectura exclusivamente de a412–a431; no conclusión de todo el libro.",
+    "Jurisprudencia selectiva: STC 5/2009 íntegra releída, sin búsqueda exhaustiva ni nuevas autoridades.",
+    "Corte jurídico conservado de 2026-10-19; no aprobación profesional externa."
   ],
-  "reviewed_at": "2026-10-22T00:41:09.712034+00:00",
-  "source_evidence": "review-batch-22-audit.json"
+  "reviewed_at": "2026-10-22T00:48:24.419665+00:00",
+  "source_evidence": "review-batch-23-audit.json"
 }
