@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-22",
+  "queries": [
+    {
+      "source": "official Curia/EUR-Lex",
+      "query": "C-453/18 C-494/18 Bondora sentencia 19 diciembre 2019",
+      "result": "Full official judgment read, paragraphs 1–56 and operative part; one case card."
+    },
+    {
+      "source": "local /Volumes/LaCie/law-intake/eu/es/tc",
+      "query": "Bondora|C.?453/18|disposición final vigésima tercera",
+      "result": "Six local matches inspected by targeted context search: TC-6771, TC-6770, TC-6753, TC-26567, TC-24657, TC-26439. None used as authority; no proposition attributed without full-text review."
+    }
+  ],
+  "limitations": [
+    "Selective research; fifteen assigned units contain no case-specific proposition.",
+    "Technical rules explained from statutory sources. No claim of exhaustive national or European case-law review.",
+    "Case-law source snapshots obtained through web extraction; direct download rejected anti-bot/empty or application-only responses."
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "official_source": {
     "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-    "local_raw_evidence_path": "sources/review-batch-45-official.xml",
+    "local_raw_evidence_path": "sources/author-df14-df29-official.xml",
     "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
   },
   "expected_ids": [
@@ -1840,5 +1840,5 @@
     "dfvigesimooctava",
     "dfvigesimonovena"
   ],
-  "annex_disposition": "No se identifican anexos operativos en tipos ni rúbricas del XML íntegro; las disposiciones finales, transitorias y derogatoria integran los 916 preceptos. El lote tampoco contiene anexos."
+  "annex_disposition": "No hay anexos operativos propios de la LEC en los tipos ni rúbricas del XML completo. Los anexos citados por las finales son formularios de reglamentos europeos externos, no unidades omitidas de esta ley. Las 916 unidades incluyen todas las finales y ranuras suprimidas o derogadas."
 }

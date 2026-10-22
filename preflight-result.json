@@ -1,30 +1,26 @@
 {
   "complete": true,
   "scope": [
-    "dtsegunda",
-    "dttercera",
-    "dtcuarta",
-    "dtquinta",
-    "dtsexta",
-    "dtseptima",
-    "ddunica",
-    "dfprimera",
-    "dfsegunda",
-    "dftercera",
-    "dfcuarta",
-    "dfquinta",
-    "dfsexta",
-    "dfseptima",
-    "dfoctava",
-    "dfnovena",
-    "dfdecima",
-    "dfundecima",
-    "dfduodecima",
-    "dfdecimotercera"
+    "dfdecimocuarta",
+    "dfdecimoquinta",
+    "dfdecimosexta",
+    "dfdecimoseptima",
+    "dfdecimoctava",
+    "dfdecimonovena",
+    "dfvigesima",
+    "dfvigesimaprimera",
+    "dfvigesimasegunda",
+    "dfvigesimatercera",
+    "dfvigesimacuarta",
+    "dfvigesimoquinta",
+    "dfvigesimosexta",
+    "dfvigesimoseptima",
+    "dfvigesimooctava",
+    "dfvigesimonovena"
   ],
   "decisive_date": "2026-10-19",
   "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
-  "verified_at": "2026-10-22T03:58:21.827595+00:00",
+  "verified_at": "2026-10-22T04:06:44.119839+00:00",
   "version_evidence": {
     "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
     "latest_published_change": "2026-10-07",
@@ -44,7 +40,7 @@
     "clock_note": "Response access times are actual UTC system clock; snapshot filename uses assigned local task date 2026-10-22.",
     "bounded_review_refresh": "review-batch-45-audit.json",
     "fresh_xml_identical_to_authoring_snapshot": true,
-    "bounded_author_refresh": "author-dtsegunda-dfdecimotercera-audit.json",
+    "bounded_author_refresh": "author-df14-df29-audit.json",
     "current_check_date": "2026-10-22",
     "effective_selection_changed_since_decisive_date": [],
     "future_records": [],
@@ -54,7 +50,7 @@
   },
   "historical_versions_checked": [
     {
-      "id": "dtsegunda",
+      "id": "dfdecimocuarta",
       "selected": {
         "id_norma": "BOE-A-2000-323",
         "fecha_publicacion": "20000108",
@@ -67,10 +63,10 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_matches": true
+      "text_equal": true
     },
     {
-      "id": "dttercera",
+      "id": "dfdecimoquinta",
       "selected": {
         "id_norma": "BOE-A-2000-323",
         "fecha_publicacion": "20000108",
@@ -83,286 +79,14 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_matches": true
+      "text_equal": true
     },
     {
-      "id": "dtcuarta",
+      "id": "dfdecimosexta",
       "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dtquinta",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dtsexta",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dtseptima",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "ddunica",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfprimera",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfsegunda",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dftercera",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfcuarta",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfquinta",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfsexta",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfseptima",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfoctava",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfnovena",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfdecima",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfundecima",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfduodecima",
-      "selected": {
-        "id_norma": "BOE-A-2000-323",
-        "fecha_publicacion": "20000108",
-        "fecha_vigencia": "20010108"
-      },
-      "available_versions": [
-        {
-          "id_norma": "BOE-A-2000-323",
-          "fecha_publicacion": "20000108",
-          "fecha_vigencia": "20010108"
-        }
-      ],
-      "text_matches": true
-    },
-    {
-      "id": "dfdecimotercera",
-      "selected": {
-        "id_norma": "BOE-A-2004-18911",
-        "fecha_publicacion": "20041105",
-        "fecha_vigencia": "20041106"
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
       },
       "available_versions": [
         {
@@ -371,12 +95,315 @@
           "fecha_vigencia": "20010108"
         },
         {
-          "id_norma": "BOE-A-2004-18911",
-          "fecha_publicacion": "20041105",
-          "fecha_vigencia": "20041106"
+          "id_norma": "BOE-A-2011-15937",
+          "fecha_publicacion": "20111011",
+          "fecha_vigencia": "20111031"
+        },
+        {
+          "id_norma": "BOE-A-2023-25758",
+          "fecha_publicacion": "20231220",
+          "fecha_vigencia": "20240320"
         }
       ],
-      "text_matches": true
+      "text_equal": true
+    },
+    {
+      "id": "dfdecimoseptima",
+      "selected": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2000-323",
+          "fecha_publicacion": "20000108",
+          "fecha_vigencia": "20010108"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfdecimoctava",
+      "selected": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2000-323",
+          "fecha_publicacion": "20000108",
+          "fecha_vigencia": "20010108"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfdecimonovena",
+      "selected": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2000-323",
+          "fecha_publicacion": "20000108",
+          "fecha_vigencia": "20010108"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfvigesima",
+      "selected": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2000-323",
+          "fecha_publicacion": "20000108",
+          "fecha_vigencia": "20010108"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfvigesimaprimera",
+      "selected": {
+        "id_norma": "BOE-A-2006-9960",
+        "fecha_publicacion": "20060606",
+        "fecha_vigencia": "20060607"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2000-323",
+          "fecha_publicacion": "20000108",
+          "fecha_vigencia": "20010108"
+        },
+        {
+          "id_norma": "BOE-A-2006-9960",
+          "fecha_publicacion": "20060606",
+          "fecha_vigencia": "20060607"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfvigesimasegunda",
+      "selected": {
+        "id_norma": "BOE-A-2015-8167",
+        "fecha_publicacion": "20150722",
+        "fecha_vigencia": "20151001"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2006-9960",
+          "fecha_publicacion": "20060606",
+          "fecha_vigencia": "20060607"
+        },
+        {
+          "id_norma": "BOE-A-2015-7391",
+          "fecha_publicacion": "20150703",
+          "fecha_vigencia": "20150723"
+        },
+        {
+          "id_norma": "BOE-A-2015-8167",
+          "fecha_publicacion": "20150722",
+          "fecha_vigencia": "20151001"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfvigesimatercera",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2006-9960",
+          "fecha_publicacion": "20060606",
+          "fecha_vigencia": "20060607"
+        },
+        {
+          "id_norma": "BOE-A-2009-17493",
+          "fecha_publicacion": "20091104",
+          "fecha_vigencia": "20100504"
+        },
+        {
+          "id_norma": "BOE-A-2011-5392",
+          "fecha_publicacion": "20110325",
+          "fecha_vigencia": "20110414"
+        },
+        {
+          "id_norma": "BOE-A-2015-8167",
+          "fecha_publicacion": "20150722",
+          "fecha_vigencia": "20151001"
+        },
+        {
+          "id_norma": "BOE-A-2023-25758",
+          "fecha_publicacion": "20231220",
+          "fecha_vigencia": "20240320"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfvigesimacuarta",
+      "selected": {
+        "id_norma": "BOE-A-2015-8167",
+        "fecha_publicacion": "20150722",
+        "fecha_vigencia": "20151001"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2011-5392",
+          "fecha_publicacion": "20110325",
+          "fecha_vigencia": "20110414"
+        },
+        {
+          "id_norma": "BOE-A-2015-8167",
+          "fecha_publicacion": "20150722",
+          "fecha_vigencia": "20151001"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfvigesimoquinta",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2009-17493",
+          "fecha_publicacion": "20091104",
+          "fecha_vigencia": "20100504"
+        },
+        {
+          "id_norma": "BOE-A-2011-5392",
+          "fecha_publicacion": "20110325",
+          "fecha_vigencia": "20110414"
+        },
+        {
+          "id_norma": "BOE-A-2015-8564",
+          "fecha_publicacion": "20150731",
+          "fecha_vigencia": "20150820"
+        },
+        {
+          "id_norma": "BOE-A-2023-25758",
+          "fecha_publicacion": "20231220",
+          "fecha_vigencia": "20240320"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfvigesimosexta",
+      "selected": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2011-5392",
+          "fecha_publicacion": "20110325",
+          "fecha_vigencia": "20110414"
+        },
+        {
+          "id_norma": "BOE-A-2011-14222",
+          "fecha_publicacion": "20110830",
+          "fecha_vigencia": "20120328"
+        },
+        {
+          "id_norma": "BOE-A-2014-7877",
+          "fecha_publicacion": "20140725",
+          "fecha_vigencia": "20140925"
+        },
+        {
+          "id_norma": "BOE-A-2015-8564",
+          "fecha_publicacion": "20150731",
+          "fecha_vigencia": "20150820"
+        },
+        {
+          "id_norma": "BOE-A-2023-25758",
+          "fecha_publicacion": "20231220",
+          "fecha_vigencia": "20240320"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfvigesimoseptima",
+      "selected": {
+        "id_norma": "BOE-A-2018-7831",
+        "fecha_publicacion": "20180612",
+        "fecha_vigencia": "20180702"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2011-14222",
+          "fecha_publicacion": "20110830",
+          "fecha_vigencia": "20120328"
+        },
+        {
+          "id_norma": "BOE-A-2015-8564",
+          "fecha_publicacion": "20150731",
+          "fecha_vigencia": "20150820"
+        },
+        {
+          "id_norma": "BOE-A-2018-7831",
+          "fecha_publicacion": "20180612",
+          "fecha_vigencia": "20180702"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfvigesimooctava",
+      "selected": {
+        "id_norma": "BOE-A-2018-7831",
+        "fecha_publicacion": "20180612",
+        "fecha_vigencia": "20180702"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2015-8564",
+          "fecha_publicacion": "20150731",
+          "fecha_vigencia": "20150820"
+        },
+        {
+          "id_norma": "BOE-A-2018-7831",
+          "fecha_publicacion": "20180612",
+          "fecha_vigencia": "20180702"
+        }
+      ],
+      "text_equal": true
+    },
+    {
+      "id": "dfvigesimonovena",
+      "selected": {
+        "id_norma": "BOE-A-2015-8564",
+        "fecha_publicacion": "20150731",
+        "fecha_vigencia": "20150820"
+      },
+      "available_versions": [
+        {
+          "id_norma": "BOE-A-2015-8564",
+          "fecha_publicacion": "20150731",
+          "fecha_vigencia": "20150820"
+        }
+      ],
+      "text_equal": true
     }
   ],
   "annexes_checked": true,
@@ -391,7 +418,8 @@
   "fresh_source_identical_to_authoring_xml": true,
   "unresolved_blockers": [],
   "limitations": [
-    "Fecha jurídica conservada: 19 de octubre de 2026; el análisis transitorio de cada expediente requiere examen propio.",
-    "La segunda lectura sustantiva de este checkpoint comprende exclusivamente los 20 identificadores de review-result.json; el manuscrito entero permanece incompleto."
+    "Autoría limitada a dieciséis unidades; pendiente segunda lectura independiente. No certifica el libro completo.",
+    "Una sentencia TJUE incorporada; quince unidades sin jurisprudencia específica. Investigación selectiva nacional y europea.",
+    "EUR-Lex rechazó descargas directas; el texto íntegro de Bondora se conserva mediante capturas del extractor web oficial, sin código HTTP originario expuesto. Reglamentos cotejados en PDFs oficiales BOE, sin presentar esos PDFs originales como consolidaciones actuales."
   ]
 }

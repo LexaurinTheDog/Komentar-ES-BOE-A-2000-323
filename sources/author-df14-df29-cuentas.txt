@@ -1,0 +1,2191 @@
+27.6.2014           ES                             Diario Oficial de la Unión Europea                                              L 189/59
+
+
+                    REGLAMENTO (UE) No 655/2014 DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+                                                       de 15 de mayo de 2014
+            por el que se establece el procedimiento relativo a la orden europea de retención de cuentas a fin de
+                        simplificar el cobro transfronterizo de deudas en materia civil y mercantil
+
+
+     EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+
+
+     Visto el Tratado de Funcionamiento de la Unión Europea y, en particular, su artículo 81, apartado 2, letras a), e) y f),
+
+
+     Vista la propuesta de la Comisión Europea,
+
+
+     Previa transmisión del proyecto de acto legislativo a los Parlamentos nacionales,
+
+
+     Visto el dictamen del Comité Económico y Social Europeo (1),
+
+
+     De conformidad con el procedimiento legislativo ordinario (2),
+
+
+     Considerando lo siguiente:
+
+
+     (1)    La Unión se ha fijado el objetivo de mantener y desarrollar un espacio de libertad, seguridad y justicia en el cual
+            esté garantizada la libre circulación de personas. Para el progresivo establecimiento de dicho espacio, la Unión debe
+            adoptar medidas en el ámbito de la cooperación judicial en materia civil con repercusión transfronteriza, en
+            particular cuando resulte necesario para el buen funcionamiento del mercado interior.
+
+
+     (2)    De conformidad con el artículo 81, apartado 2, del Tratado de Funcionamiento de la Unión Europea (TFUE), entre
+            tales medidas se pueden incluir aquellas destinadas a garantizar, en particular, el reconocimiento mutuo y la
+            ejecución de las resoluciones judiciales entre los Estados miembros, la tutela judicial efectiva y la eliminación de
+            los obstáculos al buen funcionamiento de los procedimientos civiles, fomentando si es necesario la compatibilidad
+            de las normas de procedimiento civil aplicables en los Estados miembros.
+
+
+     (3)    El 24 de octubre de 2006, la Comisión, mediante el «Libro Verde sobre una mayor eficacia en la ejecución de las
+            resoluciones judiciales en la Unión Europea: Embargo de los activos bancarios», inició un proceso de consulta sobre
+            la necesidad de un procedimiento europeo uniforme para la retención de cuentas bancarias y las posibles carac­
+            terísticas de dicho procedimiento.
+
+
+     (4)    En el Programa de Estocolmo de diciembre de 2009 (3), que estableció las prioridades en materia de justicia,
+            libertad y seguridad para el período de 2010 a 2014, el Consejo Europeo pidió a la Comisión que evaluara la
+            necesidad y la viabilidad de establecer algunas medidas provisionales, incluso cautelares, a escala de la Unión, para
+            prevenir, por ejemplo, la desaparición de activos antes de la ejecución de un crédito, y que presentara las
+            propuestas adecuadas para mejorar la eficiencia con respecto a la ejecución de las resoluciones judiciales en la
+            Unión en relación con las cuentas bancarias y los activos de deudores.
+
+
+     (5)    Los procedimientos nacionales para la obtención de medidas cautelares como las órdenes de retención de cuentas
+            existen en todos los Estados miembros, pero las condiciones para la concesión de tales medidas y la eficacia de su
+            aplicación varían considerablemente. Además, el recurso a las medidas cautelares nacionales puede resultar engo­
+            rroso en los casos con repercusión transfronteriza y, en particular, cuando el acreedor desea retener varias cuentas
+            localizadas en diferentes Estados miembros. Por consiguiente, se considera necesario y oportuno adoptar un
+            instrumento jurídico de la Unión que sea vinculante y directamente aplicable, por el que se establezca un nuevo
+            procedimiento de la Unión que permita, en los asuntos transfronterizos, la eficaz y rápida retención de los activos
+            que se tengan en cuentas bancarias.
+
+     (1) DO C 191 de 29.6.2012, p. 57.
+     (2) Posición del Parlamento Europeo de 15 de abril de 2014 (no publicada aún en el Diario Oficial) y Decisión del Consejo de 13 de
+         mayo de 2014.
+     (3) DO C 115 de 4.5.2010, p. 1.
+L 189/60            ES                             Diario Oficial de la Unión Europea                                            27.6.2014
+
+
+     (6)    El procedimiento que establece el presente Reglamento debe constituir un medio complementario y opcional para
+            el acreedor, que conserva plena libertad de recurrir a cualquier otro procedimiento establecido en el Derecho
+            nacional para la obtención de una medida equivalente.
+
+
+     (7)    Un acreedor ha de poder obtener una medida cautelar en forma de una orden europea de retención de cuentas
+            («orden de retención» u «orden») que impida la transferencia o retirada de fondos poseídos por su deudor en una
+            cuenta bancaria mantenida en un Estado miembro, si existe el riesgo de que, sin dicha medida, la ejecución ulterior
+            de su crédito contra el deudor se vea impedida o resulte considerablemente más difícil. La retención de los fondos
+            de la cuenta del deudor debe tener por efecto que se impida la utilización de los fondos no solo al propio deudor
+            sino también a cualquier otra persona autorizada por el mismo para efectuar pagos a través de esa cuenta, por
+            ejemplo mediante una orden permanente de pago, un débito directo o la utilización de una tarjeta de crédito.
+
+
+     (8)    El ámbito de aplicación del presente Reglamento debe incluir todas las materias civiles y mercantiles salvo
+            determinadas materias claramente definidas. En particular, el presente Reglamento no debe aplicarse a los créditos
+            frente a deudores incursos en procedimientos de insolvencia. Ello ha de entenderse en el sentido de que no se
+            pueda dictar una orden de retención contra el deudor una vez iniciado respecto de este un procedimiento de
+            insolvencia tal como se define en el Reglamento (CE) no 1346/2000 del Consejo (1). Por otro lado, la exclusión
+            debe permitir que se haga uso de la orden de retención para garantizar la reintegración de pagos indebidos
+            efectuados por dicho deudor a terceros.
+
+
+     (9)    El presente Reglamento debe aplicarse a las cuentas mantenidas en entidades de crédito cuya actividad consista en
+            aceptar del público depósitos y otros fondos reembolsables y conceder créditos por su propia cuenta.
+
+
+            Por consiguiente, no debe aplicarse a las entidades financieras que no acepten tales depósitos, por ejemplo
+            entidades que den financiación a proyectos de exportación e inversión o proyectos en países en desarrollo o
+            entidades que presten servicios de mercado financiero. Por otra parte, el presente Reglamento no debe aplicarse a
+            las cuentas bancarias de los bancos centrales ni a las cuentas mantenidas en estos, cuando actúen en su calidad de
+            autoridades monetarias, ni a las cuentas que no puedan quedar retenidas por una orden nacional equivalente a la
+            orden de retención o que gocen de otro tipo de inmunidad frente al embargo con arreglo al Derecho del Estado
+            miembro en el que se mantenga la cuenta de que se trate.
+
+
+     (10)   El presente Reglamento debe aplicarse exclusivamente a los asuntos transfronterizos y debe definir qué constituye
+            un asunto transfronterizo en este contexto específico. A los efectos del presente Reglamento, debe considerarse que
+            existe un asunto transfronterizo cuando el órgano jurisdiccional que conoce de la solicitud de orden de retención
+            se encuentre en un Estado miembro y la cuenta bancaria afectada por dicha orden se tenga en otro Estado
+            miembro. También se debe considerar que existe un asunto transfronterizo cuando el acreedor esté domiciliado
+            en un Estado miembro y el órgano jurisdiccional y la cuenta bancaria que haya de retenerse estén situados en otro
+            Estado miembro.
+
+
+            El presente Reglamento no debe aplicarse a la retención de aquellas cuentas mantenidas en el Estado miembro del
+            órgano jurisdiccional ante el que se solicite la orden de retención cuando el domicilio del acreedor se encuentre
+            también en ese mismo Estado miembro, aun en el caso de que el acreedor solicite al mismo tiempo una orden de
+            retención para una o varias cuentas mantenidas en otro Estado miembro. En tal caso, el acreedor debe presentar
+            dos solicitudes distintas (una para la orden de retención y otra para la aplicación de una medida nacional).
+
+
+     (11)   El procedimiento para solicitar una orden de retención ha de ser accesible al acreedor que, antes de que se inicie el
+            procedimiento sobre el fondo del asunto y en cualquier fase de dicho procedimiento, desee asegurar la ejecución de
+            la resolución judicial posterior sobre el fondo del asunto. Ha de ser accesible igualmente al acreedor que haya
+            obtenido ya una resolución judicial, una transacción judicial o un documento público con fuerza ejecutiva por el
+            que se exija al deudor el pago de la deuda al acreedor.
+
+
+     (12)   La orden de retención debe poderse solicitar para asegurar los créditos que ya sean exigibles. Debe poderse solicitar
+            igualmente para asegurar los créditos que aún no sean exigibles, siempre que se deriven de una transacción o de un
+            hecho que ya haya tenido lugar y sea posible determinar su cuantía, incluidas las derivadas de acciones en materia
+            delictual o cuasidelictual así como de acciones civiles por daños y perjuicios o de restitución basadas en un acto
+            que dé lugar a un proceso penal.
+
+     (1) Reglamento (CE) no 1346/2000 del Consejo, de 29 de mayo de 2000, sobre procedimientos de insolvencia (DO L 160 de 30.6.2000,
+         p. 1).
+27.6.2014          ES                             Diario Oficial de la Unión Europea                                            L 189/61
+
+
+            El acreedor ha de poder solicitar que se dicte la orden de retención por el importe del principal de la deuda o por
+            un importe inferior. Este último supuesto podría convenirle, por ejemplo, en caso de que ya haya obtenido otra
+            medida cautelar respecto de una parte de la deuda.
+
+
+     (13)   Con el fin de garantizar una estrecha conexión entre los procedimientos relativos a la orden de retención y los
+            procedimientos sobre el fondo del asunto, la competencia internacional para dictar la orden debe corresponder a
+            los órganos jurisdiccionales del Estado miembro cuyos órganos jurisdiccionales sean competentes para conocer del
+            fondo del asunto. A los efectos del presente Reglamento, el concepto de procedimiento sobre el fondo debe incluir
+            cualquier procedimiento cuyo objetivo sea obtener un título ejecutivo sobre la deuda subyacente, incluidos, por
+            ejemplo, los procedimientos sobre medidas provisionales relativos a órdenes de pago o procedimientos como el
+            «procédure en référé» francés. En caso de que el deudor sea un consumidor domiciliado en un Estado miembro, los
+            órganos jurisdiccionales de dicho Estado miembro deben ser los únicos competentes para dictar la orden.
+
+
+     (14)   Los requisitos para dictar la orden de retención deben procurar un equilibrio adecuado entre el interés del acreedor
+            en obtener una orden y el interés del deudor en evitar que se abuse de esta.
+
+
+            En consecuencia, si el acreedor solicita una orden de retención antes de obtener una resolución judicial, ha de
+            acreditar al órgano jurisdiccional ante el que se solicite, mediante la presentación de las correspondientes pruebas,
+            que tiene probabilidades de que prospere su pretensión sobre el fondo del asunto contra el deudor.
+
+
+            Además, debe exigirse al acreedor en todas las situaciones, incluso cuando ya haya obtenido una resolución
+            judicial, que demuestre al órgano jurisdiccional que su pretensión necesita urgentemente protección judicial y
+            que, sin la orden, la ejecución de la resolución judicial existente o futura puede verse impedida o resultar
+            considerablemente más difícil por existir un riesgo real de que, cuando el acreedor logre que se ejecute dicha
+            resolución, el deudor haya dilapidado, ocultado o destruido sus bienes, o los haya enajenado por un valor inferior
+            al real, en una proporción inusual o por un medio no habitual.
+
+
+            El órgano jurisdiccional debe valorar las pruebas aportadas por el acreedor para acreditar la existencia de ese riesgo.
+            Esta valoración podría tener por objeto, por ejemplo, la conducta del deudor respecto de la reclamación del
+            acreedor o en un litigio anterior entre las partes, el historial crediticio del deudor, la naturaleza de los activos del
+            deudor y cualquier actuación reciente de este en relación con sus activos. Al valorar las pruebas, el órgano
+            jurisdiccional puede considerar que los movimientos para retirar fondos de cuentas y los gastos que realice el
+            deudor en el ejercicio normal de su actividad o sus gastos familiares recurrentes no son, en sí mismos, inusuales. El
+            solo impago o impugnación del crédito, o el mero hecho de que el deudor tenga más de un acreedor, no deben,
+            por sí mismos, considerarse prueba suficiente que justifique que se dicte una orden. Tampoco debe considerarse
+            motivo suficiente para dictar una orden el mero hecho de que el deudor padezca dificultades financieras o sufra un
+            deterioro de su situación financiera. No obstante, el órgano jurisdiccional puede tener en cuenta estos factores en la
+            valoración general de la existencia del riesgo.
+
+
+     (15)   A fin de garantizar el efecto sorpresa de la orden de retención y para garantizar que la orden sea un instrumento
+            de utilidad para los acreedores que intentan cobrar sus créditos en asuntos transfronterizos, el deudor no debe ser
+            informado de la solicitud del acreedor, ni ser oído antes de que se dicte la orden, ni recibir notificación de la orden
+            antes de su cumplimiento. Cuando, sobre la base de las pruebas y la información aportadas por el acreedor o, en
+            su caso, por su o sus testigos, el órgano jurisdiccional considere que no está justificada la retención de la cuenta o
+            cuentas en cuestión, no debe dictar la orden.
+
+
+     (16)   Cuando el acreedor solicite una orden de retención antes de incoar un procedimiento sobre el fondo del asunto
+            ante un órgano jurisdiccional, el presente Reglamento debe obligarle a incoar ese procedimiento dentro de un
+            determinado plazo, así como a acreditar tal incoación al órgano jurisdiccional ante el que hubiera presentado la
+            solicitud de orden. Si el acreedor incumple esta obligación, la orden debe ser revocada de oficio por el órgano
+            jurisdiccional o debe dejarse sin efecto automáticamente.
+
+
+     (17)   Dado que no se procede a la audiencia previa del deudor, el presente Reglamento debe establecer otras garantías
+            específicas a fin de prevenir el abuso de la orden y proteger los derechos del deudor.
+L 189/62           ES                             Diario Oficial de la Unión Europea                                           27.6.2014
+
+
+     (18)   Una salvaguardia importante a tal efecto debe ser la posibilidad de exigir al acreedor que preste una caución para
+            garantizar que el deudor pueda ser indemnizado en una fase ulterior por cualquier daño o perjuicio que le haya
+            ocasionado la orden de retención. En función del Derecho nacional, dicha caución puede prestarse en forma de
+            fianza o de otro tipo de garantía, como una garantía bancaria o una hipoteca. El órgano jurisdiccional debe gozar
+            de discrecionalidad para determinar el importe de la caución que sea suficiente para evitar el abuso de la orden y
+            asegurar la indemnización al deudor, y tener potestad, en caso de que no haya pruebas específicas sobre la cuantía
+            de los daños o perjuicios potenciales, para considerar orientativo el importe por el que vaya a dictarse la orden a
+            efectos de determinar la cuantía de la caución.
+
+
+            Cuando el acreedor aún no haya obtenido una resolución judicial, una transacción judicial o un documento
+            público con fuerza ejecutiva que obligue al deudor al pago de la deuda al acreedor, la prestación de la caución
+            debe ser la norma y solamente de manera excepcional el órgano jurisdiccional debe eximir de esta obligación o
+            requerir una caución por un importe inferior si considera que dicha caución es improcedente, superflua o
+            desproporcionada dadas las circunstancias concretas del caso. Dichas circunstancias podrían consistir, por ejemplo,
+            en que el acreedor, pese unas pretensiones y alegaciones bien fundadas, no tiene medios suficientes para prestar
+            una caución, en que el crédito se deriva de una obligación de alimentos o del pago de sueldos o salarios, o en que
+            la cuantía del crédito es tal que no es probable que la orden cause daño o perjuicio alguno al deudor, por ejemplo,
+            en caso de una pequeña deuda comercial.
+
+
+            Cuando el acreedor ya haya obtenido una resolución judicial, una transacción judicial o un documento público con
+            fuerza ejecutiva, la prestación de la caución debe dejarse a la discreción del órgano jurisdiccional. Salvo en las
+            circunstancias excepcionales antes mencionadas, la prestación de una caución puede ser procedente, por ejemplo,
+            cuando la resolución cuya ejecución se pretende asegurar por medio de la orden de retención no sea aún ejecutiva
+            o solo sea ejecutiva provisionalmente debido a que haya un recurso pendiente.
+
+
+     (19)   Otro elemento importante para el logro del adecuado equilibrio entre los intereses del acreedor y del deudor debe
+            ser la responsabilidad, como norma, del acreedor por cualquier daño o perjuicio que la orden de retención
+            ocasione al deudor. Así pues, el presente Reglamento debe establecer, como mínimo, la responsabilidad del
+            acreedor cuando el daño o perjuicio ocasionado al deudor por la orden de retención se deba a su culpa. En
+            este contexto, la carga de la prueba corresponde al deudor. Por lo que se refiere a los motivos de responsabilidad
+            especificados en el presente Reglamento, debe preverse una norma armonizada por la que se establezca una
+            presunción iuris tantum de culpa por parte del acreedor.
+
+
+            Por otra parte, los Estados miembros deben poder mantener o introducir en su Derecho nacional otros motivos de
+            responsabilidad distintos de los que especifica el presente Reglamento. Para estos otros motivos de responsabilidad,
+            los Estados miembros deben asimismo poder mantener o introducir otros tipos de responsabilidad, como la
+            responsabilidad objetiva.
+
+
+            El presente Reglamento debe también establecer una norma de conflicto de leyes en la que se especifique que la ley
+            aplicable a la responsabilidad del deudor debe ser la del Estado miembro de ejecución. En caso de existir varios
+            Estados miembros de ejecución, la ley aplicable debe ser la del Estado miembro de ejecución en el que el deudor
+            tenga su residencia habitual. En caso de que el deudor no resida habitualmente en ningún Estado miembro de
+            ejecución, la ley aplicable debe ser la del Estado miembro de ejecución con el que el asunto presente la conexión
+            más estrecha. Para determinar la conexión más estrecha, la cuantía del importe retenido en los distintos Estados
+            miembros de ejecución podría ser uno de los factores que el órgano jurisdiccional tenga que tomar en conside­
+            ración.
+
+
+     (20)   A fin de superar las dificultades prácticas existentes que afrontan los acreedores para obtener información sobre el
+            paradero de las cuentas bancarias del deudor en un contexto transfronterizo, el presente Reglamento debe
+            establecer un mecanismo que permita al acreedor solicitar que, antes de que se dicte una orden de retención, el
+            órgano jurisdiccional recabe la información necesaria para permitir identificar la cuenta del deudor de la autoridad
+            de información designada del Estado miembro en el que dicho acreedor crea que el deudor posee una cuenta. Dada
+            la especial naturaleza de esa intervención de las autoridades públicas y de ese acceso a datos privados, el acceso a la
+            información de cuentas solo debe concederse, como norma, en los casos en que el acreedor ya haya obtenido una
+            resolución judicial, una transacción judicial o un documento público con fuerza ejecutiva. No obstante, el acreedor
+            debe poder presentar excepcionalmente una solicitud de información de cuentas aunque dicha resolución, tran­
+            sacción o documento aún no tenga fuerza ejecutiva. Dicha solicitud debe ser posible cuando el importe a retener
+            sea sustancial teniendo en cuenta las circunstancias del caso y el órgano jurisdiccional llegue a la conclusión,
+            basándose en las pruebas presentadas por el acreedor, de que urge obtener esa información de cuentas debido al
+            riesgo de que sin ella peligre la ejecución ulterior de su crédito frente al deudor y, por consiguiente, pueda
+            ocasionarse un deterioro considerable de la situación financiera del acreedor.
+27.6.2014          ES                            Diario Oficial de la Unión Europea                                        L 189/63
+
+
+            Para que dicho mecanismo funcione, los Estados miembros deben establecer en su Derecho nacional uno o más
+            métodos de obtención de dicha información que sean eficaces y eficientes y no resulten desproporcionados en
+            relación con su coste y duración. El mecanismo solamente debe aplicarse cuando concurran todas las condiciones y
+            requisitos para que se dicte la orden de retención y el acreedor haya justificado adecuadamente en su solicitud
+            cuáles son los motivos que lo inducen a creer que el deudor posee una o más cuentas en un Estado miembro
+            específico, por ejemplo que el deudor trabaje o ejerza una actividad profesional en dicho Estado miembro o posea
+            en él algún bien en propiedad.
+
+
+     (21)   Además, con objeto de garantizar la protección de los datos personales del deudor, no debe facilitarse al acreedor
+            la información obtenida con respecto a la identificación de la cuenta o las cuentas bancarias del deudor. Esta
+            información debe facilitarse únicamente al órgano jurisdiccional requirente, y de forma excepcional al banco del
+            deudor en caso de que este u otra entidad responsable de la ejecución de la orden en el Estado miembro de
+            ejecución no pudiera identificar la cuenta del deudor partiendo de la información contenida en la orden, por
+            ejemplo en caso de que varias personas con el mismo nombre y domicilio mantengan cuentas en el mismo banco.
+            En tales casos, cuando conste en la orden que el número o los números de las cuentas que deban retenerse se
+            obtuvieron merced a una solicitud de obtención de información, el banco debe solicitar dicha información a la
+            autoridad de información del Estado miembro de ejecución, y debe poder formular tal petición sin excesivo
+            formalismo.
+
+
+     (22)   El presente Reglamento debe conceder al acreedor el derecho a interponer recurso contra una negativa a dictar la
+            orden de retención. Tal derecho debe entenderse sin perjuicio de la posibilidad de que el acreedor presente una
+            nueva solicitud de orden de retención basada en nuevos hechos o nuevas pruebas.
+
+
+     (23)   Las estructuras de ejecución para la retención de cuentas bancarias varían de forma considerable entre los Estados
+            miembros. Con objeto de evitar la duplicidad de tales estructuras en los Estados miembros y de respetar en la
+            mayor medida posible los procedimientos nacionales, el presente Reglamento, por lo que se refiere a la ejecución y
+            a la cumplimentación efectiva de la orden de retención, debe basarse en los métodos y estructuras aplicados a
+            órdenes nacionales equivalentes en el Estado miembro en el que deba ejecutarse la orden.
+
+
+     (24)   A fin de garantizar una ejecución rápida, el presente Reglamento debe disponer que la transmisión de la orden del
+            Estado miembro de origen a la autoridad competente del Estado miembro de ejecución se efectúe por cualquier
+            medio adecuado que garantice que el contenido de los documentos transmitidos sea verídico, fiel y legible sin
+            dificultad.
+
+
+     (25)   Cuando la autoridad competente del Estado miembro de ejecución reciba la orden de retención, debe tomar las
+            medidas necesarias para asegurar su cumplimiento de acuerdo con su Derecho nacional, bien transmitiéndola al
+            banco u otra entidad responsable de la ejecución de este tipo de órdenes en ese Estado miembro o bien, si así lo
+            dispone el Derecho nacional, requiriendo al banco por otros medios que ejecute la orden.
+
+
+     (26)   En función del método aplicable con arreglo al Derecho del Estado miembro de ejecución por lo que respecta a las
+            órdenes nacionales equivalentes, la ejecución de la orden de retención debe efectuarse, bien mediante el bloqueo
+            del importe retenido en la propia cuenta del deudor, o bien, cuando así lo contemple el Derecho nacional,
+            mediante la transferencia de ese importe a una cuenta destinada a fines de retención, que podrá ser una cuenta
+            a nombre de la autoridad de ejecución competente, del órgano jurisdiccional, del banco en que el deudor tenga su
+            cuenta o de un banco designado como entidad coordinadora a efectos de la retención de cuentas en el asunto de
+            que se trate.
+
+
+     (27)   El presente Reglamento no debe impedir que se solicite el pago adelantado de tasas por la ejecución de la orden de
+            retención. Este aspecto debe determinarse con arreglo al Derecho nacional del Estado miembro en el que deba
+            ejecutarse la orden.
+
+
+     (28)   La orden de retención debe seguir el mismo orden de prelación, si lo hubiera, que una orden nacional equivalente
+            en el Estado miembro de ejecución. En caso de que, con arreglo al Derecho nacional, determinadas medidas de
+            ejecución tengan prelación respecto de las medidas de retención, se les ha de dar la misma prelación en relación
+            con las órdenes de retención dictadas en virtud del presente Reglamento. A los efectos del presente Reglamento, las
+            órdenes personales que existen en algunos ordenamientos jurídicos nacionales pueden considerarse equivalentes a
+            órdenes nacionales.
+L 189/64           ES                             Diario Oficial de la Unión Europea                                          27.6.2014
+
+
+     (29)   El presente Reglamento debe imponer al banco u otra entidad responsable de ejecutar la orden de retención en el
+            Estado miembro de ejecución la obligación de declarar si dicha orden ha dado lugar efectivamente a la retención de
+            fondos del deudor, y en caso afirmativo, en qué cuantía, e imponer al acreedor la obligación de velar por que se
+            liberen, en su caso, los fondos retenidos que excedan del importe especificado en la orden.
+
+
+
+     (30)   El presente Reglamento debe proteger el derecho del deudor a un juez imparcial así como su derecho a una tutela
+            judicial efectiva y permitirle, por consiguiente, habida cuenta del carácter no contradictorio del procedimiento por
+            el que se dicta la orden de retención, impugnar la orden o sus medidas de ejecución, por los motivos contem­
+            plados en el presente Reglamento, inmediatamente después de la cumplimentación de la orden.
+
+
+
+     (31)   A este respecto, el presente Reglamento debe exigir que tanto la orden de retención como todos los documentos
+            presentados por el acreedor al órgano jurisdiccional del Estado miembro de origen y las traducciones necesarias se
+            notifiquen al deudor sin demora tras la cumplimentación de la orden. El órgano jurisdiccional debe tener la
+            facultad de adjuntar otros documentos en los que haya basado su resolución y que puedan ser útiles al deudor
+            para su defensa, como las transcripciones literales de la vista oral.
+
+
+
+     (32)   El deudor debe tener la posibilidad de solicitar el reexamen de la orden de retención, en particular en caso de no
+            haberse cumplido las condiciones o los requisitos previstos en el presente Reglamento, o cuando se hayan
+            modificado las circunstancias que dieron lugar a que se dictara la orden de tal modo que esta deje de estar
+            justificada. Por ejemplo, el deudor ha de poder recurrir cuando el asunto no sea transfronterizo, tal como se define
+            en el presente Reglamento; cuando no se hayan respetado las normas de competencia previstas en el presente
+            Reglamento; cuando el acreedor no haya iniciado el procedimiento sobre el fondo del asunto dentro de los plazos
+            fijados en el presente Reglamento y, por consiguiente, la orden no haya sido revocada de oficio por el órgano
+            jurisdiccional o no se haya dejado sin efecto automáticamente; cuando el crédito del acreedor no precise de
+            protección urgente en forma de una orden de retención por la inexistencia de riesgo de que se impida o dificulte
+            sustancialmente la posterior ejecución de ese crédito, o cuando el establecimiento de la caución incumpla los
+            requisitos establecidos en el presente Reglamento.
+
+
+
+            El deudor debe contar asimismo con la posibilidad de interponer un recurso si no se le han notificado la orden y la
+            declaración sobre la retención con arreglo a lo dispuesto en el presente Reglamento, o si los documentos que se le
+            han notificado no se ajustan a los requisitos lingüísticos previstos en el presente Reglamento. No obstante, dicho
+            recurso no debe concederse si la falta de notificación o de traducción se subsana dentro de un plazo determinado.
+            Para subsanar la falta de notificación, el acreedor debe solicitar al órgano responsable de la notificación del Estado
+            miembro de origen que se remitan al deudor los documentos correspondientes mediante carta certificada, o, en
+            caso de que el deudor esté de acuerdo en recoger los documentos en el órgano jurisdiccional, debe facilitar al
+            órgano jurisdiccional las traducciones de los documentos que sean necesarias. Dicha solicitud no ha de ser
+            necesaria cuando la falta de notificación ya haya sido subsanada por otros medios, por ejemplo cuando, con
+            arreglo al Derecho nacional, el órgano jurisdiccional haya procedido a la notificación de oficio.
+
+
+
+     (33)   La cuestión de quién debe proporcionar las traducciones que se exigen con arreglo al presente Reglamento y quién
+            debe sufragar los costes de las mismas se ha de regir por el Derecho nacional.
+
+
+
+     (34)   La competencia para conocer de los recursos interpuestos contra la orden de retención debe corresponder a los
+            órganos jurisdiccionales del Estado miembro en el que se haya dictado. La competencia para conocer de los
+            recursos interpuestos contra la ejecución de la orden debe corresponder a los órganos jurisdiccionales o, en su
+            caso, las autoridades competentes de ejecución del Estado miembro de ejecución.
+
+
+
+     (35)   El deudor debe tener derecho a solicitar la liberación de los fondos retenidos si aporta una caución sustitutoria
+            apropiada. Dicha caución puede prestarse en forma de fianza o de otro tipo de garantía, como una garantía
+            bancaria o una hipoteca.
+27.6.2014            ES                               Diario Oficial de la Unión Europea                                                  L 189/65
+
+
+     (36)   El presente Reglamento debe garantizar que la retención de las cuentas del deudor no afecte a las cantidades que
+            estén exentas de embargo con arreglo al Derecho del Estado miembro de ejecución, por ejemplo las cantidades
+            necesarias para garantizar los medios de subsistencia del deudor y su familia. En función del procedimiento
+            aplicable en dicho Estado miembro, la cantidad correspondiente debe ser, bien declarada exenta de oficio por el
+            órgano responsable, que puede ser el órgano jurisdiccional, el banco o la autoridad de ejecución competente, antes
+            de que se cumplimente la orden, o bien quedar exenta a solicitud del deudor después de su cumplimentación.
+            Cuando por la misma orden de retención se retengan cuentas en varios Estados miembros y la exención se haya
+            aplicado más de una vez, el acreedor debe tener la posibilidad de solicitar al órgano jurisdiccional competente de
+            cualquiera de los Estados miembros de ejecución o, si así lo dispone el Derecho nacional del Estado miembro de
+            ejecución afectado, a la autoridad de ejecución competente de este, una adaptación de la exención aplicada en
+            dicho Estado miembro.
+
+
+     (37)   Para garantizar la adopción y ejecución rápidas y sin demora de la orden de retención de cuentas, el presente
+            Reglamento debe fijar los plazos para la conclusión de las diferentes fases del procedimiento. Solo ha de permitirse
+            a los órganos jurisdiccionales o a las autoridades que intervengan en el procedimiento no aplicar dichos plazos en
+            circunstancias excepcionales, por ejemplo en asuntos de particular complejidad jurídica o factual.
+
+
+     (38)   A fin de calcular los plazos previstos en el presente Reglamento, debe aplicarse lo dispuesto en el Reglamento
+            (CEE, Euratom) no 1182/71 del Consejo (1).
+
+
+     (39)   A fin de facilitar la aplicación del presente Reglamento, debe preverse la obligación de los Estados miembros de
+            comunicar a la Comisión determinada información sobre su legislación y procedimientos en relación con las
+            órdenes de retención y órdenes nacionales equivalentes.
+
+
+     (40)   A fin de facilitar la aplicación práctica del presente Reglamento, deben establecerse formularios normalizados, en
+            particular, para la solicitud de una orden de retención, para la propia orden, para la declaración sobre retención de
+            fondos y para el escrito de demanda o de recurso en virtud del presente Reglamento.
+
+
+     (41)   Con objeto de mejorar la eficiencia del procedimiento, el presente Reglamento debe contemplar la mayor utiliza­
+            ción posible de las tecnologías modernas de comunicación aceptadas en virtud de las normas de procedimiento del
+            Estado miembro de que se trate, en particular para la cumplimentación de los formularios normalizados previstos
+            en el presente Reglamento y para la comunicación entre las autoridades que intervienen en el procedimiento. Por
+            otra parte, los métodos para la firma de la orden de retención y otros documentos previstos en el presente
+            Reglamento deben ser tecnológicamente neutros con objeto de permitir la aplicación de los métodos existentes,
+            como la certificación digital o la autenticación segura, y los que resulten de la futura evolución tecnológica en este
+            ámbito.
+
+
+     (42)   A fin de garantizar condiciones uniformes de ejecución del presente Reglamento, deben conferirse a la Comisión
+            competencias de ejecución por lo que respecta al establecimiento y modificaciones subsiguientes de los formularios
+            normalizados previstos en el presente Reglamento. Dichas competencias deben ejercerse de conformidad con el
+            Reglamento (UE) no 182/2011 del Parlamento Europeo y del Consejo (2).
+
+
+     (43)   Debe utilizarse el procedimiento consultivo para la adopción de actos de ejecución por los que se establezcan y se
+            modifiquen posteriormente los formularios normalizados previstos en el presente Reglamento de acuerdo con el
+            artículo 4 del Reglamento (UE) no 182/2011.
+
+
+     (44)   El presente Reglamento respeta los derechos fundamentales y observa los principios reconocidos en la Carta de
+            Derechos Fundamentales de la Unión Europea. En particular, pretende garantizar el respeto a la vida privada y
+            familiar, la protección de datos de carácter personal, el derecho a la propiedad y el derecho a la tutela judicial
+            efectiva y a un juez imparcial, conforme a lo establecido, respectivamente, en sus artículos 7, 8, 17 y 47.
+
+     (1) Reglamento (CEE, Euratom) no 1182/71 del Consejo, de 3 de junio de 1971, por el que se determinan las normas aplicables a los
+         plazos, fechas y términos (DO L 124 de 8.6.1971, p. 1).
+     (2) Reglamento (UE) no 182/2011 del Parlamento Europeo y del Consejo, de 16 de febrero de 2011, por el que se establecen las normas
+         y los principios generales relativos a las modalidades de control por parte de los Estados miembros del ejercicio de las competencias
+         de ejecución por la Comisión (DO L 55 de 28.2.2011, p. 13).
+L 189/66            ES                               Diario Oficial de la Unión Europea                                                27.6.2014
+
+
+     (45)   En el marco del acceso a los datos de carácter personal y de su utilización y transmisión con arreglo al presente
+            Reglamento, deben cumplirse los requisitos establecidos en la Directiva 95/46/CE del Parlamento Europeo y del
+            Consejo (1) de acuerdo con su transposición al Derecho nacional de los Estados miembros.
+
+
+     (46)   A efectos de la aplicación del presente Reglamento, es no obstante necesario establecer determinadas condiciones
+            específicas de acceso a los datos de carácter personal, de utilización y de transmisión de los mismos. En este
+            contexto, se ha tomado en consideración el dictamen del Supervisor Europeo de Protección de Datos (2). La
+            notificación a la persona a la que se refieren los datos debe llevarse a cabo de conformidad con el Derecho
+            nacional. No obstante, la notificación al deudor de la divulgación de información relativa a su cuenta o cuentas
+            debe aplazarse 30 días, con el fin de evitar que una pronta notificación ponga en peligro el efecto de la orden de
+            retención.
+
+
+     (47)   Dado que el objetivo del presente Reglamento, a saber, el establecimiento de un procedimiento de la Unión
+            consistente en una medida cautelar que permita al acreedor obtener una orden de retención de cuentas que impida
+            que peligre la ejecución ulterior de su crédito debido a la transferencia o la retirada de fondos que el deudor posea
+            en una cuenta bancaria dentro de la Unión, no puede ser alcanzado de manera suficiente por los Estados
+            miembros, sino que, debido a su dimensión y efectos, puede lograrse mejor a escala de la Unión, esta puede
+            adoptar medidas de conformidad con el principio de subsidiariedad establecido en el artículo 5 del Tratado de la
+            Unión Europea (TUE). De conformidad con el principio de proporcionalidad establecido en el mismo artículo, el
+            presente Reglamento no excede de lo necesario para alcanzar dicho objetivo.
+
+
+     (48)   El presente Reglamento se debe aplicar únicamente a aquellos Estados miembros que estén vinculados por él con
+            arreglo a los Tratados. El procedimiento para conseguir una orden de retención previsto en el presente Reglamento
+            debe por tanto estar únicamente a disposición de acreedores domiciliados en un Estado miembro vinculado por el
+            presente Reglamento, y las órdenes dictadas de conformidad con el presente Reglamento únicamente han de
+            afectar a la preservación de cuentas bancarias mantenidas en ese Estado miembro.
+
+
+     (49)   De conformidad con el artículo 3 del Protocolo no 21 sobre la posición del Reino Unido y de Irlanda respecto del
+            espacio de libertad, seguridad y justicia, anejo al TUE y al TFUE, Irlanda ha notificado su deseo de participar en la
+            adopción y aplicación del presente Reglamento.
+
+
+     (50)   De conformidad con los artículos 1 y 2 del Protocolo no 21 sobre la posición del Reino Unido y de Irlanda
+            respecto del espacio de libertad, seguridad y justicia, anejo al TUE y al TFUE, y sin perjuicio del artículo 4 de dicho
+            Protocolo, el Reino Unido no participa en la adopción del presente Reglamento y no queda vinculado por el
+            mismo ni sujeto a su aplicación.
+
+
+     (51)   De conformidad con los artículos 1 y 2 del Protocolo no 22 sobre la posición de Dinamarca, anejo al TUE y al
+            TFUE, Dinamarca no participa en la adopción del presente Reglamento y no queda vinculada por el mismo ni
+            sujeta a su aplicación.
+
+
+     HAN ADOPTADO EL PRESENTE REGLAMENTO:
+
+
+
+                                                                 CAPÍTULO 1
+
+                                          OBJETO, ÁMBITO DE APLICACIÓN Y DEFINICIONES
+
+                                                                   Artículo 1
+                                                                    Objeto
+     1.    El presente Reglamento establece un procedimiento de la Unión que permite a un acreedor obtener una orden
+     europea de retención de cuentas («orden de retención» u «orden») para evitar que la transferencia o retirada de fondos,
+     hasta la cuantía especificada en la orden, que el deudor u otra persona por cuenta de este posean en una cuenta bancaria
+     mantenida en un Estado miembro, ponga en peligro la ulterior ejecución de su crédito.
+
+     (1) Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la protección de las personas físicas
+         en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (DO L 281 de 23.11.1995, p. 31).
+     (2) DO C 373 de 21.12.2011, p. 4.
+27.6.2014           ES                               Diario Oficial de la Unión Europea                                                L 189/67
+
+
+     2.   La orden de retención estará a disposición del acreedor como alternativa a las medidas cautelares previstas en el
+     Derecho nacional.
+
+
+                                                                  Artículo 2
+                                                           Ámbito de aplicación
+     1.    El presente Reglamento se aplicará a las deudas pecuniarias en materia civil y mercantil en asuntos transfronterizos
+     que se definen en el artículo 3, con independencia de la naturaleza del órgano jurisdiccional de que se trate. No se
+     aplicará, en particular, a las materias fiscal, aduanera ni administrativa, ni a la responsabilidad del Estado por acciones u
+     omisiones en el ejercicio de su autoridad (acta iure imperii).
+
+
+     2.     Se excluirán del ámbito de aplicación del presente Reglamento:
+
+
+     a) los derechos de propiedad derivados del régimen matrimonial o de una relación a la que la ley aplicable atribuya
+        efectos comparables al matrimonio;
+
+
+     b) los testamentos y sucesiones, incluidas las obligaciones de alimentos por causa de muerte;
+
+
+     c) los créditos frente a un deudor respecto del cual se hayan iniciado procedimientos de insolvencia, procedimientos de
+        liquidación de sociedades u otras personas jurídicas insolventes, procedimientos cuyo objeto sea alcanzar un acuerdo
+        judicial o un convenio de acreedores, u otros procedimientos análogos;
+
+
+     d) la seguridad social;
+
+
+     e) el arbitraje.
+
+
+     3.    El presente Reglamento no se aplicará a las cuentas bancarias que, con arreglo al Derecho del Estado miembro en
+     que se tenga la cuenta, gocen de inmunidad frente al embargo, ni a las cuentas mantenidas en relación con el
+     funcionamiento de cualquier sistema acorde con la definición del artículo 2, letra a), de la Directiva 98/26/CE del
+     Parlamento Europeo y del Consejo (1).
+
+
+     4.     El presente Reglamento no se aplicará a las cuentas bancarias de los bancos centrales ni a las cuentas mantenidas en
+     ellos, cuando actúen en su calidad de autoridades monetarias.
+
+
+                                                                  Artículo 3
+                                                         Asuntos transfronterizos
+     1.   A efectos del presente Reglamento, será asunto transfronterizo aquel en el que la cuenta o las cuentas bancarias que
+     deban retenerse mediante la orden de retención se mantengan en un Estado miembro que no sea:
+
+
+     a) el Estado miembro del órgano jurisdiccional al que se solicite la orden de retención, de conformidad con el
+        artículo 6, ni
+
+
+     b) el Estado miembro de domicilio del acreedor.
+
+
+     2.    El momento pertinente para determinar si un asunto es transfronterizo será la fecha en que se solicite la orden de
+     retención al órgano jurisdiccional que sea competente para dictarla.
+
+     (1) Directiva 98/26/CE del Parlamento Europeo y del Consejo, de 19 de mayo de 1998, sobre la firmeza de la liquidación en los sistemas
+         de pagos y de liquidación de valores (DO L 166 de 11.6.1998, p. 45).
+L 189/68             ES                               Diario Oficial de la Unión Europea                                                 27.6.2014
+
+
+                                                                    Artículo 4
+                                                                 Definiciones
+     A efectos del presente Reglamento, se entenderá por:
+
+
+
+      1) «cuenta bancaria» o «cuenta»: cualquier cuenta que contenga fondos en un banco a nombre del deudor o a nombre
+         de un tercero por cuenta del deudor;
+
+
+
+      2) «banco»: entidad de crédito, tal como se define en el artículo 4, apartado 1, punto 1, del Reglamento (UE)
+         no 575/2013 del Parlamento Europeo y del Consejo (1), incluidas las filiales, en el sentido del artículo 4, apartado
+         1, punto 17, de dicho Reglamento, de entidades de crédito que tengan su sede social dentro de la Unión o, con
+         arreglo al artículo 47 de la Directiva 2013/36/UE del Parlamento Europeo y del Consejo (2), fuera de ella, siempre
+         que las filiales de que se trate estén situadas en la Unión;
+
+
+
+      3) «fondos»: dinero existente en cuenta en cualquier divisa, o derecho similar a la devolución de dinero, como las
+         cuentas de depósito del mercado de dinero;
+
+
+
+      4) «Estado miembro en que se mantiene la cuenta bancaria»:
+
+           a) el Estado miembro indicado en el código IBAN (número internacional de cuenta bancaria) de la cuenta, o
+
+
+
+           b) en el caso de una cuenta bancaria que no tenga código IBAN, el Estado miembro en el que se encuentre la sede
+              central del banco en que se mantenga la cuenta, o en caso de que la cuenta esté abierta en una sucursal, el Estado
+              miembro en el que se encuentre la sucursal;
+
+
+
+      5) «crédito»: pretensión del pago de una cantidad determinada de dinero exigible o pretensión del pago de una cantidad
+         determinable de dinero procedente de una transacción o un hecho que ya haya tenido lugar, a condición de que esa
+         pretensión pueda formularse ante un órgano jurisdiccional;
+
+
+
+      6) «acreedor»: persona física o jurídica domiciliada en un Estado miembro o cualquier otra entidad domiciliada en un
+         Estado miembro que tenga capacidad para ser parte con arreglo al Derecho de un Estado miembro, que solicite o
+         haya obtenido una orden de retención relacionada con un crédito;
+
+
+
+      7) «deudor»: persona física o persona jurídica o cualquier otra entidad con capacidad para ser parte con arreglo al
+         Derecho de un Estado miembro, contra la cual el acreedor pretenda obtener, o haya obtenido ya, una orden de
+         retención relacionada con un crédito;
+
+
+
+      8) «resolución judicial»: cualquier decisión dictada por un órgano jurisdiccional de un Estado miembro, con indepen­
+         dencia de su denominación e incluidas las decisiones en materia de costas u otros gastos que adopten los funcio­
+         narios judiciales;
+
+
+
+      9) «transacción judicial»: un acuerdo aprobado por un órgano jurisdiccional de un Estado miembro o concluido ante un
+         órgano jurisdiccional de un Estado miembro en el curso del procedimiento;
+
+     (1) Reglamento (UE) no 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de
+         las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) no 648/2012 (DO L 176 de
+         27.6.2013, p. 1).
+     (2) Directiva 2013/36/UE del Parlamento Europeo y del Consejo, de 26 de junio de 2013, relativa al acceso a la actividad de las
+         entidades de crédito y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la
+         Directiva 2002/87/CE y se derogan las Directivas 2006/48/CE y 2006/49/CE (DO L 176 de 27.6.2013, p. 338).
+27.6.2014            ES                              Diario Oficial de la Unión Europea                                                L 189/69
+
+
+     10) «documento público con fuerza ejecutiva»: documento otorgado o registrado oficialmente como documento público
+         con fuerza ejecutiva en un Estado miembro, y cuya autenticidad:
+
+
+            a) se refiera a la firma y al contenido del instrumento, y
+
+
+            b) haya sido acreditada por una autoridad pública u otra autoridad habilitada a tal fin;
+
+
+     11) «Estado miembro de origen»: el Estado miembro en el que se dictó la orden de retención;
+
+
+     12) «Estado miembro de ejecución»: el Estado miembro en el que se mantenga la cuenta bancaria que deba retenerse;
+
+
+     13) «autoridad de información»: la autoridad que un Estado miembro haya designado como competente a efectos de la
+         obtención de la información necesaria sobre la cuenta o cuentas del deudor de conformidad con el artículo 14;
+
+
+     14) «autoridad competente»: la autoridad o autoridades que un Estado miembro haya designado como competentes para
+         la recepción, transmisión o notificación de conformidad con el artículo 10, apartado 2, el artículo 23, apartados 3, 5
+         y 6, el artículo 25, apartado 3, el artículo 27, apartado 2, el artículo 28, apartado 3, y el artículo 36, apartado 5,
+         párrafo segundo;
+
+
+     15) «domicilio»: el determinado de conformidad con los artículos 62 y 63 del Reglamento (UE) no 1215/2012 del
+         Parlamento Europeo y del Consejo (1).
+
+
+                                                                 CAPÍTULO 2
+
+                             PROCEDIMIENTO PARA LA OBTENCIÓN DE UNA ORDEN DE RETENCIÓN
+
+                                                                  Artículo 5
+                                                               Disponibilidad
+     El acreedor podrá solicitar una orden de retención en las siguientes situaciones:
+
+
+     a) antes de que incoe un procedimiento en un Estado miembro contra el deudor sobre el fondo del asunto, o en
+        cualquier fase de ese procedimiento hasta el momento en que se dicte la resolución judicial o se apruebe o concluya
+        una transacción judicial;
+
+
+     b) después de que haya obtenido en un Estado miembro una resolución judicial, una transacción judicial o un documento
+        público con fuerza ejecutiva que obligue al deudor a pagar una deuda a su favor.
+
+
+                                                                  Artículo 6
+                                                                Competencia
+     1.    Cuando el acreedor no haya obtenido una resolución judicial, una transacción judicial o un documento público con
+     fuerza ejecutiva, serán competentes para dictar la orden de retención los órganos jurisdiccionales del Estado miembro que
+     sean competentes para resolver sobre el fondo del asunto, de conformidad con las correspondientes normas de compe­
+     tencia aplicables.
+
+
+     2.   No obstante lo dispuesto en el apartado 1, cuando el deudor sea un consumidor que haya celebrado un contrato
+     con el acreedor con un fin que pueda considerarse ajeno a la actividad o profesión del deudor, únicamente serán
+     competentes para dictar una orden de retención destinada a asegurar un crédito relacionado con dicho contrato los
+     órganos jurisdiccionales del Estado miembro en que esté domiciliado el deudor.
+
+     (1) Reglamento (UE) no 1215/2012 del Parlamento Europeo y del Consejo, de 12 de diciembre de 2012, relativo a la competencia
+         judicial, el reconocimiento y la ejecución de resoluciones judiciales en materia civil y mercantil (DO L 351 de 20.12.2012, p. 1).
+L 189/70             ES                             Diario Oficial de la Unión Europea                                            27.6.2014
+
+
+     3.    Cuando el acreedor ya haya obtenido una resolución judicial o una transacción judicial, serán competentes para
+     dictar la orden de retención relativa al crédito especificado en dicha resolución o transacción los órganos jurisdiccionales
+     del Estado miembro en el que se haya dictado dicha resolución judicial o se haya aprobado o concluido dicha transacción
+     judicial.
+
+
+     4.   Cuando el acreedor haya obtenido un documento público con fuerza ejecutiva, serán competentes para dictar la
+     orden de retención relativa al crédito especificado en él los órganos jurisdiccionales designados a tal fin en el Estado
+     miembro en el que dicho documento se haya formalizado.
+
+
+                                                                 Artículo 7
+                                           Requisitos para dictar una orden de retención
+     1.    El órgano jurisdiccional dictará la orden de retención cuando el acreedor le haya presentado pruebas suficientes para
+     convencerle de que existe la necesidad urgente de una medida cautelar en forma de orden de retención por existir un
+     riesgo real de que, sin dicha medida, la ejecución ulterior del crédito frente al deudor se verá impedida o resultará
+     considerablemente más difícil.
+
+
+     2.    Cuando el acreedor aún no haya obtenido en un Estado miembro una resolución judicial, una transacción judicial o
+     un documento público con fuerza ejecutiva por el que se exija al deudor el pago de la deuda, el acreedor presentará
+     asimismo pruebas suficientes al órgano jurisdiccional para convencerle de que su pretensión frente al deudor tiene
+     probabilidades de prosperar en cuanto al fondo.
+
+
+                                                                 Artículo 8
+                                                    Solicitud de orden de retención
+     1.   La solicitud de orden de retención se presentará por medio del formulario establecido de conformidad con el
+     procedimiento consultivo a que se refiere el artículo 52, apartado 2.
+
+
+     2.     La solicitud comprenderá los siguientes datos:
+
+
+     a) denominación y dirección del órgano jurisdiccional ante el que se presenta la solicitud;
+
+
+     b) información relativa al acreedor: nombre y datos de contacto y, en su caso, el nombre y datos de contacto del
+        representante del acreedor, y
+
+
+           i) en caso de que el acreedor sea una persona física, su fecha de nacimiento y, si procede y se conoce, su número de
+              documento de identidad o pasaporte, o bien
+
+
+           ii) en caso de que el acreedor sea una persona jurídica o cualquier otra entidad con capacidad para ser parte con
+               arreglo al Derecho de un Estado miembro, su Estado de constitución, creación o registro y su número de
+               identificación o de registro o, si no existiera dicho número, la fecha y lugar de su constitución, creación o registro;
+
+
+     c) información relativa al deudor: nombre y datos de contacto y, en su caso, el nombre y datos de contacto del
+        representante del deudor y, si se conoce esta información:
+
+
+           i) en caso de que el deudor sea una persona física, su fecha de nacimiento y número de documento de identidad o
+              pasaporte,
+
+
+           ii) en caso de que el deudor sea una persona jurídica o cualquier otra entidad con capacidad para ser parte con
+               arreglo al Derecho de un Estado miembro, su Estado miembro de constitución, creación o registro y su número de
+               identificación o de registro o, si no existiera dicho número, la fecha y lugar de su constitución, creación o registro;
+
+
+     d) un número que sirva para identificar al banco, como el código IBAN o BIC, y/o el nombre y dirección del banco, en
+        el que el deudor mantenga una o varias cuentas que deban retenerse;
+27.6.2014             ES                           Diario Oficial de la Unión Europea                                        L 189/71
+
+
+     e) si se dispone de él, el número de la cuenta o las cuentas que deban retenerse y, en tal caso, una indicación de si
+        debiera retenerse cualquier otra cuenta mantenida por el deudor en el mismo banco;
+
+
+     f)     en caso de que no se pueda aportar ninguno de los datos exigidos en virtud de la letra d), una declaración de que se
+            formula una solicitud de obtención de información sobre cuentas con arreglo al artículo 14, si dicha solicitud es
+            posible, y la justificación de las razones por las que el acreedor cree que el deudor tiene una o más cuentas en un
+            banco de un Estado miembro determinado;
+
+
+     g) la cantidad por la que se solicita que se dicte la orden de retención:
+
+
+            i) cuando el acreedor aún no haya obtenido una resolución judicial, una transacción judicial o un documento
+               público con fuerza ejecutiva, el importe del principal de la deuda, o de una parte de esta, así como el de los
+               intereses reclamados con arreglo al artículo 15,
+
+
+            ii) cuando el acreedor ya haya obtenido una resolución judicial, una transacción judicial o un documento público con
+                fuerza ejecutiva, el importe del principal de la deuda, o de una parte de esta, tal y como se especifica en dicha
+                resolución, transacción o documento así como el de los intereses y costas reclamados con arreglo al artículo 15;
+
+
+     h) cuando el acreedor no haya obtenido una resolución judicial, una transacción judicial o un documento público con
+        fuerza ejecutiva:
+
+
+             i) una descripción de todos los elementos en que se base la competencia del órgano jurisdiccional ante el que se
+                haya presentado la solicitud de orden de retención,
+
+
+            ii) una descripción de todas las circunstancias pertinentes alegadas para fundamentar el crédito y, si procede, el
+                interés reclamado,
+
+
+            iii) una declaración que indique si el acreedor ya ha incoado un procedimiento contra el deudor sobre el fondo del
+                 asunto;
+
+
+     i)     cuando el acreedor ya haya obtenido una resolución judicial, una transacción judicial o un documento público con
+            fuerza ejecutiva, una declaración de que dicha resolución, transacción o documento aún no se ha ejecutado o, en caso
+            de haberse ejecutado solo en parte, una indicación de en qué parte no se ha ejecutado;
+
+
+     j)     una descripción de todas las circunstancias pertinentes que justifiquen que se dicte la orden de retención de confor­
+            midad con el artículo 7, apartado 1;
+
+
+     k) en su caso, una indicación de las razones por las que el acreedor considera que debe quedar exento de la prestación
+        de una caución con arreglo al artículo 12;
+
+
+     l)     lista de las pruebas que el acreedor ha aportado;
+
+
+     m) una declaración, según lo dispuesto en el artículo 16, de si el acreedor ha solicitado ante otros órganos jurisdiccio­
+        nales o autoridades una orden nacional equivalente, o si ya ha obtenido o se le ha denegado tal orden y, en caso de
+        haberse obtenido, en qué parte se ha ejecutado;
+
+
+     n) una indicación facultativa de la cuenta bancaria del acreedor que deberá utilizarse en su caso para el pago voluntario
+        de la deuda por parte del deudor;
+
+
+     o) una declaración de que la información presentada por el acreedor en la solicitud es verídica y completa a su leal saber
+        y entender y de que el acreedor es consciente de que cualquier alegación deliberadamente falsa o incompleta podría
+        tener consecuencias jurídicas en virtud del Derecho del Estado miembro en que se presenta la solicitud o dar lugar a
+        la exigencia de responsabilidades con arreglo al artículo 13.
+L 189/72           ES                             Diario Oficial de la Unión Europea                                           27.6.2014
+
+
+     3.    La solicitud se acompañará de todos los documentos justificativos pertinentes y, cuando el acreedor haya obtenido
+     una resolución judicial, transacción judicial o documento público con fuerza ejecutiva, de una copia de dicha resolución,
+     transacción o documento que cumpla las condiciones necesarias para acreditar su autenticidad.
+
+
+     4.    La solicitud y los documentos justificativos podrán presentarse por cualquier medio de comunicación, incluso
+     electrónico, que sea admisible con arreglo a las normas procesales del Estado miembro en el que se presente la solicitud.
+
+
+                                                               Artículo 9
+                                                       Obtención de pruebas
+     1.    El órgano jurisdiccional adoptará su resolución mediante procedimiento escrito basándose en la información y en
+     las pruebas aportadas por el acreedor en su solicitud o adjuntos a esta. Si el órgano jurisdiccional considera que las
+     pruebas aportadas son insuficientes, y si el Derecho nacional lo permite, podrá solicitar al acreedor que presente pruebas
+     documentales complementarias.
+
+
+     2.    No obstante lo dispuesto en el apartado 1 y a reserva del artículo 11, el órgano jurisdiccional, siempre que el
+     proceso no se retrase indebidamente, podrá asimismo utilizar cualquier medio adecuado de prueba admitido en su
+     Derecho nacional, como la audiencia del acreedor o de los testigos, incluso mediante videoconferencia u otra tecnología
+     de la comunicación.
+
+
+                                                              Artículo 10
+                                    Incoación del procedimiento sobre el fondo del asunto
+     1.     Cuando el acreedor haya solicitado una orden de retención antes de incoar el procedimiento sobre el fondo del
+     asunto, incoará dicho procedimiento y acreditará dicha incoación al órgano jurisdiccional ante el que presentó la solicitud
+     de orden de retención en el plazo de 30 días a partir de la fecha de presentación de la solicitud o, si la fecha es posterior,
+     en el plazo de 14 días a partir de la fecha en que se dictó la orden. El órgano jurisdiccional podrá asimismo, previa
+     solicitud del deudor, ampliar dicho plazo, por ejemplo, para permitir a las partes que lleguen a un acuerdo sobre la
+     demanda, e informará a las dos partes consecuentemente.
+
+
+     2.    En caso de que el órgano jurisdiccional no haya recibido prueba de la incoación del procedimiento dentro del plazo
+     indicado en el apartado 1, la orden se revocará o dejará sin efecto y se informará de ello a las partes.
+
+
+     Cuando el órgano jurisdiccional que haya dictado la orden se encuentre en el Estado miembro de ejecución, la revocación
+     o pérdida de efecto de la orden será conforme al Derecho de dicho Estado miembro.
+
+
+     Cuando la orden se deba revocar o dejar sin efecto en un Estado miembro distinto del de origen, el órgano jurisdiccional
+     la revocará a través del formulario de revocación establecido mediante actos de ejecución adoptados de acuerdo con el
+     procedimiento consultivo a que se refiere el artículo 52, apartado 2, y transmitirá dicho formulario con arreglo al
+     artículo 29 a la autoridad competente del Estado miembro de ejecución. Dicha autoridad tomará las medidas necesarias
+     de conformidad con el artículo 23, según proceda, a efectos de la revocación o pérdida de efecto.
+
+
+     3.    A los fines del apartado 1, se considerará incoado el procedimiento sobre el fondo del asunto:
+
+
+     a) desde el momento en que se presente el escrito de demanda o escrito equivalente, a condición de que posteriormente
+        el acreedor no deje de tomar todas las medidas que se le exijan para que se dé al deudor traslado de dicho escrito, o
+
+
+     b) si dicho escrito ha de notificarse al demandado antes de su presentación al órgano jurisdiccional, en el momento en
+        que lo reciba la autoridad encargada de la notificación, a condición de que posteriormente el acreedor no deje de
+        tomar todas las medidas que se le exijan para presentar el escrito al órgano jurisdiccional.
+
+
+     La autoridad encargada de la notificación a que se refiere el párrafo primero, letra b), será la primera autoridad que reciba
+     los documentos que deban notificarse.
+27.6.2014           ES                           Diario Oficial de la Unión Europea                                          L 189/73
+
+
+                                                             Artículo 11
+                                                  Procedimiento inaudita parte
+     No se notificará al deudor la solicitud de una orden de retención, ni se le oirá sin haberse dictado previamente la orden.
+
+
+                                                             Artículo 12
+                                         Caución que corresponde prestar al acreedor
+     1.    Antes de dictar una orden de retención en un asunto en el que el acreedor no haya obtenido una resolución judicial,
+     una transacción judicial o un documento público con fuerza ejecutiva, el órgano jurisdiccional requerirá al acreedor la
+     prestación de una caución con un importe suficiente para evitar que se abuse del procedimiento establecido en el presente
+     Reglamento y para garantizar la indemnización de cualquier daño o perjuicio sufrido por el deudor como consecuencia
+     de la orden conforme al régimen de responsabilidad del acreedor previsto en el artículo 13.
+
+
+     Excepcionalmente, el órgano jurisdiccional podrá dispensar del requisito establecido en el párrafo primero si considera
+     que la prestación de una caución a que se refiere dicho párrafo es improcedente dadas las circunstancias del caso.
+
+
+     2.    Cuando el acreedor ya haya obtenido una resolución judicial, una transacción judicial o un documento público con
+     fuerza ejecutiva, el órgano jurisdiccional podrá, antes de dictar la orden, exigir al acreedor que preste una caución como
+     contempla el apartado 1, párrafo primero, si lo considera necesario y adecuado dadas la circunstancias del caso.
+
+
+     3.    Si el órgano jurisdiccional exige que se preste una caución con arreglo al presente artículo, informará al acreedor de
+     su importe y de las formas en las que puede prestarse de acuerdo con el Derecho del Estado miembro en que tiene su
+     sede el órgano jurisdiccional. Indicará al acreedor que dictará la orden de retención una vez que se haya prestado la
+     caución de conformidad con esos requisitos.
+
+
+                                                             Artículo 13
+                                                  Responsabilidad del acreedor
+     1.   El acreedor será responsable de cualquier daño o perjuicio que la orden de retención cause por su culpa al deudor.
+     La carga de la prueba corresponderá al deudor.
+
+
+     2.     Salvo prueba en contrario, la culpa del acreedor se presumirá en los siguientes supuestos:
+
+
+     a) si la orden se revoca porque el acreedor no ha incoado el procedimiento sobre el fondo del asunto, salvo que dicha
+        omisión se haya debido al pago de la deuda por parte del deudor o a otra forma de transacción entre las partes;
+
+
+     b) si el acreedor no ha liberado los importes retenidos en exceso con arreglo al artículo 27;
+
+
+     c) si se determina ulteriormente que, debido al incumplimiento por el acreedor de sus obligaciones previstas en el
+        artículo 16, era improcedente dictar una orden, o solo procedía dictarla por un importe inferior;
+
+
+     d) si se revoca la orden o su ejecución se deja sin efecto debido al incumplimiento por el acreedor sus obligaciones en
+        virtud del presente Reglamento en materia de notificación o traducción de documentos, o en materia de subsanación
+        de la falta de notificación o de traducción.
+
+
+     3.     No obstante lo dispuesto en el apartado 1, los Estados miembros podrán mantener o introducir en su Derecho
+     nacional otros motivos o tipos de responsabilidad, o normas sobre la carga de la prueba. Todos los otros aspectos
+     relativos a la responsabilidad del acreedor frente al deudor no contemplados expresamente en los apartados 1 o 2 se
+     regirán por el Derecho nacional.
+
+
+     4.     La ley aplicable a la responsabilidad del acreedor será la del Estado miembro de ejecución.
+L 189/74           ES                             Diario Oficial de la Unión Europea                                            27.6.2014
+
+
+     Si se retienen cuentas en más de un Estado miembro, la ley aplicable a la responsabilidad del acreedor será la del Estado
+     miembro de ejecución
+
+
+     a) en el que el deudor tenga su residencia habitual conforme a la definición del artículo 23 del Reglamento (CE)
+        no 864/2007 del Parlamento Europeo y del Consejo (1) o, en su defecto,
+
+
+     b) con el que el asunto tenga la conexión más estrecha.
+
+
+     5.    El presente artículo no se aplicará a la eventual responsabilidad del acreedor frente al banco o a terceras partes.
+
+
+                                                              Artículo 14
+                                Petición a efectos de obtención de información sobre cuentas
+     1.    Cuando el acreedor haya obtenido en un Estado miembro una resolución judicial, una transacción judicial o un
+     documento público con fuerza ejecutiva que obligue al deudor el pago de la deuda con el acreedor y este último tenga
+     motivos fundados para creer que el deudor mantiene una o varias cuentas en un banco en un Estado miembro
+     determinado pero no conozca el nombre o la dirección, el IBAN, el BIC u otro número de entidad bancaria que permitan
+     identificar al banco, podrá pedir al órgano jurisdiccional al que haya presentado la solicitud de orden de retención que
+     requiera a la autoridad de información del Estado miembro de ejecución que obtenga la información necesaria que
+     permita identificar al banco o bancos y la cuenta o cuentas del deudor.
+
+
+     No obstante lo dispuesto en el párrafo primero, el acreedor podrá formular la petición contemplada en dicho párrafo
+     cuando la resolución judicial, la transacción judicial o el documento público obtenido por el acreedor aún no tenga fuerza
+     ejecutiva y el importe que se deba retener sea sustancial teniendo en cuenta las circunstancias del caso, y haya presentado
+     pruebas suficientes para llevar al órgano jurisdiccional al convencimiento de que urge obtener esa información sobre las
+     cuentas debido al riesgo probable de que, sin dicha información, peligre la ejecución ulterior del crédito, pudiendo, por
+     consiguiente, ocasionar un deterioro considerable de la situación financiera del acreedor.
+
+
+     2.     El acreedor formulará la petición a que se refiere el apartado 1 en la solicitud de la orden de retención. El acreedor
+     justificará las razones que le llevan a creer que el deudor mantiene una o varias cuentas en un banco en un Estado
+     miembro determinado y facilitará toda la información pertinente de que disponga acerca del deudor y de la cuenta o las
+     cuentas bancarias que deban retenerse. Si el órgano jurisdiccional al que se haya solicitado la orden de retención considera
+     que la petición del acreedor no está suficientemente fundada, la desestimará.
+
+
+     3.     Cuando el órgano jurisdiccional considere que la solicitud del acreedor está bien fundada y que, salvo la obligación
+     de información establecida en el artículo 8, apartado 2, letra d), así como, en su caso, la obligación de prestar caución
+     establecida en el artículo 12, se reúnen todas las condiciones y requisitos para dictar una orden de retención, transmitirá
+     la petición de información a la autoridad de información del Estado miembro de ejecución con arreglo a lo dispuesto en
+     el artículo 29.
+
+
+     4.    A efectos de la obtención de la información de cuentas a que se refiere el apartado 1, la autoridad de información
+     del Estado miembro de ejecución recurrirá a uno de los métodos disponibles en dicho Estado miembro de conformidad
+     con el apartado 5.
+
+
+     5.   Cada Estado miembro establecerá en su Derecho nacional al menos uno de los siguientes métodos para obtener la
+     información contemplada en el apartado 1:
+
+
+     a) la obligación de que todos los bancos de su territorio revelen, a requerimiento de la autoridad de información, si el
+        deudor posee una cuenta en ellos;
+
+     (1) Reglamento (CE) no 864/2007 del Parlamento Europeo y del Consejo, de 11 de julio de 2007, relativo a la ley aplicable a las
+         obligaciones extracontractuales (Roma II) (DO L 199 de 31.7.2007, p. 40).
+27.6.2014          ES                            Diario Oficial de la Unión Europea                                          L 189/75
+
+
+     b) el acceso por la autoridad de información a los datos pertinentes de que dispongan las autoridades o administraciones
+        públicas en sus registros o por otros medios;
+
+
+
+     c) la posibilidad por parte de sus órganos jurisdiccionales de requerir al deudor que revele en qué banco o bancos del
+        Estado miembro correspondiente mantiene una o varias cuentas bancarias, si ese requerimiento se acompaña de un
+        apercibimiento personal que le prohíba retirar o transferir fondos depositados en su cuenta o cuentas hasta el importe
+        que deba retenerse en virtud de la orden, o
+
+
+
+     d) cualquier otro método que sea eficaz y eficiente a fin de obtener la información pertinente, siempre que no sea
+        desproporcionado por su coste o duración.
+
+
+
+     Con independencia del método o métodos que establezcan los Estados miembros, las autoridades que participen en la
+     obtención de información actuarán con diligencia.
+
+
+
+     6.    En cuanto la autoridad de información del Estado miembro de ejecución haya obtenido la información de cuentas,
+     la transmitirá al órgano jurisdiccional requirente con arreglo a lo dispuesto en el artículo 29.
+
+
+
+     7.    En caso de que la autoridad de información no consiga obtener la información a que se refiere el apartado 1,
+     informará de ello al órgano jurisdiccional requirente. Cuando, como consecuencia de la falta de disponibilidad de
+     información sobre las cuentas, se desestime totalmente la solicitud de una orden de retención, el órgano jurisdiccional
+     requirente ordenará liberar de inmediato cualquier caución que haya podido constituir el acreedor de conformidad con el
+     artículo 12.
+
+
+
+     8.    En el caso de que, con arreglo al presente artículo, la autoridad de información reciba información de un banco, o
+     se le conceda acceso a la información que figure en los registros de autoridades o administraciones públicas, la notifi­
+     cación al deudor de la revelación de sus datos personales se aplazará durante 30 días, con el fin de evitar que una pronta
+     notificación ponga en peligro el efecto de la orden de retención.
+
+
+
+                                                             Artículo 15
+                                                         Intereses y costes
+     1.    A petición del acreedor, la orden de retención incluirá cualesquiera intereses acumulados en virtud del Derecho
+     aplicable a la deuda hasta la fecha en que se dictó la orden, siempre que la cantidad o el tipo de interés no sea tal que su
+     inclusión constituya una violación de las leyes de policía del Estado miembro de origen.
+
+
+
+     2.    Cuando el acreedor haya obtenido una resolución judicial, una transacción judicial o un documento público con
+     fuerza ejecutiva, la orden de retención, a petición del acreedor, incluirá asimismo los costes por la obtención de dicha
+     resolución, transacción o documento, en la medida en que se haya declarado que dichos costes corren a cargo del deudor.
+
+
+
+                                                             Artículo 16
+                                                       Solicitudes paralelas
+     1.   El acreedor no podrá presentar al mismo tiempo, ante más de un órgano jurisdiccional, solicitudes paralelas de
+     órdenes de retención contra el mismo deudor, con el fin de garantizar el mismo crédito.
+
+
+
+     2.    En su solicitud de orden de retención, el acreedor declarará si ha presentado ante cualquier otro órgano jurisdic­
+     cional o autoridad una solicitud de orden nacional equivalente contra el mismo deudor y con el fin de garantizar el
+     mismo crédito, o si ya ha obtenido tal orden. Indicará igualmente las solicitudes de este tipo de medidas que hayan sido
+     rechazadas por ser inadmisibles o infundadas.
+L 189/76           ES                             Diario Oficial de la Unión Europea                                            27.6.2014
+
+
+     3.    En caso de que, durante el mismo procedimiento en el que se solicita que se dicte una orden de retención, el
+     acreedor obtuviera una orden nacional equivalente contra el mismo deudor con el fin de garantizar el mismo crédito,
+     informará sin demora de ello al órgano jurisdiccional y de cualquier ejecución ulterior de la orden nacional. Informará
+     igualmente al órgano jurisdiccional de cualquier solicitud de orden nacional equivalente que haya sido desestimada por ser
+     inadmisible o infundada.
+
+
+     4.    En caso de que el órgano jurisdiccional tenga conocimiento de que el acreedor ya ha obtenido una orden nacional
+     equivalente, considerará, habida cuenta del conjunto de circunstancias del caso, si procede aún dictar, total o parcialmente,
+     la orden de retención.
+
+
+                                                              Artículo 17
+                                     Resolución sobre la solicitud de la orden de retención
+     1.    El órgano jurisdiccional al que se solicite una orden de retención examinará si reúne las condiciones y los requisitos
+     establecidos en el presente Reglamento.
+
+
+     2.    El órgano jurisdiccional resolverá sin demora sobre la solicitud, y en todo caso antes de que venzan los plazos
+     fijados en el artículo 18.
+
+
+     3.    En caso de que el acreedor no haya aportado toda la información requerida de acuerdo con el artículo 8, el órgano
+     jurisdiccional podrá ofrecer al acreedor, a no ser que la solicitud sea manifiestamente inadmisible o infundada, la
+     posibilidad de completar o rectificar la solicitud dentro del plazo que señale. Cuando el acreedor no complete o rectifique
+     la solicitud dentro de ese plazo se desestimará su solicitud.
+
+
+     4.    La orden de retención se dictará por la cuantía acreditada mediante las pruebas a que se refiere el artículo 9 y
+     determinada de acuerdo con la ley aplicable a la deuda subyacente e incluirá, en su caso, los intereses y/o costes con
+     arreglo a lo dispuesto en el artículo 15.
+
+
+     La orden no podrá dictarse bajo ninguna circunstancia por un importe que supere el indicado por el acreedor en su
+     solicitud.
+
+
+     5.   La resolución sobre la solicitud se pondrá en conocimiento del acreedor con arreglo al procedimiento establecido en
+     el Derecho del Estado miembro de origen por lo que respecta a órdenes nacionales equivalentes.
+
+
+                                                              Artículo 18
+                           Plazos para la resolución relativa a una solicitud de orden de retención
+     1.    En caso de que el acreedor no haya aún obtenido una resolución judicial, una transacción judicial o un documento
+     público con fuerza ejecutiva, el órgano jurisdiccional dictará su resolución a más tardar a los diez días hábiles desde que el
+     acreedor haya presentado o, en su caso, completado su solicitud.
+
+
+     2.    En caso de que el acreedor ya haya obtenido una resolución judicial, una transacción judicial o un documento
+     público con fuerza ejecutiva, el órgano jurisdiccional dictará su resolución a más tardar a los cinco días hábiles desde que
+     el acreedor haya presentado o, en su caso, completado su solicitud.
+
+
+     3.    Cuando el órgano jurisdiccional considere, con arreglo al artículo 9, apartado 2, que es necesaria una audiencia oral
+     del acreedor y, en su caso, de sus testigos, celebrará la audiencia sin demora y dictará su resolución a más tardar a los
+     cinco días hábiles desde la fecha de la audiencia.
+
+
+     4.    En las situaciones a que se refiere el artículo 12, los plazos fijados en los apartados 1, 2 y 3 del presente artículo se
+     aplicarán a la decisión por la que se exija al acreedor que preste una caución. El órgano jurisdiccional dictará sin demora
+     su resolución sobre la solicitud de orden de retención, una vez que el acreedor haya prestado la caución exigida.
+27.6.2014           ES                            Diario Oficial de la Unión Europea                                           L 189/77
+
+
+     5.    No obstante lo dispuesto en los apartados 1, 2 y 3 del presente artículo, en las situaciones a que se refiere el
+     artículo 14, el órgano jurisdiccional dictará su resolución sin demora, en cuanto reciba la información mencionada en los
+     apartados 6 o 7 de dicho artículo, siempre que para ese momento el acreedor haya prestado la caución requerida.
+
+
+                                                               Artículo 19
+                                       Formulario y contenido de la orden de retención
+     1.    La orden de retención se dictará utilizando el formulario establecido mediante actos de ejecución adoptados con
+     arreglo al procedimiento consultivo a que se refiere el artículo 52, apartado 2, y llevará el sello, la firma o cualquier otra
+     autenticación del órgano jurisdiccional. El formulario se dividirá en dos partes:
+
+
+     a) la parte A, que contendrá la información indicada en el apartado 2 que debe facilitarse al banco, al acreedor y al
+        deudor, y
+
+
+     b) la parte B, que contendrá la información indicada en el apartado 3 que debe facilitarse al acreedor y al deudor además
+        de la indicada en el apartado 2.
+
+
+     2.     En la parte A figurará la información siguiente:
+
+
+     a) denominación y dirección del órgano jurisdiccional y número de expediente del asunto de que se trate;
+
+
+     b) datos del acreedor tal como se indican en el artículo 8, apartado 2, letra b);
+
+
+     c) datos del deudor tal como se indican en el artículo 8, apartado 2, letra c);
+
+
+     d) nombre y domicilio del banco afectado por la orden;
+
+
+     e) en caso de que el acreedor haya facilitado en su solicitud el número de cuenta del deudor, el número o los números de
+        la cuenta o cuentas que deban retenerse y, en su caso, la indicación de si procede también retener otras cuentas que
+        tenga el deudor en ese mismo banco;
+
+
+     f) en su caso, la indicación de que el número de la cuenta que debe retenerse se obtuvo a través de un requerimiento con
+        arreglo al artículo 14 y de que el banco, en caso de ser necesario con arreglo al artículo 24, apartado 4, párrafo
+        segundo, ha de obtener el número o números en cuestión de la autoridad de información del Estado miembro de
+        ejecución;
+
+
+     g) la cantidad que debe retenerse de acuerdo con la orden;
+
+
+     h) la instrucción, dirigida al banco, de que ejecute la orden de conformidad con el artículo 24;
+
+
+     i) la fecha en que se dicte la orden;
+
+
+     j) en caso de que el acreedor haya indicado en su solicitud una cuenta, de conformidad con el artículo 8, apartado 2,
+        letra n), una autorización para que el banco, con arreglo al artículo 24, apartado 3, libere y transfiera, a petición del
+        deudor y siempre que lo permita el Derecho del Estado miembro de ejecución, fondos hasta el importe especificado en
+        la orden a partir de la cuenta retenida con destino a la cuenta que el acreedor haya indicado en su solicitud;
+
+
+     k) información para encontrar la versión electrónica del formulario que deba emplearse a efectos de la declaración
+        prevista en el artículo 25.
+L 189/78           ES                            Diario Oficial de la Unión Europea                                          27.6.2014
+
+
+     3.    En la parte B figurará la información siguiente:
+
+
+     a) una descripción del objeto y de los motivos por los que el órgano jurisdiccional dictó la orden;
+
+
+     b) la cuantía de la caución prestada por el acreedor, en su caso;
+
+
+     c) si procede, el plazo para incoar el procedimiento sobre el fondo del asunto y para aportar al órgano jurisdiccional que
+        dicte la orden la prueba de la incoación;
+
+
+     d) si procede, la indicación de los documentos que deberán traducirse de acuerdo con el artículo 49, apartado 1, segunda
+        frase;
+
+
+     e) si procede, la indicación de que corresponde al acreedor incoar la ejecución de la orden, y por consiguiente, en su
+        caso, de que le corresponde transmitirla a la autoridad competente del Estado miembro de ejecución conforme al
+        artículo 23, apartado 3, y de proceder a la notificación al deudor conforme al artículo 28, apartados 2, 3 y 4, e
+
+
+     f) información sobre los recursos que puede interponer el deudor.
+
+
+     4.    En caso de que la orden de retención se refiera a cuentas en distintos bancos, se rellenará un formulario distinto
+     (parte A conforme al apartado 2) para cada banco. En tal caso, el formulario proporcionado al acreedor y al deudor
+     (partes A y B conforme a los apartados 2 y 3, respectivamente) contendrá la relación de todos los bancos afectados.
+
+
+                                                              Artículo 20
+                                                    Duración de la retención
+     Los fondos retenidos mediante la orden de retención lo serán de conformidad con la orden o con cualquier modificación
+     o limitación ulterior de la misma de conformidad con el capítulo 4:
+
+
+     a) hasta que se revoque la orden;
+
+
+     b) hasta que se deje sin efecto la ejecución de la orden, o
+
+
+     c) hasta que surta efecto, respecto de los fondos retenidos, una medida destinada a ejecutar una resolución judicial, una
+        transacción judicial o un documento público con fuerza ejecutiva obtenido por el acreedor en relación con el crédito
+        que se pretendía garantizar mediante la orden de retención.
+
+
+                                                              Artículo 21
+                     Posibilidad de recurrir la resolución por la que se deniega la orden de retención
+     1.   El acreedor tendrá derecho a recurrir toda resolución del órgano jurisdiccional que haya desestimado, en su totalidad
+     o en parte, su solicitud de orden de retención.
+
+
+     2.   La resolución a que se refiere el apartado 1 se recurrirá en un plazo de 30 días a partir de la fecha en que se haya
+     puesto en conocimiento del acreedor. Se recurrirá ante el órgano jurisdiccional que el Estado miembro de que se trate
+     haya comunicado a la Comisión con arreglo al artículo 50, apartado 1, letra d).
+
+
+     3.    En caso de que la solicitud de orden de retención se desestime en su totalidad, se conocerá del recurso inaudita parte
+     tal como se establece en el artículo 11.
+27.6.2014           ES                            Diario Oficial de la Unión Europea                                          L 189/79
+
+
+                                                             CAPÍTULO 3
+
+                     RECONOCIMIENTO, FUERZA EJECUTIVA Y EJECUCIÓN DE LA ORDEN DE RETENCIÓN
+
+                                                             Artículo 22
+                                               Reconocimiento y fuerza ejecutiva
+     Una orden de retención dictada en un Estado miembro con arreglo al presente Reglamento será reconocida en los demás
+     Estados miembros sin necesidad de procedimiento alguno y tendrá fuerza ejecutiva en los demás Estados miembros sin
+     necesidad de una declaración de fuerza ejecutiva.
+
+
+                                                             Artículo 23
+                                               Ejecución de la orden de retención
+     1.   A reserva de lo dispuesto en el presente capítulo, la orden de retención se ejecutará con arreglo a los procedi­
+     mientos aplicables a la ejecución de órdenes nacionales equivalentes en el Estado miembro de ejecución.
+
+
+     2.     Todas las autoridades que participen en la ejecución de la orden actuarán sin demora.
+
+
+     3.    Cuando la orden de retención se haya dictado en un Estado miembro distinto del Estado miembro de ejecución, la
+     parte A de la orden contemplada en el artículo 19, apartado 2, y un formulario normalizado en blanco para la
+     declaración contemplada en el artículo 25, se transmitirán, a efectos del apartado 1 del presente artículo, a la autoridad
+     competente del Estado miembro de ejecución con arreglo a lo dispuesto en el artículo 29.
+
+
+     La transmisión incumbirá al órgano jurisdiccional que dicte la orden o al acreedor, en función de a quién corresponda la
+     responsabilidad de incoar el procedimiento de ejecución de acuerdo con la ley del Estado miembro de origen.
+
+
+     4.     En caso necesario, la orden se acompañará de una traducción o transcripción a la lengua oficial del Estado miembro
+     de ejecución o, en caso de que existan varias lenguas oficiales en dicho Estado, en la lengua oficial o en una de las lenguas
+     oficiales del lugar en que deba ejecutarse la orden. Esta traducción o transcripción será facilitada por el órgano jurisdic­
+     cional que dicte la orden recurriendo a la versión lingüística correspondiente del formulario normalizado a que se refiere
+     el artículo 19.
+
+
+     5.    La autoridad competente del Estado miembro de ejecución adoptará las medidas necesarias para dar cumplimiento a
+     la orden con arreglo a su legislación nacional.
+
+
+     6.   En caso de que la orden de retención se refiera a más de un banco dentro del mismo Estado miembro o en distintos
+     Estados miembros, se enviará a la autoridad competente del Estado miembro de ejecución un formulario diferente para
+     cada uno de los bancos de acuerdo con el artículo 19, apartado 4.
+
+
+                                                             Artículo 24
+                                           Cumplimentación de la orden de retención
+     1.   El banco al que se dirija una orden de retención la cumplimentará sin demora en cuanto la reciba o, si así lo
+     dispone el Derecho del Estado miembro de ejecución, en cuanto reciba la correspondiente instrucción de ejecutar la
+     orden.
+
+
+     2.    Para cumplimentar la orden de retención, y a reserva de lo dispuesto en el artículo 31, el banco retendrá el importe
+     especificado en la orden, ya sea
+
+
+     a) velando por que dicho importe no se transfiera ni retire de la cuenta o las cuentas indicadas en la orden o identificadas
+        de acuerdo con el apartado 4, o
+
+
+     b) si así lo dispone el Derecho nacional, transfiriendo dicho importe a una cuenta destinada a fines de retención.
+L 189/80           ES                            Diario Oficial de la Unión Europea                                          27.6.2014
+
+
+     La cuantía total retenida podrá supeditarse al pago de las operaciones que ya estén pendientes en el momento en que el
+     banco reciba la orden o la correspondiente instrucción. No obstante, solo podrán tenerse en cuenta esas operaciones
+     pendientes si se pagan antes de que el banco expida la declaración con arreglo al artículo 25 en los plazos establecidos en
+     el artículo 25, apartado 1.
+
+
+     3.    No obstante lo dispuesto en el apartado 2, letra a), se autorizará al banco, a petición del deudor, a liberar fondos
+     retenidos y a transferirlos, para el pago de la deuda, a la cuenta del acreedor indicada en la orden, si concurren todas las
+     condiciones siguientes:
+
+
+     a) que tal autorización al banco se mencione expresamente en la orden de conformidad con el artículo 19, apartado 2,
+        letra j),
+
+
+     b) que el Derecho del Estado miembro de ejecución permita tal liberación y transferencia, y
+
+
+     c) que no concurran distintas órdenes respecto de la cuenta de que se trate.
+
+
+     4.    En caso de que la orden de retención no especifique el número o números de la cuenta o cuentas del deudor, sino
+     que proporcione únicamente el nombre y otros datos del deudor, el banco o la entidad responsable de la cumplimen­
+     tación de la orden identificará la cuenta o las cuentas que el deudor mantenga en el banco indicado en la orden.
+
+
+     Si, conforme a la información contenida en la orden, el banco u otra entidad no puede identificar con certeza la cuenta
+     del deudor, el banco:
+
+
+     a) en caso de que, de acuerdo con el artículo 19, apartado 2, letra f), se indique en la orden que el número o números de
+        la cuenta o cuentas que deben retenerse se obtuvieron en virtud de una petición con arreglo al artículo 14, obtendrá
+        dicho número o números de la autoridad de información del Estado miembro de ejecución, y
+
+
+     b) en todos los demás casos, no cumplimentará la orden.
+
+
+     5.    Los fondos que se tengan en la cuenta o cuentas contempladas en el apartado 2, letra a), que excedan del importe
+     indicado en la orden de retención no se verán afectados por la cumplimentación de la orden.
+
+
+     6.   En caso de que, en el momento de cumplimentar la orden de retención, los fondos contenidos en la cuenta o
+     cuentas mencionadas en el apartado 2, letra a), sean insuficientes para retener toda la cantidad indicada en la orden, la
+     orden se cumplimentará únicamente en la cantidad disponible en la cuenta o cuentas.
+
+
+     7.    Cuando la orden de retención afecte a varias cuentas pertenecientes al deudor mantenidas en el mismo banco y
+     dichas cuentas contengan fondos que excedan de la cantidad indicada en la orden, el banco cumplimentará la orden por
+     el siguiente orden de prelación:
+
+
+     a) cuentas de ahorro de las que el deudor sea el único titular;
+
+
+     b) cuentas corrientes de las que el deudor sea el único titular;
+
+
+     c) cuentas de ahorro conjuntas, a reserva de lo dispuesto en el artículo 30;
+
+
+     d) cuentas corrientes conjuntas, a reserva de lo dispuesto en el artículo 30.
+27.6.2014          ES                            Diario Oficial de la Unión Europea                                         L 189/81
+
+
+     8.    Cuando la moneda en que se expresan los fondos de la cuenta o cuentas mencionadas en el apartado 2, letra a), no
+     sea la misma en que se dictó la orden de retención, el banco convertirá el importe especificado en la orden a la moneda
+     de estos fondos por referencia al tipo de cambio de referencia del Banco Central Europeo o al tipo de cambio del banco
+     central del Estado miembro de ejecución vigente para la venta de esa moneda el día y a la hora de la ejecución de la
+     orden, y retendrá el importe correspondiente en la moneda de los fondos.
+
+
+                                                            Artículo 25
+                                            Declaración sobre retención de fondos
+     1.    Antes de que finalice el tercer día hábil tras la cumplimentación de la orden de retención, el banco u otra entidad
+     responsable de la ejecución de la orden en el Estado miembro de ejecución expedirá una declaración con arreglo al
+     formulario de declaración establecido mediante actos de ejecución adoptados con arreglo al procedimiento consultivo a
+     que se refiere el artículo 52, apartado 2, en la que se indicará si se han retenido fondos de la cuenta o las cuentas del
+     deudor y en qué cuantía, y en caso afirmativo, la fecha de cumplimentación de la orden. Cuando, en circunstancias
+     excepcionales, el banco u otra entidad no puedan expedir la declaración en el plazo de tres días hábiles, lo harán lo antes
+     posible y a más tardar al finalizar el octavo día hábil tras la cumplimentación de la orden.
+
+
+     La declaración se transmitirá sin demora de acuerdo con lo dispuesto en los apartados 2 y 3.
+
+
+     2.    Cuando se haya dictado la orden en el Estado miembro de ejecución, el banco u otra entidad responsable de la
+     cumplimentación de la orden transmitirá la declaración al órgano jurisdiccional que haya dictado la orden con arreglo a
+     lo dispuesto en el artículo 29, y al acreedor por correo certificado con acuse de recibo o por medios electrónicos
+     equivalentes.
+
+
+     3.    Cuando se haya dictado la orden en un Estado miembro distinto del Estado miembro de ejecución, la declaración se
+     transmitirá a la autoridad competente del Estado miembro de ejecución con arreglo a lo dispuesto en el artículo 29, a no
+     ser que haya sido expedida por esa misma autoridad.
+
+
+     Al término del primer día hábil siguiente al recibo o expedición de la declaración, dicha autoridad transmitirá la
+     declaración con arreglo al artículo 29 al órgano jurisdiccional que haya dictado la orden, y por correo certificado con
+     acuse de recibo o por medios electrónicos equivalentes, al acreedor.
+
+
+     4.    A solicitud del deudor, el banco u otra entidad responsable de la cumplimentación de la orden de retención
+     comunicarán al deudor el contenido de la orden. El banco o la entidad también podrán hacer tal comunicación a falta
+     de dicha solicitud.
+
+
+                                                            Artículo 26
+                                                   Responsabilidad del banco
+     Toda responsabilidad del banco por incumplimiento de sus obligaciones en virtud del presente Reglamento se regirá por
+     el Derecho del Estado miembro de ejecución.
+
+
+                                                            Artículo 27
+                  Obligación del acreedor de solicitar la liberación de las cantidades retenidas en exceso
+     1.   El acreedor tendrá la obligación de tomar las medidas necesarias para garantizar que se liberen las cantidades que,
+     una vez cumplimentada la orden de retención, excedan de la cantidad indicada en esta,
+
+
+     a) cuando la orden afecte a varias cuentas en el mismo Estado miembro o en Estados miembros diferentes, o
+
+
+     b) cuando se haya dictado la orden después de haberse ejecutado una o varias órdenes nacionales equivalentes contra el
+        mismo deudor para garantizar la misma deuda.
+L 189/82           ES                             Diario Oficial de la Unión Europea                                            27.6.2014
+
+
+     2.     Antes de que finalice el tercer día hábil siguiente al día de recepción de cualquier declaración expedida con arreglo al
+     artículo 25 en la que se indique la retención excesiva, el acreedor presentará, por el medio más rápido posible y
+     empleando el formulario de solicitud de liberación de las cantidades retenidas en exceso establecido mediante actos de
+     ejecución adoptados de conformidad con el procedimiento consultivo a que se refiere el artículo 52, apartado 2, una
+     solicitud de liberación a la autoridad competente del Estado miembro de ejecución en el que se haya producido dicha
+     retención.
+
+
+     Una vez recibida la solicitud, dicha autoridad ordenará inmediatamente al banco interesado que libere las cantidades
+     retenidas en exceso. El artículo 24, apartado 7, se aplicará, si procede, en orden inverso de prelación.
+
+
+     3.    El presente artículo no será óbice para que los Estados miembros puedan prever en su Derecho nacional que sean
+     sus autoridades de ejecución competentes las que inicien, de oficio, la liberación de los fondos retenidos en exceso en las
+     cuentas mantenidas en su territorio.
+
+
+                                                              Artículo 28
+                                                       Notificación al deudor
+     1.   Se notificarán al deudor con arreglo al presente artículo la orden de retención, los demás documentos que se
+     mencionan en el apartado 5 del presente artículo y la declaración efectuada en virtud del artículo 25.
+
+
+     2.     Cuando el acreedor esté domiciliado en el Estado miembro de origen, la notificación se efectuará de conformidad
+     con el Derecho de dicho Estado miembro. El órgano jurisdiccional que dicte la orden o el acreedor, dependiendo de quién
+     sea el responsable de proceder a la notificación en el Estado miembro de origen, procederán a la notificación antes de que
+     finalice el tercer día hábil siguiente al día de recepción de la declaración efectuada en virtud del artículo 25, que indique
+     que se han retenido cantidades.
+
+
+     3.    Cuando el deudor esté domiciliado en un Estado miembro distinto del de origen, el órgano jurisdiccional que dicte
+     la orden o el acreedor, dependiendo de quién sea el responsable de proceder a la notificación en el Estado miembro de
+     origen, transmitirá los documentos indicados en el apartado 1 del presente artículo con arreglo al artículo 29 a la
+     autoridad competente del Estado miembro en el que tenga su domicilio el deudor, antes de que finalice el tercer día hábil
+     siguiente al día de recepción de la declaración efectuada en virtud del artículo 25 en la que se indique que se han retenido
+     fondos. Dicha autoridad adoptará sin demora las medidas necesarias para que se efectúe la notificación al deudor de
+     acuerdo con el Derecho del Estado miembro en que esté domiciliado.
+
+
+     En caso de que el Estado miembro en que el deudor esté domiciliado sea el único Estado miembro de ejecución, los
+     documentos indicados en el apartado 5 del presente artículo se transmitirán a la autoridad competente de dicho Estado
+     miembro en el momento de la transmisión de la orden con arreglo al artículo 23, apartado 3. En tal caso, la autoridad
+     competente procederá a la notificación de todos los documentos que se mencionan en el apartado 1 del presente artículo
+     antes de que finalice el tercer día hábil siguiente al día de recepción de la declaración efectuada en virtud del artículo 25
+     en la que se indique que se han retenido fondos.
+
+
+     La autoridad competente informará al órgano jurisdiccional que dicte la orden o al acreedor, dependiendo de quién
+     transmitiera los documentos que hayan de notificarse, del resultado de la notificación al deudor.
+
+
+     4.    Si el deudor está domiciliado en un tercer Estado, la notificación se efectuará con arreglo a las normas relativas a la
+     notificación internacional aplicables en el Estado miembro de origen.
+
+
+     5.    Se notificarán al deudor los siguientes documentos, que irán acompañados, si fuera necesario, de su correspondiente
+     traducción o transcripción tal como se establece en el artículo 49, apartado 1:
+
+
+     a) la orden de retención, empleando las partes A y B del formulario que se prevé en el artículo 19, apartados 2 y 3;
+27.6.2014          ES                            Diario Oficial de la Unión Europea                                         L 189/83
+
+
+     b) la solicitud de orden de retención presentada por el acreedor ante el órgano jurisdiccional;
+
+
+
+     c) copia de todos los documentos presentados por el acreedor ante el órgano jurisdiccional para obtener la orden.
+
+
+
+     6.    Cuando la orden de retención afecte a más de un banco, solo se notificará al deudor con arreglo a lo dispuesto en el
+     presente artículo la primera declaración expedida con arreglo al artículo 25 en la que se muestre que se han retenido
+     cantidades. Se notificará al deudor, sin demora, toda declaración ulterior expedida en virtud del artículo 25.
+
+
+
+                                                            Artículo 29
+                                                  Transmisión de documentos
+     1.    En caso de que el presente Reglamento disponga la transmisión de documentos con arreglo al presente artículo,
+     dicha transmisión podrá llevarse a cabo por cualquier medio adecuado siempre que el contenido del documento recibido
+     sea verídico y fiel al del documento expedido y que toda la información que contenga sea legible sin dificultad.
+
+
+
+     2.    El órgano jurisdiccional o la autoridad que haya recibido documentos de conformidad con el apartado 1 del
+     presente artículo enviará acuse de recibo a la autoridad, acreedor o banco que hayan transmitido los documentos, antes
+     de que finalice el día hábil siguiente al día de recepción, por el medio más rápido posible de transmisión y empleando el
+     formulario normalizado establecido mediante actos de ejecución adoptados de conformidad con el procedimiento con­
+     sultivo a que se refiere el artículo 52, apartado 2.
+
+
+
+                                                            Artículo 30
+                                         Retención de cuentas conjuntas y nominales
+     Los fondos que se tengan en las cuentas de las que, según los registros del banco, no sea titular exclusivo el deudor, o de
+     las que sea titular un tercero en nombre del deudor o el deudor en nombre de un tercero, podrán retenerse en virtud del
+     presente Reglamento solo en la medida en que estén sujetos a retención con arreglo al Derecho del Estado miembro de
+     ejecución.
+
+
+
+                                                            Artículo 31
+                                                Cantidades exentas de retención
+     1.   Quedarán exentas de retención con arreglo al presente Reglamento las cantidades inembargables con arreglo al
+     Derecho del Estado miembro de ejecución.
+
+
+
+     2.   Si, con arreglo al Derecho del Estado miembro de ejecución, las cantidades mencionadas en el apartado 1 son
+     inembargables a falta de solicitud del deudor, el órgano responsable de eximir tales cantidades en dicho Estado miembro
+     eximirá de oficio las cantidades correspondientes.
+
+
+
+     3.     Si, con arreglo al Derecho del Estado miembro de ejecución, las cantidades mencionadas en el apartado 1 del
+     presente artículo son inembargables a solicitud del deudor, dichas cantidades quedarán exentas de retención previa
+     solicitud del deudor según lo dispuesto en el artículo 34, apartado 1, letra a).
+
+
+
+                                                            Artículo 32
+                                               Prelación de la orden de retención
+     La orden de retención tendrá la misma prelación, si la hubiera, que una orden nacional equivalente en el Estado miembro
+     de ejecución.
+L 189/84           ES                            Diario Oficial de la Unión Europea                                          27.6.2014
+
+
+                                                            CAPÍTULO 4
+
+                                                        VÍAS DE RECURSO
+
+                                                             Artículo 33
+                                     Impugnación de la orden de retención por el deudor
+     1.    A solicitud del deudor ante el órgano jurisdiccional competente del Estado miembro de origen, se revocará o, en su
+     caso, se modificará la orden de retención por los siguientes motivos:
+
+
+     a) no se reúnen las condiciones o los requisitos establecidos en el presente Reglamento;
+
+
+     b) falta de notificación al deudor, en el plazo de 14 días a partir de la retención de su cuenta o cuentas, de la orden, la
+        declaración prevista en el artículo 25 y/o los demás documentos mencionados en el artículo 28, apartado 5;
+
+
+     c) incumplimiento en los documentos notificados al deudor de conformidad con el artículo 28 de los requisitos
+        lingüísticos establecidos en el artículo 49, apartado 1;
+
+
+     d) falta de liberación de las cantidades retenidas que excedan de la cantidad indicada en la orden como dispone el
+        artículo 27;
+
+
+     e) pago total o parcial de la deuda cuya ejecución el acreedor trataba de garantizar por medio de la orden, o
+
+
+     f) desestimación, en virtud de una resolución judicial sobre el fondo del asunto de la pretensión de ejecución del pago
+        deuda que el acreedor trataba de garantizar por medio de la orden;
+
+
+     g) suspensión o, en su caso, anulación de la resolución judicial sobre el fondo del asunto, la transacción judicial o el
+        documento público con fuerza ejecutiva cuya ejecución el acreedor trataba de garantizar por medio de la orden.
+
+
+     2.    A solicitud del deudor ante el órgano jurisdiccional competente del Estado miembro de origen, se reexaminará la
+     decisión relativa a la caución prevista en el artículo 12 en caso de que no se reúnan las condiciones o requisitos previstos
+     en dicho artículo.
+
+
+     Si basándose en la impugnación, el órgano jurisdiccional exige al acreedor que preste una caución o una caución
+     adicional, se aplicará, en su caso, la primera frase del artículo 12, apartado 3, y el órgano jurisdiccional advertirá que
+     se revocará o modificará la orden de retención en caso de que no se preste la garantía (adicional) exigida en el plazo
+     establecido por él.
+
+
+     3.   La impugnación con arreglo al apartado 1, letra b), se estimará a menos que se subsane la falta de notificación en
+     un plazo de 14 días a partir de la fecha en que se haya informado al acreedor de la solicitud de impugnación por el
+     deudor con arreglo al apartado 1, letra b).
+
+
+     Salvo que se haya subsanado por otros medios, la falta de notificación, a efectos de evaluar si procede estimar o no la
+     impugnación con arreglo al apartado 1, letra b), se dará por subsanada:
+
+
+     a) si el acreedor solicita al órgano responsable de la notificación con arreglo al Derecho del Estado miembro de origen
+        que se notifiquen los documentos al deudor, o
+
+
+     b) si el deudor ha indicado en su escrito de impugnación que acepta recoger los documentos en el órgano jurisdiccional
+        del Estado miembro de origen y, en caso de que el acreedor fuera responsable de facilitar traducciones, si le transmite
+        a dicho órgano jurisdiccional las traducciones exigidas en el artículo 49, apartado 1.
+27.6.2014             ES                            Diario Oficial de la Unión Europea                                         L 189/85
+
+
+     A petición del acreedor formulada con arreglo al párrafo segundo, letra a), del presente apartado, el órgano responsable
+     de la notificación conforme al Derecho del Estado miembro de origen notificará sin demora al deudor los documentos
+     por correo certificado con acuse de recibo, a la dirección indicada por el deudor de conformidad con el apartado 5 del
+     presente artículo.
+
+
+     En caso de que el acreedor sea el responsable de proceder a la notificación de los documentos mencionados en el
+     artículo 28, solo podrá subsanarse la falta de notificación si demuestra que adoptó todas las medidas que se le exigían
+     para efectuar la notificación.
+
+
+     4.    La impugnación con arreglo al apartado 1, letra c), se estimará a menos que el acreedor facilite al deudor las
+     traducciones necesarias con arreglo al presente Reglamento en los 14 días siguientes a la fecha en que se le haya
+     informado de la solicitud de impugnación por el deudor con arreglo al apartado 1, letra c).
+
+
+     Se aplicarán, según corresponda, los párrafos segundo y tercero del apartado 3.
+
+
+     5.    En su escrito de impugnación con arreglo al apartado 1, letras b) y c), el deudor indicará una dirección a la que
+     puedan enviarse los documentos y traducciones contemplados en el artículo 28, conforme a lo dispuesto en los apartados
+     3 y 4 del presente artículo, o indicará, como alternativa, que acepta recoger tales documentos en el órgano jurisdiccional
+     del Estado miembro de origen.
+
+
+                                                               Artículo 34
+                               Impugnación de la ejecución de la orden de retención por el deudor
+     1.    No obstante lo dispuesto en los artículos 33 y 35, a solicitud del deudor ante el órgano jurisdiccional competente o,
+     en caso de que así lo disponga el Derecho nacional, ante la autoridad de ejecución competente del Estado miembro de
+     ejecución, la ejecución de la orden de retención en dicho Estado miembro:
+
+
+     a) quedará limitada por el motivo de que deben estar exentas de embargo ciertas cantidades que se tengan en la cuenta
+        con arreglo al artículo 31, apartado 3, o de que al cumplimentar la orden no hayan sido tenidas en cuenta, o no lo
+        hayan sido correctamente, las cantidades inembargables con arreglo a lo dispuesto en el artículo 31, apartado 2, o
+
+
+     b) se dejará sin efecto por:
+
+
+            i) estar la cuenta retenida excluida del ámbito de aplicación del presente Reglamento con arreglo al artículo 2,
+               apartados 3 y 4,
+
+
+            ii) haberse desestimado, en el Estado miembro de ejecución, la ejecución de la resolución judicial, la transacción
+                judicial o el documento público con fuerza ejecutiva cuya ejecución trataba el acreedor de garantizar por medio de
+                la orden,
+
+
+        iii) haber quedado privada de fuerza ejecutiva, en el Estado miembro de origen, la resolución judicial cuya ejecución
+             trataba el acreedor de garantizar por medio de la orden, o
+
+
+        iv) ser de aplicación el artículo 33, apartado 1, letras b), c), d), e), f) o g). Será de aplicación, según corresponda, el
+            artículo 33, apartados 3, 4 y 5.
+
+
+     2.   A solicitud del deudor ante el órgano jurisdiccional competente del Estado miembro de ejecución, la ejecución de la
+     orden de retención se dejará sin efecto en dicho Estado miembro de ser manifiestamente contraria a su orden público.
+L 189/86           ES                            Diario Oficial de la Unión Europea                                         27.6.2014
+
+
+                                                             Artículo 35
+                                   Otros recursos a disposición del deudor y del acreedor
+     1.   El deudor o el acreedor podrán solicitar al órgano jurisdiccional que haya dictado la orden que la modifique o la
+     revoque por haber cambiado las circunstancias por las que se dictó.
+
+
+
+     2.    El órgano jurisdiccional que haya dictado la orden también la podrá modificar o revocar de oficio, por cambio de
+     circunstancias, si así lo permite el Derecho del Estado miembro de origen.
+
+
+
+     3.    El deudor y el acreedor podrán, por haber convenido entre ellos la liquidación de la deuda, solicitar conjuntamente
+     al órgano jurisdiccional que haya dictado la orden que la revoque o modifique, o al órgano jurisdiccional competente del
+     Estado miembro de ejecución o, en caso de que así lo disponga el Derecho nacional, a la autoridad de ejecución
+     competente de dicho Estado miembro, que deje sin efecto o limite su ejecución.
+
+
+
+     4.     El acreedor podrá solicitar al órgano jurisdiccional competente del Estado miembro de ejecución o, en caso de que
+     así lo disponga el Derecho nacional, a la autoridad de ejecución competente de dicho Estado miembro, la modificación de
+     la ejecución de la orden de retención a fin de adaptar la exención aplicada en dicho Estado miembro con arreglo al
+     artículo 31 por haberse aplicado ya otras exenciones a una o varias cuentas mantenidas en otro u otros Estados
+     miembros, por un importe tal que justifique la adaptación.
+
+
+
+                                                             Artículo 36
+                           Procedimiento para los recursos previstos en los artículos 33, 34 y 35
+     1.     El escrito de interposición de los recursos previstos en los artículos 33, 34 o 35 deberá presentarse por medio del
+     formulario establecido mediante actos de ejecución adoptados de conformidad con el procedimiento consultivo a que se
+     refiere el artículo 52, apartado 2. El escrito podrá presentarse en cualquier momento y por cualquier medio de comu­
+     nicación, incluso electrónico, que sea aceptable en virtud de las normas procesales del Estado miembro en el que se
+     presente.
+
+
+
+     2.    Se dará traslado del escrito de interposición a la otra parte.
+
+
+
+     3.    Excepto cuando el deudor haya presentado el escrito de interposición basándose en el artículo 34, apartado 1, letra
+     a), o en el artículo 35, apartado 3, el recurso se resolverá después de haber dado a ambas partes la posibilidad de
+     presentar alegaciones, lo que podrán hacer por los medios técnicos de comunicación disponibles y aceptados en el
+     Derecho nacional del Estado miembro correspondiente.
+
+
+
+     4.    El recurso se resolverá sin demora, y en todo caso dentro de los 21 días siguientes a la recepción por el órgano
+     jurisdiccional o, cuando así lo disponga el Derecho nacional, por la autoridad de ejecución competente, de toda la
+     documentación necesaria para resolverlo. La resolución se comunicará a las partes.
+
+
+
+     5.    La resolución por la que se revoque o modifique la orden de retención y la resolución por la que se limite o deje sin
+     efecto su ejecución tendrán fuerza ejecutiva inmediata.
+
+
+
+     Cuando se haya presentado el recurso en el Estado miembro de origen, el órgano jurisdiccional transmitirá, con arreglo a
+     lo dispuesto en el artículo 29, la resolución del recurso sin demora a la autoridad competente del Estado miembro de
+     ejecución por medio del formulario establecido mediante actos de ejecución adoptados de conformidad con el procedi­
+     miento consultivo a que se refiere el artículo 52, apartado 2. En cuanto reciba la resolución del recurso, dicha autoridad
+     velará por su ejecución.
+27.6.2014           ES                           Diario Oficial de la Unión Europea                                         L 189/87
+
+
+     Cuando se refiera a una cuenta bancaria mantenida en el Estado miembro de origen, la resolución del recurso se ejecutará
+     por lo que respecta a esa cuenta con arreglo al Derecho de dicho Estado miembro.
+
+
+     Cuando se haya presentado el recurso en el Estado miembro de ejecución, la resolución del recurso se ejecutará con
+     arreglo al Derecho de dicho Estado miembro.
+
+
+                                                            Artículo 37
+                                                        Derecho a recurrir
+     Cualquiera de las partes tendrá derecho a recurrir cualquier resolución dictada en virtud de los artículos 33, 34 o 35. Se
+     recurrirá por medio del formulario de recurso establecido mediante actos de ejecución adoptados de conformidad con el
+     procedimiento consultivo a que se refiere el artículo 52, apartado 2.
+
+
+                                                            Artículo 38
+                                             Derecho a prestar garantía sustitutoria
+     1.     A solicitud del deudor:
+
+
+     a) el órgano jurisdiccional que haya dictado la orden podrá ordenar la liberación de los fondos retenidos en caso de que
+        el deudor presente a ese órgano jurisdiccional una caución por el importe de la orden, o una garantía sustitutoria
+        otorgada en una forma admitida por el Derecho del Estado miembro de la sede del órgano jurisdiccional y por un
+        valor equivalente al menos a dicho importe;
+
+
+     b) el órgano jurisdiccional competente o, cuando así lo establezca el Derecho nacional, la autoridad competente de
+        ejecución del Estado miembro de ejecución podrá dejar sin efecto la ejecución de la orden de retención en el Estado
+        miembro de ejecución en caso de que el deudor presente a ese órgano jurisdiccional o a esa autoridad una caución por
+        el importe retenido en dicho Estado miembro, o una garantía sustitutoria otorgada en una forma admitida por el
+        Derecho del Estado miembro de la sede del órgano jurisdiccional y por un valor equivalente al menos a dicho importe.
+
+
+     2.    Los artículos 23 y 24 se aplicarán, en su caso, a la liberación de los fondos retenidos. La prestación de la garantía
+     sustitutoria será notificada al acreedor con arreglo al Derecho nacional.
+
+
+                                                            Artículo 39
+                                                      Derechos de terceros
+     1.    El derecho de un tercero a impugnar una orden de retención se regirá por el Derecho del Estado miembro de
+     origen.
+
+
+     2.  El derecho de un tercero a impugnar la ejecución de una orden de retención se regirá por el Derecho del Estado
+     miembro de ejecución.
+
+
+     3.  Sin perjuicio de otras normas de competencia establecidas en el Derecho de la Unión o el Derecho nacional, serán
+     competentes para conocer de cualquier recurso interpuesto por un tercero
+
+
+     a) para impugnar una orden de retención, los órganos jurisdiccionales del Estado miembro de origen, y
+
+
+     b) para impugnar la ejecución de la orden de retención en el Estado miembro de ejecución, los órganos jurisdiccionales
+        del Estado miembro de ejecución o, si así lo establece el Derecho nacional de este Estado miembro, la autoridad de
+        ejecución competente.
+L 189/88           ES                             Diario Oficial de la Unión Europea                                          27.6.2014
+
+
+                                                             CAPÍTULO 5
+
+                                                    DISPOSICIONES GENERALES
+
+                                                             Artículo 40
+                                                Legalización o formalidad análoga
+     No se exigirá legalización ni formalidad análoga alguna en el contexto del presente Reglamento.
+
+
+                                                             Artículo 41
+                                                        Representación legal
+     En los procedimientos para la obtención de una orden de retención no se exigirá que las partes estén representadas por
+     letrado u otro profesional del Derecho. En los procedimientos a que se refiere el capítulo 4 no se exigirá la representación
+     por letrado u otro profesional del Derecho salvo en caso de que tal representación sea obligatoria, con independencia de
+     la nacionalidad o del domicilio de las partes, con arreglo al Derecho del Estado miembro del órgano jurisdiccional o
+     autoridad ante la que se interponga el recurso.
+
+
+                                                             Artículo 42
+                                                           Tasas judiciales
+     Las tasas judiciales correspondientes a procedimientos para la obtención de una orden de retención o la impugnación de
+     una orden no serán superiores a las exigidas para la obtención de una orden nacional equivalente o una impugnación de
+     dicha orden nacional.
+
+
+                                                             Artículo 43
+                                               Costes en que incurran los bancos
+     1.    El banco tendrá derecho a reclamar al acreedor o al deudor el pago o el reembolso de los costes derivados de la
+     cumplimentación de la orden de retención solo cuando tenga derecho, con arreglo al Derecho del Estado miembro de
+     ejecución, a tal pago o reembolso por órdenes nacionales equivalentes.
+
+
+     2.    Las comisiones exigidas por los bancos para sufragar los costes contemplados en el apartado 1 se fijarán atendiendo
+     a la complejidad de la cumplimentación de la orden de retención y no podrán ser superiores a las correspondientes a la
+     cumplimentación de órdenes nacionales equivalentes.
+
+
+     3.    Las comisiones exigidas por un banco para sufragar los costes por el suministro de información sobre cuentas
+     previsto en el artículo 14 no podrán ser superiores a los costes efectivamente soportados y, en su caso, no podrán superar
+     las exigidas por el suministro de información sobre cuentas para órdenes nacionales equivalentes.
+
+
+                                                             Artículo 44
+                                              Importes exigidos por las autoridades
+     Los importes exigidos por cualquier autoridad u otro organismo del Estado miembro de ejecución que intervenga en la
+     tramitación o la ejecución de una orden de retención o en el suministro de información sobre cuentas previsto en el
+     artículo 14 se determinarán con arreglo a un baremo u otro conjunto de normas establecido previamente por cada Estado
+     miembro en el que aquellos se consignen de manera transparente. A la hora de fijar dicho baremo o conjunto de normas,
+     los Estados miembros podrán tomar en consideración la cuantía de la orden y la complejidad de su tramitación. En su
+     caso, tales importes no podrán ser superiores a los exigidos en relación con órdenes nacionales equivalentes.
+
+
+                                                             Artículo 45
+                                                                Plazos
+     Cuando, en circunstancias excepcionales, el órgano jurisdiccional o la autoridad correspondiente no puedan cumplir los
+     plazos fijados en el artículo 14, apartado 7, el artículo 18, el artículo 23, apartado 2, el artículo 25, apartado 3, párrafo
+     segundo, el artículo 28, apartados 2, 3 y 6, el artículo 33, apartado 3, y el artículo 36, apartados 4 y 5, adoptarán con la
+     mayor brevedad las medidas previstas en esas disposiciones.
+27.6.2014           ES                                Diario Oficial de la Unión Europea                                                 L 189/89
+
+
+                                                                  Artículo 46
+                                              Relación con el Derecho procesal nacional
+     1.   Todas las cuestiones procesales que no estén específicamente reguladas en el presente Reglamento se regirán por el
+     Derecho del Estado miembro en que se desarrolle el proceso.
+
+     2.    Los efectos que produce la apertura de un procedimiento de insolvencia en los procedimientos individuales de
+     ejecución, como los relativos a la ejecución de la orden de retención, se regirán por el Derecho del Estado miembro en el
+     que se haya iniciado el procedimiento de insolvencia.
+
+                                                                  Artículo 47
+                                                            Protección de datos
+     1.    Los datos personales que se obtengan, traten o envíen en el marco del presente Reglamento serán adecuados,
+     pertinentes y no excesivos en relación con los fines para los que se hayan obtenido, tratado o enviado y solo se utilizarán
+     para tales fines.
+
+     2.     Ni la autoridad competente ni la autoridad de información, ni cualquier otra entidad responsable de la ejecución de
+     la orden de retención, podrán almacenar los datos mencionados en el apartado 1 por más tiempo del necesario para
+     alcanzar los fines para los que se hayan obtenido, tratado o enviado, que en cualquier caso no superará los seis meses
+     desde la finalización del procedimiento, y velarán todas ellas por la adecuada protección de tales datos durante dicho
+     período. El presente apartado no se aplicará a los datos tratados o almacenados por los órganos jurisdiccionales en el
+     ejercicio de sus funciones judiciales.
+
+                                                                  Artículo 48
+                                                    Relación con otros instrumentos
+     El presente Reglamento se entenderá sin perjuicio de:
+
+     a) el Reglamento (CE) no 1393/2007 del Parlamento Europeo y del Consejo (1), salvo lo dispuesto en el artículo 10,
+        apartado 2, en el artículo 14, apartados 3 y 6, en el artículo 17, apartado 5, en el artículo 23, apartados 3 y 6, en el
+        artículo 25, apartados 2 y 3, en el artículo 28, apartados 1, 3, 5 y 6, en el artículo 29, en el artículo 33, apartado 3,
+        en el artículo 36, apartados 2 y 4, y en el artículo 49, apartado 1, del presente Reglamento;
+
+     b) el Reglamento (UE) no 1215/2012;
+
+     c) el Reglamento (CE) no 1346/2000;
+
+     d) la Directiva 95/46/CE, salvo lo dispuesto en el artículo 14, apartado 8, y en el artículo 47, del presente Reglamento;
+
+     e) el Reglamento (CE) no 1206/2001 del Parlamento Europeo y del Consejo (2);
+
+     f) el Reglamento (CE) no 864/2007, salvo lo dispuesto en el artículo 13, apartado 4, del presente Reglamento.
+
+                                                                  Artículo 49
+                                                                    Lenguas
+     1.    Todo documento indicado en el artículo 28, apartado 5, letras a) y b), que deba notificarse al deudor y que no esté
+     redactado en la lengua oficial del Estado miembro en el que tenga su domicilio el deudor o, en el caso de que existan
+     varias lenguas oficiales en dicho Estado, en la lengua oficial o en una de las lenguas oficiales del lugar en el que tenga su
+     domicilio el deudor, o en otra lengua que este comprenda, se acompañará de una traducción o transcripción a una de
+     esas lenguas. Los documentos indicados en el artículo 28, apartado 5, letra c), no tendrán que traducirse a menos que el
+     órgano jurisdiccional decida, con carácter de excepción, que es preciso traducir o transcribir ciertos documentos concretos
+     para que el deudor pueda ejercer sus derechos.
+
+     (1) Reglamento (CE) no 1393/2007 del Parlamento Europeo y del Consejo, de 13 de noviembre de 2007, relativo a la notificación y al
+         traslado en los Estados miembros de documentos judiciales y extrajudiciales en materia civil o mercantil (notificación y traslado de
+         documentos) y por el que se deroga el Reglamento (CE) no 1348/2000 del Consejo (DO L 324 de 10.12.2007, p. 79).
+     ( ) Reglamento (CE) no 1206/2001 del Consejo, de 28 de mayo de 2001, relativo a la cooperación entre los órganos jurisdiccionales de
+      2
+
+         los Estados miembros en el ámbito de la obtención de pruebas en materia civil o mercantil (DO L 174 de 27.6.2001, p. 1).
+L 189/90             ES                             Diario Oficial de la Unión Europea                                          27.6.2014
+
+
+     2.    Todo documento que deba presentarse en el marco del presente Reglamento ante un órgano jurisdiccional o
+     autoridad competente podrá estar redactado también en cualquier otra lengua oficial de las instituciones de la Unión
+     que el Estado miembro en cuestión haya declarado que puede admitir.
+
+
+     3.    Las traducciones hechas en virtud del presente Reglamento deberán ser efectuadas por personas cualificadas para
+     realizar traducciones en uno de los Estados miembros.
+
+
+                                                               Artículo 50
+                                      Información que deben facilitar los Estados miembros
+     1.     A más tardar el 18 de julio de 2016, los Estados miembros comunicarán a la Comisión la información siguiente:
+
+
+     a) los órganos jurisdiccionales competentes para dictar una orden de retención (artículo 6, apartado 4);
+
+
+     b) la autoridad competente para obtener información de cuentas (artículo 14);
+
+
+     c) los métodos de obtención de información de cuentas previstos en su Derecho nacional (artículo 14, apartado 5);
+
+
+     d) los órganos jurisdiccionales ante los cuales se ha de interponer un recurso (artículo 21);
+
+
+     e) la autoridad o autoridades competentes a efectos de la recepción, transmisión y notificación de la orden de retención
+        y otros documentos con arreglo al presente Reglamento (artículo 4, punto 14);
+
+
+     f)    la autoridad competente para ejecutar la orden de retención de conformidad con el capítulo 3;
+
+
+     g) la medida en que pueden retenerse las cuentas conjuntas y nominales con arreglo a su Derecho nacional (artículo 30);
+
+
+     h) las normas aplicables a las cantidades exentas de embargo con arreglo a su Derecho nacional (artículo 31);
+
+
+     i)    si, con arreglo a su Derecho nacional, los bancos tienen derecho a cobrar comisiones por cumplimentar órdenes
+           nacionales equivalentes o por facilitar información de cuentas, y en tal caso, a cuál de las partes corresponde el pago
+           de dichas comisiones de manera provisional y definitiva (artículo 43);
+
+
+     j)    el baremo de tasas u otro conjunto de normas que fijen las tasas aplicables exigidas por la autoridad u otro
+           organismo que participen en la tramitación o en la ejecución de la orden de retención (artículo 44);
+
+
+     k) si se reconoce alguna prelación a las órdenes nacionales equivalentes con arreglo a su Derecho nacional (artículo 32);
+
+
+     l)    los órganos jurisdiccionales o, en su caso, la autoridad de ejecución, competentes para resolver un recurso (artículo 33,
+           apartado 1, artículo 34, apartados 1 o 2);
+
+
+     m) los órganos jurisdiccionales ante los cuales se pueda recurrir, el plazo, si lo hubiera, para la interposición de dicho
+        recurso con arreglo a su Derecho nacional y el hecho que marca el inicio de ese plazo (artículo 37);
+27.6.2014          ES                             Diario Oficial de la Unión Europea                                          L 189/91
+
+
+     n) una indicación de las tasas judiciales (artículo 42), y
+
+
+     o) lenguas admitidas para las traducciones de documentos (artículo 49, apartado 2).
+
+
+     Los Estados miembros informarán a la Comisión de cualquier modificación posterior que afecte a esta información.
+
+
+     2.    La Comisión hará pública la información a través de cualquier medio apropiado, en especial a través de la Red
+     Judicial Europea en materia civil y mercantil.
+
+
+                                                             Artículo 51
+                                    Elaboración y ulterior modificación de los formularios
+     La Comisión adoptará actos de ejecución por los que se establezcan y se modifiquen posteriormente los formularios
+     aludidos en el artículo 8, apartado 1, el artículo 10, apartado 2, el artículo 19, apartado 1, el artículo 25, apartado 1, el
+     artículo 27, apartado 2, el artículo 29, apartado 2, el artículo 36, apartado 1 y apartado 5, párrafo segundo, y el
+     artículo 37. Los actos de ejecución se adoptarán de conformidad con el procedimiento consultivo a que se refiere el
+     artículo 52, apartado 2.
+
+
+                                                             Artículo 52
+                                                     Procedimiento de comité
+     1.   La Comisión estará asistida por un comité. Dicho comité será un comité en el sentido del Reglamento (UE)
+     no 182/2011.
+
+
+     2.   En los casos en que se haga referencia al presente apartado, será de aplicación el artículo 4 del Reglamento (UE)
+     no 182/2011.
+
+
+                                                             Artículo 53
+                                                      Seguimiento y revisión
+     1.   A más tardar el 18 de enero de 2022, la Comisión presentará al Parlamento Europeo, al Consejo y al Comité
+     Económico y Social Europeo un informe sobre la aplicación del presente Reglamento, incluida una evaluación sobre si:
+
+
+     a) los instrumentos financieros deberían incluirse en el ámbito de aplicación del presente Reglamento, y
+
+
+     b) los importes abonados en la cuenta del deudor con posterioridad a la ejecución de la orden de retención podrían
+        retenerse en virtud de esta.
+
+
+     El informe estará acompañado, en su caso, de una propuesta de modificación del presente Reglamento y de una
+     evaluación del impacto de las disposiciones que habrían de introducirse.
+
+
+     2.  A efectos de lo dispuesto en el apartado 1, los Estados miembros recopilarán y pondrán a disposición de la
+     Comisión, cuando se les solicite, información relativa a:
+
+
+     a) el número de solicitudes de órdenes de retención y el número de casos en que se dictaron tales órdenes;
+
+
+     b) el número de recursos interpuestos de conformidad con los artículos 33 y 34 y, cuando sea posible, el número de
+        asuntos en los que se hayan estimado, y
+
+
+     c) el número de veces que se haya recurrido en virtud del artículo 37 y el número de asuntos en los que se haya
+        estimado dicho recurso.
+L 189/92           ES                               Diario Oficial de la Unión Europea                                     27.6.2014
+
+
+                                                               CAPÍTULO 6
+
+                                                        DISPOSICIONES FINALES
+
+                                                               Artículo 54
+                                                           Entrada en vigor
+     El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea.
+
+
+     Será aplicable a partir del 18 de enero de 2017, con excepción del artículo 50 que será aplicable a partir del 18 de julio
+     de 2016.
+
+
+                  El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en los
+                  Estados miembros con arreglo a los Tratados.
+
+
+                  Hecho en Bruselas, el 15 de mayo de 2014.
+
+
+                             Por el Parlamento Europeo                                   Por el Consejo
+                                    El Presidente                                        El Presidente
+                                    M. SCHULZ                                        D. KOURKOULAS
+

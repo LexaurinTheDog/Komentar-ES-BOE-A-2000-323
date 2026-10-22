@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:59:52.400197+00:00",
+  "generated_at": "2026-10-22T04:10:01.831844+00:00",
   "sources": [
     {
       "path": "sources/ATC-20-2024-a608-a627.html",
@@ -1197,6 +1197,106 @@
       "path": "sources/author-a821-dtprimera-search-log.md",
       "sha256": "eb1bb0b6fc40449139478ae345265c777255d314eb8002765d5ce32fb3d13387",
       "bytes": 1846
+    },
+    {
+      "path": "sources/author-df14-df29-analysis.xml",
+      "bytes": 42740,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+    },
+    {
+      "path": "sources/author-df14-df29-asistencia.xml",
+      "bytes": 326318,
+      "sha256": "9d0c99bd2db2752475db0bea11a353b8d4d78b67e2d9b2bb72bbdf16e3d35f15"
+    },
+    {
+      "path": "sources/author-df14-df29-bondora-web-holding.json",
+      "bytes": 32101,
+      "sha256": "dc69a7756187a650380190664b78fdaf41d65b8d31e5aa12047242824338a4f1"
+    },
+    {
+      "path": "sources/author-df14-df29-bondora-web-merits.json",
+      "bytes": 31413,
+      "sha256": "7eaf1c4e75921b56afb91c7e0ad2de830cea309e8388a558f94f393f3697315d"
+    },
+    {
+      "path": "sources/author-df14-df29-bondora-web-snapshot.json",
+      "bytes": 28032,
+      "sha256": "c2ada03cb7ab2db5451f07d8cbe6fb6bc4f7ec6c5aefbf9634fc97703e3a4e8b"
+    },
+    {
+      "path": "sources/author-df14-df29-bruselas-i-bis.pdf",
+      "bytes": 1303256,
+      "sha256": "cc83f7caf9d1d0f0b20c215453f7543c4083ca9c8efa4ec8a7b6a488e76fbb2b"
+    },
+    {
+      "path": "sources/author-df14-df29-bruselas-i-bis.txt",
+      "bytes": 151834,
+      "sha256": "42d571063cb3a74fa70feea5addd1977c4ad248399177a4e39e1b0d8e701ec6c"
+    },
+    {
+      "path": "sources/author-df14-df29-bruselas-ii-ter.pdf",
+      "bytes": 1445401,
+      "sha256": "f8c55e3c5beac880071915fbb731d4baaf7ab0be843e4661a3d9042f52c1f3a5"
+    },
+    {
+      "path": "sources/author-df14-df29-bruselas-ii-ter.txt",
+      "bytes": 410295,
+      "sha256": "0cd7fbdb12ca03d4cc361b00e5296179bc2af4e499c39920b2a6e5ad94d681e1"
+    },
+    {
+      "path": "sources/author-df14-df29-concursal.xml",
+      "bytes": 1998922,
+      "sha256": "016470946196a1900bf09f3761ffe99674977354191b0ea1afc16b409a2f67c2"
+    },
+    {
+      "path": "sources/author-df14-df29-cooperacion.xml",
+      "bytes": 162586,
+      "sha256": "aea8edb2f09d698420cba4203c99df5de93bdc85fffe0bfd84fbe03eab401d20"
+    },
+    {
+      "path": "sources/author-df14-df29-cuentas.pdf",
+      "bytes": 974443,
+      "sha256": "417cd010b28d679938f791cac864a5ad24041f4d95af467ff70f6e7d1d25a691"
+    },
+    {
+      "path": "sources/author-df14-df29-cuentas.txt",
+      "bytes": 141990,
+      "sha256": "de74b6865cdb5615179bfa4a1bf9f864910e953e4c412a66c05e9c28323ba853"
+    },
+    {
+      "path": "sources/author-df14-df29-fetch.json",
+      "bytes": 5556,
+      "sha256": "53b547ee3b1cbf0823df9551c0767900fefb97c5cbdc111fe606e221d99ca7bf"
+    },
+    {
+      "path": "sources/author-df14-df29-ljca.xml",
+      "bytes": 1062054,
+      "sha256": "4945fe0ec20ccc6b93cbcbbfb9c0f8affd2536471201b70f45a5af7f59a2fd46"
+    },
+    {
+      "path": "sources/author-df14-df29-lopj-reforma.xml",
+      "bytes": 985685,
+      "sha256": "0d8e7dd2d13019a5b745ea867754b2fe89d851b5d7ccfde7fc7bab56952ad294"
+    },
+    {
+      "path": "sources/author-df14-df29-metadata.xml",
+      "bytes": 1196,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+    },
+    {
+      "path": "sources/author-df14-df29-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
+      "path": "sources/author-df14-df29-search-log.json",
+      "bytes": 992,
+      "sha256": "4b5ea5fb409e4d2f3692d6497b965d8d4282f2f418ff0a08871aa217df307d5e"
+    },
+    {
+      "path": "sources/author-df14-df29-voluntaria.xml",
+      "bytes": 875940,
+      "sha256": "517ba875771420565de63a53a22097e874b9d3408d49e43b766b1623963e49c0"
     },
     {
       "path": "sources/author-dtsegunda-dfdecimotercera-analysis.xml",
@@ -2483,8 +2583,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "c533fbe536a0dcf264ec1be8522b1f2984e9f9e3575334d51fdb9b3edd3de3d6",
-      "bytes": 101385
+      "bytes": 107184,
+      "sha256": "1b8017d736492d810c8ad2390f5658a7334b48e51aeb0c9d7af4b3d5964514d2"
     },
     {
       "path": "sources/version-selection.json",
