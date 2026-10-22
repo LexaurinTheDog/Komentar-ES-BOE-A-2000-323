@@ -1,5 +1,5 @@
 {
   "exit_code": 1,
-  "stdout": "{\"repo\": \"Komentar-ES-BOE-A-2000-323\", \"units\": 916, \"verbatim_ratio\": 1.0, \"commentary_chars\": 713769, \"errors\": [\"krátký/chybějící komentář u 416 jednotek: ['a468(0<120)', 'a469(0<120)', 'a470(0<120)', 'a471(0<120)', 'a472(0<120)', 'a473(0<120)', 'a474(0<120)', 'a475(0<120)']\", \"necommitnuté změny v repu\"], \"warnings\": [], \"ok\": false}\n",
+  "stdout": "{\"repo\": \"Komentar-ES-BOE-A-2000-323\", \"units\": 916, \"verbatim_ratio\": 1.0, \"commentary_chars\": 713769, \"errors\": [\"krátký/chybějící komentář u 416 jednotek: ['a468(0<120)', 'a469(0<120)', 'a470(0<120)', 'a471(0<120)', 'a472(0<120)', 'a473(0<120)', 'a474(0<120)', 'a475(0<120)']\"], \"warnings\": [], \"ok\": false}\n",
   "stderr": ""
 }
