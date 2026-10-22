@@ -1,32 +1,32 @@
-# Segunda lectura parcial: artículos 667–686
+# Segunda lectura parcial: artículos 687–706
 
-Revisadas exactamente las veinte unidades a667–a686. Corte jurídico: 19 de octubre de 2026; comprobación oficial renovada el 22 de octubre. El libro permanece incompleto. Sin aprobación profesional externa.
+Revisadas exactamente veinte unidades a687–a706. Corte jurídico: 19 de octubre de 2026; consulta BOE renovada el 22 de octubre. Borrador parcial, sin aprobación profesional externa. El libro permanece incompleto.
 
-Se precisa la mejora efectiva del precio por el tercero del artículo 670 y se incorpora al hipotecante no deudor entre los sujetos que pueden cambiar su domicilio en el artículo 683. Los demás comentarios se conservan tras cotejo individual. Se comparan todas las versiones históricas del lote y se verifica el inventario íntegro y la ausencia de anexos del XML oficial. La fórmula promulgatoria permanece conservada.
+Se delimita la tercera causa de oposición del artículo 695, se precisan los supuestos y autoridad del Gestor único en el artículo 703 y se refuerza la formulación de competencia judicial del artículo 701. Los demás comentarios se conservan tras cotejo individual. Se comparan versiones históricas del lote y se comprueba la cobertura del inventario oficial completo, la ausencia de anexos y la fórmula promulgatoria preservada.
 
-Se releen FJ 6 y 7 y fallo de STC 26/2025 desde el texto completo conservado, con separación de alegaciones y votos. La nulidad de los pasajes de 2023 del artículo 685.2 no se proyecta automáticamente sobre la nueva redacción de octubre de 2026. Investigación jurisprudencial selectiva.
+Se releen los FFJJ 6–9 y fallo de STC 31/2019 en el texto íntegro conservado, distinguiendo antecedentes y voto discrepante. La resolución no declara directamente abusiva la cláusula y precede a las reglas actuales de pronunciamiento expreso y cosa juzgada. Investigación selectiva.
 
 | Unidad | Comprobación |
 |---|---|
-| a667 | Cotejadas remisiones 644/645, actualización registral y gráfica hasta cierre y excepción informativa de cuarenta y ocho horas. |
-| a668 | Verificados edicto por finca, CRU, catastro, tasación, minoración, posesión, visitas, aceptación de cargas y comienzo del plazo sin nueva notificación. |
-| a669 | Cotejados depósito 20 % y mínimo 1.000 euros, facultad de adaptación, consentimiento de inspección, reducción no automática hasta 2 % y reanudación tras quince días. |
-| a670 | Precisada mejora efectiva del precio por tercero; cotejados umbrales 70/60/50/40 %, vivienda habitual, plazos desde cierre o requerimiento, quiebra del ejecutante, revisión, cargas, financiación, liberación y depósitos reservados. |
-| a671 | Confirmada sustitución del régimen histórico de adjudicación al acreedor: alzamiento a instancia del ejecutado, comprador designado, umbrales y aprobación motivada, revisión y acuerdo alternativo. |
-| a672 | Cotejados aplicación 654.1, retención para posteriores, sobrante y otras retenciones; treinta días, traslado diez días, efectos distributivos y reposición. |
-| a673 | Verificados testimonio suficiente, consignación cuando proceda y financiación del precio y depósito con identificación de prestamista; separadas adquisición y cancelación. |
-| a674 | Cotejados instancia del adquirente, cancelación del gravamen ejecutado y asientos posteriores, remanente retenido y remisión electrónica a instancia de parte. |
-| a675 | Verificados posesión de inmueble vacío, pronunciamiento previo 661.2, plazo anual de vía incidental, vista diez días, incomparecencia injustificada, auto sin recurso y derechos reservados. |
-| a676 | Cotejados solicitud, naturaleza adecuada, inventario, gestión por terceros retribuida, audiencia a posteriores y órganos distintos para multas a ejecutado y terceros. |
-| a677 | Confirmada prelación de pacto y costumbre del país; explicación conectada a cuentas y controversias sin atribuir al acreedor facultad de disposición. |
-| a678 | Cotejados periodicidad anual supletoria, quince/nueve días de contradicción, comparecencia cinco días, prueba máximo diez, decreto cinco y revisión directa. |
-| a679 | Verificado juicio verbal ante tribunal ejecutor para controversias distintas de cuentas entre acreedor y ejecutado, sin absorber reclamaciones de terceros. |
-| a680 | Comprobados satisfacción por frutos, pago del saldo y reposición inmediata, cuenta general en quince días y realización alternativa previa rendición. |
-| a681 | Cotejada acción directa sobre garantía y diferenciación documental de causas a/e, c/d y b de hipoteca naval; no se reconstruyen causas externas sin fuente. |
-| a682 | Verificados exclusividad objetiva, tipo pactado mínimo 75 % de tasación referida, domicilio, comunicación electrónica obligatoria, establecimiento mercantil y constancia registral. |
-| a683 | Corregido alcance subjetivo: también hipotecante no deudor puede cambiar domicilio; cotejados tres regímenes de consentimiento, notificación fehaciente, nota marginal y terceros adquirentes. |
-| a684 | Cotejados cuatro fueros, elección y sumisión según garantía, exclusión de sumisión inmobiliaria y control territorial de oficio. |
-| a685 | Contrastadas partes, documentación y excepciones, versión vigente de octubre de 2026 frente a versión de septiembre derogada y pasajes de 2023 anulados. Releídos FJ 6, 7 y fallo de STC 26/2025; notificación inicial y límite de demora para fiadores. |
-| a686 | Cotejados destinatarios, domicilio registral, remisión 441.5, dispensa de requerimiento pero no de notificación, receptores notariales y averiguaciones antes de edictos. |
+| a687 | Depósito, precinto, intervención, requerimiento previo y paralización por imposibilidad de aprehender prenda; distinción respecto de vehículo hipotecado. |
+| a688 | Certificación literal y actualización 656.3, nota marginal, mandamiento de cancelación y decreto de terminación por inexistencia de garantía. |
+| a689 | Titular registral no requerido y notificación; cobertura por finca, intervención 662 y derechos posteriores 659; distinción frente a demanda y requerimiento iniciales. |
+| a690 | Diez días según requerimiento o despacho, rentas pactadas, gastos, preferencia y prorrata, límites temporales, cuentas y revisión, caución de vehículo y concurso. |
+| a691 | Veinte días desde comunicaciones, legitimación de tres solicitantes, edicto mercantil, régimen inmobiliario para muebles hipotecados, concurso y alternativas. |
+| a692 | Coberturas separadas, posteriores, propietario deudor y límite concursal, incidente 672.2, retenciones y mandamiento con notificaciones 689. |
+| a693 | Tres mensualidades frente a vencimiento total y remisión 5/2019, subsistencia parcial de hipoteca, liberación antes del cierre, vivienda habitual, tres años, costas y tercero. |
+| a694 | Depósito y apremio, excepción de sección 1.ª, artículos 645 y siguientes, valor pactado y subsidiario de reclamación. |
+| a695 | Cuatro causas, prueba diferenciada, precisión del ámbito mobiliario y asiento previo de la tercera; comparecencia quince días y auto segundo día; efectos y recursos, cosa juzgada. Releídos FFJJ 6–9 y fallo STC 31/2019. |
+| a696 | Título fehaciente y asiento anteriores a garantía, certificaciones de dominio subsistente, admisión y suspensión limitada a bienes afectados. |
+| a697 | Causa criminal y nexo con título/despacho, remisión 569, ausencia de automatismo por denuncia y coordinación con suspensión concursal. |
+| a698 | Proceso ordinario residual, no suspensión, retención documentada, garantía previa por falta de solvencia y alzamiento por afianzamiento del acreedor. |
+| a699 | Cumplimiento específico en términos del título, plazo judicial adecuado y apercibimiento facultativo sujeto a instrumentos legales. |
+| a700 | Iniciativa de ejecutante, embargo de indemnización y costas, revisión no suspensiva y alzamiento por caución 529.3. |
+| a701 | Mueble individualizado, posesión por LAJ, autorización judicial de entrada, registro, interrogatorios y conversión judicial mediante providencia a instancia del ejecutante. |
+| a702 | Cosas adquiribles en mercado, entrega o adquisición autorizada con embargo y cuenta, pérdida de interés legítimo, equivalente y daños sin duplicidad. |
+| a703 | Entrega/registro, requerimiento previo a abandono, motivos de desahucio para gestor único precisados, inseparables y cinco días, depósito por desperfectos y entrega anticipada. |
+| a704 | Vivienda habitual: mes más prórroga motivada de otro; día y hora exactos. Terceros: diez días para títulos y cauce 675.3–4. |
+| a705 | Plazo fijado por tribunal y delegación de práctica a Procura a petición y costa del ejecutante; versión desde 3 de abril de 2025. |
+| a706 | Hacer sustituible, elección limitada por título, tasación pericial y decreto revisable sin suspensión, depósito o afianzamiento, embargo y liquidación 712; coordinación 705. |
 
-Evidencia: [resultado](review-result.json), [inventario y versiones](review-batch-36-audit.json), [preflight](preflight-result.json), [ficha judicial](cases/STC-26-2025-a667-a686.md). Validación parcial y límite global: review-batch-36-validation.json. Las comprobaciones técnicas no certifican por sí solas calidad jurídica.
+Evidencia: [resultado](review-result.json), [inventario y versiones](review-batch-37-audit.json), [preflight](preflight-result.json), [ficha judicial](cases/STC-31-2019-a687-a706.md). Validación del lote y límite global: review-batch-37-validation.json. Los controles técnicos no prueban por sí solos calidad jurídica.

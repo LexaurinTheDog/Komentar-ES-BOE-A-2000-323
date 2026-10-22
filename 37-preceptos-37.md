@@ -248,7 +248,7 @@ Por ejemplo, en una prenda sobre un lote de maquinaria depositado judicialmente,
 
 *Nota editorial del BOE:* Se modifica el apartado 2 por el art. 15.310 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-La oposición tiene causas tasadas, pero cada una responde a una controversia distinta. La primera exige acreditar la extinción mediante los documentos públicos o registrales indicados. La segunda se refiere al error del saldo de cuenta: como regla requiere la libreta discrepante, mientras que en las operaciones bancarias descritas basta precisar los puntos de desacuerdo con la liquidación certificada. La tercera protege frente a un gravamen o embargo anterior en la ejecución mobiliaria y exige certificación registral. La cuarta permite combatir la cláusula abusiva que funda la ejecución o determina la cantidad; no equivale a que toda condición discutida anule el préstamo completo.
+La oposición tiene causas tasadas, pero cada una responde a una controversia distinta. La primera exige acreditar la extinción mediante los documentos públicos o registrales indicados. La segunda se refiere al error del saldo de cuenta: como regla requiere la libreta discrepante, mientras que en las operaciones bancarias descritas basta precisar los puntos de desacuerdo con la liquidación certificada. La tercera opera en la ejecución de muebles hipotecados o sujetos a prenda sin desplazamiento y exige certificación de la prenda, hipoteca mobiliaria o inmobiliaria o embargo inscrito con anterioridad al gravamen ejecutado. No se extiende indiscriminadamente a cualquier prenda ni basta alegar un crédito anterior sin el asiento exigido. La cuarta permite combatir la cláusula abusiva que funda la ejecución o determina la cantidad; no equivale a que toda condición discutida anule el préstamo completo.
 
 Formulada la oposición, se suspende la ejecución y se convoca comparecencia ante el tribunal, con quince días desde la citación. Las partes son oídas y pueden presentar documentos; el auto debe dictarse dentro del segundo día. El apartado 3 sobresee por las causas primera y tercera, corrige la cantidad por la segunda y distingue, en la cuarta, entre cláusula que funda la ejecución —sobreseimiento— y cláusula de cuantificación —continuación sin aplicarla—. La redacción seleccionada exige pronunciamiento expreso sobre las cláusulas examinadas y atribuye cosa juzgada a ese pronunciamiento firme.
 
@@ -304,6 +304,8 @@ Por ejemplo, un interesado que ejercita una reclamación ajena a las causas tasa
 
 **Comprobación práctica del cierre hipotecario:** verificar garantía y rango en la certificación; documentar requerimientos y comunicaciones; separar cuotas vencidas de vencimiento total; clasificar cada motivo de oposición y su prueba; controlar fechas de liberación y cierre de subasta; distribuir el precio por conceptos y coberturas; reflejar notificaciones y destino del sobrante en las actuaciones cancelatorias.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
 #### TÍTULO V — De la ejecución no dineraria
 
 #### CAPÍTULO I — De las disposiciones generales
@@ -342,6 +344,10 @@ Este embargo no declara ya imposible el cumplimiento específico ni reconoce def
 
 El ejecutado puede obtener el alzamiento prestando caución por la cuantía fijada y en las formas del artículo 529.3, párrafo segundo. No basta ofrecer una promesa de pago o una garantía cuyo importe no cubra el fijado. Por ejemplo, si una empresa debe entregar una pieza industrial cuya localización llevará varias semanas, el ejecutante puede pedir embargo para asegurar la compensación que pudiera resultar necesaria y las costas. Una caución suficiente sustituirá ese embargo, pero la empresa seguirá obligada a entregar la pieza mientras tal cumplimiento sea procedente.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO V — De la ejecución no dineraria
+
 #### CAPÍTULO II — De la ejecución por deberes de entregar cosas
 
 ### Artículo 701 — Entrega de cosa mueble determinada.
@@ -364,7 +370,7 @@ La entrega de mueble cierto exige identificar el mismo objeto contenido en el t�
 
 El apartado 2 impone averiguaciones cuando se desconoce el paradero o la búsqueda resulta infructuosa en el lugar esperado. Permite interrogar al ejecutado y a terceros, apercibiéndoles de desobediencia, sobre posesión y localización. La falta de entrega inicial no basta para tratar como perdida la cosa: deben agotarse las actuaciones pertinentes de los apartados anteriores antes de acudir a su sustitución económica.
 
-El apartado 3 reserva al tribunal, mediante providencia y a instancia del ejecutante, la conversión en justa compensación pecuniaria cuando no pueda ser habida. Su liquidación sigue los artículos 712 y siguientes, con las garantías de determinación de la cantidad; no se acepta sin más el precio indicado unilateralmente por el acreedor. Por ejemplo, si la condena ordena devolver un cuadro individualizado, no se cumple ofreciendo otro del mismo pintor. Debe buscarse y entregarse aquel cuadro y, si tras las actuaciones legales no aparece, determinarse la compensación conforme al cauce previsto.
+La decisión de sustituir la entrega corresponde al tribunal, mediante providencia y a instancia del ejecutante; el apartado 3 regula la conversión en justa compensación pecuniaria cuando no pueda ser habida. Su liquidación sigue los artículos 712 y siguientes, con las garantías de determinación de la cantidad; no se acepta sin más el precio indicado unilateralmente por el acreedor. Por ejemplo, si la condena ordena devolver un cuadro individualizado, no se cumple ofreciendo otro del mismo pintor. Debe buscarse y entregarse aquel cuadro y, si tras las actuaciones legales no aparece, determinarse la compensación conforme al cauce previsto.
 
 ### Artículo 702 — Entrega de cosas genéricas o indeterminadas.
 
@@ -414,7 +420,7 @@ Por ejemplo, una empresa condenada a suministrar cien paneles de característica
 
 *Nota editorial del BOE:* Se añade el apartado 4 por la disposición final 3.9 de la Ley 23/2003, de 10 de julio. Ref. BOE-A-2003-13863
 
-La ejecución de entrega o transmisión de inmueble exige actuar conforme al contenido preciso de la condena y, cuando proceda, adecuar el Registro. El apartado 1 prevé además retirar cosas ajenas al objeto del título mediante requerimiento y plazo al ejecutado; solo ante la falta de retirada se establece su consideración como abandonadas. No autoriza a tratar desde el inicio como abandonado todo objeto encontrado ni a desconocer sin examen los derechos alegados por terceros. Para ciertos desahucios, la presencia de un solo gestor basta previa autorización, con posible auxilio de fuerza pública.
+La ejecución de entrega o transmisión de inmueble exige actuar conforme al contenido preciso de la condena y, cuando proceda, adecuar el Registro. El apartado 1 prevé además retirar cosas ajenas al objeto del título mediante requerimiento y plazo al ejecutado; solo ante la falta de retirada se establece su consideración como abandonadas. No autoriza a tratar desde el inicio como abandonado todo objeto encontrado ni a desconocer sin examen los derechos alegados por terceros. En desahucios por falta de pago de rentas o cantidades debidas o por expiración legal o contractual del plazo, basta un único funcionario con categoría de Gestor previa autorización del letrado de la Administración de Justicia, con posible auxilio de fuerza pública.
 
 El apartado 2 permite resolver en la ejecución sobre el valor de cosas no separables reivindicadas al desalojar, cuando consistan en plantaciones o instalaciones estrictamente necesarias para el uso ordinario. Los interesados deben instarlo dentro de cinco días desde el desalojo. No equivale a un derecho de abono general por cualquier mejora. El apartado 3 permite retener y depositar bienes del posible responsable si constan desperfectos originados por el ejecutado u ocupantes; los daños se liquidan, a instancia del ejecutante, conforme a los artículos 712 y siguientes. Debe documentarse el estado y la atribución del daño, sin confundir uso normal con desperfecto imputable.
 
@@ -445,6 +451,10 @@ El apartado 2 separa a los verdaderos terceros de quienes comparten con el ejecu
 Por ejemplo, al ejecutar la entrega aparece una persona que afirma ser arrendataria independiente y aporta contrato. Debe dársele la oportunidad procesal prevista para justificar su situación; la mera exhibición del documento tampoco obliga a reconocer definitivamente su oponibilidad. En cambio, la familia conviviente del ejecutado se sitúa, en principio, en el régimen del apartado 1, no en un incidente de tercero artificialmente separado.
 
 **Comprobación práctica de las entregas:** individualizar el bien y la prestación; agotar la localización del mueble antes de sustituirlo por dinero; justificar compras de bienes genéricos; documentar entrega efectiva, objetos y desperfectos del inmueble; identificar ocupantes y títulos; controlar plazos de retirada, reclamación y desalojo, y señalar exactamente el lanzamiento.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO V — De la ejecución no dineraria
 
 #### CAPÍTULO III — De la ejecución por obligaciones de hacer y no hacer
 
