@@ -141,3 +141,12 @@ Revisadas las veinte unidades de [review-result.json](review-result.json), todos
 Se releen íntegramente antecedentes, fundamentos 1–7 y fallo de la [STC 165/2004](cases/STC-165-2004.md): se mantiene su apoyo constitucional limitado y se distingue la posición fiscal del criterio del Tribunal. No interpreta directamente el trámite civil actual. La búsqueda de jurisprudencia de competencia sigue siendo selectiva y con los límites de acceso ya documentados; no se añade una autoridad no verificada.
 
 La [auditoría](review-batch-16-audit.json) compara los 916 identificadores oficiales y textos, versiones, ausencia de anexos y fórmula de promulgación; dentro del lote comprueba comentario único, ausencia de párrafos repetidos y marcadores pendientes. Estos controles no prueban calidad jurídica por sí solos. Se registra el [build integral](review-batch-16-build.json) y la [validación estricta](review-batch-16-validation.json): el libro conserva 596 unidades sin comentario fuera de esta asignación. Se exporta el capítulo 16 revisado, sin afirmar terminación del libro ni aprobación profesional externa.
+
+
+## Segunda lectura limitada: artículos 292 a 311
+
+Revisadas individualmente las veinte unidades de [review-result.json](review-result.json), incluidos todos sus apartados, remisiones y ejemplos, frente al [XML oficial renovado](sources/review-batch-17-official.xml). Se conserva el corte jurídico de autoría del 19 de octubre de 2026 y se comparan las versiones históricas y el inventario oficial completo. Se precisa la incorporación de materiales anticipados a la demanda (296), la obligatoriedad de respuestas afirmativas o negativas cuando sean posibles (305) y la inclusión de entes sin personalidad (309).
+
+No se atribuyen criterios a sentencias sin verificar. Estas unidades no contienen citas jurisprudenciales; se conserva la [búsqueda selectiva previa y sus límites](sources/case-search-a292-a311.json). Las remisiones internas se contrastan con los preceptos, especialmente 183, 304–309, 312, 382–384 y 435. La [auditoría](review-batch-17-audit.json) controla inventario, versiones, texto y repetición; esos controles no sustituyen la lectura jurídica.
+
+Se registra el [build integral](review-batch-17-build.json) y la [validación estricta](review-batch-17-validation.json). Las unidades pendientes fuera del lote impiden completar el libro; se exporta únicamente el capítulo 17 revisado. No se declara revisión profesional externa ni terminación del conjunto.
