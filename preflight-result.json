@@ -24,7 +24,7 @@
   ],
   "decisive_date": "2026-10-19",
   "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
-  "verified_at": "2026-10-22T02:16:38.458749+00:00",
+  "verified_at": "2026-10-22T02:22:27.750393+00:00",
   "version_evidence": {
     "initial": "2001-01-08 (metadatos BOE y disposición final vigésimo novena)",
     "latest_published_change": "2026-10-07",
@@ -42,7 +42,7 @@
     "no_change_in_fresh_xml_metadata_analysis": true,
     "http_and_hash_evidence": "sources/verification.json",
     "clock_note": "Response access times are actual UTC system clock; snapshot filename uses assigned local task date 2026-10-22.",
-    "bounded_review_refresh": "review-batch-33-audit.json",
+    "bounded_review_refresh": "review-batch-34-audit.json",
     "fresh_xml_identical_to_authoring_snapshot": true,
     "bounded_author_refresh": "author-a628-a647-audit.json",
     "current_check_date": "2026-10-22",
@@ -77,7 +77,7 @@
           "fecha_vigencia": "20151001"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a629",
@@ -108,7 +108,7 @@
           "fecha_vigencia": "20250403"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a630",
@@ -124,7 +124,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a631",
@@ -150,7 +150,7 @@
           "fecha_vigencia": "20151001"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a632",
@@ -176,7 +176,7 @@
           "fecha_vigencia": "20151001"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a633",
@@ -202,7 +202,7 @@
           "fecha_vigencia": "20151001"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a634",
@@ -233,7 +233,7 @@
           "fecha_vigencia": "20240320"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a635",
@@ -264,7 +264,7 @@
           "fecha_vigencia": "20240320"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a636",
@@ -300,7 +300,7 @@
           "fecha_vigencia": "20250403"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a637",
@@ -316,7 +316,7 @@
           "fecha_vigencia": "20010108"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a638",
@@ -342,7 +342,7 @@
           "fecha_vigencia": "20151001"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a639",
@@ -373,7 +373,7 @@
           "fecha_vigencia": "20240320"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a640",
@@ -404,7 +404,7 @@
           "fecha_vigencia": "20250403"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a641",
@@ -440,7 +440,7 @@
           "fecha_vigencia": "20250403"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a642",
@@ -471,7 +471,7 @@
           "fecha_vigencia": "20250403"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a643",
@@ -492,7 +492,7 @@
           "fecha_vigencia": "20151001"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a644",
@@ -528,7 +528,7 @@
           "fecha_vigencia": "20250403"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a645",
@@ -564,7 +564,7 @@
           "fecha_vigencia": "20250403"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a646",
@@ -590,7 +590,7 @@
           "fecha_vigencia": "20250403"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     },
     {
       "id": "a647",
@@ -631,7 +631,7 @@
           "fecha_vigencia": "20250403"
         }
       ],
-      "text_equal": true
+      "text_matches": true
     }
   ],
   "annexes_checked": true,
@@ -646,7 +646,7 @@
   "fresh_source_identical_to_authoring_xml": true,
   "unresolved_blockers": [],
   "limitations": [
-    "Lote de autoría; no segunda lectura independiente.",
-    "El libro completo continúa en elaboración."
+    "Fecha jurídica conservada: 19 de octubre de 2026; el análisis transitorio de cada expediente requiere examen propio.",
+    "La segunda lectura sustantiva de este checkpoint comprende exclusivamente los 20 identificadores de review-result.json; el manuscrito entero permanece incompleto."
   ]
 }

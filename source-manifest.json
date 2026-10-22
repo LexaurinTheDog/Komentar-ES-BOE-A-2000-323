@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:20:39.100400+00:00",
+  "generated_at": "2026-10-22T02:23:31.982130+00:00",
   "sources": [
     {
       "path": "sources/ATC-20-2024-a608-a627.html",
@@ -185,13 +185,13 @@
     },
     {
       "path": "sources/STC-112-2022-a628-a647.html",
-      "bytes": 81688,
-      "sha256": "0d80f1b4f0e95ca0657edf4775aa582b19c5cf5e3710c218a1f84a98448cc0bd"
+      "sha256": "0d80f1b4f0e95ca0657edf4775aa582b19c5cf5e3710c218a1f84a98448cc0bd",
+      "bytes": 81688
     },
     {
       "path": "sources/STC-112-2022-a628-a647.txt",
-      "bytes": 57796,
-      "sha256": "74c54d036aa41466d7ab881b745d8acde9c2ca924ef117b24d7a1f970835eae1"
+      "sha256": "74c54d036aa41466d7ab881b745d8acde9c2ca924ef117b24d7a1f970835eae1",
+      "bytes": 57796
     },
     {
       "path": "sources/STC-113-1989-a588-a607.txt",
@@ -320,8 +320,8 @@
     },
     {
       "path": "sources/TC-29078-a628-a647-local.md",
-      "bytes": 54092,
-      "sha256": "f302c2ea8ecd31cd783f585c192862f7ea8571ba5a65ef88d935668cdcee738d"
+      "sha256": "f302c2ea8ecd31cd783f585c192862f7ea8571ba5a65ef88d935668cdcee738d",
+      "bytes": 54092
     },
     {
       "path": "sources/TC-5170-local.md",
@@ -665,33 +665,33 @@
     },
     {
       "path": "sources/author-a628-a647-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-a628-a647-case-fetch.json",
-      "bytes": 280,
-      "sha256": "6899ac1cdc3c7342f759c8c79ba63b52944eb0cf1bcfc2827a13fa9a64855eb8"
+      "sha256": "6899ac1cdc3c7342f759c8c79ba63b52944eb0cf1bcfc2827a13fa9a64855eb8",
+      "bytes": 280
     },
     {
       "path": "sources/author-a628-a647-fetch.json",
-      "bytes": 1066,
-      "sha256": "aab631fceb2adc33cb8e835d4a26754c0bf481de7efcb71750386c18b72bd9a1"
+      "sha256": "aab631fceb2adc33cb8e835d4a26754c0bf481de7efcb71750386c18b72bd9a1",
+      "bytes": 1066
     },
     {
       "path": "sources/author-a628-a647-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-a628-a647-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
     },
     {
       "path": "sources/author-a628-a647-search-log.json",
-      "bytes": 815,
-      "sha256": "00e540f18ad632fcd7e6d8ec14f95ee63d4aee2a36631f76e814e903389039b4"
+      "sha256": "00e540f18ad632fcd7e6d8ec14f95ee63d4aee2a36631f76e814e903389039b4",
+      "bytes": 815
     },
     {
       "path": "sources/boe-act.html",
@@ -1687,14 +1687,34 @@
       "bytes": 5433343
     },
     {
+      "path": "sources/review-batch-34-STC-112-2022.html",
+      "sha256": "0d80f1b4f0e95ca0657edf4775aa582b19c5cf5e3710c218a1f84a98448cc0bd",
+      "bytes": 81688
+    },
+    {
+      "path": "sources/review-batch-34-analysis.xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
+    },
+    {
+      "path": "sources/review-batch-34-metadata.xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
+    },
+    {
+      "path": "sources/review-batch-34-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 60252,
-      "sha256": "08e36c54178d705d9deb3bb34122ab0c8eeccaf6d5598ddedf1c6fefe39ae8bc"
+      "sha256": "065b50a8a95b458bdd39bf66666a012529fb68c553d641b776a6f3789456f908",
+      "bytes": 62716
     },
     {
       "path": "sources/version-selection.json",

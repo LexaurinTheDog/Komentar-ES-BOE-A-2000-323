@@ -1,32 +1,32 @@
-# Segunda lectura parcial: artículos 608–627
+# Segunda lectura parcial: artículos 628–647
 
-Se revisaron individualmente los veinte artículos frente a su texto oficial y las versiones históricas. Corte jurídico: 19 de octubre de 2026; comprobación oficial renovada durante esta revisión. El resultado se limita a este lote y no constituye aprobación profesional externa ni finalización del libro.
+Revisados exactamente veinte preceptos frente al XML oficial y sus versiones históricas. Corte jurídico: 19 de octubre de 2026; nueva consulta oficial durante la revisión del 22 de octubre. El libro permanece incompleto y esta revisión no constituye aprobación profesional externa.
 
-Se corrigen dos precisiones: el artículo 614 exige un principio de prueba sin calificarlo expresamente de documental; el artículo 626.4 exige decreto para el nombramiento alternativo del depositario. Se conserva el restante comentario tras comprobar sus elementos y remisiones.
+Se precisan los comentarios 644 y 646 para coordinar la advertencia sobre el cierre con los requerimientos posteriores de pago de los artículos 650.4 y 670.4. En el 647 se distingue el depósito de muebles del 20 % específico de inmuebles del artículo 669.1. Se mantienen los restantes comentarios tras la lectura individual.
 
-El ATC 20/2024 se leyó en su texto íntegro, incluidos antecedentes, fundamentos y fallo; se confirmó su alcance de inadmisión y que no interpreta la reforma posterior de 2025. No se añaden decisiones sin verificar ni se afirma exhaustividad jurisprudencial.
+Se releyó la STC 112/2022 en antecedentes, fundamentos y fallo; se confirmó la separación entre alegaciones y doctrina, y su alcance constitucional anterior a la reforma de 2025. No interpreta los actuales plazos ni la cesión del remate. Investigación selectiva, sin exhaustividad.
 
- | Unidad | Comprobación sustantiva |
+| Unidad | Comprobación |
 |---|---|
-| a608 | Cotejados alimentos legales, títulos, solicitud y necesidad en compensatoria, ponderación bilateral y medidas cautelares. ATC 20/2024 leído íntegramente: inadmisión y régimen anterior, sin atribuirle reforma de 2025. |
-| a609 | Verificadas nulidad de pleno derecho, denuncia por comparecencia para no personados y decisión del tribunal; límites del ejemplo bancario preservados. |
-| a610 | Verificados prioridad del reembargo, sucesión al alzarse primera traba, realización sin perjuicio previo y garantías compatibles. |
-| a611 | Cotejados objeto eventual del sobrante, cuenta judicial y preferencia de acreedores registrales posteriores sobre quien traba el remanente. |
-| a612 | Verificados cambio de circunstancias, reducción sin riesgo, remisiones 598/604/584/613.4 y revisión no suspensiva del decreto. |
-| a613 | Cotejados destino del producto, tercería para preferencia, terceros adquirentes en otra ejecución y fecha de inscripción; ampliación limitada a intereses y costas. |
-| a614 | Suprimida calificación documental no expresa del principio de prueba; mantenida necesidad de soporte inicial y prohibición de reiteración por derechos ya poseídos. |
-| a615 | Verificados inicio según preferencia especial/general y cierre por entrega o adquisición civil, sin inventar fecha procesal sustitutiva. |
-| a616 | Cotejadas continuidad de realización, depósito e intervención diferenciada por título ejecutivo y admisión/estimación. |
-| a617 | Verificados juicio verbal actual frente a versión histórica, ejecutante demandado siempre, ejecutado necesario sin título ejecutivo y notificación en todo caso. |
-| a618 | Verificada admisión de hechos por no contestar; distinción entre hechos y calificación jurídica, sin confundir silencio con allanamiento. |
-| a619 | Cotejados título ejecutivo, auto, tres quintos de costas y gastos hasta notificación, cinco días del ejecutado personado y desistimiento por decreto. |
-| a620 | Verificados alcance del fallo, acciones no prejuzgadas, reparto de costas según conducta y tres quintos de costas ejecutivas hasta sentencia; diferenciado artículo 619. |
-| a621 | Cotejados dinero/divisas, límite de orden, cumplimiento inmediato, recibo, procura y salarios con remisión 607.7. |
-| a622 | Verificados intereses a devengo frente a retención de otros frutos, diligenciamiento por procura a costa propia, administración por circunstancias o incumplimiento comprobado. |
-| a623 | Cotejados destinatarios según instrumento, vencimiento, mercados, restricciones societarias y autorización/coste para comunicaciones por procura. |
-| a624 | Verificados los tres extremos del acta y entrega de copia; manifestación sobre propiedad diferenciada de decisión sobre titularidad. |
-| a625 | Cotejados momento de depósito/orden de retención, dinero y otros bienes, sin atribuir transferencia dominical ni delito automático. |
-| a626 | Verificados cinco apartados: establecimiento adecuado, tercero poseedor, ejecutado productivo, alternativas y colegios, anotaciones en cuenta. Añadida exigencia de decreto en alternativa del apartado 4. |
-| a627 | Verificados conservación/exhibición/entrega, remoción por decreto y responsabilidad separada; régimen interino y conocimiento del embargo. Remisión 628 comprobada. |
+| a628 | Comprobados sujetos excluidos del reembolso, anticipos por diligencia, daños causales y remuneración del establecimiento a cargo del ejecutante. |
+| a629 | Cotejados instancia, remisión el mismo día, diferencia presentación/anotación, procura, dos días hábiles y suspensión por falta de inscripción o tracto. |
+| a630 | Comprobados empresa, mayoría y separación patrimonio social/socio; remisión a supuestos 622.2 y 3. |
+| a631 | Verificadas citación de afectados, ausencia injustificada, acuerdo por decreto, controversia ante tribunal, dos clases de intervención y publicidad registral. |
+| a632 | Verificados sustitución ordinaria, autorizaciones para gravar/enajenar, audiencia de interventores, decreto y revisión directa. |
+| a633 | Cotejados posesión inmediata, cese del ejecutado, discrepancias, cuenta justificada, cinco días prorrogables hasta treinta y revisión. |
+| a634 | Verificados cuatro tipos de entrega directa, pagos periódicos, intereses/costas previos, vencimiento diferido y tablas contractuales en venta a plazos. |
+| a635 | Cotejados mercado secundario, mercado reglado/precio oficial, valores no cotizados y derechos de adquisición; subasta subsidiaria. |
+| a636 | Verificados convenio aprobado y subasta subsidiaria actuales, preparación sin paralización informal y supresión de vía autónoma del artículo 641. |
+| a637 | Verificados exclusión 634/635, acuerdo de valoración y relación con avalúo pericial y cargas del 666. |
+| a638 | Cotejados orden subsidiario de tasadores, recusación y provisión en tres días a cuenta de liquidación final. |
+| a639 | Verificados aceptación al día siguiente, informe en ocho días, ampliación motivada, mercado sin descontar cargas y contradicción en cinco días. |
+| a640 | Comprobados legitimados, especialista mediante convenio, consentimiento de afectados registrales, suspensión, cumplimiento/fracaso y efectos registrales. |
+| a641 | Confirmado espacio sin contenido; no recuperación de versión histórica y referencia correcta a especialista en 640. |
+| a642 | Confirmado espacio sin contenido y traslado material de cancelaciones a 640.4; cautela sobre derecho transitorio. |
+| a643 | Cotejados lotes con audiencia de cinco días y prohibición de subasta si producto no supera gastos. |
+| a644 | Precisada coordinación de aviso de cierre con requerimiento posterior de pago en 650.4/670.4; comprobados diez días de colaboración, 669.3, notificación 155 y límites STC. |
+| a645 | Verificados firmeza, BOE, autorización a procura, publicidad adicional y reparto de gastos; STC usada solo sobre diligencia constitucional. |
+| a646 | Precisados requerimientos posteriores de pago; cotejados anuncio breve, documentos y valoración en Portal, titulación y publicidad adicional. |
+| a647 | Añadida regla inmobiliaria específica del 20 % del artículo 669.1; comprobados representación, tres días, pérdida de depósito, puja del ejecutante, cesión, sobreprecio y quiebra. |
 
-Evidencia: [resultado](review-result.json), [cotejo XML e inventario](review-batch-33-audit.json), [preflight](preflight-result.json), validación registrada en review-batch-33-validation.json y [ficha del auto](cases/ATC-20-2024-a608-a627.md). La verificación técnica comprueba correspondencia textual, inventario, enlaces y repetición; no sustituye esta lectura jurídica.
+Evidencia: [resultado](review-result.json), [cotejo e inventario](review-batch-34-audit.json), [preflight](preflight-result.json), [ficha de sentencia](cases/STC-112-2022-a628-a647.md). Validación estricta del lote y resultado global se registran en review-batch-34-validation.json. Las comprobaciones técnicas no equivalen a una evaluación de calidad jurídica.

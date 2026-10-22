@@ -1,0 +1,11 @@
+{
+  "command": [
+    "python3",
+    "/Volumes/LaCie/open-commentary/_tools/build_repo.py",
+    "/Volumes/LaCie/open-commentary/_work/es/Komentar-ES-BOE-A-2000-323"
+  ],
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 236 jednotkám, např.: ['a648', 'a649', 'a650', 'a651', 'a652', 'a653', 'a654', 'a655', 'a6-2', 'a656']\n",
+  "limitation": "El constructor íntegro rechaza las 236 unidades aún sin comentario; no se alteró el inventario. Se exporta únicamente el capítulo revisado por el mismo formateador."
+}
