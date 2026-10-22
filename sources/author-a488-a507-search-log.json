@@ -1,0 +1,37 @@
+{
+  "scope": [
+    "a488",
+    "a489",
+    "a490",
+    "a491",
+    "a492",
+    "a493",
+    "a494",
+    "a495",
+    "a496",
+    "a497",
+    "a498",
+    "a499",
+    "a500",
+    "a501",
+    "a502",
+    "a503",
+    "a504",
+    "a505",
+    "a506",
+    "a507"
+  ],
+  "queries": [
+    "site.tribunalconstitucional.es rebeldía rescisión sentencia 501 502 emplazamiento subsidiariedad",
+    "site.hj.tribunalconstitucional.es rescisión rebeldía 2019",
+    "site.hj.tribunalconstitucional.es rescisión 501 indefensión"
+  ],
+  "selected": "STC 50/2017; full official XML and local national corpus read",
+  "local_search": "/Volumes/LaCie/law-intake/eu/es/tc/2017/TC-25340.md",
+  "local_sha256": "16f1eef1595d6c679d145115a1ef3e4a14057402cf27984f55de2c5d0ad10dca",
+  "not_relied_on": [
+    "STC 11/2009 search hit: not independently read in this batch",
+    "DGSJFP/DGRN resolutions returned by search: not judicial cases and not relied on"
+  ],
+  "limits": "Selective constitutional research. No sufficiently specific new verified judicial authority selected for queja, vacant slots or costs; commentary rests on statutory text. No exhaustive CENDOJ survey claimed."
+}
