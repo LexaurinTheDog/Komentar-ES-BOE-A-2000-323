@@ -19,5 +19,27 @@
       "warnings": [],
       "ok": false
     }
+  },
+  "post_checkpoint_strict_validation": {
+    "exit_code": 1,
+    "result": {
+      "repo": "Komentar-ES-BOE-A-2000-323",
+      "units": 916,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 470770,
+      "errors": [
+        "krátký/chybějící komentář u 556 jednotek: ['a332(0<400)', 'a333(0<400)', 'a334(0<400)', 'a335(0<400)', 'a336(0<400)', 'a337(0<400)', 'a338(0<400)', 'a339(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  },
+  "bounded_result": {
+    "complete": true,
+    "assigned_units": 20,
+    "commented_units": 20,
+    "statutory_text_agreement": 1.0,
+    "book_complete": false,
+    "independent_review_pending": true
   }
 }
