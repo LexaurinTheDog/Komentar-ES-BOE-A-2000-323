@@ -13,11 +13,9 @@
     "units": 916,
     "verbatim_ratio": 1.0,
     "commentary_chars": 1438532,
-    "errors": [
-      "necommitnuté změny v repu"
-    ],
+    "errors": [],
     "warnings": [],
-    "ok": false
+    "ok": true
   },
   "limitation": "El lote de dieciséis unidades pasa; la validación global no acredita revisión sustantiva de las demás unidades."
 }
