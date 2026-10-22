@@ -1,0 +1,6 @@
+{
+  "exit_code": 1,
+  "stdout": "{\"repo\": \"Komentar-ES-BOE-A-2000-323\", \"units\": 916, \"verbatim_ratio\": 1.0, \"commentary_chars\": 681221, \"errors\": [\"krátký/chybějící komentář u 436 jednotek: ['a449(0<400)', 'a450(0<400)', 'a451(0<400)', 'a452(0<400)', 'a453(0<400)', 'a454(0<400)', 'a454bis(0<400)', 'a455(0<400)']\"], \"warnings\": [], \"ok\": false}\n",
+  "stderr": "",
+  "scope_note": "Only assigned twenty units completed; whole manuscript intentionally remains incomplete."
+}

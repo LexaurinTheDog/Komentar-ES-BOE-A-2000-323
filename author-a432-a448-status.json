@@ -1,0 +1,64 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "a432",
+    "a433",
+    "a434",
+    "a435",
+    "a436",
+    "a437",
+    "a438",
+    "a4-4",
+    "a439",
+    "a4-5",
+    "a440",
+    "a441",
+    "a442",
+    "a443",
+    "a444",
+    "a445",
+    "a446",
+    "a447",
+    "a4-2",
+    "a448"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "official_xml_equal": true,
+    "text_agreement": 1.0,
+    "whole_inventory_matches": 916,
+    "evidence": "author-a432-a448-preflight-result.json"
+  },
+  "case_law_sources": [
+    "cases/STC-26-2025.md",
+    "cases/STC-190-2025.md"
+  ],
+  "validation": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 43404,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "links": {
+    "checked_files": [
+      "24-preceptos-24.md",
+      "SOURCES-a432-a448.md",
+      "cases/STC-26-2025.md",
+      "cases/STC-190-2025.md"
+    ],
+    "links_checked": 19,
+    "missing_local_targets": [],
+    "external_sources": "HTTP 200 XML evidence in sources/author-a432-a448-fetch.json"
+  },
+  "remaining_limitations": [
+    "Sólo lote de veinte unidades; quedan 436 unidades sin comentario fuera del encargo.",
+    "Jurisprudencia selectiva; no se afirma cobertura exhaustiva.",
+    "Pendiente de segunda lectura independiente."
+  ],
+  "whole_book_complete": false,
+  "output_commit": "b54e61553f48c6eb6fdbc7d9aebc27ed73acd883"
+}
