@@ -1,7 +1,7 @@
 {
   "official_source": {
     "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
-    "local_raw_evidence_path": "sources/review-batch-29-official.xml",
+    "local_raw_evidence_path": "sources/author-a548-a567-official.xml",
     "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
   },
   "expected_ids": [
@@ -1840,15 +1840,5 @@
     "dfvigesimooctava",
     "dfvigesimonovena"
   ],
-  "annex_disposition": [
-    {
-      "status": "verified_absence",
-      "basis": "No hay encabezado de anexo entre los 1083 bloques oficiales ni tipo anexo en el XML; las disposiciones adicionales, transitorias, derogatoria y finales están incluidas como preceptos. Las reformas de otros textos contenidas dentro de las disposiciones finales permanecen íntegras en su unidad.",
-      "evidence": [
-        "sources/preflight-2026-10-22-act.html",
-        "sources/preflight-2026-10-22-text.xml"
-      ]
-    }
-  ],
-  "derivation": "expected_ids enumera independientemente todos los bloques oficiales tipo precepto del XML recién descargado, sin seleccionar ni extraer texto; cotejo íntegro de orden e identificadores con h5.articulo del HTML recién descargado. parsed_ids procede de units.jsonl. Ningún ID esperado procede de parsed_ids."
+  "annex_disposition": "No se identifican anexos operativos en tipos ni rúbricas del XML íntegro; las disposiciones finales, transitorias y derogatoria integran los 916 preceptos. El lote tampoco contiene anexos."
 }

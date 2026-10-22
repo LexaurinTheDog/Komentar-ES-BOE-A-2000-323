@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:40:56.889465+00:00",
+  "generated_at": "2026-10-22T01:47:52.286175+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -209,6 +209,16 @@
       "sha256": "b9dc935bb1b1d6d1a0b86f370f152fe4efa0393d69e1f84a24b38768d97f6410"
     },
     {
+      "path": "sources/STC-31-2019-a548-a567.txt",
+      "bytes": 91601,
+      "sha256": "b95756759a5a062485eb771ab97dbc431ba8bb89c36ddaf19878da3b110315c0"
+    },
+    {
+      "path": "sources/STC-31-2019-a548-a567.xml",
+      "bytes": 97170,
+      "sha256": "7903c74c90042bc05605d0d22becab8ca976d0418e878d0c946747c3f3f2155d"
+    },
+    {
       "path": "sources/STC-50-2017-a488-a507.txt",
       "bytes": 41257,
       "sha256": "e8b5f7b3b6ced2d6fa804d3d92c82965cdd2aab0e4ff9735c90f975d4f81c19c"
@@ -247,6 +257,11 @@
       "path": "sources/TC-25340-local-a488-a507.md",
       "bytes": 43261,
       "sha256": "16f1eef1595d6c679d145115a1ef3e4a14057402cf27984f55de2c5d0ad10dca"
+    },
+    {
+      "path": "sources/TC-25877-a548-a567-local.md",
+      "bytes": 94658,
+      "sha256": "ba8436ddb8449791a0ef7f7dbea2a7842c281c1213a79d80da3954e0c4db18af"
     },
     {
       "path": "sources/TC-25878-local.md",
@@ -470,6 +485,36 @@
     },
     {
       "path": "sources/author-a528-a547-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
+      "path": "sources/author-a548-a567-analysis.xml",
+      "bytes": 42740,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+    },
+    {
+      "path": "sources/author-a548-a567-case-fetch.json",
+      "bytes": 320,
+      "sha256": "0f5d5d561ebf07e695dd21bf0c3ef7cfc3f0761f1b81edd460d451e3f6fb6bc0"
+    },
+    {
+      "path": "sources/author-a548-a567-case-search.json",
+      "bytes": 1291,
+      "sha256": "e3cac436803ce0fc86d90ff65b4b7aaccf41a2cc196c8483a44fdb422ab8d118"
+    },
+    {
+      "path": "sources/author-a548-a567-fetch.json",
+      "bytes": 1066,
+      "sha256": "fae6f3f5cb2baba631309555fc2e02d96c622362779a551d9fec59e210e98555"
+    },
+    {
+      "path": "sources/author-a548-a567-metadata.xml",
+      "bytes": 1196,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+    },
+    {
+      "path": "sources/author-a548-a567-official.xml",
       "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
     },
@@ -1349,8 +1394,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 47037,
-      "sha256": "3ed279f5c400a54bbcfa6a7231022c525c2c7c9a9cd570bd1a01e43eb414da72"
+      "bytes": 48502,
+      "sha256": "a02145e03e21b81a7f9fc457f12a66f5d860493d82b7b45c2329340b8d1d8e09"
     },
     {
       "path": "sources/version-selection.json",

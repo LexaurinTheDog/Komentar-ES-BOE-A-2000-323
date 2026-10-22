@@ -1,0 +1,42 @@
+{
+  "scope": [
+    "a548",
+    "a549",
+    "a550",
+    "a551",
+    "a552",
+    "a553",
+    "a554",
+    "a555",
+    "a556",
+    "a557",
+    "a558",
+    "a559",
+    "a560",
+    "a561",
+    "a562",
+    "a563",
+    "a564",
+    "a565",
+    "a566",
+    "a567"
+  ],
+  "searched_at": "2026-10-22T01:48:29.297483+00:00",
+  "web_queries": [
+    "site.boe.es STC 31/2019 cláusulas abusivas ejecución 28 febrero"
+  ],
+  "local_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/es/tc/2019",
+    "command": "rg -l numero: '31' (metadata checked for SENTENCIA)",
+    "result": "/Volumes/LaCie/law-intake/eu/es/tc/2019/TC-25877.md",
+    "snapshot": "sources/TC-25877-a548-a567-local.md",
+    "sha256": "ba8436ddb8449791a0ef7f7dbea2a7842c281c1213a79d80da3954e0c4db18af",
+    "rejected": "TC-25915: Auto 31/2019, no Sentencia 31/2019"
+  },
+  "selected_case": "cases/STC-31-2019-a548-a567.md",
+  "full_text_read": "XML BOE: antecedentes, fundamentos 1–9, fallo y voto particular; cotejo de identidad y estructura con corpus local TC-25877.",
+  "limitations": [
+    "Investigación selectiva, sin sentencia específica añadida para cada artículo técnico.",
+    "El precedente de 2019 no resuelve las reformas posteriores; no se formula una conclusión sobre toda la evolución jurisprudencial."
+  ]
+}
