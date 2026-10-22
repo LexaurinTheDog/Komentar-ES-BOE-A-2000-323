@@ -130,7 +130,7 @@ Ejemplo ficticio: en un inmueble adjudicado por 150.000 euros, la reducción má
 
 La aprobación del remate depende de la cuantía ofrecida, de la identidad del mejor postor y de si el inmueble es vivienda habitual. En el apartado 1, una postura de al menos el setenta por ciento permite aprobar el remate por decreto al día siguiente del cierre; el mejor postor dispone de veinte días desde el cierre para ingresar el resto. Si el ejecutante ofrece esa cuantía y supera el principal, el apartado 2 exige liquidar principal, intereses y costas antes de determinar la diferencia a consignar. Su impago durante diez días produce quiebra, descuento del equivalente al depósito en su crédito y obligación de soportar la nueva subasta.
 
-Por debajo del setenta por ciento, el ejecutado tiene diez días desde el cierre para presentar una persona que mejore el precio: al menos el sesenta por ciento, o una cantidad inferior que satisfaga completamente al ejecutante. Esa persona debe haber depositado la garantía y pagar el resto dentro de diez días desde el ingreso; el incumplimiento hace perder el depósito. El ejecutante que participó sin ser mejor postor no puede esperar al resultado para mejorar o solicitar adjudicación. Fracasada la mejora, procede aprobar una oferta de al menos el cincuenta por ciento, o la que satisfaga íntegramente el crédito con un mínimo del cuarenta por ciento. En este segundo supuesto termina la ejecución y se liberan los restantes bienes garantes. Por debajo de esas condiciones se requiere audiencia y valoración motivada de los sacrificios, conducta del deudor y alternativas de satisfacción; cabe revisión directa y, denegada la aprobación, alzamiento a instancia del ejecutado.
+Por debajo del setenta por ciento, el ejecutado tiene diez días desde el cierre para presentar una persona que mejore el precio: al menos el sesenta por ciento, o una cantidad inferior que satisfaga completamente al ejecutante. La oferta ha de mejorar efectivamente el precio obtenido: la satisfacción íntegra del crédito no permite desplazar al mejor postor con una propuesta menor. Esa persona debe haber depositado la garantía y pagar el resto dentro de diez días desde el ingreso; el incumplimiento hace perder el depósito. El ejecutante que participó sin ser mejor postor no puede esperar al resultado para mejorar o solicitar adjudicación. Fracasada la mejora, procede aprobar una oferta de al menos el cincuenta por ciento, o la que satisfaga íntegramente el crédito con un mínimo del cuarenta por ciento. En este segundo supuesto termina la ejecución y se liberan los restantes bienes garantes. Por debajo de esas condiciones se requiere audiencia y valoración motivada de los sacrificios, conducta del deudor y alternativas de satisfacción; cabe revisión directa y, denegada la aprobación, alzamiento a instancia del ejecutado.
 
 La vivienda habitual tiene un límite específico: setenta por ciento o satisfacción por todos los conceptos con mínimo del sesenta. Si la mejor puja del ejecutante no lo alcanza y no hay mejora, se aplican las cuantías correctoras que fija el apartado 3, junto con la imputación del artículo 654.3. No cabe trasladar sin más los porcentajes generales del cincuenta y cuarenta por ciento a esa vivienda.
 
@@ -264,6 +264,12 @@ Ejemplo ficticio: quien compra un piso ocupado por una persona que invoca un arr
 
 Comprobación práctica al cerrar la realización inmobiliaria: contrastar el pago y la adjudicación, las cargas anteriores subsistentes, el destino del remanente, el testimonio inscribible, el mandamiento cancelatorio y la situación de cada ocupante. La publicidad de la subasta no sustituye ninguno de estos controles.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO IV — De la ejecución dineraria
+
+#### CAPÍTULO IV — Del procedimiento de apremio
+
 #### Sección 7.ª De la administración para pago
 
 ### Artículo 676 — Constitución de la administración.
@@ -358,6 +364,10 @@ Ejemplo ficticio: las rentas de un local apenas cubren sus gastos y el acreedor 
 
 Lista práctica de cierre de la administración: verificar la causa de terminación, el saldo y su imputación, la entrega de bienes y documentos y la cuenta final; separar las partidas discutidas de las controversias sobre el modo de gestión y evitar seguir cobrando frutos sin título tras el cese.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO IV — De la ejecución dineraria
+
 #### CAPÍTULO V — De las particularidades de la ejecución sobre bienes hipotecados o pignorados
 
 ### Artículo 681 — Procedimiento para exigir el pago de deudas garantizadas por prenda o hipoteca.
@@ -434,7 +444,7 @@ La comunicación se practicará por medios electrónicos cuando el destinatario 
 
 *Nota editorial del BOE:* Se modifica por el art. 1.23 de la Ley 19/2015, de 13 de julio. Ref. BOE-A-2015-7851#aprimero.
 
-El cambio de domicilio de comunicación hipotecaria combina flexibilidad para el deudor y publicidad para el acreedor. En inmuebles no exige consentimiento del acreedor si se mantiene dentro de la población inicialmente designada o se traslada a otra comprendida en el ámbito territorial descrito por la regla primera. Para un destino distinto sí se necesita conformidad. La hipoteca mobiliaria requiere consentimiento del acreedor para cambiarlo; en la naval basta ponerle el cambio en conocimiento. En todos los casos se debe acreditar notificación fehaciente al acreedor.
+El cambio de domicilio de comunicación hipotecaria puede realizarlo tanto el deudor como el hipotecante no deudor; combina flexibilidad para ambos con publicidad para el acreedor. En inmuebles no exige consentimiento del acreedor si se mantiene dentro de la población inicialmente designada o se traslada a otra comprendida en el ámbito territorial descrito por la regla primera. Para un destino distinto sí se necesita conformidad. La hipoteca mobiliaria requiere consentimiento del acreedor para cambiarlo; en la naval basta ponerle el cambio en conocimiento. En todos los casos se debe acreditar notificación fehaciente al acreedor.
 
 El apartado 2 añade constancia registral por nota marginal y admite instancia con firma legitimada o ratificada ante el registrador, instancia telemática con certificado reconocido de firma electrónica o acta notarial. Comunicar informalmente una mudanza no cumple por sí solo todo este itinerario. Para terceros adquirentes se toma el domicilio que figure en la inscripción de adquisición, con aplicación de la previsión del artículo 660.1. Es necesario diferenciar su posición de la del deudor original y del hipotecante no deudor.
 

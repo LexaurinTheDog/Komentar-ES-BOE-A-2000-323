@@ -1,32 +1,32 @@
-# Segunda lectura parcial: artículos 648–666 y 655 bis
+# Segunda lectura parcial: artículos 667–686
 
-Revisadas exactamente las veinte unidades identificadas en el resultado. Corte jurídico: 19 de octubre de 2026; consulta oficial renovada el 22 de octubre. El libro permanece incompleto. No constituye aprobación profesional externa.
+Revisadas exactamente las veinte unidades a667–a686. Corte jurídico: 19 de octubre de 2026; comprobación oficial renovada el 22 de octubre. El libro permanece incompleto. Sin aprobación profesional externa.
 
-Se precisa en el artículo 650 que el tercero ha de mejorar el precio alcanzado y en el 657 el carácter no recurrible del auto y los plazos diferenciados de vista y resolución. Los restantes comentarios se conservan tras cotejo individual.
+Se precisa la mejora efectiva del precio por el tercero del artículo 670 y se incorpora al hipotecante no deudor entre los sujetos que pueden cambiar su domicilio en el artículo 683. Los demás comentarios se conservan tras cotejo individual. Se comparan todas las versiones históricas del lote y se verifica el inventario íntegro y la ausencia de anexos del XML oficial. La fórmula promulgatoria permanece conservada.
 
-Se contrastan las versiones publicadas y efectivas, incluidas las históricas, con el XML oficial. Se releen íntegros los FJ 6 y 7 y el fallo de la STC 26/2025 desde la sentencia completa conservada; la ficha distingue argumentos de parte, razón de nulidad y extensión por conexión. No se atribuye doctrina sobre las nuevas pujas de 2025 a esa sentencia. Investigación selectiva.
+Se releen FJ 6 y 7 y fallo de STC 26/2025 desde el texto completo conservado, con separación de alegaciones y votos. La nulidad de los pasajes de 2023 del artículo 685.2 no se proyecta automáticamente sobre la nueva redacción de octubre de 2026. Investigación jurisprudencial selectiva.
 
 | Unidad | Comprobación |
 |---|---|
-| a648 | Verificadas seis reglas: apertura acumulativa tras 24 horas e información, tasa subsidiaria, identificación, información documental, secreto, última puja y prioridad temporal. |
-| a649 | Cotejados veinte días naturales, fechas excluidas de cierre, concurso, suspensión hasta quince días o cancelación, certificado, reserva y control de incidencias. |
-| a650 | Precisada mejora real del precio por tercero; verificados umbrales 50/30 %, diez días desde cierre o requerimiento según itinerario, ejecutante, liquidación, revisión y liberación. |
-| a651 | Confirmado alzamiento a instancia del ejecutado sin antigua opción de adjudicación posterior del acreedor; deuda subsistente. |
-| a652 | Comprobados reserva voluntaria, orden de ofertas/tiempo, suma con depósito perdido, suficiencia del depósito, devolución al depositante y fin de otras reservas. |
-| a653 | Verificados sujetos responsables de quiebra, excepción de suficiencia y doble orden de distribución con compensación del ejecutado antes del retorno final. |
-| a654 | Comprobados retención hasta liquidación, remanente y orden remuneratorios/principal/demora/costas; ejemplo aritmético correcto. |
-| a655 | Verificada aplicación a inmuebles y muebles con publicidad similar, excepción adjudicación/posesión y supletoriedad con especialidades. |
-| a6-2 | Confirmado estado anulado, dos versiones históricas y nulidad de ambos apartados; leídos FJ 6, 7 y fallo de STC 26/2025 sin confundir alegaciones o votos con doctrina. |
-| a656 | Verificados contenido y formato de certificación, nota marginal, facultad de actualización tras seis meses, avisos durante subasta, CRU y actuación autorizada de procura. |
-| a657 | Precisado auto no recurrible y plazos de vista/resolución; cotejados acreedores preferentes o iguales, subrogación, acreditación del firmante, silencio y multas. |
-| a658 | Cotejados audiencia, titular ajeno anterior, excepción hereditaria y mantenimiento si inscripción posterior al embargo, con remisión 662. |
-| a659 | Verificadas comunicaciones a posteriores, personación tras certificación y pago subrogatorio anterior al remate dentro de responsabilidad registral. |
-| a660 | Cotejados domicilio, notificación fehaciente/electrónica acumulativa, primera positiva, certificación, edicto y alcance registral limitado del apartado segundo. |
-| a661 | Comprobados diez días para títulos posesorios, prueba de desocupación, incidente 675.3, resolución sin recurso y publicidad de declaración. |
-| a662 | Verificados momento de adquisición, inscripción, actuaciones posteriores sin suspensión, derechos parciales y liberación limitada antes de aprobación. |
-| a663 | Cotejados facultad de requerir en resolución de certificación, plazo diez días, títulos disponibles, procura y audiencia al ejecutante. |
-| a664 | Verificadas instancia del ejecutante, apremios, obtención de archivos públicos y suplencia hipotecaria con condición de competencia del tribunal. |
-| a665 | Comprobada venta a instancia del acreedor con advertencia de falta de títulos y remisión expresa al artículo 140.5 del Reglamento Hipotecario, sin inventar su contenido. |
-| a666 | Cotejados avalúo y cargas anteriores, importe garantizado o actualizado registralmente, competencia del letrado y suspensión solo sobre el bien si no queda valor. |
+| a667 | Cotejadas remisiones 644/645, actualización registral y gráfica hasta cierre y excepción informativa de cuarenta y ocho horas. |
+| a668 | Verificados edicto por finca, CRU, catastro, tasación, minoración, posesión, visitas, aceptación de cargas y comienzo del plazo sin nueva notificación. |
+| a669 | Cotejados depósito 20 % y mínimo 1.000 euros, facultad de adaptación, consentimiento de inspección, reducción no automática hasta 2 % y reanudación tras quince días. |
+| a670 | Precisada mejora efectiva del precio por tercero; cotejados umbrales 70/60/50/40 %, vivienda habitual, plazos desde cierre o requerimiento, quiebra del ejecutante, revisión, cargas, financiación, liberación y depósitos reservados. |
+| a671 | Confirmada sustitución del régimen histórico de adjudicación al acreedor: alzamiento a instancia del ejecutado, comprador designado, umbrales y aprobación motivada, revisión y acuerdo alternativo. |
+| a672 | Cotejados aplicación 654.1, retención para posteriores, sobrante y otras retenciones; treinta días, traslado diez días, efectos distributivos y reposición. |
+| a673 | Verificados testimonio suficiente, consignación cuando proceda y financiación del precio y depósito con identificación de prestamista; separadas adquisición y cancelación. |
+| a674 | Cotejados instancia del adquirente, cancelación del gravamen ejecutado y asientos posteriores, remanente retenido y remisión electrónica a instancia de parte. |
+| a675 | Verificados posesión de inmueble vacío, pronunciamiento previo 661.2, plazo anual de vía incidental, vista diez días, incomparecencia injustificada, auto sin recurso y derechos reservados. |
+| a676 | Cotejados solicitud, naturaleza adecuada, inventario, gestión por terceros retribuida, audiencia a posteriores y órganos distintos para multas a ejecutado y terceros. |
+| a677 | Confirmada prelación de pacto y costumbre del país; explicación conectada a cuentas y controversias sin atribuir al acreedor facultad de disposición. |
+| a678 | Cotejados periodicidad anual supletoria, quince/nueve días de contradicción, comparecencia cinco días, prueba máximo diez, decreto cinco y revisión directa. |
+| a679 | Verificado juicio verbal ante tribunal ejecutor para controversias distintas de cuentas entre acreedor y ejecutado, sin absorber reclamaciones de terceros. |
+| a680 | Comprobados satisfacción por frutos, pago del saldo y reposición inmediata, cuenta general en quince días y realización alternativa previa rendición. |
+| a681 | Cotejada acción directa sobre garantía y diferenciación documental de causas a/e, c/d y b de hipoteca naval; no se reconstruyen causas externas sin fuente. |
+| a682 | Verificados exclusividad objetiva, tipo pactado mínimo 75 % de tasación referida, domicilio, comunicación electrónica obligatoria, establecimiento mercantil y constancia registral. |
+| a683 | Corregido alcance subjetivo: también hipotecante no deudor puede cambiar domicilio; cotejados tres regímenes de consentimiento, notificación fehaciente, nota marginal y terceros adquirentes. |
+| a684 | Cotejados cuatro fueros, elección y sumisión según garantía, exclusión de sumisión inmobiliaria y control territorial de oficio. |
+| a685 | Contrastadas partes, documentación y excepciones, versión vigente de octubre de 2026 frente a versión de septiembre derogada y pasajes de 2023 anulados. Releídos FJ 6, 7 y fallo de STC 26/2025; notificación inicial y límite de demora para fiadores. |
+| a686 | Cotejados destinatarios, domicilio registral, remisión 441.5, dispensa de requerimiento pero no de notificación, receptores notariales y averiguaciones antes de edictos. |
 
-Evidencia: [resultado](review-result.json), [inventario y versiones](review-batch-35-audit.json), [preflight](preflight-result.json), [ficha judicial](cases/STC-26-2025-a648-a666.md). Validación parcial y límite global: review-batch-35-validation.json. Las pruebas técnicas no certifican calidad jurídica.
+Evidencia: [resultado](review-result.json), [inventario y versiones](review-batch-36-audit.json), [preflight](preflight-result.json), [ficha judicial](cases/STC-26-2025-a667-a686.md). Validación parcial y límite global: review-batch-36-validation.json. Las comprobaciones técnicas no certifican por sí solas calidad jurídica.
