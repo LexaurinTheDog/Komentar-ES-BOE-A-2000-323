@@ -60,6 +60,12 @@ Ejemplo ficticio: se aporta una fotocopia de un recibo y el contrario sostiene q
 
 **Control práctico de exhibición y copias:** precisar qué documento se pide y quién lo custodia; comprobar el fundamento legal de una reserva; preservar escala y detalles de las imágenes; separar fidelidad de reproducción, autenticidad y fuerza probatoria del contenido.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
+
+#### CAPÍTULO VI — De los medios de prueba y las presunciones
+
 #### Sección 5.ª Del dictamen de peritos
 
 ### Artículo 335 — Objeto y finalidad del dictamen de peritos. Juramento o promesa de actuar con objetividad.
@@ -266,7 +272,7 @@ Si la designación fue de común acuerdo y falta la aportación de uno, se ofrec
 >
 > Al formular tachas de peritos, se podrá proponer la prueba conducente a justificarlas, excepto la testifical.
 
-El artículo distingue recusación y tacha por el modo de designación. Solo los peritos designados judicialmente pueden ser recusados. Los no recusables pueden ser tachados por circunstancias que comprometen su credibilidad: parentesco o matrimonio en los términos legales, interés directo o indirecto, dependencia o comunidad o contraposición de intereses, amistad íntima o enemistad y otras circunstancias acreditadas de descrédito profesional. La tacha no es una vía para expulsar automáticamente del proceso todo informe de parte.
+El artículo distingue recusación y tacha por el modo de designación. Solo los peritos designados judicialmente pueden ser recusados. Los no recusables pueden ser tachados por circunstancias que comprometen su credibilidad: ser cónyuge o pariente por consanguinidad o afinidad dentro del cuarto grado civil de una parte o de sus abogados o procuradores, interés directo o indirecto, dependencia o comunidad o contraposición de intereses, amistad íntima o enemistad y otras circunstancias acreditadas de descrédito profesional. La tacha no es una vía para expulsar automáticamente del proceso todo informe de parte.
 
 Cada motivo debe concretarse. El simple desacuerdo técnico se combate mediante contradicción y valoración, no inventando un vínculo personal. La dependencia puede ser pasada, según el texto; por ello interesa explicar su contenido y relación con el litigio, no limitarse a una etiqueta. El motivo residual de desmerecimiento profesional exige acreditación y debe manejarse sin convertir una discrepancia metodológica en acusación personal.
 
@@ -282,7 +288,7 @@ El apartado 2 fija oportunidades y límites: no después del juicio o vista y, e
 
 *Nota editorial del BOE:* Se convierten a euros las cuantías contempladas en el apartado 2 por el Anexo I del Real Decreto 1417/2001, de 17 de diciembre. Ref. BOE-A-2001-24625
 
-La tacha es objeto de contradicción y valoración, no de un proceso incidental destinado necesariamente a excluir el informe. Cualquier parte interesada puede negarla o combatirla aportando documentos. Si menoscaba la consideración profesional o personal del perito, este puede solicitar al final del proceso una providencia que declare su falta de fundamento. La petición del experto tiene una función propia de reparación de su consideración y no se confunde con la defensa del interés del litigante que lo contrató.
+La tacha es objeto de contradicción y valoración, no de un proceso incidental destinado necesariamente a excluir el informe. Cualquier parte interesada puede negarla o combatirla aportando documentos. Si menoscaba la consideración profesional o personal del perito, este puede solicitar que el tribunal declare al término del proceso, mediante providencia, que la tacha carece de fundamento. La referencia al término del proceso determina el momento de la declaración solicitada; no exige esperar hasta entonces para pedirla. La petición del experto tiene una función propia de reparación de su consideración y no se confunde con la defensa del interés del litigante que lo contrató.
 
 El apartado 2 ordena tener en cuenta la tacha y su respuesta al valorar la prueba, sin más trámites. Debe coordinarse con el artículo 348: un vínculo acreditado puede influir en la credibilidad, pero exige atender también a datos, operaciones y explicación técnica. La declaración de falta de fundamento procede en su caso. La multa de 60 a 600 euros requiere apreciar temeridad o deslealtad procesal por la motivación o el momento de la tacha y oír previamente a la parte responsable. Perder la controversia sobre la tacha no equivale automáticamente a merecer sanción.
 
