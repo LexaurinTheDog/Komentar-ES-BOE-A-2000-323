@@ -245,3 +245,14 @@ Correcciones: en 510 se explicita que la revisión por sentencia del TEDH se ref
 Releída íntegramente la [STC 18/2009](cases/STC-18-2009-a508-a527.md), incluidos antecedentes, FFJJ y fallo. La doctrina sobre acceso a jurisdicción y descubrimiento del fraude no se convierte en declaración del fraude ni en orden de admisión de revisión; tampoco se aplica ficticiamente a reformas posteriores del TEDH o de ejecución. Investigación selectiva, sin autoridades nuevas no verificadas.
 
 [Construcción](review-batch-28-build.json), [validación estricta](review-batch-28-validation.json) y [enlaces](review-batch-28-links.json) documentan el lote. Borrador parcial; libro incompleto fuera de las unidades revisadas; sin aprobación profesional externa.
+
+
+## Segunda lectura limitada: artículos 528 a 547
+
+Revisadas exactamente las veinte unidades de [review-result.json](review-result.json) contra [XML oficial renovado](sources/review-batch-29-official.xml), metadatos y análisis BOE. El [cotejo reproducible](review-batch-29-audit.json) examina versiones históricas y vigencia a 19 de octubre de 2026, enumera los 916 identificadores oficiales independientemente del parser, comprueba ausencia de anexos separados y conserva la fórmula promulgatoria. El control técnico global no es revisión sustantiva de unidades ajenas.
+
+Se precisa en 528 y 530 la imposibilidad o extrema dificultad de restauración o resarcimiento en condenas no dinerarias, para no reducirla al umbral absoluto de actuaciones dinerarias. En 529 se identifican expresamente las entidades emisoras del aval. En 547 se completan, conforme a 65, traslado, decisión y efectos de estimación territorial. Revisados los demás apartados, remisiones y ejemplos: cauciones de ambas partes, restitución total y parcial, sucesión, gananciales, solidaridad, extensión subjetiva, fueros y reparto de funciones tribunal/LAJ.
+
+Releída íntegramente la [STC 22/2008](cases/STC-22-2008-a528-a547.md), antecedentes, fundamentos y fallo. Se conserva su uso limitado a la pertinencia de prueba respecto del objeto de la oposición; no autoriza omitir toda prueba ni traslada el régimen familiar histórico al derecho vigente. Las alegaciones de las partes y del Fiscal se distinguen del razonamiento del Tribunal. Investigación selectiva, sin nuevas autoridades no verificadas.
+
+[Construcción](review-batch-29-build.json), [validación estricta](review-batch-29-validation.json) y [enlaces](review-batch-29-links.json) documentan el lote. Borrador parcial; libro incompleto fuera de estas unidades; sin aprobación profesional externa.

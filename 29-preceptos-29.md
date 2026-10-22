@@ -32,7 +32,7 @@
 
 *Nota editorial del BOE:* Se modifican los apartados 2 y tercer párrafo del 3 y se añade el apartado 4 por el art. 15.213 de la Ley 13/2009, de 3 de noviembre. Ref. BOE-A-2009-17493
 
-La oposición se abre después del despacho: no es un trámite previo de audiencia ni una nueva apelación sobre el fondo. El apartado 2 permite denunciar la infracción del artículo 527 y, para condenas no dinerarias, el riesgo cualificado de que una revocación no permita restaurar la situación ni reparar económicamente el perjuicio. Deben describirse las operaciones ejecutivas y sus consecuencias; la mera posibilidad de que prospere el recurso no basta.
+La oposición se abre después del despacho: no es un trámite previo de audiencia ni una nueva apelación sobre el fondo. El apartado 2 permite denunciar la infracción del artículo 527 y, para condenas no dinerarias, la imposibilidad o extrema dificultad, atendida la naturaleza de las actuaciones, de restaurar la situación anterior o compensar económicamente los perjuicios si la sentencia se revoca. Este umbral no se reduce a imposibilidad absoluta, exigida en el supuesto dinerario del apartado 3. Deben describirse las operaciones ejecutivas y sus consecuencias; la mera posibilidad de que prospere el recurso no basta.
 
 En condenas dinerarias, el apartado 3 centra la resistencia en actuaciones concretas del apremio. La imposibilidad absoluta de restauración o compensación exige una justificación distinta de las molestias ordinarias del embargo. El escrito debe proponer medidas alternativas posibles y ofrecer caución por la demora para el supuesto de que no se acepten aquellas y la condena se confirme. La falta de ambas determina el decreto de rechazo inmediato, revisable sin efecto suspensivo. La decisión posterior sobre alternativas y caución corresponde al régimen del artículo 530.3; no debe confundirse la carga de formular una propuesta con el juicio sobre su suficiencia.
 
@@ -56,7 +56,7 @@ El plazo de cinco días se vincula a la notificación del despacho o de la actua
 
 El traslado alcanza al ejecutante y a quienes estén personados, que disponen de otros cinco días para alegar y acreditar su posición. La contradicción no se satisface con comunicar únicamente la existencia de una petición: importa conocer los documentos y la alternativa propuesta. En la oposición por irreversibilidad de una condena no dineraria, el ejecutante puede ofrecer una caución que permita restaurar la situación o indemnizar si la sentencia se revoca. Esta garantía no elimina automáticamente la oposición; el artículo 530.2 exige examinar si realmente neutraliza el riesgo.
 
-Se admite dinero, aval solidario indefinido y a primer requerimiento de las entidades indicadas, u otro medio con disponibilidad inmediata apreciada judicialmente. Una promesa de futura financiación no equivale por sí sola a garantía realizable. Ejemplo ficticio: se pretende entregar provisionalmente una colección que podría deteriorarse. El ejecutado aporta un informe sobre su fragilidad; el ejecutante propone un aval y condiciones de conservación. El tribunal debe valorar la posibilidad de reparación y la suficiencia efectiva de la cobertura, no solo su importe nominal.
+Se admite dinero, aval solidario indefinido y a primer requerimiento emitido por una entidad de crédito o sociedad de garantía recíproca, u otro medio con disponibilidad inmediata apreciada judicialmente. Una promesa de futura financiación no equivale por sí sola a garantía realizable. Ejemplo ficticio: se pretende entregar provisionalmente una colección que podría deteriorarse. El ejecutado aporta un informe sobre su fragilidad; el ejecutante propone un aval y condiciones de conservación. El tribunal debe valorar la posibilidad de reparación y la suficiencia efectiva de la cobertura, no solo su importe nominal.
 
 ### Artículo 530 — Decisión sobre la oposición a la ejecución provisional y a medidas ejecutivas concretas. Irrecurribilidad.
 
@@ -72,7 +72,7 @@ Se admite dinero, aval solidario indefinido y a primer requerimiento de las enti
 >
 > 4. Contra el auto que decida sobre la oposición a la ejecución provisional o a medidas ejecutivas concretas no cabrá recurso alguno.
 
-El artículo diferencia resultados según el motivo estimado. Si se infringieron las condiciones del artículo 527, el auto impide que prosiga la ejecución provisional y levanta embargos, trabas y garantías. Si el obstáculo es la irreversibilidad cualificada de una condena no dineraria, la respuesta es suspensión, conservando embargos y garantías y pudiendo adoptar las del artículo 700. Confundir ambos supuestos dejaría sin protección patrimonial al solicitante en un caso en que la ley preserva esa protección.
+El artículo diferencia resultados según el motivo estimado. Si se infringieron las condiciones del artículo 527, el auto impide que prosiga la ejecución provisional y levanta embargos, trabas y garantías. Si el obstáculo es la imposibilidad o extrema dificultad de restauración o de garantizar el resarcimiento mediante la caución ofrecida, en una condena no dineraria, la respuesta es suspensión, conservando embargos y garantías y pudiendo adoptar las del artículo 700. Confundir ambos supuestos dejaría sin protección patrimonial al solicitante en un caso en que la ley preserva esa protección.
 
 Para condenas dinerarias, el apartado 3 admite la oposición a una actuación cuando existan alternativas posibles y de eficacia similar; también contempla la caución suficiente por demora unida a la apreciación judicial de imposibilidad absoluta de restauración o compensación. La comparación de eficacia debe atender a la realización del crédito, no exclusivamente a la comodidad del deudor. El efecto es impedir la actividad específica impugnada, mientras continúa el procedimiento de apremio por los cauces procedentes. No nace una suspensión general de toda ejecución dineraria.
 
@@ -93,6 +93,12 @@ La puesta a disposición judicial de la suma líquida, para su entrega al ejecut
 El letrado de la Administración de Justicia acuerda la suspensión por decreto. Después deben liquidarse intereses y tasarse costas para decidir sobre continuación o archivo. Una cantidad inicialmente estimada puede no coincidir con el saldo final: por eso suspender y archivar no son decisiones intercambiables. El decreto sobre continuación o archivo admite recurso directo de revisión ante el tribunal que autorizó la ejecución.
 
 Ejemplo ficticio: una sociedad condenada provisionalmente al pago de 18.000 euros ingresa esa suma y las cantidades incluidas por intereses y costas en el despacho, con destino al ejecutante. La ejecución puede suspenderse; si la liquidación revela un resto pendiente, habrá de decidirse cómo continuar por él. Si todo queda satisfecho, procede resolver el archivo. El cálculo de costas debe coordinarse con el artículo 527.5, que excluye su cargo al ejecutado cuando cumple lo ordenado dentro de los veinte días allí previstos. La consignación no elimina el derecho restitutorio del artículo 533 si después se revoca la condena.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO II — De la ejecución provisional de resoluciones judiciales
+
+#### CAPÍTULO II — De la ejecución provisional de sentencias de condena dictadas en primera instancia
 
 #### Sección 2.ª De la revocación o confirmación de la sentencia provisionalmente ejecutada
 
@@ -154,6 +160,10 @@ Cuando devolver resulta imposible de hecho o de derecho, el ejecutado puede pedi
 
 Los apartados 3 y 4 permiten actuar incluso sin firmeza de la sentencia revocatoria, ante el tribunal competente para la ejecución provisional y con oposición conforme al artículo 528. La remisión debe adaptarse a la prestación que ahora se exige. Ejemplo ficticio: se entregó una máquina que produjo ingresos durante seis meses y luego se revoca la condena. Quien la recibió debe devolverla y rendir cuenta de los frutos o del uso pertinente. Si fue destruida y la restitución es imposible, se pasa al resarcimiento probado. El mecanismo explica la importancia de documentar estado, posesión y rendimientos desde la primera entrega provisional.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO II — De la ejecución provisional de resoluciones judiciales
+
 #### CAPÍTULO III — De la ejecución provisional de sentencias de condena dictadas en segunda instancia
 
 ### Artículo 535 — Ejecución provisional de sentencias dictadas en segunda instancia.
@@ -207,6 +217,8 @@ Para dinero deben distinguirse revocación total y parcial, cantidades realmente
 Ejemplo ficticio: la sentencia de apelación ordenó entregar un vehículo y fue ejecutada antes de resolverse la casación. Revocada aquella condena, la respuesta se construye con el artículo 534: devolver el vehículo en el concepto posesorio procedente, examinar el uso y, si la devolución es imposible, liquidar los daños acreditados. Si la condena hubiese consistido en dinero, correspondería aplicar el artículo 533.
 
 Comprobación práctica al cerrar el régimen provisional: identificar la resolución ejecutada y su firmeza; separar pronunciamientos dinerarios y no dinerarios; conservar justificantes de percepción, entrega y gastos; precisar si la confirmación o revocación es total; y cuantificar la restitución sin confundirla con una nueva discusión sobre el fondo del litigio.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
 
 #### TÍTULO III — De la ejecución: disposiciones generales
 
@@ -370,6 +382,10 @@ El segundo párrafo excluye expresamente las comunidades de propietarios en prop
 
 Ejemplo ficticio: una agrupación vecinal sin personalidad contrató suministros y dos gestores actuaron frente al proveedor. El acreedor con título contra la agrupación debe acreditar la condición y actuación de cada gestor al pedir despacho frente a ellos. No puede añadir a una persona que únicamente asistió a reuniones. Si la contratante era una comunidad de propietarios sometida a propiedad horizontal, esta extensión del artículo 544 queda excluida, aunque su administrador hubiera firmado el contrato en representación de ella.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO III — De la ejecución: disposiciones generales
+
 #### CAPÍTULO II — Del tribunal competente
 
 ### Artículo 545 — Tribunal competente. Forma de las resoluciones en la ejecución forzosa.
@@ -442,7 +458,7 @@ Ejemplo ficticio: el acreedor presenta un título extrajudicial en un lugar que 
 
 La declinatoria ejecutiva tiene un plazo específico de cinco días desde la primera notificación del proceso de ejecución al ejecutado. No debe sustituirse por el plazo de contestación de un declarativo ni por el de oposición a la ejecución. La primera notificación debe identificarse en el expediente y el cómputo se somete a las reglas procesales de plazos; el artículo no establece cinco días naturales ni permite esperar a la notificación de cada embargo sucesivo.
 
-La sustanciación y decisión se remiten al artículo 65: deben acompañarse documentos o principios de prueba y oírse a los demás litigantes en los términos allí previstos. En materia territorial hay que aplicar los fueros ejecutivos del artículo 545 y la especialidad hipotecaria cuando corresponda. Alegar simplemente que otro órgano resultaría más cómodo no demuestra incompetencia. La resolución y sus efectos dependen de la concreta falta de jurisdicción o competencia que se estime, sin importar indiscriminadamente todos los efectos del declarativo.
+La sustanciación y decisión se remiten al artículo 65: deben acompañarse documentos o principios de prueba y oírse a los demás litigantes en los términos allí previstos. En materia territorial hay que aplicar los fueros ejecutivos del artículo 545 y la especialidad hipotecaria cuando corresponda. Alegar simplemente que otro órgano resultaría más cómodo no demuestra incompetencia. El artículo 65.1 prevé cinco días para las alegaciones de los demás litigantes y decisión dentro del quinto día siguiente. Estimada la falta de competencia territorial, el apartado 5 ordena la inhibición, remisión de autos y emplazamiento de las partes por diez días; este resultado difiere de la abstención anterior al despacho del artículo 546. La resolución y sus restantes efectos dependen de la concreta falta de jurisdicción o competencia estimada.
 
 Ejemplo ficticio: el deudor recibe el primer aviso de una ejecución basada en un documento extrajudicial y sostiene que no existe la conexión territorial alegada con bienes embargables. Debe plantear la declinatoria dentro de los cinco días, aportando su fundamento documental y señalando la competencia que defiende. Formular solo oposición al fondo no asegura que la cuestión territorial se examine por su cauce propio.
 

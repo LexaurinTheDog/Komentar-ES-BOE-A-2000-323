@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:38:36.038521+00:00",
+  "generated_at": "2026-10-22T01:40:56.889465+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -1301,14 +1301,56 @@
       }
     },
     {
+      "path": "sources/review-batch-29-analysis.xml",
+      "bytes": 42740,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+        "accessed_at": "2026-10-22T01:40:10.246313+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+        "path": "sources/review-batch-29-analysis.xml",
+        "validated_format": "XML parsed successfully"
+      }
+    },
+    {
+      "path": "sources/review-batch-29-metadata.xml",
+      "bytes": 1196,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+        "accessed_at": "2026-10-22T01:40:09.982715+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+        "path": "sources/review-batch-29-metadata.xml",
+        "validated_format": "XML parsed successfully"
+      }
+    },
+    {
+      "path": "sources/review-batch-29-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "request": {
+        "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+        "accessed_at": "2026-10-22T01:40:09.792994+00:00",
+        "http_status": 200,
+        "content_type": "application/xml",
+        "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+        "path": "sources/review-batch-29-official.xml",
+        "validated_format": "XML parsed successfully"
+      }
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 45746,
-      "sha256": "2357a85ed968c277c89f7e2010babaf1ab95e36313ae75fd6f041bd1ffa84d60"
+      "bytes": 47037,
+      "sha256": "3ed279f5c400a54bbcfa6a7231022c525c2c7c9a9cd570bd1a01e43eb414da72"
     },
     {
       "path": "sources/version-selection.json",
