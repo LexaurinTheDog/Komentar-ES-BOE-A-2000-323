@@ -7,5 +7,5 @@
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 256 jednotkám, např.: ['a628', 'a629', 'a630', 'a631', 'a632', 'a633', 'a634', 'a635', 'a636', 'a637']\n",
-  "limitation": "El constructor íntegro rechaza las 276 unidades aún sin comentario; no se alteró el inventario. Se exporta únicamente el capítulo revisado por el mismo formateador."
+  "limitation": "El constructor íntegro rechaza las 256 unidades aún sin comentario; no se alteró el inventario. Se exporta únicamente el capítulo revisado por el mismo formateador."
 }
