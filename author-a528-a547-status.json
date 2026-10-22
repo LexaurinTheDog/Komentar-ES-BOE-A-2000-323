@@ -1,0 +1,44 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "a528",
+    "a529",
+    "a530",
+    "a531",
+    "a532",
+    "a533",
+    "a534",
+    "a535",
+    "a536",
+    "a537",
+    "a538",
+    "a539",
+    "a540",
+    "a541",
+    "a542",
+    "a543",
+    "a544",
+    "a545",
+    "a546",
+    "a547"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "agreement": 1.0,
+    "official_inventory": 916,
+    "audit": "author-a528-a547-audit.json"
+  },
+  "commentary_chars": 34307,
+  "case_law_sources": [
+    "cases/STC-22-2008-a528-a547.md"
+  ],
+  "links": {
+    "broken": []
+  },
+  "remaining_limitations": [
+    "Lote de autoría; no segunda lectura independiente.",
+    "El libro completo continúa en elaboración."
+  ],
+  "whole_book_complete": false
+}

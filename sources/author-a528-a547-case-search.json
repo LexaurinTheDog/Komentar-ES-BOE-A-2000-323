@@ -1,0 +1,43 @@
+{
+  "scope": [
+    "a528",
+    "a529",
+    "a530",
+    "a531",
+    "a532",
+    "a533",
+    "a534",
+    "a535",
+    "a536",
+    "a537",
+    "a538",
+    "a539",
+    "a540",
+    "a541",
+    "a542",
+    "a543",
+    "a544",
+    "a545",
+    "a546",
+    "a547"
+  ],
+  "searched_at": "2026-10-22T01:38:35.146660+00:00",
+  "web_queries": [
+    "site.boe.es tribunal constitucional ejecución provisional artículo 533 devolución 2009 2010",
+    "site.boe.es \"ejecución provisional\" \"528\" \"Tribunal Constitucional\"",
+    "site.boe.es \"222/2012\" \"542\""
+  ],
+  "local_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/es/tc/2008",
+    "command": "rg -l 10216-2006",
+    "result": "/Volumes/LaCie/law-intake/eu/es/tc/2008/TC-6254.md",
+    "snapshot": "sources/TC-6254-a528-a547-local.md",
+    "sha256": "eb5dee4a902cb6e9079be32b7a67496e42d7e7a2df3c5a3465b5a18ef9977d1d"
+  },
+  "full_text_read": "STC 22/2008: antecedentes completos, fundamentos 1–8 y fallo en XML BOE extraído; identificación cotejada con corpus nacional local TC-6254.",
+  "selected_case": "cases/STC-22-2008-a528-a547.md",
+  "limitations": [
+    "Búsqueda selectiva, no exhaustiva. No se ha seleccionado autoridad verificada específica para los demás preceptos de este lote.",
+    "No se traslada el régimen familiar histórico como derecho actual."
+  ]
+}

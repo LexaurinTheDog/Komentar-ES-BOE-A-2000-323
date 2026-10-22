@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+    "path": "sources/author-a528-a547-official.xml",
+    "http_status": 200,
+    "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+    "accessed_at": "2026-10-22T01:34:10.923605+00:00",
+    "format": "validated XML"
+  },
+  {
+    "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+    "path": "sources/author-a528-a547-metadata.xml",
+    "http_status": 200,
+    "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+    "accessed_at": "2026-10-22T01:34:11.123767+00:00",
+    "format": "validated XML"
+  },
+  {
+    "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+    "path": "sources/author-a528-a547-analysis.xml",
+    "http_status": 200,
+    "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+    "accessed_at": "2026-10-22T01:34:11.376635+00:00",
+    "format": "validated XML"
+  }
+]
