@@ -67,3 +67,6 @@ Se añaden veinte comentarios, incluidos 438 bis, 439 bis y 447 bis, sobre el te
 ## Revisión limitada de artículos 432–448
 
 Completada la segunda lectura de las veinte unidades exactas de [review-result.json](review-result.json), incluidos 438 bis, 439 bis y 447 bis. Correcciones y límites en [REVIEW.md](REVIEW.md). El [checkpoint limitado pasa validación estricta](review-batch-24-checkpoint-validation.json), con coincidencia legal del 100 %. La [validación del libro](review-batch-24-validation.json) conserva 436 comentarios pendientes fuera de este lote; no se declara terminado el libro.
+
+
+Lote de autoría de artículos 468–487: veinte unidades, incluidas las diez sin contenido, con texto seleccionado a 19 de octubre de 2026 y comprobación XML BOE de 22 de octubre de 2026. Comentarios en [capítulo 26](26-preceptos-26.md); control de integridad y límites en [auditoría](author-a468-a487-audit.json), [preflight](author-a468-a487-preflight-result.json) y [ficha STC 144/2025](cases/STC-144-2025-a468-a487.md). Borrador de este lote pendiente de segunda lectura independiente; la obra completa sigue en elaboración.

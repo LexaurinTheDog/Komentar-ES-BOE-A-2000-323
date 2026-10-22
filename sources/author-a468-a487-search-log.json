@@ -1,0 +1,44 @@
+{
+  "searched_at": "2026-10-22T01:11:39.545506+00:00",
+  "web_queries": [
+    "site.poderjudicial.es casación civil 2023 477 481 acuerdo 8 septiembre 2023",
+    "site.boe.es STC casación inadmisión civil interés casacional 2024 2025"
+  ],
+  "local_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/es/tc/2025",
+    "terms": [
+      "2750-2024",
+      "ECLI:ES:TC:2025:144"
+    ],
+    "match": "TC-31805.md",
+    "snapshot": "sources/author-a468-a487-TC-31805-local.md"
+  },
+  "read_full_primary": [
+    "sources/author-a468-a487-STC-144-2025.xml",
+    "sources/author-a468-a487-casacion-format.xml"
+  ],
+  "selected_case": "STC 144/2025",
+  "scope": "Investigación selectiva sobre acceso y efectos de inadmisión; no se afirma agotamiento de CENDOJ ni jurisprudencia individual para cada artículo técnico o vacío.",
+  "no_separate_verified_case_for": [
+    "a468",
+    "a469",
+    "a470",
+    "a471",
+    "a472",
+    "a473",
+    "a474",
+    "a475",
+    "a476",
+    "a477",
+    "a478",
+    "a479",
+    "a480",
+    "a481",
+    "a482",
+    "a484",
+    "a485",
+    "a486",
+    "a487"
+  ],
+  "non_case_authority": "Acuerdo de 8 de septiembre de 2023, BOE-A-2023-19798"
+}

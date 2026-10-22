@@ -1,0 +1,53 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "a468",
+    "a469",
+    "a470",
+    "a471",
+    "a472",
+    "a473",
+    "a474",
+    "a475",
+    "a476",
+    "a477",
+    "a478",
+    "a479",
+    "a480",
+    "a481",
+    "a482",
+    "a483",
+    "a484",
+    "a485",
+    "a486",
+    "a487"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "agreement": 1.0,
+    "official_inventory": 916,
+    "audit": "author-a468-a487-audit.json"
+  },
+  "commentary_chars": 29461,
+  "case_law_sources": [
+    "cases/STC-144-2025-a468-a487.md"
+  ],
+  "links": {
+    "broken": []
+  },
+  "remaining_limitations": [
+    "Lote de autoría; no segunda lectura independiente.",
+    "El libro completo continúa en elaboración."
+  ],
+  "whole_book_complete": false,
+  "validation_result": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 29461,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  }
+}

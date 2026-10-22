@@ -22,3 +22,6 @@ Lote 264–282: [XML oficial recién descargado](sources/author-a264-a282-offici
 
 
 Lote 283–291: [XML oficial actualizado](sources/author-a283-a291-official.xml), [selección y cobertura](author-a283-a291-audit.json), [ficha STC 165/2004](cases/STC-165-2004.md) y [búsqueda selectiva](sources/case-search-a283-a291.json). La captura europea bloqueada y el portal que devolvió una aplicación sin sentencia se conservan como evidencia de acceso fallido, no como autoridad.
+
+
+Lote 468–487: [peticiones, HTTP y hashes](sources/author-a468-a487-fetch.json), [búsqueda selectiva](sources/author-a468-a487-search-log.json), [integridad y versiones](author-a468-a487-audit.json). La STC y el acuerdo formal cuentan con XML primario íntegro conservado. El control de este lote no constituye revisión independiente.
