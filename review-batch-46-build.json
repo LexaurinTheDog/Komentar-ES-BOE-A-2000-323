@@ -7,5 +7,5 @@
   "exit_code": 0,
   "stdout": "OK: /Volumes/LaCie/open-commentary/es/Komentar-ES-BOE-A-2000-323 — 916 jednotek, 46 kapitol\n",
   "stderr": "",
-  "limitation": "El resultado de la construcción íntegra conserva el inventario completo; sus errores ajenos al lote se muestran en stderr. Se exporta únicamente el capítulo revisado por el mismo formateador."
+  "limitation": "Construcción íntegra ejecutada correctamente. Se restauraron únicamente cambios de formato de encabezados en otros capítulos tras verificar que el cuerpo era idéntico; sólo se conserva la revisión del capítulo 46 y su entrada de índice."
 }

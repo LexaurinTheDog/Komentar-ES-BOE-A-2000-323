@@ -40,3 +40,5 @@ Borrador parcial: 320 de 916 unidades. El inventario completo permanece en [unit
 
 
 - [Artículos 727–746](39-preceptos-39.md) — veinte unidades sobre medidas cautelares; borrador de autor pendiente de segunda lectura independiente.
+
+- [Finales decimocuarta a vigésimo novena](46-preceptos-46.md) — dieciséis unidades; segunda lectura parcial documentada en [resultado](review-batch-46-result.json).
