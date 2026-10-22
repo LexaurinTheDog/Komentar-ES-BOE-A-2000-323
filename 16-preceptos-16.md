@@ -26,6 +26,12 @@ Ejemplo ficticio: en una reclamación por defectos de una máquina, el testimoni
 
 La [STC 165/2004, FJ 3–6](cases/STC-165-2004.md), en un proceso penal, censuró denegar una pericial por su equivalencia con otra prueba y después negar esa equivalencia al valorar esta. Su aplicación aquí es una pauta constitucional de coherencia de la justificación, no una interpretación directa del artículo 283 ni una obligación de admitir toda prueba repetida.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
+
+#### CAPÍTULO V — De la prueba: disposiciones generales
+
 #### Sección 1.ª bis. Del acceso a las fuentes de prueba en procedimientos de reclamación de daños por infracción del derecho de la competencia
 
 ### Artículo 283 bis a) — Exhibición de las pruebas en procesos para el ejercicio de acciones por daños derivados de infracciones del Derecho de la competencia.
@@ -98,7 +104,7 @@ Ejemplo ficticio: un comprador identifica las adquisiciones presuntamente afecta
 
 *Nota editorial del BOE:* Se añade por el art. 4 del Real Decreto-ley 9/2017, de 26 de mayo. Ref. BOE-A-2017-5855#ac
 
-La confidencialidad permite adaptar el acceso, sin reconocer una inmunidad general frente a la exhibición. Los apartados 1, 4 y 5 obligan a examinar la información concreta y a diseñar medidas eficaces, especialmente cuando afecta a terceros. El interés empresarial en evitar reclamaciones indemnizatorias queda expresamente excluido como fundamento de protección. Es distinto el secreto de las comunicaciones entre abogado y cliente y los demás deberes de secreto del apartado 3: el tribunal debe dar efecto a sus reglas aplicables, sin tratarlos como una mera incomodidad comercial.
+La confidencialidad permite adaptar el acceso, sin reconocer una inmunidad general frente a la exhibición. Los apartados 1, 4 y 5 obligan a examinar la información concreta y a diseñar medidas eficaces, especialmente cuando afecta a terceros. El interés empresarial en evitar reclamaciones indemnizatorias queda expresamente excluido como fundamento de protección. Es distinta la confidencialidad de las comunicaciones entre abogado y cliente y los demás deberes de secreto del apartado 3: el tribunal debe dar efecto a sus reglas aplicables, sin tratarlos como una mera incomodidad comercial.
 
 Las seis medidas del apartado 5 pueden combinarse: disociación de pasajes, audiencias restringidas, limitación de lectores, resúmenes periciales agregados, versiones públicas expurgadas de resoluciones y acceso reservado a profesionales sujetos a confidencialidad. La elección debe preservar una posibilidad útil de analizar la prueba. Un resumen tan agregado que impida contrastar el supuesto sobreprecio puede frustrar la finalidad del acceso; entregar indiscriminadamente todos los contratos tampoco respeta los intereses protegidos.
 
@@ -274,9 +280,9 @@ El tribunal traslada la petición durante diez días para alegaciones y resuelve
 
 El expediente de una autoridad de competencia exige un régimen especial que protege la aplicación pública y permite la reparación privada. Los apartados 1 a 4 mantienen las reglas generales como supletorias, preservan el acceso público y la protección de documentos internos y correspondencia institucional, y añaden un examen de proporcionalidad. La solicitud debe especificarse por naturaleza, objeto o contenido, conectarse con una acción de daños y respetar la eficacia del procedimiento público. No basta pedir el expediente entero porque exista una investigación.
 
-Las categorías tienen tratamientos distintos. El apartado 5 difiere hasta la conclusión del procedimiento la información preparada específicamente para él, la elaborada por la autoridad y enviada a las partes y las solicitudes de transacción retiradas. El apartado 6 impide en todo momento ordenar exhibición de declaraciones de clemencia y solicitudes de transacción. Las demás pruebas pueden exhibirse en cualquier momento conforme al apartado 9, con las condiciones legales; la mera incorporación al expediente no transforma una factura preexistente en declaración de clemencia.
+Las categorías tienen tratamientos distintos. El apartado 5 difiere hasta la conclusión del procedimiento la información preparada específicamente para él, la elaborada por la autoridad y enviada a las partes y las solicitudes de transacción retiradas. El apartado 6 impide en todo momento ordenar exhibición de declaraciones de clemencia y solicitudes de transacción; las solicitudes retiradas tienen el tratamiento temporal específico del apartado 5.c), por lo que no deben confundirse ambas categorías. Las demás pruebas pueden exhibirse en cualquier momento conforme al apartado 9, con las condiciones legales; la mera incorporación al expediente no transforma una factura preexistente en declaración de clemencia.
 
-El control judicial reservado del apartado 7 sirve exclusivamente para verificar si el contenido responde a las definiciones protegidas: puede asistir la autoridad competente y deben poder ser oídos los autores, sin acceso de otras partes o terceros. La protección parcial exige separar el resto conforme al apartado 8. Requerir directamente a la autoridad es subsidiario respecto de partes y terceros razonablemente capaces de aportar las piezas; aquella puede presentar observaciones sobre proporcionalidad.
+El control judicial reservado del apartado 7 sirve exclusivamente para verificar si el contenido responde a las definiciones protegidas: el tribunal puede pedir asistencia solamente a las autoridades de competencia competentes y debe ofrecer audiencia a los autores, sin acceso de otras partes o terceros. La protección parcial exige separar el resto conforme al apartado 8. Requerir directamente a la autoridad es subsidiario respecto de partes y terceros razonablemente capaces de aportar las piezas; aquella puede presentar observaciones sobre proporcionalidad.
 
 Ejemplo ficticio: se solicitan facturas anteriores a la investigación, un informe redactado para ella y una declaración de clemencia. El tribunal debe clasificarlos por separado: el cierre del expediente no levanta la protección absoluta de la declaración ni justifica retener automáticamente las facturas.
 
@@ -324,6 +330,12 @@ Ejemplo ficticio: un abogado remite a un competidor una tabla que solo podía co
 
 Lista práctica al cerrar la sección: delimitar acción y categorías; justificar proporcionalidad; clasificar piezas del expediente y secretos; prever gastos y caución; identificar lectores y usos autorizados; documentar cumplimiento y terminación; controlar el plazo para demandar si el acceso fue previo. Cada comprobación responde a una regla distinta y evita que una autorización de acceso se interprete como permiso general de difusión.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
+
+#### CAPÍTULO V — De la prueba: disposiciones generales
+
 #### Sección 2.ª De la proposición y admisión
 
 ### Artículo 284 — Forma de proposición de la prueba.
@@ -336,7 +348,7 @@ Lista práctica al cerrar la sección: delimitar acción y categorías; justific
 
 La proposición separada de cada medio hace posible una decisión individualizada de admisibilidad y una preparación efectiva de su práctica. No equivale a pedir genéricamente «toda la prueba necesaria»: conviene identificar el interrogatorio, testimonio, dictamen o documento y su función en la controversia. La forma de proposición se integra con los momentos específicos del procedimiento; por sí sola esta norma no abre un nuevo plazo para aportar documentos ni permite eludir los artículos 265 y siguientes.
 
-Los domicilios o residencias se consignan para las personas que deban ser citadas. En el juicio ordinario, si faltan algunos datos al proponer la prueba, pueden facilitarse dentro de los cinco días siguientes. Esa posibilidad completa datos de citación, no autoriza una reserva indeterminada para elegir después nuevos testigos o nuevos medios. Tampoco debe trasladarse sin examen al juicio verbal, cuya proposición e identificación de personas se regula específicamente en el artículo 438.8.
+Los domicilios o residencias se consignan para las personas que deban ser citadas. En el juicio ordinario, si faltan algunos datos relativos a las personas al proponer la prueba, pueden facilitarse dentro de los cinco días siguientes. El supuesto comprende los datos personales necesarios para citarlas, sin limitarse literalmente al domicilio. Esa posibilidad completa datos de personas vinculadas al medio propuesto, no autoriza una reserva indeterminada para elegir después nuevos testigos o nuevos medios. Tampoco debe trasladarse sin examen al juicio verbal, cuya proposición e identificación de personas se regula específicamente en el artículo 438.8.
 
 Ejemplo ficticio: una parte identifica a la técnica que inspeccionó una instalación y explica qué hechos conoce, pero carece aún de su domicilio profesional. En el ordinario puede completar ese dato en el plazo legal. Si solo anuncia que quizá propondrá a alguien que encuentre en el futuro, la dificultad no es un simple domicilio omitido. Separar medio, persona y hecho probatorio ayuda además a recurrir un rechazo mediante el artículo 285, mostrando qué concreta actividad se ha denegado.
 
@@ -422,6 +434,12 @@ La multa oscila entre 60 y 600 euros. La otra excepción es desistir de la prueb
 
 Ejemplo ficticio: una parte no facilita deliberadamente el acceso acordado para el reconocimiento de un objeto que conserva, causando que no se practique en la fecha prevista. Antes de sancionar, debe ser oída sobre el incumplimiento y su imputación. Si acredita que el objeto quedó inaccesible por una incidencia que no pudo evitar, debe valorarse esa falta de culpa. La multa de este artículo no debe confundirse con las consecuencias específicas de obstruir el acceso a fuentes en materia de competencia del artículo 283 bis h), que tienen presupuestos y magnitudes diferentes.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
+
+#### CAPÍTULO V — De la prueba: disposiciones generales
+
 #### Sección 3.ª De otras disposiciones generales sobre la práctica de la prueba
 
 ### Artículo 289 — Forma de practicarse las pruebas.
@@ -440,7 +458,7 @@ Ejemplo ficticio: una parte no facilita deliberadamente el acceso acordado para 
 
 La práctica probatoria se rige por contradicción, publicidad y documentación. Cuando el acto se celebre fuera de la sede deben mantenerse garantías semejantes; el desplazamiento no transforma la prueba judicial en una indagación unilateral. La presencia judicial es inexcusable para los interrogatorios de partes y testigos, reconocimientos, reproducción de palabras, sonidos, imágenes y eventualmente cifras y datos, y para las explicaciones, impugnaciones, rectificaciones o ampliaciones periciales. La inmediación exige que quien ejerce la función jurisdiccional intervenga en esas actividades.
 
-El apartado 3 separa las actuaciones documentales y de autenticación que pueden realizarse ante el letrado de la Administración de Justicia en las condiciones que establece: aportación de originales y otros instrumentos, reconocimiento de documento privado, cuerpos de escritura y mera ratificación de autoría pericial. Ratificar que se escribió un informe no equivale a explicar sus conclusiones ni a responder preguntas técnicas. Además, el tribunal debe examinar personalmente documentos, informes, dictámenes y demás instrumentos aportados: la recepción procesal no sustituye su valoración.
+El apartado 3 separa las actuaciones documentales y de autenticación que se llevarán a cabo ante el letrado de la Administración de Justicia cuando tengan lugar fuera de la vista pública o este se halle presente en el acto: aportación de originales y otros instrumentos, reconocimiento de documento privado, cuerpos de escritura y mera ratificación de autoría pericial. Ratificar que se escribió un informe no equivale a explicar sus conclusiones ni a responder preguntas técnicas. Además, el tribunal debe examinar personalmente documentos, informes, dictámenes y demás instrumentos aportados: la recepción procesal no sustituye su valoración.
 
 Ejemplo ficticio: el perito comparece solo para reconocer su firma, pero después se pretende interrogarlo sobre el método de cálculo. Se ha pasado de la ratificación a una actuación que requiere presencia judicial. La organización debe respetar esa diferencia. Las reglas de documentación y publicidad se coordinan con sus excepciones legales, entre ellas las medidas protectoras de información confidencial; estas no autorizan a suprimir la contradicción necesaria para discutir una prueba decisiva.
 
