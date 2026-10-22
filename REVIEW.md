@@ -223,3 +223,14 @@ Revisadas las veinte unidades exactas de [review-result.json](review-result.json
 Los artículos 468–476 y 480 no se reconstruyen como trámites vigentes. En 477 se precisa la relevancia del error patente para el fallo y en 481 se completa la explicación de los documentos del acuerdo de 8 de septiembre de 2023, leído íntegramente. Revisados plazos, formas de resolución, motivos, competencia, comparecencia y oposición de cada artículo restante. Releída íntegramente la [STC 144/2025](cases/STC-144-2025-a468-a487.md), incluidos antecedentes, fundamentos y fallo: la explicación de 483 respeta el régimen histórico del litigio y la extensión expresa de FJ 3 C b) al reformado. No se atribuyen al TC conclusiones sobre el crédito ni se convierte la nulidad en recurso automático.
 
 La [validación estricta](review-batch-26-validation.json), el [intento de construcción integral](review-batch-26-build.json) y el [control de enlaces](review-batch-26-links.json) conservan los resultados. Se reconstruye el capítulo 26; la falta de comentarios fuera del lote impide completar el libro. Investigación jurisprudencial selectiva y revisión interna, sin aprobación profesional externa.
+
+
+## Segunda lectura limitada: artículos 488 a 507
+
+Revisadas exactamente las veinte unidades identificadas en [review-result.json](review-result.json), contra el [XML oficial renovado](sources/review-batch-27-official.xml), metadatos y análisis BOE. El [cotejo reproducible](review-batch-27-audit.json) selecciona versiones por publicación y vigencia a 19 de octubre de 2026, contrasta los 916 identificadores oficiales sin omisiones ni duplicados, comprueba ausencia de anexos separados y conservación de la fórmula promulgatoria. Este control global de fuentes no es revisión sustantiva de las demás unidades.
+
+Comprobados los efectos históricos de 488–489, los cuatro números sin contenido, la queja y sus plazos, comunicaciones al rebelde, causas y caducidad de rescisión, costas y nueva audiencia. Se completa en 504 la remisión a 566.1: demanda admitida, petición de parte, valoración de circunstancias y caución por el valor litigado y los daños de la inejecución. Se conservan, explicadas sin modificar el texto, las discordancias de 500 con 497.2 y de 501.3 con el TEJU.
+
+Releída íntegramente la [STC 50/2017](cases/STC-50-2017-a488-a507.md): los antecedentes y alegaciones no se confunden con la doctrina propia de FJ 3–5. La sentencia no decide autónomamente la queja sobre remisión a rescisión, no amplía en general el artículo 502 y no interpreta reformas electrónicas posteriores. No se añaden decisiones no verificadas ni se afirma exhaustividad jurisprudencial.
+
+[Construcción](review-batch-27-build.json), [validación estricta](review-batch-27-validation.json) y [enlaces](review-batch-27-links.json) documentan el checkpoint. Libro todavía incompleto fuera de este lote; revisión interna sin aprobación profesional externa.

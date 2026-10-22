@@ -2,115 +2,115 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a468",
-    "a469",
-    "a470",
-    "a471",
-    "a472",
-    "a473",
-    "a474",
-    "a475",
-    "a476",
-    "a477",
-    "a478",
-    "a479",
-    "a480",
-    "a481",
-    "a482",
-    "a483",
-    "a484",
-    "a485",
-    "a486",
-    "a487"
+    "a488",
+    "a489",
+    "a490",
+    "a491",
+    "a492",
+    "a493",
+    "a494",
+    "a495",
+    "a496",
+    "a497",
+    "a498",
+    "a499",
+    "a500",
+    "a501",
+    "a502",
+    "a503",
+    "a504",
+    "a505",
+    "a506",
+    "a507"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a468",
-      "finding": "Sin contenido desde 20-3-2024; competencia actual remitida a 477–478, con reserva del régimen transitorio."
+      "id": "a488",
+      "finding": "Comprobados tres apartados: preferencia, admisión previa a suspensión, comunicación y efecto de estimación. La remisión a 467 y DF 16 se trata como histórica, sin recrear recurso separado vigente."
     },
     {
-      "id": "a469",
-      "finding": "Sin contenido; denuncia previa remitida correctamente a 477.6, sin resucitar motivos históricos."
+      "id": "a489",
+      "finding": "Acumulación en una pieza y sentencia y prioridad de la infracción procesal comprobadas. Competencia foral del 478 y aplicabilidad temporal diferenciadas."
     },
     {
-      "id": "a470",
-      "finding": "Sin contenido; interposición y plazo del 479 diferenciados de versiones antiguas."
+      "id": "a490",
+      "finding": "Sin contenido desde 29-7-2023; conservado identificador, no habilita recurso en interés de la ley."
     },
     {
-      "id": "a471",
-      "finding": "Sin contenido; contenido del escrito remitido al 481, sin fase probatoria histórica."
+      "id": "a491",
+      "finding": "Legitimación histórica eliminada; ejemplo no atribuye a entidades habilitación vigente."
     },
     {
-      "id": "a472",
-      "finding": "Sin contenido; remisión y comparecencia diferenciadas conforme al 482."
+      "id": "a492",
+      "finding": "Vaciamiento comprobado: no se reconstruyen plazos ni fases históricos."
     },
     {
-      "id": "a473",
-      "finding": "Sin contenido; admisión vigente de 479 y 483 separada de reglas derogadas."
+      "id": "a493",
+      "finding": "Supresión y efectos históricos correctamente separados de la casación vigente del 487."
     },
     {
-      "id": "a474",
-      "finding": "Sin contenido; oposición del 485, veinte días y personación comprobados."
+      "id": "a494",
+      "finding": "Dos párrafos cotejados: queja contra denegación de tramitación de casación, órgano destinatario, preferencia y excepción de desahucio sin cosa juzgada."
     },
     {
-      "id": "a475",
-      "finding": "Sin contenido; límites probatorios de 477.5 y vista facultativa de 486 comprobados."
+      "id": "a495",
+      "finding": "Tres apartados: diez días y copia, decisión en cinco días, comunicación/orden de continuar e irrecurribilidad comprobados."
     },
     {
-      "id": "a476",
-      "finding": "Sin contenido; efectos de 487 y prioridad de motivos con retroacción comprobados."
+      "id": "a496",
+      "finding": "Dos apartados: competencia LAJ/tribunal y ausencia de allanamiento o confesión por mera rebeldía. STC 50/2017 releída; no convalida emplazamiento inválido."
     },
     {
-      "id": "a477",
-      "finding": "Seis apartados y dos párrafos del primero cotejados. Añadida relevancia para el fallo al ejemplo de error patente, conforme al 481.3; no todo error visible justifica casación."
+      "id": "a497",
+      "finding": "Dos apartados y párrafo final cotejados: comunicación inicial electrónica/correo/edictos diferenciada de notificación final personal/TEJU y aplicación a apelación/casación. Límite temporal de STC explicitado."
     },
     {
-      "id": "a478",
-      "finding": "Dos apartados: competencia estatal/autonómica y duplicidad por misma parte y sentencia comprobadas."
+      "id": "a498",
+      "finding": "Comunicación de pendencia tan pronto se conozca lugar útil, de oficio o a instancia de cualquier parte; no se promete retroacción automática."
     },
     {
-      "id": "a479",
-      "finding": "Tres apartados: veinte días, controles LAJ/tribunal, tres/diez días, queja y preferencia de procedimiento testigo comprobados."
+      "id": "a499",
+      "finding": "Personación en estado actual sin retroceso distinguida de nulidad por emplazamiento inválido; lectura del fallo STC confirma que la retroacción no procede por mera personación tardía."
     },
     {
-      "id": "a480",
-      "finding": "Sin contenido desde reforma de 2011; correctamente distinguido del vaciamiento de 2024."
+      "id": "a500",
+      "finding": "Dos párrafos cotejados: recursos condicionados y dies a quo personal/edictal/electrónico; discordancia literal de remisión a 497.2 identificada sin corregir texto legal."
     },
     {
-      "id": "a481",
-      "finding": "Ocho apartados cotejados. Leído acuerdo oficial de 8-9-2023; ampliada explicación de documentos exigidos, sin extender requisitos del 449 a todo litigio. Motivos, relevancia, encabezamientos e inexistencia de doctrina correctamente tratados."
+      "id": "a501",
+      "finding": "Tres causas, rebeldía constante y firmeza comprobadas. No atribuye al TC decisión sobre la segunda queja ni adapta ficticiamente el requisito territorial al TEJU."
     },
     {
-      "id": "a482",
-      "finding": "Dos apartados: envío cinco días, comparecencia treinta, deserción y obstáculo a certificación comprobados."
+      "id": "a502",
+      "finding": "Veinte días/cuatro meses y prolongación por fuerza mayor con techo de dieciséis meses comprobados. STC no se presenta como ampliación general de caducidad."
     },
     {
-      "id": "a483",
-      "finding": "Cuatro apartados: decreto LAJ distinto de providencia/auto de Sala, admisión parcial e irrecurribilidad comprobados. Releída sentencia STC 144/2025: antecedentes, FJ 1–5 y fallo; apoyo y límites del incidente confirmados, sin atribuir revisión del crédito ni anulación de casación."
+      "id": "a503",
+      "finding": "Exclusión de sentencia sin cosa juzgada material correctamente diferenciada de firmeza y del tipo verbal; remisión al 447 comprobada."
     },
     {
-      "id": "a484",
-      "finding": "Tres apartados: audiencia diez días, emplazamiento diez, continuidad y vinculación de TSJ por remisión de Sala Primera comprobados."
+      "id": "a504",
+      "finding": "Dos apartados cotejados. Mejorada explicación de remisión a 566.1: demanda interpuesta y admitida, solicitud de parte, valoración circunstancial y caución por valor litigado y daños. Ordinario y legitimación contextualizados."
     },
     {
-      "id": "a485",
-      "finding": "Traslado a recurridos personados, oposición veinte días y solicitud no vinculante de vista comprobados."
+      "id": "a505",
+      "finding": "Dos apartados: prueba de causa rescisoria, sentencia irrecurrible y suspensión obligada a instancia de parte después de rescisión comprobados; no equivale a absolución."
     },
     {
-      "id": "a486",
-      "finding": "Dos apartados: avance sin oposición, decisión de vista, orden de informes y facultades de Sala comprobados."
+      "id": "a506",
+      "finding": "Costas por rechazo y regla de ausencia de condena en estimación con excepción de temeridad comprobadas; separado el proceso original."
     },
     {
-      "id": "a487",
-      "finding": "Cinco apartados: sentencia/auto devolutivo, veinte días desde deliberación, orden de motivos, irrecurribilidad y situaciones de sentencias de contraste comprobados."
+      "id": "a507",
+      "finding": "Tres reglas del apartado 1 y excepción del 2 comprobadas: certificación, dos traslados sucesivos de diez días y declarativo con recursos; consecuencia específica de inactividad conforme al 508 correcta."
     }
   ],
   "limitations": [
-    "Revisión limitada a los veinte artículos 468–487. El libro completo permanece incompleto.",
-    "Jurisprudencia selectiva: STC 144/2025 leída en texto primario completo; sus citas de otras decisiones no se incorporan como autoridades autónomamente verificadas.",
-    "Corte jurídico 2026-10-19 conservado; no aprobación profesional externa."
+    "Segunda lectura sustantiva limitada exactamente a a488–a507; no certifica el libro completo.",
+    "Jurisprudencia selectiva: texto íntegro de STC 50/2017 releído, incluidos antecedentes, fundamentos y fallo; citas contenidas en la sentencia no verificadas como autoridades autónomas.",
+    "Corte jurídico de autoría conservado: 2026-10-19; actualización BOE comprobada de nuevo durante esta revisión. Revisión interna sin aprobación profesional externa."
   ],
-  "reviewed_at": "2026-10-22T01:14:09.606099+00:00",
-  "source_evidence": "review-batch-26-audit.json"
+  "reviewed_at": "2026-10-22T01:22:50.793942+00:00",
+  "source_evidence": "review-batch-27-audit.json"
 }

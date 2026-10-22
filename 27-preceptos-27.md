@@ -38,6 +38,10 @@ La mención a Derecho civil propio debe relacionarse con la atribución competen
 
 Como en el artículo 488, el tenor conservado no permite ignorar la reforma de la casación. En el régimen actual los motivos procesales y materiales se encauzan conforme a los artículos 477 y siguientes, y el 487.3 regula la prioridad de los que determinan reposición. La remisión editorial a la disposición final decimosexta es histórica, pues ésta está suprimida. Antes de utilizar el esquema de acumulación de recursos separados es indispensable justificar su aplicabilidad temporal al expediente; no puede deducirse únicamente de que el BOE siga mostrando este artículo.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO IV — De los recursos
+
 #### CAPÍTULO VI — Del recurso en interés de la ley — (Suprimido)
 
 ### Artículo 490 — Resoluciones recurribles en interés de la ley.
@@ -96,6 +100,10 @@ El número y la rúbrica se mantienen, pero no subsiste aquí una regla vigente 
 
 Por ejemplo, una sentencia antigua dictada bajo aquel cauce puede ser un documento relevante para investigar una interpretación histórica, pero este artículo vacío no determina hoy su fuerza ni permite reabrir un litigio firme. El análisis de una autoridad anterior debe separar su fecha, la regulación que aplicó y la cuestión jurídica que resolvió. Para la decisión de una casación actual, el punto de partida es el artículo 487, no el contenido suprimido del 493.
 
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO IV — De los recursos
+
 #### CAPÍTULO VII — Del recurso de queja
 
 ### Artículo 494 — Resoluciones recurribles en queja.
@@ -141,6 +149,8 @@ Por ejemplo, si se deniega la tramitación por una fecha de presentación consid
 Presentada en tiempo con la copia, el tribunal debe resolver en cinco días. Si confirma la negativa, comunica su decisión al tribunal de origen para constancia; si la considera incorrecta, le ordena continuar la tramitación. La estimación no prejuzga la posterior admisión ni el fondo de la casación. El apartado 3 excluye recursos contra el auto de queja: no cabe encadenar otra queja para revisar ese mismo control.
 
 **Control práctico de la queja.** Identificar un auto que niega tramitar la casación; comprobar la excepción del artículo 494; fijar el tribunal destinatario; calcular los diez días y acompañar la resolución; pedir continuación de la tramitación y distinguirla de una estimación de la casación.
+
+#### LIBRO II — De los procesos declarativos
 
 #### TÍTULO V — De la rebeldía y de la rescisión de sentencias firmes y nueva audiencia al demandado rebelde
 
@@ -294,7 +304,7 @@ Esta exclusión tampoco resuelve por sí sola la ejecución del fallo ni la impu
 >
 > 2. La pretensión del demandado rebelde de que se rescinda una sentencia firme se sustanciará por los trámites establecidos para el juicio ordinario, que podrá ser iniciado por quienes hayan sido parte en el proceso.
 
-La demanda de rescisión de sentencia firme no suspende por sí misma la ejecución. El apartado 1 remite al artículo 566, que regula la posible suspensión en el procedimiento ejecutivo. Deben formularse y justificarse las solicitudes pertinentes ante el órgano correspondiente, sin presentar la mera admisión de la demanda rescisoria como una orden de paralización. Esta separación protege la eficacia del título mientras no se adopte una decisión específica que limite su ejecución.
+La demanda de rescisión de sentencia firme no suspende por sí misma la ejecución. El apartado 1 remite al artículo 566, que regula la posible suspensión en el procedimiento ejecutivo. Deben formularse y justificarse las solicitudes pertinentes ante el órgano correspondiente, sin presentar la mera admisión de la demanda rescisoria como una orden de paralización. El artículo 566.1 exige que la demanda se haya interpuesto y admitido: la suspensión, solicitada por parte, depende de que las circunstancias la aconsejen y requiere caución por el valor de lo litigado y por los daños y perjuicios de la inejecución. Esta separación protege la eficacia del título mientras no se adopte una decisión específica que limite su ejecución.
 
 El apartado 2 somete la pretensión a los trámites del juicio ordinario y se refiere a quienes fueron parte en el proceso. Ese enunciado no elimina el presupuesto del artículo 501, que atribuye la pretensión rescisoria al demandado constantemente rebelde: debe interpretarse en su contexto y no como una legitimación general del vencedor para rescindir por conveniencia una sentencia favorable. La demanda ha de individualizar sentencia, causa, plazo y prueba de las circunstancias que justifican reabrir la defensa.
 
