@@ -110,7 +110,7 @@ El certificado del Portal identifica al vencedor. Solo cuando incumple se solici
 
 Este artículo separa aprobación del remate, pago y adjudicación. Para una postura de al menos el 50 % del valor de subasta, el decreto aprobatorio se dicta al día siguiente del cierre y el vencedor dispone de diez días desde ese cierre para completar el precio, deducido el depósito. El apartado segundo adapta el pago al ejecutante: si su oferta no supera el principal reclamado, cabe la entrega inmediata; si lo supera, debe liquidarse principal, intereses y costas y consignarse la diferencia exigible en diez días desde la notificación. Su falta de consignación también produce quiebra, con descuento del equivalente al depósito y gastos de nueva subasta a su cargo.
 
-Por debajo del 50 %, el ejecutado tiene diez días desde el cierre para presentar un tercero que alcance ese porcentaje o satisfaga íntegramente al ejecutante. No basta anunciar a un comprador: debe haberse ingresado el depósito y completarse el precio en diez días desde ese ingreso, con pérdida de garantía si incumple. La liquidación posterior de una mejora por satisfacción íntegra puede exigir ingreso adicional o devolución. El ejecutante que no ganó no puede esperar a conocer las ofertas para mejorarlas.
+Por debajo del 50 %, el ejecutado tiene diez días desde el cierre para presentar un tercero que alcance ese porcentaje o satisfaga íntegramente al ejecutante. La propuesta debe mejorar el precio alcanzado; satisfacer el crédito no habilita a sustituir al vencedor por una oferta menor. No basta anunciar a un comprador: debe haberse ingresado el depósito y completarse el precio en diez días desde ese ingreso, con pérdida de garantía si incumple. La liquidación posterior de una mejora por satisfacción íntegra puede exigir ingreso adicional o devolución. El ejecutante que no ganó no puede esperar a conocer las ofertas para mejorarlas.
 
 Fracasada o no ejercitada la mejora, se aprueba la oferta de al menos el 30 %, o la inferior que satisfaga totalmente el crédito. Por debajo de ambos criterios, se exige audiencia y valoración motivada del sacrificio patrimonial, alternativas de realización, conducta del deudor y beneficio del acreedor; cabe revisión directa. Si se deniega, el alzamiento requiere instancia del ejecutado. En este itinerario el requerimiento al mejor postor abre el plazo de diez días del apartado cuarto, distinto del cómputo automático del apartado primero.
 
@@ -210,6 +210,12 @@ Ejemplo ficticio: quedan pendientes 1.000 euros de intereses remuneratorios, 9.0
 
 Comprobación práctica al cerrar la subasta de muebles: conservar certificado de cierre y postura; identificar el régimen de pago aplicable; comprobar mejora y reservas; documentar la imputación y el saldo; devolver garantías y remanentes a sus destinatarios legales.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO IV — De la ejecución dineraria
+
+#### CAPÍTULO IV — Del procedimiento de apremio
+
 #### Sección 6.ª De la subasta de bienes inmuebles
 
 ### Artículo 655 — Ámbito de aplicación de esta sección y aplicación supletoria de las disposiciones de la sección anterior.
@@ -300,7 +306,7 @@ La comunicación del código registral único, cuando exista, y de apertura, can
 
 La certificación registral expresa garantías, pero no necesariamente el saldo vivo de cada crédito. El apartado primero exige información de oficio a acreedores preferentes o de igual rango y al ejecutado sobre subsistencia, cuantía, vencimiento y condiciones de pago. Si el crédito está vencido deben precisarse demora vencida y devengo diario; para embargos anteriores se añaden principal, intereses y previsión de costas. La satisfacción por subrogación obliga a identificar al pagador, pues el crédito puede continuar con nuevo acreedor.
 
-Los oficios se remiten a la dirección electrónica habilitada y, en su defecto, se encomiendan al procurador del ejecutante. Las entidades de crédito deben acreditar identidad y representación del firmante: una respuesta sin esa documentación no atiende el requerimiento. Si hay conformidad sobre saldo y subsistencia, el letrado expide a instancia del ejecutante los mandamientos previstos; si hay discrepancia, decide el tribunal tras vista en los plazos de tres y cinco días fijados por el apartado segundo.
+Los oficios se remiten a la dirección electrónica habilitada y, en su defecto, se encomiendan al procurador del ejecutante. Las entidades de crédito deben acreditar identidad y representación del firmante: una respuesta sin esa documentación no atiende el requerimiento. Si hay conformidad sobre saldo y subsistencia, el letrado expide a instancia del ejecutante los mandamientos previstos; si hay discrepancia, decide el tribunal mediante auto no susceptible de recurso: la vista debe celebrarse dentro de los tres días siguientes y la resolución dictarse en los cinco días siguientes, conforme al apartado segundo.
 
 El silencio durante diez días no equivale a extinción ni a conformidad. El apartado tercero permite reiterar con apercibimiento de multas de los artículos 589 y 591. Ejemplo ficticio: una hipoteca anterior garantiza 100.000 euros, pero ambas partes reconocen que restan 25.000. La actualización documentada puede incidir en la deducción del artículo 666; si discuten el saldo, no corresponde resolverlo mediante una simple resta unilateral.
 

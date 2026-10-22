@@ -1316,6 +1316,41 @@
       "sha256": "39106f9277428d79687cca60b3bd1e94ff26a6177da227bc3e3486e15c8132d4",
       "accessed_at": "2026-10-22T02:28:11.131952+00:00",
       "format": "validated XML"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-22T02:31:31.592196+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/review-batch-35-official.xml",
+      "validated_format": "XML parsed successfully"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+      "accessed_at": "2026-10-22T02:31:31.767266+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "path": "sources/review-batch-35-metadata.xml",
+      "validated_format": "XML parsed successfully"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+      "accessed_at": "2026-10-22T02:31:32.044821+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "path": "sources/review-batch-35-analysis.xml",
+      "validated_format": "XML parsed successfully"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4079",
+      "accessed_at": "2026-10-22T02:32:18.472173+00:00",
+      "http_status": 200,
+      "sha256": "39106f9277428d79687cca60b3bd1e94ff26a6177da227bc3e3486e15c8132d4",
+      "path": "sources/review-batch-35-STC-26-2025.xml",
+      "validated_format": "XML parsed; identical to full official decision snapshot"
     }
   ],
   "decisive_date": "2026-10-19",
