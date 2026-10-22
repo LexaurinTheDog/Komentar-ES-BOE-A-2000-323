@@ -1,0 +1,25 @@
+{
+  "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-14880/texto",
+  "path": "sources/LCCH-a821-dtprimera.xml",
+  "http_status": 200,
+  "sha256": "60847decc016a6e8d966e3bac95256ba14d68f9431558681ffd1ec1f539a3f8e",
+  "accessed_at": "2026-10-22T03:48:43.724986+00:00",
+  "format": "Validated official XML; asesentaysiete read",
+  "selected_version": {
+    "id_norma": "BOE-A-2000-323",
+    "fecha_publicacion": "20000108",
+    "fecha_vigencia": "20010108"
+  },
+  "available_versions": [
+    {
+      "id_norma": "BOE-A-1985-14880",
+      "fecha_publicacion": "19850719",
+      "fecha_vigencia": "19860101"
+    },
+    {
+      "id_norma": "BOE-A-2000-323",
+      "fecha_publicacion": "20000108",
+      "fecha_vigencia": "20010108"
+    }
+  ]
+}

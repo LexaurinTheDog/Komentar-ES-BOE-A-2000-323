@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <texto>
+      <bloque id="preambulo" tipo="nota_inicial">
+        <version id_norma="BOE-A-1985-21383" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="textoCompleto">Incluye la corrección de errores publicada en BOE núm. 249, de 17 de octubre de 1985. <a class="refPost">Ref. BOE-A-1985-21383</a></p>
+        </version>
+      </bloque>
+      <bloque id="pr" tipo="preambulo">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="centro_redonda">JUAN CARLOS I</p>
+          <p class="centro_redonda">REY DE ESPAÑA</p>
+          <p class="parrafo">A todos los que la presente vieren y entendieren,</p>
+          <p class="parrafo">Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:</p>
+          <p class="centro_redonda">PREÁMBULO</p>
+          <p class="centro_redonda">I</p>
+          <p class="parrafo">La adaptación del ordenamiento sobre la letra de cambio, el cheque y el pagaré a la llamada legislación uniforme de Ginebra supone dar un paso decisivo encaminado a la renovación de nuestro Derecho Mercantil, tan necesitado de reforma. Si esta necesidad es predicable de otros sectores del ordenamiento mercantil, en pocos se hace tan evidente como en el de estos títulos valores, cuya regulación casi centenaria ha sido repetidamente denunciada por no servir para proteger adecuadamente los créditos incorporados a dichos documentos.</p>
+          <p class="parrafo">La regulación del la letra de cambio, contenida en el título X del libro II del Código de Comercio, está inspirada directamente en la de su homónimo francés, dominado, cuando aquél se promulgó, por una concepción instrumental de la cambial, sobre la que incidían directamente todos los avatares del negocio causal. Esta concepción choca abiertamente con las necesidades del tráfico jurídico contemporáneo, en el que la circulación de los títulos no puede quedar sometida al mismo régimen que la simple cesión de créditos. Estas insuficiencias están directamente vinculadas al sistema de excepciones oponibles por el deudor cambiario, del que la circunstancia de ser la Ley de Enjuiciamiento Civil anterior al Código de Comercio ha hecho un problema eminentemente procesal, cuando, por el contrario, su solución es determinante del régimen jurídico sustantivo de estos títulos. Dicho con otras palabras: Del régimen de excepciones que se adopte depende que se perpetúe la configuración causalista de la letra, o bien que se inicie la tendencía a la abstracción del título.</p>
+          <p class="centro_redonda">II</p>
+          <p class="parrafo">Estas insuficiencias no son, sin embargo, el único factor determinante de la reforma que se propone. A aquéllas hay que agregar la voluntad política de incorporar a España al conjunto de Estados que están contribuyendo a llevar a la realidad el propósito, explícito, por ejemplo, en el artículo 3, h), del Tratado de Roma, constitutivo de la Comunidad Económica Europea, de aproximar las legislaciónes nacionales en la medida necesaria para el funcionamiento del Mercado Común.</p>
+          <p class="parrafo">Es sabido que el Derecho Mercantil ha reivindicado históricamente la nota de universalidad, mucho antes de que las relaciones de toda índole entre los pueblos y entre los Estados alcanzasen el grado de fluidez que tienen en la actualidad. En efecto, el intercambio empresarial entre Estados dotados de similares sistemas políticos, que reconocen, a su vez, similares sistemas de organización económica, requiere la existencía de regulaciónes homogéneas en un buen número de instituciones.</p>
+          <p class="parrafo">Una de las categorías del entorno institucional común - la autonomía de la voluntad - ha permitido que los sectores interesados acudiesen en no pocas ocasiones a la autorregulación y a la unificación de prácticas negociables. Pero cuando la autorregulación no es posible, han sido los estados y las Organizaciónes Internacionales quienes han procurado acentuar los perfiles comunes de las instituciónes necesarias para que el tráfico jurídico se desarrolle adecuadamente. Uno de estos casos lo constituye el ordenamiento de la letra de cambio, pagaré a la orden y cheque, contenido en las Leyes Uniformes anejas a los Convenios de Ginebra de 7 de junio de 1930 y 19 de marzo de 1931. Esta Ley recoge, sustancialmente, la regulación ginebrina.</p>
+          <p class="centro_redonda">III</p>
+          <p class="parrafo">La opción manifiesta por el sistema de las Leyes de Ginebra se fundamenta, ante todo, en la superioridad técnica de esa normativa frente a la de nuestro Código de Comercio.</p>
+          <p class="parrafo">Las novedades que la Ley incorpora tienen múltiples manifestaciones, y comienzan por la sencillez con que se delimitan los requisitos formales de los títulos regulados y el vigor con que se defiende la validez genérica de cada una de las declaraciones a ellos incorporadas, aunque algunas de las demás esté afectada por vicios invalidantes. Se trata, en definitiva, de facilitar la circulación de estos documentos sin imponer al adquirente la carga de examinar, además de la regularidad formal de los endosos, la validez intrínseca de todas las declaraciones procedentes. Acoge también situaciones que se producen, en la práctica, tales como los títulos en blanco, que están huérfanos de regulación en los textos vigentes, la suscripción de estos documentos alegando una representación inexistente (problema para cuya solución hay que acudir hoy a categorías extracambiarias), el cheque para abonar en cuenta o el cheque certificado o conformado. Al referirse a los requisitos formales del título cabe resaltar la desaparición de la mención de la «cláusula valor» en la letra de cambio, rastro evidente de la concepción causal que domina, si bien no con absoluta exclusividad, el sistema vigente.</p>
+          <p class="parrafo">La superioridad técnica de los textos ginebrinos resalta especialmente en los artículos 17 de la Ley de la Letra de Cambio y 22 de la del Cheque, de los que son fiel trasunto los artículos 20 y 128, respectivamente, de ésta. En ellos se delimita negativamente y con encomiable sencillez el régimen de excepciones, sin necesidad de acudir a listas tasadas, lo que contrasta con la tajante dicción del vigente artículo 480 del Código de Comercio, que tantas matizaciones jurisprudenciales ha recibido en sus cien años de vigencia.</p>
+          <p class="parrafo">Merece también mención especial la configuración del aval. El texto trata de poner fin a la polémica doctrinal y jurisprudencial sobre la naturaleza jurídica de esa declaración cambiaria, optando por su definición como obligación autónoma, valida aunque sea nula la obligación garantizada por motivo distinto de los vicios de forma.</p>
+          <p class="parrafo">Las normas sobre presentación a la aceptación, en el caso de la letra, y al pago de las tres clases de títulos regulados denotan la flexibilidad con que se aborda esta materia; cabe destacar la ampliación de los plazos para presentar a la aceptación las letras de cambio giradas a la vista y, en general, para la presentación al pago de estos títulos.</p>
+          <p class="centro_redonda">IV</p>
+          <p class="parrafo">Las Leyes uniformes tienen el propósito manifiesto de fortalecer la posición jurídica del acreedor cambiario. Tal propósito tiene su reflejo en esta Ley no sólo en la formulación de las excepciones oponibles, a la que ya se ha hecho mención para subrayar su carácter sustantivo, sino en otros ámbitos. Cabe destacar en primer lugar la flexibilidad con que se aborda el régimen de protesto, permitiendo su sustitución por declaraciones del librado o de la Cámara de Compensación o su eliminación. También supone una novedad, al menos como formulación normativa, el que la rigurosa obligación del aceptante de la letra de cambio y de sus avalistas no quede sometida a condición de protesto o declaración equivalente. Otro mecanismo fundamental para reforzar la garantía del tenedor es el establecimiento de la solidaridad pasiva absoluta de los deudores cambiarios, a los que, con independencía de su posición en el título se podrá demandar conjunta o separadamente. Tambien pueden enmarcarse entre las medidas que van a suponer indirectamente, una mejor situación del acreedor, el establecimiento de un interés de demora más adecuado a la situación del momento en que se produzca el impago de uno de los títulos. Para el concreto caso del cheque se prevé una cláusula penal que jugará contrá el librador que emita un cheque sin tener provisión de fondos en poder del librado. Un nuevo cauce procedimental para el juicio ejecutivo cambiario completa las medidas tendentes a reforzar la posición del tenedor, además de la reforma del artículo 1.429 de la Ley de Enjuiciamiento Civil, para incluir en el enunciado de los títulos ejecutivos al pagaré y al cheque.</p>
+          <p class="parrafo">La ley dedica, en fin, dos capítulos a resolver los problemas derivados del conflicto de Leyes.</p>
+          <p class="centro_redonda">V</p>
+          <p class="parrafo">No puede negarse el descrédito relativo que rodea hoy a la letra de cambio en nuestra sociedad; es cierto que tal actitud no deriva exclusivamente, ni siquiera principalmente, de las insuficiencias normativas que han sido expuestas. La situación crítica que vive nuestra economía y una desmesurada utilización de la letra de cambio, tanto en el mercado de bienes y servicios de consumo como en el mercado financiero, y unas leyes procesales obsoletas, no son factores extraños al elevadísimo número de impagados que recogen las estadísticas. La nueva Ley, rigurosa con el deudor, quiere cambiar ciertos usos que han contribuido a ese descrédito, restableciendo la confianza en el Ordenamiento jurídico y en uno de los valores fundamentales de la vida empresarial, la buena fe.</p>
+          <p class="parrafo">La normativa jurídica que introduce esta ley, absolutamente necesaria y conveniente, no impide que, tras los oportunos estudios y cuando las circunstancias económicas y sociales lo requieran, pueda abordarse la elaboración de un texto legal complementario y específico que establezca las normas que hayan de regir para las letras emitidas en operaciones realizadas por los consumidores y usuarios. Las diferentes orientaciones de los ordenamientos jurídicos de otros países europeos, así como la inexistencía de normativa uniforme en esta materia, aconsejan no introducir en la presente Ley su regulación definitiva, sin perjuicio de que ello pueda y deba hacerse en el momento oportuno.</p>
+        </version>
+      </bloque>
+      <bloque id="ti" tipo="encabezado" titulo="TÍTULO I">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="titulo_num">TÍTULO I</p>
+          <p class="titulo_tit">De la letra de cambio y del pagaré</p>
+        </version>
+      </bloque>
+      <bloque id="cprimero" tipo="encabezado" titulo="CAPÍTULO I">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO I</p>
+          <p class="capitulo_tit">De la emisión y de la forma de la letra de cambio</p>
+        </version>
+      </bloque>
+      <bloque id="aprimero" tipo="precepto" titulo="Artículo primero">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo primero.</p>
+          <p class="parrafo">La letra de cambio deberá contener:</p>
+          <p class="parrafo_2">Primero.–La denominación de letra de cambio inserta en el texto mismo del título expresada en el idioma empleado para su redacción.</p>
+          <p class="parrafo">Segundo.–El mandato puro y simple de pagar una suma determinada en pesetas o moneda extranjera convertible admitida a cotización oficial.</p>
+          <p class="parrafo">Tercero.–El nombre de la persona que ha de pagar, denominada librado.</p>
+          <p class="parrafo">Cuarto.–La indicación del vencimiento.</p>
+          <p class="parrafo">Quinto.–El lugar en que se ha de efectuar el pago.</p>
+          <p class="parrafo">Sexto.–El nombre de la persona a quien se ha de hacer el pago o a cuya orden se ha de efectuar.</p>
+          <p class="parrafo">Séptimo.–La fecha y el lugar en que la letra se libra.</p>
+          <p class="parrafo">Octavo.–La firma del que emite la letra, denominado librador.</p>
+        </version>
+      </bloque>
+      <bloque id="asegundo" tipo="precepto" titulo="Artículo segundo">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo segundo.</p>
+          <p class="parrafo">El documento que carezca de alguno de los requisitos que se indican en el artículo precedente no se considera letra de cambio, salvo en los casos comprendidos en los párrafos siguientes:</p>
+          <p class="parrafo_2">a) La letra de cambio cuyo vencimiento no este expresado se considerará pagadera a la vista.</p>
+          <p class="parrafo">b) A falta de indicación especial, el lugar designado junto al nombre del librado se considerará como el lugar del pago y, al mismo tiempo, como lugar del domicilio del librado.</p>
+          <p class="parrafo">c) La letra de cambio que no indique el lugar de su emisión se considerará librada en el lugar designado junto al nombre del librador.</p>
+        </version>
+        <version id_norma="BOE-A-1998-26345" fecha_publicacion="19981117" fecha_vigencia="19981118">
+          <p class="articulo">Artículo segundo.</p>
+          <p class="parrafo">El documento que carezca de alguno de los requisitos que se indican en el artículo precedente no se considera letra de cambio, salvo en los casos comprendidos en los párrafos siguientes:</p>
+          <p class="parrafo_2">a) La letra de cambio cuyo vencimiento no este expresado se considerará pagadera a la vista.</p>
+          <p class="parrafo">b) A falta de indicación especial, el lugar designado junto al nombre del librado se considerará como el lugar del pago y, al mismo tiempo, como lugar del domicilio del librado.</p>
+          <p class="parrafo">c) La letra de cambio que no indique el lugar de su emisión se considerará librada en el lugar designado junto al nombre del librador.</p>
+          <p class="parrafo_2">Tendrán la consideración de cláusulas facultativas todas las menciones puestas en la letra distintas de las señaladas en el artículo precedente.</p>
+          <blockquote>
+            <p class="nota_pie">Se añade un nuevo párrafo por la disposición adicional 9.1 de la Ley 37/1998, de 16 de noviembre. <a class="refPost">Ref. BOE-A-1998-26345</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="atercero" tipo="precepto" titulo="Artículo tercero">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo tercero.</p>
+          <p class="parrafo">Cuando la letra se gira contra dos o más librados, se entenderá que se dirige indistintamente a cada uno, para que cualquiera de ellos pague el importe total de la misma.</p>
+        </version>
+      </bloque>
+      <bloque id="acuarto" tipo="precepto" titulo="Artículo cuarto">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarto.</p>
+          <p class="parrafo">La letra de cambio también podrá girarse:</p>
+          <p class="parrafo_2">a) A la orden del propio librador.</p>
+          <p class="parrafo">b) Contra el propio librador.</p>
+          <p class="parrafo">c) Por cuenta de un tercero.</p>
+        </version>
+      </bloque>
+      <bloque id="aquinto" tipo="precepto" titulo="Artículo quinto">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo quinto.</p>
+          <p class="parrafo">La letra de cambio podrá ser pagadera en el domicilio de un tercero, sea en la localidad en que el librado tiene su domicilio, sea en otra localidad.</p>
+          <p class="parrafo">En este caso, el pago se reclamará del tercero, salvo que se exprese que pagará el propio librado.</p>
+        </version>
+      </bloque>
+      <bloque id="asexto" tipo="precepto" titulo="Artículo sexto">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sexto.</p>
+          <p class="parrafo">En una letra de cambio pagadera a la vista o a un plazo desde la vista, podrá disponer el librador que la cantidad correspondiente devengue intereses. En cualquier otra letra de cambio, semejante estipulación se considerará como no escrita.</p>
+          <p class="parrafo">El tipo de interés anual deberá indicarse en la letra y, a falta de esta indicación, la cláusula correspondiente se considerará como no escrita.</p>
+          <p class="parrafo">Los intereses correrán a partir de la fecha en que se libre la letra de cambio mientras no se indique otra fecha al efecto.</p>
+        </version>
+      </bloque>
+      <bloque id="aseptimo" tipo="precepto" titulo="Artículo séptimo">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo séptimo.</p>
+          <p class="parrafo">Cuando en una letra de cambio figure escrito el importe de la misma en letra y en números será valida la cantidad escrita en letra, en caso de diferencia.</p>
+          <p class="parrafo">La letra de cambio cuyo importe esté escrito varias veces por suma diferente, ya sea en letra, ya sea en números, será valida por la cantidad menor.</p>
+        </version>
+      </bloque>
+      <bloque id="aoctavo" tipo="precepto" titulo="Artículo octavo">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo octavo.</p>
+          <p class="parrafo">Cuando una letra de cambio lleve firmas de personas incapaces de obligarse, o firmas falsas, de personas imaginarias, o firmas que por cualquier otra razón no puedan obligar a las personas que hayan firmado la letra o a aquellas con cuyo nombre aparezca firmada, las obligaciones de los demás firmantes no dejarán por eso de ser válidas.</p>
+        </version>
+      </bloque>
+      <bloque id="anoveno" tipo="precepto" titulo="Artículo noveno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noveno.</p>
+          <p class="parrafo">Todos los que pusieren firmas a nombre de otro en letras de cambio deberán hallarse autorizados para ello con poder de las personas en cuya representación obraren, expresándolo claramente en la antefirma.</p>
+          <p class="parrafo">Se presumirá que los administradores de Compañías están autorizados por el solo hecho de su nombramiento.</p>
+          <p class="parrafo">Los tomadores y tenedores de letras tendrán derecho a exigir a los firmantes la exhibición del poder.</p>
+        </version>
+      </bloque>
+      <bloque id="adiez" tipo="precepto" titulo="Artículo diez">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo diez.</p>
+          <p class="parrafo">El que pusiere su firma en una letra de cambio, como representante de una persona sin poderes para obrar en nombre de ella, quedará obligado en virtud de la letra. Si la pagare, tendrá los mismos derechos que hubiera tenido el supuesto representado. Lo mismo se entenderá del representante que hubiere excedido sus poderes, sin perjuicio de la responsabilidad cambiaria del representado dentro de los límites del poder.</p>
+        </version>
+      </bloque>
+      <bloque id="aonce" tipo="precepto" titulo="Artículo once">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo once.</p>
+          <p class="parrafo">El librador garantiza la aceptación y el pago.</p>
+          <p class="parrafo">Podrá eximirse de la garantía de la aceptación, pero toda cláusula por la cual se exonere de la garantía del pago se considerará como no escrita.</p>
+        </version>
+      </bloque>
+      <bloque id="adoce" tipo="precepto" titulo="Artículo doce">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo doce.</p>
+          <p class="parrafo">Cuando una letra de cambio, incompleta en el momento de su emisión, se hubiese completado contrariamente a los acuerdos celebrados, el incumplimiento de estos acuerdos no podrá alegarse contra el tenedor, a menos que éste haya adquirido la letra de mala fe o con culpa grave.</p>
+        </version>
+      </bloque>
+      <bloque id="atrece" tipo="precepto" titulo="Artículo trece">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo trece.</p>
+          <p class="parrafo">Cuando la extensión de las menciones que hayan de figurar en la letra así lo exija, podrá ampliarse el documento en que conste la letra de cambio, incorporando un suplemento por medio de una hoja adherida en la que se identifique la misma y en la que podrán hacerse constar cualesquiera menciones previstas en la presente Ley, con excepción de las enumeradas en el artículo primero, que deberán figurar en el documento en que se creo la letra.</p>
+        </version>
+      </bloque>
+      <bloque id="cii" tipo="encabezado" titulo="CAPÍTULO II">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO II</p>
+          <p class="capitulo_tit">Del endoso</p>
+        </version>
+      </bloque>
+      <bloque id="acatorce" tipo="precepto" titulo="Artículo catorce">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo catorce.</p>
+          <p class="parrafo">La letra de cambio, aunque no esté expresamente librada a la orden, será trasmisible por endoso.</p>
+          <p class="parrafo">Cuando el librador haya escrito en la letra de cambio las palabras «no a la orden», o una expresión equivalente, el título no será transmisible, sino en la forma y con los efectos de una cesión ordinaria.</p>
+          <p class="parrafo">El endoso podrá hacerse incluso a favor del librado, haya aceptado o no, del librador o de cualquier otra persona obligada en la letra. Todas estas personas podrán endosarla de nuevo.</p>
+          <blockquote>
+            <p class="nota_pie">Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 249, de 17 de octubre de 1985. <a class="refPost">Ref. BOE-A-1985-21383</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="aquince" tipo="precepto" titulo="Artículo quince">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo quince.</p>
+          <p class="parrafo">El endoso deberá ser total, puro y simple. Toda condición a la que aparezca subordinado se considerará no escrita.</p>
+          <p class="parrafo">El endoso parcial será nulo.</p>
+          <p class="parrafo">El endoso al portador equivaldrá a un endoso en blanco.</p>
+        </version>
+      </bloque>
+      <bloque id="adieciseis" tipo="precepto" titulo="Artículo dieciséis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo dieciséis.</p>
+          <p class="parrafo">El endoso deberá escribirse en la letra o en su suplemento y será firmado por el endosante.</p>
+          <p class="parrafo">Será endoso en blanco el que no designe al endosatario o consista simplemente en la firma del endosante. En este ultimo caso, para que el endoso sea válido deberá estar escrito al dorso de la letra de cambio.</p>
+        </version>
+      </bloque>
+      <bloque id="adiecisiete" tipo="precepto" titulo="Artículo diecisiete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo diecisiete.</p>
+          <p class="parrafo">El endoso transmite todos los derechos resultantes de la letra de cambio.</p>
+          <p class="parrafo">Cuando el endoso esté en blanco, el tenedor podrá:</p>
+          <p class="parrafo_2">1. Completar el endoso en blanco con su nombre o con el de otra persona.</p>
+          <p class="parrafo">2. Endosar la letra nuevamente en blanco o hacerlo designando un endosatario determinado.</p>
+          <p class="parrafo">3. Entregar la letra a un tercero, sin completar el endoso en blanco y sin endosarla.</p>
+        </version>
+      </bloque>
+      <bloque id="adieciocho" tipo="precepto" titulo="Artículo dieciocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo dieciocho.</p>
+          <p class="parrafo">El endosante, salvo cláusula en contrario, garantiza la aceptación y el pago frente a los tenedores posteriores.</p>
+          <p class="parrafo">El endosante puede prohibir un nuevo endoso. En este caso, no responderá frente a las personas a quienes ulteriormente se endosare la letra.</p>
+        </version>
+      </bloque>
+      <bloque id="adiecinueve" tipo="precepto" titulo="Artículo diecinueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo diecinueve.</p>
+          <p class="parrafo">El tenedor de la letra de cambio se considerará portador legítimo de la misma cuando justifique su derecho por una serie no interrumpida de endosos, aun cuando el último endoso esté en blanco. A tal efecto, los endosos tachados se considerarán como no escritos. Cuando un endoso en blanco vaya seguido de otro endoso, el firmante de éste se entenderá que adquirió la letra por el endoso en blanco.</p>
+          <p class="parrafo">Cuando una persona sea desposeída de una letra de cambio, por cualquier causa que fuere, el nuevo tenedor que justifique su derecho en la forma indicada en el párrafo precedente no estará obligado a devolver la letra si la adquirió de buena fe.</p>
+        </version>
+      </bloque>
+      <bloque id="aveinte" tipo="precepto" titulo="Artículo veinte">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo veinte.</p>
+          <p class="parrafo">El demandado por una acción cambiaria no podrá oponer al tenedor excepciones fundadas en sus relaciones personales con el librador o con los tenedores anteriores, a no ser que el tenedor, al adquirir la letra, haya procedido a sabiendas en perjuicio del deudor.</p>
+        </version>
+      </bloque>
+      <bloque id="aveintiuno" tipo="precepto" titulo="Artículo veintiuno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo veintiuno.</p>
+          <p class="parrafo">Cuando el endoso contenga la mención «valor al cobro», «para cobranza», «por poder», o cualquier otra que indique un simple mandato, el tenedor podrá ejercer todos los derechos derivados de la letra de cambio, pero no podrá endosar ésta sino a título de comisión de cobranza.</p>
+          <p class="parrafo">En este caso, las personas obligadas, sólo podrán invocar contra el tenedor las excepciones que pudieran alegarse contra el endosante.</p>
+          <p class="parrafo">La autorización contenida en el endoso de apoderamiento no cesará por la muerte del mandante, ni por su incapacidad sobrevenida.</p>
+        </version>
+      </bloque>
+      <bloque id="aveintidos" tipo="precepto" titulo="Artículo veintidós">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo veintidós.</p>
+          <p class="parrafo">Cuando un endoso contenga la mención «valor en garantía», «valor en prenda», o cualquier otra que implique una garantía, el tenedor podrá ejercer todos los derechos que derivan de la letra de cambio, pero el endoso hecho por él sólo valdrá como comisión de cobranza.</p>
+          <p class="parrafo">Las personas obligadas no podrán invocar contra el tenedor de una letra recibida en prenda o en garantía las excepciones fundadas en sus relaciones personales con el endosante que las transmitió en garantía, a menos que el tenedor, al recibir la letra, hubiera procedido a sabiendas en perjuicio del deudor.</p>
+        </version>
+      </bloque>
+      <bloque id="aveintitres" tipo="precepto" titulo="Artículo veintitrés">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo veintitrés.</p>
+          <p class="parrafo">El endoso posterior al vencimiento, que no podrá ser realizado por el aceptante, producirá los mismos efectos que un endoso anterior. Sin embargo, el endoso posterior al protesto o a la declaración equivalente por falta de pago o al vencimiento del plazo establecido para levantar el protesto no producirá otros efectos que los de una cesión ordinaria.</p>
+          <p class="parrafo">El endoso sin fecha se considerará hecho antes de terminar el plazo fijado para levantar el protesto, salvo prueba en contrario.</p>
+        </version>
+      </bloque>
+      <bloque id="aveinticuatro" tipo="precepto" titulo="Artículo veinticuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo veinticuatro.</p>
+          <p class="parrafo">La cesión ordinaria de la letra transmitirá al cesionario todos los derechos del cedente, en los términos previstos en los artículos 347 y 348 del Código de Comercio.</p>
+          <p class="parrafo">El cesiónario tendrá derecho a la entrega de la letra. Iguales efectos producirá la transmisión de la letra por cualquier otro medio distinto del endoso.</p>
+        </version>
+      </bloque>
+      <bloque id="ciii" tipo="encabezado" titulo="CAPÍTULO III">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO III</p>
+          <p class="capitulo_tit">De la aceptación</p>
+        </version>
+      </bloque>
+      <bloque id="aveinticinco" tipo="precepto" titulo="Artículo veinticinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo veinticinco.</p>
+          <p class="parrafo">El tenedor o el simple portador de una letra de cambio podrá presentarla a la aceptación del librado, en el lugar de su domicilio y hasta la fecha de su vencimiento.</p>
+        </version>
+      </bloque>
+      <bloque id="aveintiseis" tipo="precepto" titulo="Artículo veintiséis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo veintiséis.</p>
+          <p class="parrafo">En toda letra de cambio el librador podrá establecer que habrá de presentarse a la aceptación, fijando o no un plazo para ello.</p>
+          <p class="parrafo">También podrá prohibir en la letra su presentación a la aceptación, salvo que sea pagadera en el domicilio de un tercero, o en una localidad distinta de la del domicilio del librado, o se trate de una letra girada a un plazo desde la vista.</p>
+          <p class="parrafo">Podrá, asimismo, establecer que la presentación a la aceptación no habrá de efectuarse antes de determinada fecha.</p>
+          <p class="parrafo">Todo endosante podrá establecer que la letra deberá presentarse a la aceptación fijando o no un plazo para ello, salvo que el librador haya prohibido la aceptación.</p>
+        </version>
+      </bloque>
+      <bloque id="aveintisiete" tipo="precepto" titulo="Artículo veintisiete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo veintisiete.</p>
+          <p class="parrafo">Las letras de cambio a un plazo desde la vista deberán presentarse a la aceptación en el término de un año a partir de su fecha.</p>
+          <p class="parrafo">El librador podrá acortar este último plazo o fijar uno más largo.</p>
+          <p class="parrafo">Estos plazos podrán ser acortados por los endosantes.</p>
+        </version>
+      </bloque>
+      <bloque id="aveintiocho" tipo="precepto" titulo="Artículo veintiocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo veintiocho.</p>
+          <p class="parrafo">El librado podrá pedir que se le presente por segunda vez la letra de cambio, al día siguiente de la primera presentación. Los obligados en vía de regreso no podrán alegar que tal petición quedó incumplida, salvo que hubiere constancia de la misma en el protesto o en la declaración equivalente del librado.</p>
+          <p class="parrafo">El portador no estará obligado a dejar en poder del librado la letra presentada a la aceptación.</p>
+        </version>
+      </bloque>
+      <bloque id="aveintinueve" tipo="precepto" titulo="Artículo veintinueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo veintinueve.</p>
+          <p class="parrafo">La aceptación se escribirá en la letra de cambio. Se expresará mediante la palabra «acepto» o cualquier otra equivalente, e irá firmada por el librado. La simple firma de éste puesta en el anverso de la letra equivale a la aceptación.</p>
+          <p class="parrafo">Cuando la letra sea pagadera a cierto plazo desde la vista, o cuando deba presentarse a la aceptación en un plazo fijado por una estipulación especial, la aceptación deberá llevar la fecha del día en que se haya dado, a no ser que el portador exija que se fije la fecha del día de la presentación. A falta de fecha, el portador, para conservar sus derechos contra los endosantes y contra el librador, hará constar esa omisión mediante protesto, levantado en tiempo hábil.</p>
+        </version>
+      </bloque>
+      <bloque id="atreinta" tipo="precepto" titulo="Artículo treinta">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo treinta.</p>
+          <p class="parrafo">La aceptación será pura y simple, pero el librado podrá limitarla a una parte de la cantidad.</p>
+          <p class="parrafo">Cualquier otra modificación introducida por la aceptación en el texto de la letra de cambio, equivaldrá a una negativa de aceptación. Esto no obstante, el aceptante quedará obligado con arreglo a los términos de su aceptación.</p>
+        </version>
+      </bloque>
+      <bloque id="atreintayuno" tipo="precepto" titulo="Artículo treinta y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo treinta y uno.</p>
+          <p class="parrafo">La letra girada contra dos o más librados podrá presentarse a cualquiera de ellos, a menos que indique claramente lo contrario. La negativa de la aceptación por uno de ellos permitirá al tenedor el ejercicio de su acción de regreso conforme a lo dispuesto en el artículo 50.</p>
+        </version>
+      </bloque>
+      <bloque id="atreintaydos" tipo="precepto" titulo="Artículo treinta y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo treinta y dos.</p>
+          <p class="parrafo">Cuando el librador hubiere indicado en la letra de cambio un lugar de pago distinto al del domicilio del librado, sin designar a un tercero a quien deba reclamarse el pago, el librado podrá hacerlo en el momento de la aceptación. A falta de tal designación, se entenderá que el aceptante se ha obligado a pagar por sí mismo en el lugar de pago.</p>
+          <p class="parrafo">Cuando la letra sea pagadera en el domicilio del librado, éste podrá indicar en la aceptación otro domicilio de pago en la misma localidad y, en su caso, la persona a quien haya de reclamarse dicho pago.</p>
+        </version>
+      </bloque>
+      <bloque id="atreintaytres" tipo="precepto" titulo="Artículo treinta y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo treinta y tres.</p>
+          <p class="parrafo">Por la aceptación, el librado se obliga a pagar la letra de cambio a su vencimiento.</p>
+        </version>
+      </bloque>
+      <bloque id="atreintaycuatro" tipo="precepto" titulo="Artículo treinta y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo treinta y cuatro.</p>
+          <p class="parrafo">Cuando el librado tuviere en su poder la letra para su aceptación, la aceptare y antes de devolverla tachare o cancelare la aceptación, se considerará que la letra no ha sido aceptada. Salvo prueba en contrario, la tachadura se considerará hecha por el librado y antes de la devolución del título.</p>
+          <p class="parrafo">Esto no obstante, si el librado hubiese notificado su aceptación por escrito al tenedor o a cualquier firmante de la letra quedará obligado frente a éstos en los términos de su aceptación.</p>
+        </version>
+      </bloque>
+      <bloque id="civ" tipo="encabezado" titulo="CAPÍTULO IV">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO IV</p>
+          <p class="capitulo_tit">Del aval</p>
+        </version>
+      </bloque>
+      <bloque id="atreintaycinco" tipo="precepto" titulo="Artículo treinta y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo treinta y cinco.</p>
+          <p class="parrafo">El pago de una letra podrá garantizarse mediante aval, ya sea por la totalidad o por parte de su importe.</p>
+          <p class="parrafo">Esta garantía puede prestarla un tercero o también un firmante de la letra.</p>
+          <p class="parrafo">El aval podrá suscribirse incluso después del vencimiento y denegación de pago de la letra, siempre que al otorgarse no hubiere quedado liberado ya el avalado de su obligación cambiaria.</p>
+        </version>
+      </bloque>
+      <bloque id="atreintayseis" tipo="precepto" titulo="Artículo treinta y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo treinta y seis.</p>
+          <p class="parrafo">El aval ha de ponerse en la letra o en su suplemento. Se expresará mediante las palabras «por aval» o cualquier otra fórmula equivalente, e irá firmado por el avalista.</p>
+          <p class="parrafo">La simple firma de una persona puesta en el anverso de la letra de cambio vale como aval, siempre que no se trate de la firma del librado o del librador.</p>
+          <p class="parrafo">El aval deberá indicar a quién se avala. A falta de esta indicación, se entenderá avalado el aceptante, y en defecto de éste, el librador.</p>
+          <p class="parrafo">No producirá efectos cambiarios el aval en documento separado.</p>
+        </version>
+      </bloque>
+      <bloque id="atreintaysiete" tipo="precepto" titulo="Artículo treinta y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo treinta y siete.</p>
+          <p class="parrafo">El avalista responde de igual manera que el avalado, y no podrá oponer las excepciones personales de éste. Será válido el aval aunque la obligación garantizada fuese nula por cualquier causa que no sea la de vicio de forma.</p>
+          <p class="parrafo">Cuando el avalista pagare la letra de cambio adquirirá los derechos derivados de ella contra la persona avalada y contra los que sean responsables cambiariamente respecto de esta última.</p>
+        </version>
+      </bloque>
+      <bloque id="cv" tipo="encabezado" titulo="CAPÍTULO V">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO V</p>
+          <p class="capitulo_tit">Del vencimiento</p>
+        </version>
+      </bloque>
+      <bloque id="atreintayocho" tipo="precepto" titulo="Artículo treinta y ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo treinta y ocho.</p>
+          <p class="parrafo">La letra de cambio podrá librarse:</p>
+          <p class="parrafo_2">1. A fecha fija.</p>
+          <p class="parrafo">2. A un plazo contado desde la fecha.</p>
+          <p class="parrafo">3. A la vista.</p>
+          <p class="parrafo">4. A un plazo contado desde la vista.</p>
+          <p class="parrafo_2">Las letras de cambio que indiquen otros vencimientos o vencimientos sucesivos serán nulas.</p>
+        </version>
+      </bloque>
+      <bloque id="atreintaynueve" tipo="precepto" titulo="Artículo treinta y nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo treinta y nueve.</p>
+          <p class="parrafo">La letra de cambio a la vista será pagadera a su presentación. Deberá presentarse al pago dentro del año siguiente a su fecha. El librador podrá acortar este plazo o fijar uno mas largo. Estos plazos podrán ser acortados por los endosantes.</p>
+          <p class="parrafo">El librador podrá disponer que una letra de cambio pagadera a la vista no se presente al pago antes de una determinada fecha. En este caso, el plazo para la presentación se contará desde dicha fecha.</p>
+        </version>
+      </bloque>
+      <bloque id="acuarenta" tipo="precepto" titulo="Artículo cuarenta">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarenta.</p>
+          <p class="parrafo">El vencimiento de una letra de cambio a un plazo desde la vista, se determinará por la fecha de la aceptación o, en defecto de ésta, por la del protesto o declaración equivalente.</p>
+          <p class="parrafo">A falta de protesto, toda aceptación que no lleve fecha se considerará, siempre frente al aceptante, que ha sido puesta el último día del plazo señalado para su presentación a la aceptación.</p>
+        </version>
+      </bloque>
+      <bloque id="acuarentayuno" tipo="precepto" titulo="Artículo cuarenta y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarenta y uno.</p>
+          <p class="parrafo">En las letras de cambio libradas a uno o varios meses a partir de su fecha o de la vista, su vencimiento se determinará computándose los meses de fecha a fecha. Cuando en el mes del vencimiento no hubiere día equivalente al inicial del cómputo se entenderá que el plazo expira el último del mes.</p>
+          <p class="parrafo">En el conjunto no se excluyen los días inhábiles, pero si el día del vencimiento lo fuera, se entenderá que la letra vence el primer día hábil siguiente.</p>
+        </version>
+      </bloque>
+      <bloque id="acuarentaydos" tipo="precepto" titulo="Artículo cuarenta y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarenta y dos.</p>
+          <p class="parrafo">Cuando una letra de cambio sea pagadera a fecha fija en un lugar en que el calendario sea diferente del que rija en el lugar de la emisión, la fecha del vencimiento se entenderá fijada con arreglo al calendario del lugar del pago.</p>
+          <p class="parrafo">Cuando una letra librada entre dos plazas que tengan calendarios diferentes sea pagadera a cierto plazo desde su fecha, el día de la emisión se remitirá al día correspondiente del calendario del lugar del pago, y el vencimiento se determinará en consecuencia. Las mismas reglas serán de aplicación para la presentación de las letras a su aceptación.</p>
+          <p class="parrafo">Estas reglas no serán aplicables cuando de la letra de cambio resulte la intención del librador de adoptar otras diferentes.</p>
+        </version>
+      </bloque>
+      <bloque id="cvi" tipo="encabezado" titulo="CAPÍTULO VI">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO VI</p>
+          <p class="capitulo_tit">Del pago</p>
+        </version>
+      </bloque>
+      <bloque id="acuarentaytres" tipo="precepto" titulo="Artículo cuarenta y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarenta y tres.</p>
+          <p class="parrafo">El tenedor de una letra de cambio pagadera en día fijo o a un plazo a contar desde la fecha o desde la vista, deberá presentar la letra de cambio al pago en el día de su vencimiento, o en uno de los dos días hábiles siguientes.</p>
+          <p class="parrafo">Cuando se trate de letras de cambio domiciliadas en una cuenta abierta en Entidad de crédito, su presentación a una Cámara o sistema de compensación equivaldrá a su presentación al pago.</p>
+          <p class="parrafo">Cuando la letra de cambio se encuentre en poder de una Entidad de crédito, la presentación al pago podrá realizarse mediante el envío al librado con anterioridad suficiente al día del vencimiento, de un aviso conteniendo todos los datos necesarios para la identificación de la letra, a fin de que pueda indicar sus instrucciones para el pago.</p>
+        </version>
+      </bloque>
+      <bloque id="acuarentaycuatro" tipo="precepto" titulo="Artículo cuarenta y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarenta y cuatro.</p>
+          <p class="parrafo">La letra girada contra dos o más librados deberá ser presentada a su vencimiento a los aceptantes para su pago por cualquiera de ellos. Si la letra no tuviere aceptantes podrá ser presentada a cualquiera de los librados.</p>
+          <p class="parrafo">Cuando los domicilios fijados para el pago de los distintos aceptantes estuvieren en localidades diversas, una vez presentada la letra de pago infructuosamente en la fecha de su vencimiento a uno de los aceptantes, en los términos previstos en el artículo anterior, deberán efectuarse las sucesivas presentaciones en el plazo de ocho días hábiles para cada una de ellas.</p>
+          <p class="parrafo">La falta de pago de la letra por todos los aceptantes o por uno de los librados, cuando no estuviere aceptada, será suficiente para atribuir al tenedor las acciones establecidas en la presente Ley para el caso de que la letra no sea pagada.</p>
+        </version>
+      </bloque>
+      <bloque id="acuarentaycinco" tipo="precepto" titulo="Artículo cuarenta y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarenta y cinco.</p>
+          <p class="parrafo">El librado podrá exigir al pagar la letra de cambio que le sea entregada con el recibí del portador, salvo que éste sea una Entidad de crédito, en cuyo caso ésta podrá entregar, excepto si se pactara lo contrario entre librador y librado, en lugar de la letra original, un documento acreditativo del pago en el que se identifique suficientemente la letra. Este documento tendrá pleno valor liberatorio para el librado frente a cualquier acreedor cambiario, y la Entidad tenedora de la letra responderá de todos los daños y perjuicios que puedan resultar del hecho de que se vuelva a exigir el pago de la letra tanto frente al librado como frente a los restantes obligados cambiarios. Se presumirá pagada la letra que, después de su vencimiento, se hallare ésta o el documento a que se refiere este artículo en poder del librado o del domiciliatario.</p>
+          <p class="parrafo">El portador no podrá rechazar un pago parcial.</p>
+          <p class="parrafo">En caso de pago parcial, el librado podrá exigir que este pago se haga constar en la letra y que se le dé recibo del mismo.</p>
+        </version>
+      </bloque>
+      <bloque id="acuarentayseis" tipo="precepto" titulo="Artículo cuarenta y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarenta y seis.</p>
+          <p class="parrafo">El portador de una letra de cambio no podrá ser obligado a recibir el pago antes de su vencimiento.</p>
+          <p class="parrafo">El librado que pagare antes del vencimiento, lo hará por su cuenta y riesgo.</p>
+          <p class="parrafo">El que pagare al vencimiento quedará liberado, a no ser que hubiere incurrido en dolo o culpa grave al apreciar la legitimación del tenedor. A tal efecto, estará obligado a comprobar la regularidad de la serie de los endosos, pero no la autenticidad de la firma de los endosantes.</p>
+        </version>
+      </bloque>
+      <bloque id="acuarentaysiete" tipo="precepto" titulo="Artículo cuarenta y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarenta y siete.</p>
+          <p class="parrafo">El pago de las letras de cambio libradas en moneda extranjera convertible admitida a cotización oficial deberá realizarse en la moneda pactada, siempre que la obligación de pago en la referida moneda esté autorizada o resulte permitida de acuerdo con las normas de control de cambios.</p>
+          <p class="parrafo">Si no fuera posible efectuar el pago en la moneda pactada, por causa no imputable al deudor, éste entregará el valor en pesetas de la suma expresada en la letra de cambio, determinándose dicho valor de acuerdo con el cambio vendedor correspondiente al día del vencimiento. En caso de demora el tenedor podrá exigir que el importe de la letra le sea pagado por el valor en pesetas que resulte del cambio vendedor de la fecha del vencimiento o del de la fecha de pago, a su elección.</p>
+          <p class="parrafo">Cuando el importe de la letra de cambio se haya indicado en una moneda que tenga la misma denominación, pero diferente valor en el país de emisión que en el país de pago, se presumirá que la moneda expresada es la del lugar de pago.</p>
+        </version>
+      </bloque>
+      <bloque id="acuarentayocho" tipo="precepto" titulo="Artículo cuarenta y ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarenta y ocho.</p>
+          <p class="parrafo">A falta de presentación al pago de la letra de cambio en el plazo fijado por el artículo 43, todo deudor tendrá la facultad de consignar su importe en depósito a disposición del tenedor y por su cuenta y riesgo, judicialmente o en una Entidad de crédito, Notario o Agente mediador colegiado.</p>
+        </version>
+      </bloque>
+      <bloque id="cvii" tipo="encabezado" titulo="CAPÍTULO VII">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO VII</p>
+          <p class="capitulo_tit">De las acciones por falta de aceptación y por falta de pago</p>
+        </version>
+      </bloque>
+      <bloque id="acuarentaynueve" tipo="precepto" titulo="Artículo cuarenta y nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cuarenta y nueve.</p>
+          <p class="parrafo">La acción cambiaria puede ser directa contra el aceptante o sus avalistas, o de regreso contra cualquier otro obligado.</p>
+          <p class="parrafo">A falta de pago, el tenedor, aunque sea el propio librador, tendrá contra el aceptante y su avalista la acción directa derivada de la letra de cambio para reclamar sin necesidad de protesto, tanto en la vía ordinaria como en la ejecutiva, lo previsto en los artículos 58 y 59.</p>
+        </version>
+        <version id_norma="BOE-A-2000-323" fecha_publicacion="20000108" fecha_vigencia="20010108">
+          <p class="articulo">Artículo cuarenta y nueve.</p>
+          <p class="parrafo">La acción cambiaria puede ser directa contra el aceptante o sus avalistas, o de regreso contra cualquier otro obligado.</p>
+          <p class="parrafo">A falta de pago, el tenedor, aunque sea el propio librador, tendrá contra el aceptante y su avalista la acción directa derivada de la letra de cambio para reclamar sin necesidad de protesto, tanto en la vía ordinaria a través del proceso especial cambiario, lo previsto en los artículos 58 y 59.</p>
+          <blockquote>
+            <p class="nota_pie">Se modifica el párrafo segundo por la disposición final 10.2 de la Ley 1/2000, de 7 de enero. <a class="refPost">Ref. BOE-A-2000-323</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="acincuenta" tipo="precepto" titulo="Artículo cincuenta">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cincuenta.</p>
+          <p class="parrafo">El tenedor podrá ejercitar su acción de regreso contra los endosantes, el librador y las demás personas obligadas una vez vencida la letra, cuando el pago no se haya efectuado.</p>
+          <p class="parrafo">La misma acción podrá ejercitarse antes del vencimiento en los siguientes casos:</p>
+          <p class="parrafo_2">a) Cuando se hubiere denegado total o parcialmente la aceptación.</p>
+          <p class="parrafo">b) Cuando el librado, sea o no aceptante, se encontrare en suspensión de pagos, quiebra o concurso, o hubiere resultado infructuoso el embargo de sus bienes.</p>
+          <p class="parrafo">c) Cuando el librador de una letra, cuya presentación a la aceptación haya sido prohibida, se encontrare en suspensión de pagos, quiebra o concurso.</p>
+          <p class="parrafo_2">En los supuestos de los apartados b) y c) los demandados podrán obtener del Juez un plazo para el pago que en ningún caso excederá del día del vencimiento de la letra.</p>
+        </version>
+        <version id_norma="BOE-A-2003-13813" fecha_publicacion="20030710" fecha_vigencia="20040901">
+          <p class="articulo">Artículo cincuenta.</p>
+          <p class="parrafo">El tenedor podrá ejercitar su acción de regreso contra los endosantes, el librador y las demás personas obligadas, una vez vencida la letra, cuando el pago no se haya efectuado.</p>
+          <p class="parrafo">La misma acción podrá ejercitarse antes del vencimiento en los siguientes casos:</p>
+          <p class="parrafo_2">a) Cuando se hubiere denegado total o parcialmente la aceptación.</p>
+          <p class="parrafo">b) Cuando el librado, sea o no aceptante, se hallare declarado en concurso o hubiere resultado infructuoso el embargo de sus bienes.</p>
+          <p class="parrafo">c) Cuando el librador de una letra, cuya presentación a la aceptación haya sido prohibida, se hallare declarado en concurso.</p>
+          <p class="parrafo_2">En los supuestos de los párrafos b) y c) los demandados podrán obtener del juez un plazo para el pago que en ningún caso excederá del día del vencimiento de la letra.</p>
+          <blockquote>
+            <p class="nota_pie">Se modifica por la disposición final 17 de la Ley 22/2003, de 9 de julio. <a class="refPost">Ref. BOE-A-2003-13813</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="acincuentayuno" tipo="precepto" titulo="Artículo cincuenta y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cincuenta y uno.</p>
+          <p class="parrafo">La falta de aceptación o de pago deberá hacerse constar mediante protesto levantado conforme previene el presente capítulo.</p>
+          <p class="parrafo">Producirá todos los efectos cambiarios del protesto la declaración que conste en la propia letra, firmada y fechada por el librado en la que se deniegue la aceptación o el pago, así como la declaración, con los mismos requisitos, del domiciliatario o, en su caso, de la Cámara de Compensación, en la que se deniegue el pago, salvo que el librador haya exigido expresamente en la letra el levantamiento del protesto notarial. En todo caso la declaración del librado, del domiciliatario o de la Cámara de Compensación deberá ser hecha dentro de los plazos establecidos para el protesto notarial en el artículo siguiente.</p>
+          <p class="parrafo">El protesto notarial por falta de aceptación deberá hacerse dentro de los plazos fijados para la presentación a la aceptación o de los cinco dias hábiles siguientes a su terminación.</p>
+          <p class="parrafo">El protesto por falta de pago de una letra de cambio pagadera a fecha fija, o a cieno plazo desde su fecha, o desde la vista, deberá hacerse en uno dedos cinco días hábiles siguiente al del vencimiento de la letra de cambio. Si se tratare de una letra pagadera a la vista, el protesto deberá extenderse en el plazo Indicado en el párrafo precedente para el protesto por falta de aceptación.</p>
+          <p class="parrafo">El protesto por falta de aceptación eximirá de la presentación al pago y del protesto por falta de pago.</p>
+          <p class="parrafo">En caso de suspensión de pagos, declaración de quiebra o concurso del librado, haya éste aceptado o no, o del librador de una letra no sujeta a aceptación, la presentación de la providencia teniendo por solicitada la suspensión de pagos o del auto declarativo de la quiebra o concurso, bastará para que el portador pueda ejecitar sus acciones de regreso.</p>
+          <blockquote>
+            <p class="nota_pie">Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 249, de 17 de octubre de 1985. <a class="refPost">Ref. BOE-A-1985-21383</a></p>
+          </blockquote>
+        </version>
+        <version id_norma="BOE-A-1998-26345" fecha_publicacion="19981117" fecha_vigencia="19981118">
+          <p class="articulo">Artículo cincuenta y uno.</p>
+          <p class="parrafo">La falta de aceptación o de pago deberá hacerse constar mediante protesto levantado conforme previene el presente capítulo.</p>
+          <p class="parrafo">Producirá todos los efectos cambiarios del protesto la declaración que conste en la propia letra, firmada y fechada por el librado en la que se deniegue la aceptación o el pago, así como la declaración, con los mismos requisitos, del domiciliario o,en su caso, de la Cámara de Compensación, en la que se deniegue el pago, salvo que el librador haya exigido expresamente en la letra el levantamiento del protesto notarial en el espacio reservado por la normativa aplicable a cláusulas facultativas. En todo caso la declaración del librado, del domiciliario o de la Cámara de Compensación deberá ser hecha dentro de los plazos establecidos para el protesto notarial en el artículo siguiente.</p>
+          <p class="parrafo">El protesto notarial por falta de aceptación deberá hacerse dentro de los plazos fijados para la presentación a la aceptación o de los ocho días hábiles siguientes.</p>
+          <p class="parrafo">El protesto por falta de pago de una letra de cambio pagadera a fecha fija o a cierto plazo desde su fecha o desde la vista deberá hacerse en uno de los ocho días hábiles siguientes al del vencimiento de la letra de cambio. Si se tratara de una letra pagadera a la vista, el protesto deberá extenderse en el plazo indicado en el párrafo precedente para el protesto por falta de aceptación.</p>
+          <p class="parrafo">El protesto por falta de aceptación eximirá de la presentación al pago y del protesto por falta de pago.</p>
+          <p class="parrafo">En caso de suspensión de pagos, declaración de quiebra o concurso del librado, haya éste aceptado o no, o del librador de una letra no sujeta a aceptación, la presentación de la providencia teniendo por solicitada la suspensión de pagos o del auto declarativo de la quiebra o concurso, bastará para que el portador pueda ejecitar sus acciones de regreso.</p>
+          <blockquote>
+            <p class="nota_pie">Se modifican los párrafos segundo, tercero y cuarto por la disposición adicional 9.2 de la Ley 37/1998, de 16 de noviembre. <a class="refPost">Ref. BOE-A-1998-26345</a></p>
+            <p class="nota_pie">Redactado el párrafo segundo conforme a la corrección de errores publicada en BOE núm. 249, de 17 de octubre de 1985. <a class="refPost">Ref. BOE-A-1985-21383</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="acincuentaydos" tipo="precepto" titulo="Artículo cincuenta y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cincuenta y dos.</p>
+          <p class="parrafo">La declaración de quedar protestada la letra se hará por el Notario, dentro de los plazos previstos en el artículo anterior, mediante acta en la que se copiará o reproducirá la letra.</p>
+          <p class="parrafo">En los dos días hábiles siguientes, el Notario notificará el protesto al librado, mediante cédula extendida en papel común en la que figurarán su nombre, apellidos y la dirección de su despacho. En la cédula se copiará o reproducirá la letra y se indicará al librado el plazo de que dispone, conforme al artículo 53, para examinar el original, que estará depositado en la Notaria, para aceptar o pagar la letra, según los casos, o hacer manifestaciones congruentes con el protesto.</p>
+          <p class="parrafo">La cédula de notificación será entregada por el Notario, o por quien éste designe para ello, al librado, sus dependientes o parientes, o cualquier persona que se encuentre en el domicilio que corresponda. No hallando a ninguno de ellos, la notificación se considerará válidamente realizada con su entrega a cualquier vecino de dicho domicilio. La negativa a recibir la cédula no afectará a la validez de la notificación. Todo ello se hará constar por diligencia en el acta de protesto.</p>
+          <p class="parrafo">Las Entidades de crédito están obligadas a remitir al librado en el plazo de dos días hábiles, la cédula de notificación del protesto por falta de pago de las letras de cambio que estén domiciliadas en ellas.</p>
+        </version>
+      </bloque>
+      <bloque id="acincuentaytres" tipo="precepto" titulo="Artículo cincuenta y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cincuenta y tres.</p>
+          <p class="parrafo">Sea cual fuere la hora en que se hubiere hecho la notificación, el Notario retendrá en su poder la letra sin entregar ésta ni testimonio alguno del protesto al tenedor hasta las catorce horas del segundo día hábil siguiente al de la notificación. Durante ese tiempo y en horas de despacho podrán los interesados examinar la letra en la Notaria y hacer manifestaciones congruentes con el protesto.</p>
+          <p class="parrafo">Si éste fuere por falta de pago y el pagador se presentare en dicho plazo a satisfacer el importe de la letra y los gastos del protesto, el Notario admitirá el pago, haciéndole entrega de la letra con diligencia en la misma y en el acta de haberse pagado y cancelado el protesto.</p>
+          <p class="parrafo">De análoga manera, si el protesto fuere por falta de aceptación, la cancelación se anotará en el acta, si la letra fuese aceptada.</p>
+          <p class="parrafo">Dentro de los cinco días hábiles siguientes a la expiración del plazo establecido en el párrafo primero de este artículo, el Notario procederá a la devolución de la letra al tenedor con copia del protesto, si la hubiere solicitado. No obstante, el tenedor podrá retirarlas desde el mismo momento en que hubiere expirado el plazo del párrafo primero.</p>
+        </version>
+      </bloque>
+      <bloque id="acincuentaycuatro" tipo="precepto" titulo="Artículo cincuenta y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cincuenta y cuatro.</p>
+          <p class="parrafo">Si la letra protestada contuviera indicaciones o fueren varios los librados, se enviará cédula de notificación a todos los que residiesen en la misma plaza, en la forma y con los efectos señalados en el artículo 52.</p>
+          <p class="parrafo">Si residieren en plaza diferente podrá reproducirse el protesto en la localidad de que se trate dentro de los ocho días hábiles siguientes a la fecha de protesto precedente.</p>
+        </version>
+      </bloque>
+      <bloque id="acincuentaycinco" tipo="precepto" titulo="Artículo cincuenta y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cincuenta y cinco.</p>
+          <p class="parrafo">El tenedor deberá comunicar la falta de aceptación o de pago a su endosante y al librador dentro del plazo de ocho días hábiles. Este plazo se computará de la forma siguiente: 1.º En el caso de protesto notarial, desde la fecha del mismo. 2.º En el caso de la declaración escrita a la que se refiere el artículo 51, párrafo segundo, desde la fecha que en ella conste. 3.º En el caso de la cláusula de devolución «sin gastos» desde la fecha de presentación de la letra.</p>
+          <p class="parrafo">Dentro de los dos días hábiles siguientes a la fecha en que el endosante haya recibido la comunicación, deberá a su vez comunicarlo a su endosante, indicándole los nombres y direcciones de aquellos que hubieren dado las comunicaciones precedentes. La misma obligación corresponderá a todos los endosantes hasta llegar al librador. Los plazos antes mencionados correrán desde el momento en que se reciba la comunicación precedente.</p>
+          <p class="parrafo">Toda comunicación que se realice a un firmante de la letra deberá hacerse en el mismo plazo a su avalista. Si no consta su dirección, la comunicación deberá efectuarla el avalado.</p>
+          <p class="parrafo">En el caso de que un endosante no hubiere indicado su dirección o la hubiere indicado de manera ilegible, bastará que la comunicación se haga al endosante anterior a él.</p>
+          <p class="parrafo">El que tuviere que efectuar una comunicación podrá hacerlo en cualquier forma, incluso por la simple devolución de la letra de cambio, pero deberá probar que ha dado la comunicación dentro del término señalado. Se considerará que se ha observado este plazo cuando la carta en que se haga la comunicación se haya puesto en el correo dentro de dicho plazo.</p>
+          <p class="parrafo">El que no hiciere la comunicación dentro del plazo antes indicado conserva su acción, pero será responsable, si ha lugar, del perjuicio causado por su negligencia, sin que lo reclamado por daños y perjuicios pueda exceder del importe de la letra de cambio.</p>
+        </version>
+      </bloque>
+      <bloque id="acincuentayseis" tipo="precepto" titulo="Artículo cincuenta y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cincuenta y seis.</p>
+          <p class="parrafo">Mediante la cláusula de «devolución sin gastos», «sin protesto», o cualquier otra indicación equivalente escrita en el título y firmada, el librador, el endosante o sus avalistas podrán dispensar al tenedor de hacer que se levante protesto por falta de aceptación o por falta de pago para poder ejercitar sus acciones de regreso, tanto por la vía ordinaria como ejecutiva.</p>
+          <p class="parrafo">Esta cláusula no dispensará al tenedor de presentar la letra dentro de los plazos correspondientes ni de las comunicaciones que haya de dar. La prueba de la inobservancia de los plazos incumbirá a quien lo alegue contra el tenedor.</p>
+          <p class="parrafo">Si la cláusula hubiere sido escrita por el librador, producirá sus efectos con relación a todos los firmantes; si hubiere sido insertada por un endosante o avalista, sólo causará efecto con relación a éstos. Cuando a pesar de la cláusula insertada por el librador, el portador mande levantar el protesto, los gastos que el mismo origine serán de su cuenta. Si la cláusula procediere de un endosante o de un avalista, los gastos del protesto, en caso de que se levante, podrán ser reclamados de todos estos firmantes.</p>
+        </version>
+      </bloque>
+      <bloque id="acincuentaysiete" tipo="precepto" titulo="Artículo cincuenta y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cincuenta y siete.</p>
+          <p class="parrafo">Los que hubieren librado, aceptado, endosado o avalado una letra de cambio responden solidariamente frente al tenedor.</p>
+          <p class="parrafo">El portador tendrá derecho a proceder contra todas estas personas individual o conjuntamente, sin que le sea indispensable observar el orden en que se hubieren obligado.</p>
+          <p class="parrafo">El mismo derecho corresponderá a cualquier firmante de una letra de cambio que la haya pagado.</p>
+          <p class="parrafo">La acción intentada contra cualquiera de las personas obligadas no impedirá que se proceda contra las demás, aunque sean posteriores en orden a la que fue primeramente demandada.</p>
+        </version>
+      </bloque>
+      <bloque id="acincuentayocho" tipo="precepto" titulo="Artículo cincuenta y ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cincuenta y ocho.</p>
+          <p class="parrafo">El tenedor podrá reclamar a la persona contra quien ejercite su acción:</p>
+          <p class="parrafo_2">Primero.–El importe de la letra de cambio no aceptada o no pagada, con los intereses en ella indicados conforme al artículo 6 de esta Ley.</p>
+          <p class="parrafo">Segundo.–Los réditos de la cantidad anterior devengados desde la fecha de vencimiento de la letra calculados al tipo de interés legal del dinero incrementado en dos puntos.</p>
+          <p class="parrafo">Tercero.–Los demás gastos, incluidos los del protesto y los de las comunicaciones.</p>
+          <p class="parrafo_2">Si la acción se ejercitase antes del vencimiento, se deducirá del importe de la letra el descuento correspondiente. Este descuento se calculará al interés legal del dinero vigente al día en que la acción se ejercite, aumentado en dos puntos.</p>
+        </version>
+      </bloque>
+      <bloque id="acincuentaynueve" tipo="precepto" titulo="Artículo cincuenta y nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cincuenta y nueve.</p>
+          <p class="parrafo">El que hubiere reembolsado la letra de cambio podrá reclamar de las personas que sean responsables frente a él:</p>
+          <p class="parrafo_2">1. La cantidad íntegra que haya pagado.</p>
+          <p class="parrafo">2. Los intereses de dicha cantidad, calculados al interés legal del dinero, aumentado en dos puntos, a partir de la fecha del pago.</p>
+          <p class="parrafo">3. Los gastos que haya realizado.</p>
+        </version>
+      </bloque>
+      <bloque id="asesenta" tipo="precepto" titulo="Artículo sesenta">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sesenta.</p>
+          <p class="parrafo">Toda persona obligada contra la cual se ejerza o pueda ejercerse una acción cambiaria podrá exigir, mediante el pago correspondiente, la entrega de la letra de cambio con el protesto, en su caso, y la cuenta de resaca con el recibí.</p>
+          <p class="parrafo">Todo endosante que haya pagado una letra de cambio podrá tachar su endoso y los de los endosantes subsiguientes.</p>
+          <p class="parrafo">El tenedor de la letra a quien un obligado cambiario le ofrezca el pago de la misma, estará obligado a aceptarlo y a entregar la letra en el plazo más breve posible desde el ofrecimiento. A partir de tal ofrecimiento de pago, el tenedor será responsable del perjuicio causado por su conducta.</p>
+        </version>
+      </bloque>
+      <bloque id="asesentayuno" tipo="precepto" titulo="Artículo sesenta y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sesenta y uno.</p>
+          <p class="parrafo">Cuando se ejercitase acción de regreso en caso de aceptación parcial, el que pagare la cantidad que hubiere quedado sin aceptar en la letra podrá exigir que este pago se haga constar en la letra de cambio y que se le dé el correspondiente recibo. El tenedor deberá además entregarle una copia autenticada de la letra, así como el protesto, si se hubiere levantado, para que pueda ejercer a su vez cualquier acción de regreso, en via ordinaria o ejecutiva.</p>
+        </version>
+      </bloque>
+      <bloque id="asesentaydos" tipo="precepto" titulo="Artículo sesenta y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sesenta y dos.</p>
+          <p class="parrafo">Toda persona que tenga derecho de ejercer la acción de regreso podrá reembolsarse, salvo estipulación en contrario, mediante una nueva letra girada a la vista sobre cualquiera de los obligados en la letra y pagadera en el domicilio del obligado.</p>
+          <p class="parrafo">La letra de resaca comprenderá, además de las cantidades indicadas en los artículos 58 y 59, un derecho de comisión y el importe del timbre de la letra.</p>
+          <p class="parrafo">Cuando sea el tenedor quien gire la letra de resaca, el importe de ésta se fijará con arreglo al cambio de una letra pagadera a la vista, girada desde el lugar en que la letra primitiva era pagadera sobre el lugar del domicilio del garante. Si la letra fuese emitida por un endosante, su importe se fijará con arreglo al cambio de una letra a la vista librada desde la plaza en que el librador de la letra de resaca tiene su domicilio sobre el lugar del domicilio del responsable de esta letra.</p>
+        </version>
+      </bloque>
+      <bloque id="asesentaytres" tipo="precepto" titulo="Artículo sesenta y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sesenta y tres.</p>
+          <p class="parrafo">El tenedor perderá todas sus acciones cambiarias contra los endosantes, librador y las demás personas obligadas, con excepción del aceptante y de su avalista, en los casos siguientes:</p>
+          <p class="parrafo_2">a) Cuando no hubiere presentado dentro del plazo la letra girada a la vista o a un plazo desde la vista.</p>
+          <p class="parrafo">b) Cuando, siendo necesario, no se hubiere levantado el protesto o hecho la declaración equivalente por falta de aceptación o de pago.</p>
+          <p class="parrafo">c) Cuando no hubiere presentado la letra al pago dentro del plazo, en caso de haberse estipulado la devolución «sin gastos».</p>
+          <p class="parrafo_2">Si la letra no hubiere sido presentada a la aceptación en el plazo señalado por el librador, el tenedor perderá las acciones de regreso que le correspondiesen, tanto por falta de pago como por falta de aceptación, a no ser que de los términos de la misma resulte que el librador sólo excluyó su garantía por falta de aceptación.</p>
+          <p class="parrafo">Cuando la estipulación de un plazo para la presentación estuviera contenida en un endoso, sólo beneficiará al endosante que la puso.</p>
+          <blockquote>
+            <p class="nota_pie">Redactada la letra c) conforme a la corrección de errores publicada en BOE núm. 249, de 17 de octubre de 1985. <a class="refPost">Ref. BOE-A-1985-21383</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="asesentaycuatro" tipo="precepto" titulo="Artículo sesenta y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sesenta y cuatro.</p>
+          <p class="parrafo">Cuando no fuere posible presentar la letra de cambio o levantar el protesto, dentro de los plazos fijados, por causa de fuerza mayor, se entenderán prorrogados dichos plazos. El tenedor estará obligado a comunicar sin demora a su endosante el caso de fuerza mayor y a anotar esta comunicación, fechada y firmada por él, en la letra de cambio. Será aplicable a este caso lo dispuesto en el artículo 55.</p>
+          <p class="parrafo">Una vez que haya cesado la fuerza mayor, el tenedor deberá presentar sin demora la letra a la aceptación o al pago, y, si ha lugar, deberá levantar el protesto.</p>
+          <p class="parrafo">Si la fuerza mayor persistiere después de transcurridos treinta días a partir de la fecha del vencimiento, las acciones de regreso podrán ejercitarse sin que sea necesaria la presentación ni el protesto.</p>
+          <p class="parrafo">Para las letras de cambio a la vista o a un plazo desde la vista, el término de treinta días correrá a partir de la fecha en que el tenedor haya notificado la fuerza mayor a su endosante, aun antes de la expiración de los plazos de presentación. Para las letras de cambio a un plazo desde la vista, el término de treinta días se añadirá al plazo desde la vista indicado en la letra de cambio.</p>
+          <p class="parrafo">No se entenderá que constituyen caso de fuerza mayor los hechos que sólo afecten personalmente al tenedor o a la persona encargada por él de la presentación de la letra o del levantamiento del protesto.</p>
+        </version>
+      </bloque>
+      <bloque id="asesentaycinco" tipo="precepto" titulo="Artículo sesenta y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sesenta y cinco.</p>
+          <p class="parrafo">Cuando el tenedor hubiere perdido la acción cambiaria contra todos los obligados y no pudiera ejercitar acciones causales contra ellos, podrá dirigirse contra el librador, el aceptante o un endosante, exigiéndoles el pago de la cantidad con la que se hubieren enriquecido injustamente en su perjuicio, como consecuencia de la extinción de la obligación cambiaria por la omisión de los actos exigidos por la Ley para la conservación de los derechos que derivan del título.</p>
+          <p class="parrafo">La acción de enriquecimiento a favor del tenedor prescribe a los tres años de haberse extinguido la acción cambiaria.</p>
+        </version>
+      </bloque>
+      <bloque id="asesentayseis" tipo="precepto" titulo="Artículo sesenta y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sesenta y seis.</p>
+          <p class="parrafo">La letra de cambio tendrá aparejada ejecución a los efectos previstos en los artículos 1.429 y siguientes de la Ley de Enjuiciamiento Civil, por la suma determinada en el título y por las demás cantidades, conforme a los artículos 58, 59 y 62 de la presente Ley, sin necesidad de reconocimiento judicial de las firmas.</p>
+        </version>
+        <version id_norma="BOE-A-2000-323" fecha_publicacion="20000108" fecha_vigencia="20010108">
+          <p class="articulo">Artículo sesenta y seis.</p>
+          <p class="parrafo">La letra de cambio tendrá aparejada ejecución a través del juicio cambiario que regula la Ley de Enjuiciamiento Civil en el capítulo II, Título III, del Libro IV, por la suma determinada en el título y por las demás cantidades, conforme a los artículos 58, 59 y 62 de la presente Ley, sin necesidad de reconocimiento judicial de las firmas.</p>
+          <blockquote>
+            <p class="nota_pie">Se modifica por la disposición final 10.3 de la Ley 1/2000, de 7 de enero. <a class="refPost">Ref. BOE-A-2000-323</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="asesentaysiete" tipo="precepto" titulo="Artículo sesenta y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sesenta y siete.</p>
+          <p class="parrafo">El deudor cambiario podrá oponer al tenedor de la letra las excepciones basadas en sus relaciones personales con él. También podrá oponer aquellas excepciones personales que él tenga frente a los tenedores anteriores si al adquirir la letra el tenedor procedió a sabiendas en perjuicio del deudor.</p>
+          <p class="parrafo">El demandado cambiario podrá oponer, además, las excepciones siguientes:</p>
+          <p class="parrafo_2">1.ª La inexistencia o falta de validez de su propia declaración cambiaria, incluida la falsedad de la firma.</p>
+          <p class="parrafo">2.ª La falta de legitimación del tenedor o de las formalidades necesarias de la letra de cambio, conforme a lo dispuesto en esta Ley.</p>
+          <p class="parrafo">3.ª La extinción del crédito cambiario cuyo cumplimiento se exige al demandado.</p>
+          <p class="parrafo_2">Frente al ejercicio de la acción cambiaria sólo serán admisibles las excepciones enunciadas en este artículo. En el caso de que se ejercite la acción cambiaria por vía ejecutiva no será de aplicación lo previsto en el artículo 1.464 y en los números 1.º y 2.º del artículo 1.467 de la Ley de Enjuiciamiento Civil.</p>
+        </version>
+        <version id_norma="BOE-A-2000-323" fecha_publicacion="20000108" fecha_vigencia="20010108">
+          <p class="articulo">Artículo sesenta y siete.</p>
+          <p class="parrafo">El deudor cambiario podrá oponer al tenedor de la letra las excepciones basadas en sus relaciones personales con él. También podrá oponer aquellas excepciones personales que él tenga frente a los tenedores anteriores si al adquirir la letra el tenedor procedió a sabiendas en perjuicio del deudor.</p>
+          <p class="parrafo">El demandado cambiario podrá oponer, además, las excepciones siguientes:</p>
+          <p class="parrafo_2">1.ª La inexistencia o falta de validez de su propia declaración cambiaria, incluida la falsedad de la firma.</p>
+          <p class="parrafo">2.ª La falta de legitimación del tenedor o de las formalidades necesarias de la letra de cambio, conforme a lo dispuesto en esta Ley.</p>
+          <p class="parrafo">3.ª La extinción del crédito cambiario cuyo cumplimiento se exige al demandado.</p>
+          <p class="parrafo_2">Frente al ejercicio de la acción cambiaria sólo serán admisibles las excepciones enunciadas en este artículo.</p>
+          <blockquote>
+            <p class="nota_pie">Se modifica el último párrafo por la disposición final 10.1 de la Ley 1/2000, de 7 de enero.<a class="refPost">Ref. BOE-A-2000-323</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="asesentayocho" tipo="precepto" titulo="Artículo sesenta y ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sesenta y ocho.</p>
+          <p class="parrafo">El ejercicio de la acción cambiaria en juicio ejecutivo se someterá al procedimiento establecido en la Ley de Enjuiciamiento Civil con las particularidades previstas en los artículos anteriores y las que a continuación se expresan:</p>
+          <p class="parrafo_2">1ª. Si el deudor se persona por sí o por representante dentro de los tres días siguientes al en que tuvo lugar la diligencia prevista en el artículo 1.442 de la Ley de Enjuiciamiento Civil, para negar categóricamente la autenticidad de su firma o alegar falta absoluta de representación, o hace tal alegación en el acto de la diligencia, podrá el Juez, a la vista de las circunstancias del caso y de la documentación aportada, levantar el embargo, exigiendo, si lo considera conveniente, la caución o garantía adecuada. Esta resolución se adoptará en pieza separada y sin suspender el curso del juicio ejecutivo.</p>
+          <p class="parrafo">2ª. El auto del Juez levantando el embargo quedará sin efecto si el deudor no formula en tiempo y forma la excepción correspondiente o si, formulada, es desestimada en la sentencia.</p>
+          <p class="parrafo">3ª. En ningún caso se levantará el embargo cuando la letra de cambio se encuentre en alguno de los casos siguientes:</p>
+          <p class="parrafo_2">a) Cuando el libramiento, la aceptación, el aval o el endoso hayan sido intervenidos, con expresión de la fecha por Agente de Cambio y Bolsa o Corredor de Comercio Colegiado, o las respectivas firmas estén legitimadas en la propia letra por Notario.</p>
+          <p class="parrafo">b) Cuando se trate de ejecución despachada contra un obligado cambiario que, en el protesto o requerido de pago notarialmente o en acto de conciliación antes de iniciarse el juicio ejecutivo, no hubiera negado categóricamente la autenticidad de su firma en la letra, o no hubiera alegado la falta absoluta de representación.</p>
+          <p class="parrafo">c) Cuando el obligado cambiario hubiere reconocido su firma judicialmente o en documento público.</p>
+        </version>
+        <version id_norma="BOE-A-2000-323" fecha_publicacion="20000108" fecha_vigencia="20010108">
+          <p class="articulo">Artículo sesenta y ocho.</p>
+          <p class="parrafo">El ejercicio de la acción cambiaria, a través del proceso especial cambiario, se someterá al procedimiento establecido en la Ley de Enjuiciamiento Civil.</p>
+          <blockquote>
+            <p class="nota_pie">Se modifica por la disposición final 10. 4 de la Ley 1/2000, de 7 de enero. <a class="refPost">Ref. BOE-A-2000-323</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="cviii" tipo="encabezado" titulo="CAPÍTULO VIII">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO VIII</p>
+          <p class="capitulo_tit">De la cesión de la provisión</p>
+        </version>
+      </bloque>
+      <bloque id="asesentaynueve" tipo="precepto" titulo="Artículo sesenta y nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo sesenta y nueve.</p>
+          <p class="parrafo">Si el librador, mediante cláusula inserta en la letra, declara que cede sus derechos referentes a la provisión, éstos pasan al tenedor.</p>
+          <p class="parrafo">Notificada al librado la cesión, éste únicamente puede pagar al tenedor debidamente legitimado, contra entrega de la letra de cambio.</p>
+        </version>
+      </bloque>
+      <bloque id="cix" tipo="encabezado" titulo="CAPÍTULO IX">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO IX</p>
+          <p class="capitulo_tit">De la intervención</p>
+        </version>
+      </bloque>
+      <bloque id="s1" tipo="encabezado" titulo="Sección 1">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="seccion">Sección 1.ª Disposiciones generales</p>
+        </version>
+      </bloque>
+      <bloque id="asetenta" tipo="precepto" titulo="Artículo setenta">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo setenta.</p>
+          <p class="parrafo">El librador, un endosante o un avalista, podrán indicar en la letra una persona que la acepte o pague, en caso de que sea necesario. La letra podrá también ser aceptada o pagada por una persona que, sin estar expresamente indicada en ella, intervenga por cuenta de cualquier obligado en vía de regreso.</p>
+          <p class="parrafo">La intervención puede ser realizada por un tercero, por el mismo librado, o por cualquier obligado cambiario a excepción del aceptante. El interviniente deberá comunicar su intervención en el plazo de dos días hábiles a la persona por cuya cuenta la ha realizado. La inobservancia de este plazo dará lugar a la indemnización de los daños y perjuicios causados, que en ningún caso sobrepasarán el importe de la letra.</p>
+        </version>
+      </bloque>
+      <bloque id="s2" tipo="encabezado" titulo="Sección 2">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="seccion">Sección 2.ª La aceptación por intervención</p>
+        </version>
+      </bloque>
+      <bloque id="asetentayuno" tipo="precepto" titulo="Artículo setenta y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo setenta y uno.</p>
+          <p class="parrafo">Puede admitirse la aceptación por intervención en todos los supuestos en los que el tenedor de una letra de cambio susceptible de aceptación tenga abierta la vía de regreso antes del vencimiento.</p>
+          <p class="parrafo">La aceptación por intervención se hará constar en la letra, irá firmada por la persona que intervenga e indicará por cuenta de quién se ha intervenido. Si faltare esta última indicación, la letra se entenderá aceptada por cuenta del librador.</p>
+        </version>
+      </bloque>
+      <bloque id="asetentaydos" tipo="precepto" titulo="Artículo setenta y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo setenta y dos.</p>
+          <p class="parrafo">Cuando en la letra se haya indicado una persona que la acepte o la pague, si fuere necesario, en el mismo lugar del pago, el tenedor perderá las acciones de regreso anteriores al vencimiento frente a quien hizo la indicación y frente a los firmantes posteriores a él, a no ser que, presentada la letra a la persona indicada, y negada por ésta la aceptación, se hubiere hecho constar así mediante protesto.</p>
+          <p class="parrafo">En los demás casos de intervención el tenedor podrá rechazar la aceptación por intervención; pero si la admitiere, perderá las acciones que le hubieren correspondido antes del vencimiento contra aquél en cuyo nombre se haya dado la aceptación y contra los firmantes posteriores.</p>
+        </version>
+      </bloque>
+      <bloque id="asetentaytres" tipo="precepto" titulo="Artículo setenta y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo setenta y tres.</p>
+          <p class="parrafo">El aceptante por intervención responde frente al tenedor de la letra y frente a los endosantes posteriores a la persona por cuya cuenta interviene, de la misma manera que le correspondería hacerlo formalmente a esta última.</p>
+          <p class="parrafo">La aceptación por intervención no priva a las personas por cuya cuenta se ha realizado y a las que garantizan a ésta del derecho a exigir del tenedor la entrega de la letra, del protesto y de la cuenta de resaca, con el recibí, si hubiere lugar, mediante reembolso de las cantidades señaladas en el artículo 58.</p>
+        </version>
+      </bloque>
+      <bloque id="s3" tipo="encabezado" titulo="Sección 3">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="seccion">Sección 3.ª Del pago por intervención</p>
+        </version>
+      </bloque>
+      <bloque id="asetentaycuatro" tipo="precepto" titulo="Artículo setenta y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo setenta y cuatro.</p>
+          <p class="parrafo">El pago por intervención podrá hacerse siempre que el tenedor tenga derecho a ejercitar la vía de regreso, ya sea antes o después del vencimiento de la letra. Deberá comprender la cantidad total a satisfacer por aquél por quien se interviene, y efectuase, a más tardar, al día siguiente del último día permitido para levantar protesto por falta de pago.</p>
+        </version>
+      </bloque>
+      <bloque id="asetentaycinco" tipo="precepto" titulo="Artículo setenta y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo setenta y cinco</p>
+          <p class="parrafo">El tenedor que rechazare el pago por intervención perderá sus acciones contra todos los obligados cambiarios que habrían resultado liberados si el pago hubiera sido aceptado.</p>
+          <p class="parrafo">En caso de varios ofrecimientos se dará preferencia al que libere a mayor número de obligados. Quien pagare por intervención, a sabiendas de que está incumpliendo esta regla, perderá sus acciones contra todas las personas que hubieran podido quedar liberadas.</p>
+        </version>
+      </bloque>
+      <bloque id="asetentayseis" tipo="precepto" titulo="Artículo setenta y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo setenta y seis.</p>
+          <p class="parrafo">En el caso de que la letra de cambio haya sido aceptada por la intervención de personas domiciliadas en el lugar del pago, o si las personas indicadas para pagar tuvieran domicilio en este mismo lugar, el tenedor deberá presentar la letra a todas ellas, y en caso de falta de pago levantar el oportuno protesto, lo más tarde, el día siguiente al último permitido para el protesto por falta de pago de la letra.</p>
+          <p class="parrafo">La falta de protesto en el plazo señalado libera de su obligación a quien hizo la indicación o a aquella persona por cuya cuenta se aceptó la letra, así como a los endosantes posteriores a ella.</p>
+        </version>
+      </bloque>
+      <bloque id="asetentaysiete" tipo="precepto" titulo="Artículo setenta y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo setenta y siete.</p>
+          <p class="parrafo">El pago por intervención libera a todos los firmantes de la letra posteriores a aquél por cuenta del cual se ha efectuado. La persona que lo realiza adquiere todos los derechos que deriven de la letra contra el obligado cambiario por el que ha intervenido y contra todos los que responden frente a él. El interviniente que paga la letra no podrá, sin embargo, endosarla de nuevo.</p>
+        </version>
+      </bloque>
+      <bloque id="asetentayocho" tipo="precepto" titulo="Artículo setenta y ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo setenta y ocho.</p>
+          <p class="parrafo">El pago por intervención deberá constar en la letra mediante recibí, con indicación de la persona a cuyo favor se ha efectuado. A falta de esta indicación se entenderá hecho a favor de librador.</p>
+          <p class="parrafo">La letra de cambio y el protesto, si lo hubiere, deberán entregarse a la persona que pague por intervención.</p>
+        </version>
+      </bloque>
+      <bloque id="cx" tipo="encabezado" titulo="CAPÍTULO X">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO X</p>
+          <p class="capitulo_tit">De la pluralidad de ejemplares y de las copias</p>
+        </version>
+      </bloque>
+      <bloque id="s1-2" tipo="encabezado" titulo="Sección 1">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="seccion">Sección 1.ª Pluralidad de ejemplares</p>
+        </version>
+      </bloque>
+      <bloque id="asetentaynueve" tipo="precepto" titulo="Artículo setenta y nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo setenta y nueve.</p>
+          <p class="parrafo">La letra de cambio podrá librarse en varios ejemplares idénticos, que deberán estar numerados en el propio título, indicando, además, el número total de ejemplares emitidos.</p>
+          <p class="parrafo">A falta de tal indicación, cada uno de los ejemplares se considerará como una letra de cambio distinta.</p>
+          <p class="parrafo">Cuando en una letra de cambio no se indique que ha sido librada en un ejemplar único, cualquier tenedor podrá exigir a su costa la emisión de varios ejemplares. A tal efecto deberá digirse a su endosante, quien estará obligado a colaborar con él, dirigiéndose, a su vez, a su propio endosante, y así sucesivamente hasta llegar al librador. Los endosantes estarán obligados a reproducir los endosos en los nuevos ejemplares.</p>
+        </version>
+      </bloque>
+      <bloque id="aochenta" tipo="precepto" titulo="Artículo ochenta">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ochenta.</p>
+          <p class="parrafo">Cuando se pague uno de los ejemplares, se extinguirán los derechos derivados de todos los demás, aunque no se haya incluido en ellos la mención de que pierden su validez por el pago de un ejemplar.</p>
+          <p class="parrafo">Esto no obstante, el librado quedará obligado por virtud de todo ejemplar aceptado que no le haya sido devuelto.</p>
+          <p class="parrafo">Si un endosante hubiere transferido los ejemplares a distintas personas. tanto él como los endosantes ulteriores responderán por razón de todos los ejemplares que lleven sus firmas y que no hubieren sido devueltos.</p>
+        </version>
+      </bloque>
+      <bloque id="aochentayuno" tipo="precepto" titulo="Artículo ochenta y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ochenta y uno.</p>
+          <p class="parrafo">El que hubiere enviado uno de los ejemplares a la aceptación deberá indicar en los restantes el nombre de la persona en cuyo poder se halla dicho ejemplar, la cual estará obligada a entregárselo al portador legítimo de otro ejemplar.</p>
+          <p class="parrafo">Si se negare a hacerlo, el portador no podrá ejercitar sus acciones de regreso, sino después de haber hecho constar mediante protesto:</p>
+          <p class="parrafo_2">1.º Que el ejemplar enviado a la aceptación no le ha sido entregado, a pesar de haberlo pedido.</p>
+          <p class="parrafo">2.º Que no ha podido obtener la aceptación o el pago con otro ejemplar.</p>
+        </version>
+      </bloque>
+      <bloque id="s2-2" tipo="encabezado" titulo="Sección 2">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="seccion">Sección 2.ª De las copias</p>
+        </version>
+      </bloque>
+      <bloque id="aochentaydos" tipo="precepto" titulo="Artículo ochenta y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ochenta y dos.</p>
+          <p class="parrafo">Todo portador de una letra de cambio tendrá derecho a sacar copias de ella.</p>
+          <p class="parrafo">La copia deberá reproducir exactamente el original con los endosos y demás menciones que figuren en él. También deberá indicar dónde termina la copia.</p>
+          <p class="parrafo">La copia podrá ser endosada y avalada de igual manera que el original y con los mismos efectos.</p>
+        </version>
+      </bloque>
+      <bloque id="aochentaytres" tipo="precepto" titulo="Artículo ochenta y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ochenta y tres.</p>
+          <p class="parrafo">La copia deberá indicar quién es el poseedor del título original. Este estará obligado a entregar dicho título al portador legítimo de la copia.</p>
+          <p class="parrafo">Si se negare a hacerlo, el tenedor sólo podrá ejercitar su acción de regreso contra las personas que hayan endosado o avalado la copia, después de hacer constar, mediante protesto, que el original no le ha sido entregado, a pesar de haberlo pedido.</p>
+          <p class="parrafo">Cuando el título original incluya después del último endoso puesto antes de sacar la copia la mención «a partir de aquí el endoso no valdrá más que en la copia», o cualquier otra fórmula equivalente, serán nulos todos los endosos firmados posteriormente en el original.</p>
+        </version>
+      </bloque>
+      <bloque id="cxi" tipo="encabezado" titulo="CAPÍTULO XI">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO XI</p>
+          <p class="capitulo_tit">Del extravío, sustracción o destrucción de la letra</p>
+        </version>
+      </bloque>
+      <bloque id="aochentaycuatro" tipo="precepto" fecha_caducidad="20150703" titulo="Artículo ochenta y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ochenta y cuatro.</p>
+          <p class="parrafo">En los casos de extravío, sustracción o destrucción de una letra de cambio, el tenedor desposeído de la misma podrá acudir ante el Juez para impedir que se pague a tercera persona, para que aquélla sea amortizada y para que se reconozca su titularidad.</p>
+          <p class="parrafo">El tenedor desposeído podrá realizar todos los actos tendentes a la conservación de su derecho. Podrá, incluso, si la letra hubiere vencido, exigir el pago de la misma, prestando la caución que fije el Juez o la consignación judicial del impone de aquélla.</p>
+        </version>
+      </bloque>
+      <bloque id="aochentaycinco" tipo="precepto" fecha_caducidad="20150703" titulo="Artículo ochenta y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ochenta y cinco.</p>
+          <p class="parrafo">Será Juez competente el que ejerza jurisdicción en la localidad fijada en la letra para su pago.</p>
+          <p class="parrafo">En la denuncia que al Juez haga el tenedor desposeído deberá indicar los requisitos esenciales de la letra de cambio y, si se trata de una letra en blanco, los que fueren suficientes para identificarla, así como las circunstancias en que vino a ser tenedor y las que acompañaron a la desposesión. Deberá acompañar los elementos de prueba de que disponga y proponer aquellos otros medios de prueba que puedan servir para fundamentar la denuncia.</p>
+          <p class="parrafo">Admitida la denuncia, el Juez dará traslado de la misma al librado o aceptante, ordenándole que, si fuera presentada la letra al cobro, retenga el pago y ponga las circunstancias de la presentación en conocimiento del Juzgado. Igual traslado se dará al librador y demás obligados cuando fueren conocidos y se supiere su domicilio. Todos podrán formular ante el Juez dentro de los diez días siguientes las alegaciones que estimen oportunas.</p>
+          <p class="parrafo">El Juez, hechas las averiguaciones que estime oportunas sobre la veracidad de los hechos y sobre el derecho del denunciante dentro del plazo señalado en el párrafo anterior, ordenará inmediatamente que la denuncia se publique en el «Boletín Oficial del Estado», fijando un plazo de un mes, a contar desde la fecha de publicación para que el tenedor del título pueda comparecer y formular oposición. No obstante, si de las averiguaciones practicadas o de las alegaciones de los interesados resultase manifiestamente infundada la denuncia, podrá el Juez sobreseer el procedimiento sin publicarla, dejando sin efecto lo ordenado al librado o aceptante.</p>
+        </version>
+        <version id_norma="BOE-A-2009-17493" fecha_publicacion="20091104" fecha_vigencia="20100504">
+          <p class="articulo">Artículo ochenta y cinco.</p>
+          <p class="parrafo">Será Tribunal competente el de la localidad fijada en la letra para su pago.</p>
+          <p class="parrafo">En la denuncia que haga el tenedor desposeído deberá indicar los requisitos esenciales de la letra de cambio y, si se trata de una letra en blanco, los que fueren suficientes para identificarla, así como las circunstancias en que vino a ser tenedor y las que acompañaron a la desposesión. Deberá acompañar los elementos de prueba de que disponga y proponer aquellos otros medios de prueba que puedan servir para fundamentar la denuncia.</p>
+          <p class="parrafo">Cumplidos los anteriores requisitos, el Secretario judicial admitirá la denuncia. En otro caso, dará cuenta al Tribunal para que resuelva lo que proceda. Admitida la denuncia, el Secretario judicial dará traslado al librado o aceptante, ordenándole que, si fuera presentada la letra al cobro, retenga el pago y ponga las circunstancias de la presentación en conocimiento del Juzgado. Igual traslado se dará al librador y demás obligados cuando fueren conocidos y se supiere su domicilio. Todos podrán formular ante el Juez dentro de los diez días siguientes las alegaciones que estimen oportunas.</p>
+          <p class="parrafo">El Juez, hechas las averiguaciones que estime oportunas sobre la veracidad de los hechos y sobre el derecho del denunciante dentro del plazo señalado en el párrafo anterior, ordenará inmediatamente que la denuncia se publique en el «Boletín Oficial del Estado», fijando un plazo de un mes, a contar desde la fecha de publicación para que el tenedor del título pueda comparecer y formular oposición. No obstante, si de las averiguaciones practicadas o de las alegaciones de los interesados resultase manifiestamente infundada la denuncia, podrá el Juez sobreseer el procedimiento sin publicarla, dejando sin efecto lo ordenado al librado o aceptante.</p>
+          <blockquote>
+            <p class="nota_pie">Se modifican los párrafos primero, segundo y tercero por el art. 7 de la Ley 13/2009, de 3 de noviembre. <a class="refPost">Ref. BOE-A-2009-17493</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="aochentayseis" tipo="precepto" fecha_caducidad="20150703" titulo="Artículo ochenta y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ochenta y seis.</p>
+          <p class="parrafo">Si dentro del plazo de un mes se presentare un tercero, aportando la letra y oponiéndose a la denuncia, se dará traslado de la oposición al denunciante y al librado o aceptante y, previa audiencia del Ministerio Fiscal, el Juez resolverá, mediante el procedimiento previsto para los incidentes en la Ley de Enjuiciamiento Civil.</p>
+        </version>
+      </bloque>
+      <bloque id="aochentaysiete" tipo="precepto" fecha_caducidad="20150703" titulo="Artículo ochenta y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ochenta y siete.</p>
+          <p class="parrafo">Transcurrido un mes desde la publicación de la denuncia sin que nadie la contradiga o al desestimar la oposición, el Juez dictará sentencia en la que declarará la amortización del título.</p>
+          <p class="parrafo">Declarada judicialmente la amortización de la letra, no tendrá ésta ninguna eficacia, y el denunciante cuyo derecho hubiere sido reconocido podrá exigir el pago de su crédito en la fecha del vencimiento de la letra amortizada, retirar la caución prestada si el pago ya hubiere tenido lugar o exigir la expedición de un duplicado si la letra amortizada no estuviese vencida.</p>
+          <p class="parrafo">Lo establecido en este capítulo se entenderá sin perjuicio de lo que dispone el párrafo segundo del artículo 19 de la presente Ley.</p>
+        </version>
+      </bloque>
+      <bloque id="asochentaycuatroaochentaysiete" tipo="precepto" titulo="Artículos ochenta y cuatro a ochenta y siete">
+        <version id_norma="BOE-A-2015-7391" fecha_publicacion="20150703" fecha_vigencia="20150723">
+          <p class="articulo">Artículos ochenta y cuatro a ochenta y siete.</p>
+          <p class="parrafo"><strong>(Derogados)</strong>.</p>
+          <blockquote>
+            <p class="nota_pie">Se derogan por la disposición derogatoria única.3 de la Ley 15/2015, de 2 de julio. <a class="refPost">Ref. BOE-A-2015-7391#ddunica</a>.</p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="cxll" tipo="encabezado" titulo="CAPÍTULO Xll">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO XII</p>
+          <p class="capitulo_tit">De la prescripción</p>
+        </version>
+      </bloque>
+      <bloque id="aochentayocho" tipo="precepto" titulo="Artículo ochenta y ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ochenta y ocho.</p>
+          <p class="parrafo">Las acciones cambiarias contra el aceptante prescriben a los tres años, contados desde la fecha del vencimiento.</p>
+          <p class="parrafo">Las acciones del tenedor contra los endosantes y contra el librador prescribirán al año, contado desde la fecha del protesto o declaración equivalente, realizados en tiempo hábil, o de la fecha del vencimiento en las letras con cláusulas «sin gastos».</p>
+          <p class="parrafo">Las acciones de unos endosantes contra los otros y contra el librador prescribirán a los seis meses a partir de la fecha en que el endosante hubiere pagado la letra, o de la fecha en que se le hubiere dado traslado de la demanda interpuesta contra él.</p>
+        </version>
+      </bloque>
+      <bloque id="aochentaynueve" tipo="precepto" titulo="Artículo ochenta y nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ochenta y nueve.</p>
+          <p class="parrafo">La interrupción de la prescripción sólo surtirá efecto contra aquél respecto del cual se haya efectuado el acto que la interrumpa.</p>
+          <p class="parrafo">Serán causas de interrupción de la prescripción las establecidas en el artículo 1.973 del Código Civil.</p>
+        </version>
+      </bloque>
+      <bloque id="cxiii" tipo="encabezado" titulo="CAPÍTULO XIII">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO XIII</p>
+          <p class="capitulo_tit">Disposiciones generales</p>
+        </version>
+      </bloque>
+      <bloque id="anoventa" tipo="precepto" titulo="Artículo noventa">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noventa.</p>
+          <p class="parrafo">El pago de una letra de cambio cuyo vencimiento sea en día legalmente considerado como festivo, será exigible el primer día hábil siguiente. A estos efectos son declarados días festivos o inhábiles los no laborables para el personal de las Entidades de crédito. Asimismo, cualesquiera otros actos relativos a letra de cambio y, en especial, la presentación a la aceptación y el protesto, sólo podrán hacerse en días laborables.</p>
+          <p class="parrafo">Cuando alguno de estos actos deba efectuarse en determinado plazo cuyo último día sea festivo, dicho plazo quedará prorrogado hasta el primer día laborable siguiente a su expiración. Los días festivos intermedios se incluirán en el cómputo del plazo.</p>
+        </version>
+      </bloque>
+      <bloque id="anoventayuno" tipo="precepto" titulo="Artículo noventa y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noventa y uno.</p>
+          <p class="parrafo">Para el cómputo de los plazos legales o los señalados en la letra no se comprenderá el día que les sirva de punto de partida.</p>
+          <p class="parrafo">No se admitirán términos de gracia o cortesía, ni legales ni judiciales.</p>
+        </version>
+      </bloque>
+      <bloque id="anoventaydos" tipo="precepto" titulo="Artículo noventa y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noventa y dos.</p>
+          <p class="parrafo">A los efectos de la presente Ley, en lo que haga referencia a la letra de cambio, se entenderá por lugar la localidad o población, y por domicilio, la dirección o residencia.</p>
+        </version>
+      </bloque>
+      <bloque id="anoventaytres" tipo="precepto" titulo="Artículo noventa y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noventa y tres.</p>
+          <p class="parrafo">En caso de alteración del texto de la letra de cambio los firmantes posteriores a ella quedarán obligados en los términos del texto alterado. Los firmantes anteriores lo estarán en los términos del texto originario,</p>
+        </version>
+      </bloque>
+      <bloque id="cxiv" tipo="encabezado" titulo="CAPÍTULO XIV">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO XIV</p>
+          <p class="capitulo_tit">Del pagaré</p>
+        </version>
+      </bloque>
+      <bloque id="anoventaycuatro" tipo="precepto" titulo="Artículo noventa y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noventa y cuatro.</p>
+          <p class="parrafo">El pagaré deberá contener:</p>
+          <p class="parrafo_2">Primero.–La denominación de pagaré inserta en el texto mismo del título y expresada en el idioma empleado para la redacción de dicho título.</p>
+          <p class="parrafo">Segundo.–La promesa pura y simple de pagar una cantidad determinada en pesetas o moneda extranjera convertible admitida a cotización oficial.</p>
+          <p class="parrafo">Tercero.–La indicación del vencimiento.</p>
+          <p class="parrafo">Cuarto.–El lugar en que el pago haya de efectuarse.</p>
+          <p class="parrafo">Quinto.–El nombre de la persona a quien haya de hacerse el pago o a cuya orden se haya de efectuar.</p>
+          <p class="parrafo">Sexto.–La fecha y el lugar en que se firme el pagaré.</p>
+          <p class="parrafo">Séptimo.–La firma del que emite el título, denominado firmante.</p>
+        </version>
+      </bloque>
+      <bloque id="anoventaycinco" tipo="precepto" titulo="Artículo noventa y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noventa y cinco.</p>
+          <p class="parrafo">El título que carezca de alguno de los requisitos que se indican en el artículo precedente no se considerará pagaré, salvo en los casos determinados en los párrafos siguientes:</p>
+          <p class="parrafo_2">a) El pagaré cuyo vencimiento no esté indicado se considerará pagadero a la vista.</p>
+          <p class="parrafo">b) A falta de indicación especial, el lugar de emisión del título se considerará como lugar del pago y, al mismo tiempo, como lugar del domicilio del firmante.</p>
+          <p class="parrafo">c) El pagaré que no indique el lugar de su emisión se considerará firmado en el lugar que figure junto al nombre del firmante.</p>
+        </version>
+        <version id_norma="BOE-A-1998-26345" fecha_publicacion="19981117" fecha_vigencia="19981118">
+          <p class="articulo">Artículo noventa y cinco.</p>
+          <p class="parrafo">El título que carezca de alguno de los requisitos que se indican en el artículo precedente no se considerará pagaré, salvo en los casos determinados en los párrafos siguientes:</p>
+          <p class="parrafo_2">a) El pagaré cuyo vencimiento no esté indicado se considerará pagadero a la vista.</p>
+          <p class="parrafo">b) A falta de indicación especial, el lugar de emisión del título se considerará como lugar del pago y, al mismo tiempo, como lugar del domicilio del firmante.</p>
+          <p class="parrafo">c) El pagaré que no indique el lugar de su emisión se considerará firmado en el lugar que figure junto al nombre del firmante.</p>
+          <p class="parrafo_2">Tendrán la consideración de cláusulas facultativas todas las menciones puestas en el pagaré distintas de las señaladas en el artículo precedente.</p>
+          <blockquote>
+            <p class="nota_pie">Se añade un nuevo párrafo por la disposición adicional 9.3 de la Ley 37/1998, de 16 de noviembre. <a class="refPost">Ref. BOE-A-1998-26345</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="anoventayseis" tipo="precepto" titulo="Artículo noventa y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noventa y seis.</p>
+          <p class="parrafo_2">Serán aplicables al pagaré, mientras ello no sea incompatible con la naturaleza de este título, las disposiciones relativas a la letra de cambio y referentes:</p>
+          <p class="parrafo_2">Al endoso (arts. 14 a 24).</p>
+          <p class="parrafo">Al vencimiento (arts. 38 a 42).</p>
+          <p class="parrafo">Al pago (arts. 43 y 45 a 48).</p>
+          <p class="parrafo">A las acciones por falta de pago (arts. 49 a 60 y 62 a 68).</p>
+          <p class="parrafo">Al pago por intervención (arts. 70 y 74 a 78).</p>
+          <p class="parrafo">A las copias (arts. 82 y 83).</p>
+          <p class="parrafo">Al extravío, sustracción o destrucción (arts. 84 a 87).</p>
+          <p class="parrafo">A la prescripción (arts. 88 y 89).</p>
+          <p class="parrafo">Al cómputo de los plazos y a la prohibición de los días de gracia (arts. 90 y 91).</p>
+          <p class="parrafo">Al lugar y domicilio (art. 92).</p>
+          <p class="parrafo">A las alteraciones (art. 93).</p>
+          <p class="parrafo_2">Serán igualmente aplicables al pagaré las disposiciones relativas a la letra de cambio pagadera en el domicilio de un tercero o en localidad distinta a la del domicilio del librado (arts. 5 y 32); a la estipulación de intereses (art. 6); a las diferencias de enunciación relativas a la cantidad pagadera (art. 7); a las consecuencias de la firma puesta en las condiciones mencionadas en los artículos 8 y 9: a las de la firma de una persona que actúe sin poderes o rebasando sus poderes (art. 10), a la letra de cambio en blanco (art. 12) y a sus posibles suplementos (art. 13).</p>
+          <p class="parrafo">También serán aplicables al pagaré las disposiciones relativas al aval (arts. 35 a 37). En el caso previsto en el artículo 36, párrafo último, si el aval no indicare a quién se ha avalado, se entenderá que éste ha sido al firmante del pagaré.</p>
+        </version>
+        <version id_norma="BOE-A-1998-26345" fecha_publicacion="19981117" fecha_vigencia="19981118">
+          <p class="articulo">Artículo noventa y seis.</p>
+          <p class="parrafo">Serán aplicables al pagaré, mientras ello no sea incompatible con la naturaleza de este título, las disposiciones relativas a la letra de cambio y referentes:</p>
+          <p class="parrafo_2">Al endoso (artículos 14 a 24).</p>
+          <p class="parrafo">Al vencimiento (artículos 38 a 42).</p>
+          <p class="parrafo">Al pago (artículos 43 y 45 a 48).</p>
+          <p class="parrafo">A las acciones por falta de pago (artículos 49 a 60 y 62 a 68). No obstante, las cláusulas facultativas que se incorporen al pagaré, para su validez, deberán venir firmadas expresamente por persona autorizada para su inserción, sin perjuicio de las firmas exigidas en la presente Ley para la validez del título.</p>
+          <p class="parrafo">Al pago por intervención (artículos 70 y 74 a 78).</p>
+          <p class="parrafo">A las copias (artículos 82 y 83).</p>
+          <p class="parrafo">Al extravío, sustracción o destrucción (artículos 84 a 87).</p>
+          <p class="parrafo">A la prescripción (artículos 88 y 89).</p>
+          <p class="parrafo">Al cómputo de los plazos y a la prohibición de los días de gracia (artículos 90 y 91).</p>
+          <p class="parrafo">Al lugar y domicilio (artículo 92).</p>
+          <p class="parrafo_2">A las alteraciones (artículo 93).</p>
+          <p class="parrafo_2">Serán igualmente aplicables al pagaré las disposiciones relativas a la letra de cambio pagadera en el domicilio de un tercero o en localidad distinta a la del domicilio del librado (arts. 5 y 32); a la estipulación de intereses (art. 6); a las diferencias de enunciación relativas a la cantidad pagadera (art. 7); a las consecuencias de la firma puesta en las condiciones mencionadas en los artículos 8 y 9: a las de la firma de una persona que actúe sin poderes o rebasando sus poderes (art. 10), a la letra de cambio en blanco (art. 12) y a sus posibles suplementos (art. 13).</p>
+          <p class="parrafo">También serán aplicables al pagaré las disposiciones relativas al aval (arts. 35 a 37). En el caso previsto en el artículo 36, párrafo último, si el aval no indicare a quién se ha avalado, se entenderá que éste ha sido al firmante del pagaré.</p>
+          <blockquote>
+            <p class="nota_pie">Se modifica el primer párrafo por la disposición adicional 9.4 de la Ley 37/1998, de 16 de noviembre. <a class="refPost">Ref. BOE-A-1998-26345</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="anoventaysiete" tipo="precepto" titulo="Artículo noventa y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noventa y siete.</p>
+          <p class="parrafo">El firmante de un pagaré queda obligado de igual manera que el aceptante de una letra de cambio.</p>
+          <p class="parrafo">Los pagarés que hayan de hacerse efectivos a cierto plazo desde la vista deberán presentarse al firmante de los mismos en los plazos fijados en el artículo 27. El plazo a contar desde la vista correrá desde la fecha del «visto» o expresión equivalente suscrito por el firmante del pagaré. La negativa del firmante a poner su visto fechado se hará constar mediante protesto, cuya fecha servirá de punto de partida en el plazo a contar desde la vista.</p>
+        </version>
+      </bloque>
+      <bloque id="cxv" tipo="encabezado" titulo="CAPÍTULO XV">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO XV</p>
+          <p class="capitulo_tit">Del conflicto de Leyes</p>
+        </version>
+      </bloque>
+      <bloque id="anoventayocho" tipo="precepto" titulo="Artículo noventa y ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noventa y ocho.</p>
+          <p class="parrafo">La capacidad de una persona para obligarse por letra de cambio y pagaré a la orden se determina por su Ley nacional. Si esta Ley declara competente la Ley de otro país, se aplicará esta última.</p>
+          <p class="parrafo">La persona incapaz, según la Ley indicada en el párrafo anterior, quedará, sin embargo, válidamente obligada si hubiere firmado en el territorio de un país conforme a cuya legislación esa persona habría sido capaz de obligarse cambiariamente.</p>
+        </version>
+      </bloque>
+      <bloque id="anoventaynueve" tipo="precepto" titulo="Artículo noventa y nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo noventa y nueve.</p>
+          <p class="parrafo">La forma de las obligaciones asumidas en materia de letra de cambio y pagaré a la orden se rige por la Ley del país en cuyo territorio se han suscrito.</p>
+          <p class="parrafo">No obstante, si las obligaciones asumidas en una letra de cambio o en un pagaré a la orden no son válidas según las disposiciones del párrafo precedente, pero sí lo son conforme a la legislación del Estado donde una obligación posterior ha sido suscrita, los defectos de forma de la primera obligación no afectarán a la validez de la obligación posterior.</p>
+          <p class="parrafo">Las declaraciones cambiarias otorgadas en el extranjero serán válidas entre las personas nacionales o con residencia habitual en un mismo país cuando aquéllas hubieren respetado la forma impuesta por la Ley del mismo y se ejerciten en él las acciones que de ellas resulten.</p>
+        </version>
+      </bloque>
+      <bloque id="acien" tipo="precepto" titulo="Artículo cien">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo cien.</p>
+          <p class="parrafo">Los efectos de las obligaciones del aceptante de una letra de cambio y del firmante de un pagaré se determinan por la Ley del lugar, en que estos títulos deban pagarse.</p>
+          <p class="parrafo">Los efectos que producen las firmas de las otras personas obligadas por la letra de cambio o pagaré a la orden se regirán por la Ley del país en cuyo territorio las firmas se hayan otorgado.</p>
+        </version>
+      </bloque>
+      <bloque id="acientouno" tipo="precepto" titulo="Artículo ciento uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento uno.</p>
+          <p class="parrafo">Los plazas para el ejercicio de las acciones de regreso se determinan para todos los firmantes por la Ley del lugar en que se emitió la letra.</p>
+        </version>
+      </bloque>
+      <bloque id="acientodos" tipo="precepto" titulo="Artículo ciento dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento dos.</p>
+          <p class="parrafo">La Ley del lugar donde se emitió el título determina si el tenedor de una letra de cambio adquiere el crédito que deriva de la relación causal que dio lugar a la emisión del título.</p>
+        </version>
+      </bloque>
+      <bloque id="acientotres" tipo="precepto" titulo="Artículo ciento tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento tres.</p>
+          <p class="parrafo">La Ley del país donde la letra de cambio ha de pagarse regula si la aceptación puede limitarse a una parte de su importe y si el tenedor está obligado o no a recibir un pago parcial.</p>
+          <p class="parrafo">La misma regla se aplica al pago del pagaré.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocuatro" tipo="precepto" titulo="Artículo ciento cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuatro.</p>
+          <p class="parrafo">La forma y los plazos del protesto, así como la forma de los otros actos necesarios para el ejercicio o la conservación de los derechos en materia de letra de cambio y pagaré, se regirán por las Leyes del país en cuyo territorio deba efectuarse el protesto o el acto.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocinco" tipo="precepto" titulo="Artículo ciento cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cinco.</p>
+          <p class="parrafo">La Ley del país en el que la letra de cambio o el pagaré han de pagarse rige las medidas a adoptar en caso de pérdida o de robo de la letra de cambio o del pagaré.</p>
+        </version>
+      </bloque>
+      <bloque id="tii" tipo="encabezado" titulo="TÍTULO II">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="titulo_num">TÍTULO II</p>
+          <p class="titulo_tit">Del cheque</p>
+        </version>
+      </bloque>
+      <bloque id="cprimero-2" tipo="encabezado" titulo="CAPÍTULO PRIMERO">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO PRIMERO</p>
+          <p class="capitulo_tit">De la emisión y de la forma del cheque</p>
+        </version>
+      </bloque>
+      <bloque id="acientoseis" tipo="precepto" titulo="Artículo ciento seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento seis.</p>
+          <p class="parrafo">El cheque deberá contener:</p>
+          <p class="parrafo_2">Primero.–La denominación de cheque inserta en el texto mismo del título expresada en el idioma empleado para la redacción de dicho título.</p>
+          <p class="parrafo">Segundo.–El mandato puro y simple de pagar una suma determinada en pesetas o en moneda extranjera convertible admitida a cotización oficial.</p>
+          <p class="parrafo">Tercero.–El nombre del que debe pagar, denominado librado, que necesariamente ha de ser un Banco.</p>
+          <p class="parrafo">Cuarto.–El lugar de pago.</p>
+          <p class="parrafo">Quinto.–La fecha y el lugar de la emisión del cheque.</p>
+          <p class="parrafo">Sexto.–La firma del que expide el cheque, denominado librador.</p>
+        </version>
+      </bloque>
+      <bloque id="acientosiete" tipo="precepto" titulo="Artículo ciento siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento siete.</p>
+          <p class="parrafo">El título que carezca de alguno de los requisitos indicados en el artículo precedente no se considera cheque, salvo en los casos determinados en los párrafos siguientes:</p>
+          <p class="parrafo_2">a) A falta de indicación especial, el lugar designado junto al nombre del librado se reputará lugar de pago. Cuando estén designados varios lugares, el cheque será pagadero en el primer lugar mencionado.</p>
+          <p class="parrafo">b) A falta de estas indicaciones o de cualquier otra, el cheque deberá pagarse en el lugar en el que ha sido emitido, y si en él no tiene el librado ningún establecimiento, en el lugar donde el librado tenga el establecimiento principal.</p>
+          <p class="parrafo">c) El cheque sin indicación del lugar de su emisión se considerará suscrito en el que aparezca al lado del nombre del librador.</p>
+        </version>
+        <version id_norma="BOE-A-1998-26345" fecha_publicacion="19981117" fecha_vigencia="19981118">
+          <p class="articulo">Artículo ciento siete.</p>
+          <p class="parrafo">El título que carezca de alguno de los requisitos indicados en el artículo precedente no se considera cheque, salvo en los casos determinados en los párrafos siguientes:</p>
+          <p class="parrafo_2">a) A falta de indicación especial, el lugar designado junto al nombre del librado se reputará lugar de pago. Cuando estén designados varios lugares, el cheque será pagadero en el primer lugar mencionado.</p>
+          <p class="parrafo">b) A falta de estas indicaciones o de cualquier otra, el cheque deberá pagarse en el lugar en el que ha sido emitido, y si en él no tiene el librado ningún establecimiento, en el lugar donde el librado tenga el establecimiento principal.</p>
+          <p class="parrafo">c) El cheque sin indicación del lugar de su emisión se considerará suscrito en el que aparezca al lado del nombre del librador.</p>
+          <p class="parrafo_2">Tendrán la consideración de cláusulas facultativas todas las menciones puestas en el cheque distintas de las señaladas en el artículo precedente.</p>
+          <blockquote>
+            <p class="nota_pie">Se añade un nuevo párrafo por la disposición adicional 9.5 de la Ley 37/1998, de 16 de noviembre. <a class="refPost">Ref. BOE-A-1998-26345</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="acientoocho" tipo="precepto" titulo="Artículo ciento ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento ocho.</p>
+          <p class="parrafo">El cheque ha de librarse contra un Banco o Entidad de crédito que tenga fondos a disposición del librador, y de conformidad con un acuerdo expreso o tácito, según el cual el librador tenga derecho a disponer por cheque de aquellos fondos. No obstante, la falta de estos requisitos, excepto el de la condición de Banco o Entidad de crédito del librado, el título será válido como cheque.</p>
+          <p class="parrafo">El librado que tenga fondos a disposición del librador en el momento de la presentación al cobro de su cheque regularmente emitido, está obligado a su pago. Si sólo dispone de una provisión parcial estará obligado a entregar su importe.</p>
+          <p class="parrafo">El librador que emite un cheque sin tener provisión de fondos en poder del librado, por la suma en él indicada, deberá pagar al tenedor, además de ésta, el 10 por 100 del importe no cubierto del cheque, y la indemnización de los daños y perjuicios.</p>
+        </version>
+      </bloque>
+      <bloque id="acientonueve" tipo="precepto" titulo="Artículo ciento nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento nueve.</p>
+          <p class="parrafo">El cheque no puede ser aceptado. Cualquier fórmula de aceptación consignada en el cheque se reputa no escrita.</p>
+        </version>
+      </bloque>
+      <bloque id="acientodiez" tipo="precepto" titulo="Artículo ciento diez">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento diez.</p>
+          <p class="parrafo">El librador o el tenedor de un cheque podrá solicitar del Banco librado que preste su conformidad al mismo.</p>
+          <p class="parrafo">Cualquier mención de «certificación», «visado», «conforme» u otra semejante firmada por el librado en el cheque acredita la autenticidad de éste y la existencia de fondos suficientes en la cuenta del librador. El librado retendrá la cantidad necesaria para el pago del cheque a su presentación hasta el vencimiento del plazo fijado en la expresada mención o, en su defecto, del establecido en el artículo 135.</p>
+          <p class="parrafo">La conformidad deberá expresar la fecha, y será irrevocable.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoonce" tipo="precepto" titulo="Artículo ciento once">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento once.</p>
+          <p class="parrafo">El cheque puede ser librado para que se pague:</p>
+          <p class="parrafo_2">a) A persona determinada, con o sin cláusula «a la orden».</p>
+          <p class="parrafo">b) A una persona determinada con la cláusula «no a la orden», u otra equivalente.</p>
+          <p class="parrafo">c) Al portador.</p>
+          <p class="parrafo_2">El cheque a favor de una persona determinada con la mención «o al portador» o un término equivalente, vale como cheque al portador.</p>
+          <p class="parrafo">El cheque que, en el momento de su presentación al cobro carezca de indicación de tenedor, vale como cheque al portador.</p>
+        </version>
+      </bloque>
+      <bloque id="acientodoce" tipo="precepto" titulo="Artículo ciento doce">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento doce.</p>
+          <p class="parrafo">El cheque puede librarse:</p>
+          <p class="parrafo_2">a) A favor o a la orden del mismo librador.</p>
+          <p class="parrafo">b) Por cuenta de un tercero.</p>
+          <p class="parrafo">c) Contra el propio librador, siempre que el título se emita entre distintos establecimientos del mismo.</p>
+        </version>
+      </bloque>
+      <bloque id="acientotrece" tipo="precepto" titulo="Artículo ciento trece">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento trece.</p>
+          <p class="parrafo">Toda cláusula de intereses en el cheque se reputa no escrita.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocatorce" tipo="precepto" titulo="Artículo ciento catorce">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento catorce.</p>
+          <p class="parrafo">El cheque puede ser emitido para que se pague en el domicilio de un tercero, ya en la localidad donde el librado tiene su domicilio, ya en otra, siempre que el tercero sea un Banco o Entidad de crédito.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoquince" tipo="precepto" titulo="Artículo ciento quince">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento quince.</p>
+          <p class="parrafo">Cuando en un cheque figure escrito el importe del mismo en letra y en números será válida la cantidad escrita en letra, en caso de diferencia.</p>
+          <p class="parrafo">El cheque cuyo importe esté escrito varias veces por suma diferente ya sea en letra, ya sea en números, será válido por la cantidad menor.</p>
+        </version>
+      </bloque>
+      <bloque id="acientodieciseis" tipo="precepto" titulo="Artículo ciento dieciséis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento dieciséis.</p>
+          <p class="parrafo">Cuando un cheque lleve firmas de personas incapaces de obligarse, o firmas falsas, o de personas imaginarias, o firmas que por cualquier otra razón no puedan obligar a las personas que hayan firmado el cheque o a aquellas con cuyo nombre aparezca firmado, las obligaciones de los demás firmantes no dejarán por eso de ser válidas.</p>
+          <p class="parrafo">Es aplicable al cheque lo dispuesto en el artículo noveno de esta Ley.</p>
+        </version>
+      </bloque>
+      <bloque id="acientodiecisiete" tipo="precepto" titulo="Artículo ciento diecisiete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento diecisiete.</p>
+          <p class="parrafo">El que pusiere su firma en un cheque, como representante de una persona sin poderes para obrar en nombre de ella, quedará obligado en virtud del cheque. Si lo pagare, tendrá los mismos derechos que hubiera tenido el supuesto representado. Lo mismo se entenderá del representante que hubiera excedido sus poderes, sin perjuicio de la responsabilidad cambiaria del representado dentro de los límites del poder.</p>
+        </version>
+      </bloque>
+      <bloque id="acientodieciocho" tipo="precepto" titulo="Artículo ciento dieciocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento dieciocho.</p>
+          <p class="parrafo">El librador garantiza el pago. Toda cláusula por la cual se exonere de la garantía del pago se considerará como no escrita.</p>
+        </version>
+      </bloque>
+      <bloque id="acientodiecinueve" tipo="precepto" titulo="Artículo ciento diecinueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento diecinueve.</p>
+          <p class="parrafo">Cuando un cheque, incompleto en el momento de su emisión, se hubiese completado contrariamente a los acuerdos celebrados, el incumplimiento de estos acuerdos no podrá alegarse contra el tenedor a menos que éste haya adquirido el cheque de mala fe o con culpa grave.</p>
+        </version>
+      </bloque>
+      <bloque id="cii-2" tipo="encabezado" titulo="CAPÍTULO II">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO II</p>
+          <p class="capitulo_tit">De la transmisión del cheque</p>
+        </version>
+      </bloque>
+      <bloque id="acientoveinte" tipo="precepto" titulo="Artículo ciento veinte">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento veinte.</p>
+          <p class="parrafo">El cheque al portador se transmite mediante su entrega o tradición.</p>
+          <p class="parrafo">El cheque extendido a favor de una persona determinada, con o sin la cláusula «a la orden», es transmisible por medio de endoso.</p>
+          <p class="parrafo">El cheque extendido a favor de una persona determinada con la cláusula «no a la orden» u otra equivalente, no es transmisible más que en la forma y con los efectos de una cesión ordinaria.</p>
+          <p class="parrafo">El endoso puede hacerse incluso a favor del librador o de cualquier otro obligado. Estas personas pueden endosar nuevamente el cheque.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoveintiuno" tipo="precepto" titulo="Artículo ciento veintiuno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento veintiuno.</p>
+          <p class="parrafo">El endoso deberá ser total, puro y simple. Toda condición a la que aparezca subordinado se considerará no escrita. Son nulos el endoso parcial y el hecho por el librado. El endoso al portador equivale a un endoso en blanco.</p>
+          <p class="parrafo">El endoso al librado sólo vale como un recibí, salvo cuando el librado tenga varios establecimientos y el endoso se haya hecho en beneficio de un establecimiento diferente de aquel sobre el cual ha sido librado el cheque.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoveintidos" tipo="precepto" titulo="Artículo ciento veintidós">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento veintidós.</p>
+          <p class="parrafo">El endoso deberá escribirse en el cheque o en su suplemento y será firmado por el endosante.</p>
+          <p class="parrafo">Será endoso en blanco el que no designe el endosatario o consista simplemente en la firma del endosante. En este último caso, para que el endoso sea válido, deberá estar escrito al dorso del cheque.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoveintitres" tipo="precepto" titulo="Artículo ciento veintitrés">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento veintitrés.</p>
+          <p class="parrafo">El endoso transmite todos los derechos resultantes del cheque. Cuando el endoso esté en blanco, el tenedor podrá:</p>
+          <p class="parrafo_2">1.º Completar el endoso en blanco con su nombre o con el de otra persona.</p>
+          <p class="parrafo">2.º Endosar el cheque nuevamente en blanco o hacerlo designando un endosatario determinado.</p>
+          <p class="parrafo">3.º Entregar el cheque a un tercero, sin completar el endoso en blanco y sin endosarlo.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoveinticuatro" tipo="precepto" titulo="Artículo ciento veinticuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento veinticuatro.</p>
+          <p class="parrafo">El endosante, salvo cláusula en contrario, garantiza el pago frente a los tenedores posteriores.</p>
+          <p class="parrafo">El endosante puede prohibir un nuevo endoso. En este caso, no responderá frente a las personas a quienes ulteriormente se endosare el cheque.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoveinticinco" tipo="precepto" titulo="Artículo ciento veinticinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento veinticinco.</p>
+          <p class="parrafo">El tenedor del cheque se considerará portador legítimo del mismo cuando justifique su derecho por una serie no interrumpida de endosos, aun cuando el último endoso esté en blanco. A tal efecto, los endosos tachados se considerarán como no escritos. Cuando un endoso en blanco vaya seguido de otro endoso, el firmante de éste se entenderá que adquirió el cheque por el endoso en blanco.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoveintiseis" tipo="precepto" titulo="Artículo ciento veintiséis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento veintiséis.</p>
+          <p class="parrafo">Un endoso extendido sobre un cheque al portador hace responsable al endosante a tenor de las disposiciones aplicables a la acción de regreso, pero no convierte el título en un cheque a la orden.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoveintisiete" tipo="precepto" titulo="Artículo ciento veintisiete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento veintisiete.</p>
+          <p class="parrafo">Cuando una persona sea desposeída de un cheque por cualquier causa que fuere, el nuevo tenedor ya se trate de un cheque al portador, ya de un cheque endosable respecto al cual justifique su derecho, no estará obligado a devolverlo si lo adquirió de buena fe.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoveintiocho" tipo="precepto" titulo="Artículo ciento veintiocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento veintiocho.</p>
+          <p class="parrafo">El demandado por una acción basada en un cheque no podrá oponer al tenedor excepciones fundadas en sus relaciones personales con el librador o con los tenedores anteriores, a no ser que el tenedor, al adquirir el cheque, haya procedido a sabiendas en perjuicio del deudor.</p>
+        </version>
+      </bloque>
+      <bloque id="acientoveintinueve" tipo="precepto" titulo="Artículo ciento veintinueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento veintinueve.</p>
+          <p class="parrafo">Cuando el endoso contenga la mención «valor al cobro», «para cobranza», «por poder», o cualquier otra que indique un simple mandato, el tenedor podrá ejercer todos los derechos derivados del cheque, pero no podrá endosar éste sino a título de comisión de cobranza.</p>
+          <p class="parrafo">En este caso, las personas obligadas sólo podrán invocar contra el tenedor las excepciones que pudieran alegarse contra el endosante.</p>
+          <p class="parrafo">La autorización contenida en el endoso de apoderamiento no cesará por la muerte del mandante, ni por su incapacidad sobrevenida.</p>
+        </version>
+      </bloque>
+      <bloque id="acientotreinta" tipo="precepto" titulo="Artículo ciento treinta">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento treinta.</p>
+          <p class="parrafo">El endoso posterior al protesto o a una declaración equivalente y el hecho después de la terminación del plazo de presentación, sólo producen los efectos de la cesión ordinaria.</p>
+          <p class="parrafo">El endoso sin fecha se presume hecho, salvo prueba en contrario, antes del protesto o de la declaración equivalente o antes de la terminación del plazo a que se refiere el párrafo anterior.</p>
+        </version>
+      </bloque>
+      <bloque id="ciii-2" tipo="encabezado" titulo="CAPÍTULO III">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO III</p>
+          <p class="capitulo_tit">Del aval</p>
+        </version>
+      </bloque>
+      <bloque id="acientotreintayuno" tipo="precepto" titulo="Artículo ciento treinta y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento treinta y uno.</p>
+          <p class="parrafo">El pago de un cheque podrá garantizarse mediante aval, ya sea por la totalidad o por parte de su importe.</p>
+          <p class="parrafo">Esta garantía podrá ser prestada por un tercero o por quien ya ha firmado el cheque, pero no por el librado.</p>
+        </version>
+      </bloque>
+      <bloque id="acientotreintaydos" tipo="precepto" titulo="Artículo ciento treinta y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento treinta y dos.</p>
+          <p class="parrafo">El aval ha de ponerse en el cheque o en su suplemento. Se expresará mediante la palabra «por aval» o con cualquier otra fórmula equivalente, e irá firmado por el avalista.</p>
+          <p class="parrafo">La simple firma de una persona puesta en el anverso del cheque vale como aval, siempre que no se trate de la firma del librador.</p>
+          <p class="parrafo">El aval deberá indicar a quién se ha avalado. A falta de esta indicación se entenderá avalado el librador.</p>
+        </version>
+      </bloque>
+      <bloque id="acientotreintaytres" tipo="precepto" titulo="Artículo ciento treinta y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento treinta y tres.</p>
+          <p class="parrafo">El avalista responde de igual manera que el avalado y no podrá oponer las excepciones personales de éste. Será válido el aval aunque la obligación garantizada fuese nula por cualquier causa que no sea la de vicio de forma.</p>
+          <p class="parrafo">Cuando el avalista pague el cheque adquirirá los derechos derivados del mismo contra la persona avalada y contra los que sean responsables respecto de esta última en virtud del cheque.</p>
+        </version>
+      </bloque>
+      <bloque id="civ-2" tipo="encabezado" titulo="CAPÍTULO IV">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO IV</p>
+          <p class="capitulo_tit">De la presentación y del pago</p>
+        </version>
+      </bloque>
+      <bloque id="acientotreintaycuatro" tipo="precepto" titulo="Artículo ciento treinta y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento treinta y cuatro.</p>
+          <p class="parrafo">El cheque es pagadero a la vista. Cualquier mención contraria se reputa no escrita.</p>
+          <p class="parrafo">El cheque presentado al pago antes del día indicado como fecha de emisión, es pagadero el día de la presentación.</p>
+        </version>
+      </bloque>
+      <bloque id="acientotreintaycinco" tipo="precepto" titulo="Artículo ciento treinta y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento treinta y cinco.</p>
+          <p class="parrafo">El cheque emitido y pagadero en España deberá ser presentado a su pago en un plazo de quince días.</p>
+          <p class="parrafo">El cheque emitido en el extranjero y pagadero en España deberá presentarse en un plazo de veinte días si fue emitido en Europa y sesenta días si lo fue fuera de Europa.</p>
+          <p class="parrafo">Los plazos anteriores se computan a partir del día que consta en el cheque como fecha de emisión, no excluyéndose los días inhábiles, pero si el dia del vencimiento lo fuere, se entenderá que el cheque vence el primer día hábil siguiente.</p>
+        </version>
+      </bloque>
+      <bloque id="acientotreintayseis" tipo="precepto" titulo="Artículo ciento treinta y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento treinta y seis.</p>
+          <p class="parrafo">Cuando el cheque está librado entre plazas con calendarios distintos, el día de la emisión se remitirá al correspondiente en el calendario del lugar del pago.</p>
+        </version>
+      </bloque>
+      <bloque id="acientotreintaysiete" tipo="precepto" titulo="Artículo ciento treinta y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento treinta y siete.</p>
+          <p class="parrafo">La presentación a una Cámara o sistema de compensación equivale a la presentación al pago.</p>
+        </version>
+      </bloque>
+      <bloque id="acientotreintayocho" tipo="precepto" titulo="Artículo ciento treinta y ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento treinta y ocho.</p>
+          <p class="parrafo">La revocación de un cheque no produce efectos hasta después de la expiración del plazo de presentación.</p>
+          <p class="parrafo">Si no hay revocación, el librado puede pagar aún después de la expiración de ese plazo.</p>
+          <p class="parrafo">En los casos de pérdida o privación ilegal del cheque, el librador podrá oponerse a su pago.</p>
+        </version>
+      </bloque>
+      <bloque id="acientotreintaynueve" tipo="precepto" titulo="Artículo ciento treinta y nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento treinta y nueve.</p>
+          <p class="parrafo">Ni la muerte del librador ni su incapacidad ocurrida después de la emisión alteran la eficacia del cheque.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocuarenta" tipo="precepto" titulo="Artículo ciento cuarenta">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuarenta.</p>
+          <p class="parrafo">El librado podrá exigir al pago del cheque que éste le sea entregado con el recibí del portador. Se presumirá pagado el cheque que después de su vencimiento se hallare en poder del librado.</p>
+          <p class="parrafo">El portador no podrá rechazar un pago parcial.</p>
+          <p class="parrafo">En caso de pago parcial, el librado podrá exigir que este pago se haga constar en el cheque y que se le dé recibo del mismo</p>
+        </version>
+      </bloque>
+      <bloque id="acientocuarentayuno" tipo="precepto" titulo="Artículo ciento cuarenta y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuarenta y uno.</p>
+          <p class="parrafo">El librado que paga un cheque endosado está obligado a comprobar la regularidad en la serie de los endosos, pero no la autenticidad de la firma de los endosantes.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocuarentaydos" tipo="precepto" titulo="Artículo ciento cuarenta y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuarenta y dos.</p>
+          <p class="parrafo">El pago de un cheque librado en moneda extranjera convertible admitida a cotización oficial deberá realizarse, dentro del plazo de su presentación, en la moneda expresada, siempre que la obligación de pago en la referida moneda esté autorizada o resulte permitida de acuerdo con las normas de control de cambios.</p>
+          <p class="parrafo">Si no fuera posible efectuar el pago en la moneda pactada, por causa no imputable al deudor, éste entregará el valor en pesetas de la suma expresada en el cheque, determinándose dicho valor de acuerdo con el cambio vendedor correspondiente al día de la fecha de presentación. Cuando el cheque no fuera pagado a su presentación, el tenedor podrá exigir a su elección el valor en pesetas que resulte del cambio vendedor de la fecha de pago o reembolso o el de la fecha de presentación.</p>
+          <p class="parrafo">Cuando el importe del cheque se haya indicado en una moneda que tenga la misma denominación, pero diferente valor en el país de emisión que en el país de pago, se presumirá que la moneda expresada es la del lugar del pago.</p>
+        </version>
+      </bloque>
+      <bloque id="cv-2" tipo="encabezado" titulo="CAPÍTULO V">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO V</p>
+          <p class="capitulo_tit">Del cheque cruzado y del cheque para abonar en cuenta</p>
+        </version>
+      </bloque>
+      <bloque id="acientocuarentaytres" tipo="precepto" titulo="Artículo ciento cuarenta y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuarenta y tres.</p>
+          <p class="parrafo">El librador o el tenedor de un cheque puede cruzarlo por medio de dos barras paralelas sobre el anverso.</p>
+          <p class="parrafo">El cheque cruzado puede ser general o especial. Es general si no contiene entre las dos barras designación alguna o contiene la mención «Banco» y «Compañía» o un término equivalente. Es especial si entre las barras se escribe el nombre de un Banco determinado.</p>
+          <p class="parrafo">El cruzado general puede transformarse en especial; pero el especial no puede transformarse en general. Cualquier tachadura se considerará como no hecha.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocuarentaycuatro" tipo="precepto" titulo="Artículo ciento cuarenta y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuarenta y cuatro.</p>
+          <p class="parrafo">El librado no podrá pagar el cheque con cruzado general más que a un Banco o a un cliente de aquél.</p>
+          <p class="parrafo">El librado sólo podrá pagar el cheque cruzado especial al Banco designado, o si éste es el mismo librado, a un cliente suyo. No obstante, el Banco designado puede encargar a otro Banco el cobro del cheque.</p>
+          <p class="parrafo">Un Banco sólo podrá adquirir cheques cruzados de sus clientes o de otro Banco. No podrá cobrarlos por cuenta de personas distintas de las antedichas.</p>
+          <p class="parrafo">Un cheque con varios cruzados especiales no puede ser pagado por el librado, salvo que contenga solamente dos, y uno de ellos sea para el cobro mediante una Cámara o sistema de compensación.</p>
+          <p class="parrafo">El librado o el Banco que no observe las disposiciones anteriores responde de los perjuicios causados hasta una suma igual al importe del cheque.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocuarentaycinco" tipo="precepto" titulo="Artículo ciento cuarenta y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuarenta y cinco.</p>
+          <p class="parrafo">El librador o el tenedor del cheque pueden prohibir su pago en efectivo, insertando en el anverso la mención transversal «para abonar en cuenta», o una expresión equivalente.</p>
+          <p class="parrafo">En este caso, el librado sólo podrá abonar el cheque mediante un asiento en su contabilidad. Este asiento equivale al pago.</p>
+          <p class="parrafo">Cualquier tachadura de la mención «para abonar en cuenta» se considera como no hecha.</p>
+          <p class="parrafo">El librado que no observe las disposiciones anteriores, responderá de los perjuicios hasta una suma igual al importe del cheque.</p>
+        </version>
+      </bloque>
+      <bloque id="cvi-2" tipo="encabezado" titulo="CAPÍTULO VI">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO VI</p>
+          <p class="capitulo_tit">De las acciones en caso de falta de pago</p>
+        </version>
+      </bloque>
+      <bloque id="acientocuarentayseis" tipo="precepto" titulo="Artículo ciento cuarenta y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuarenta y seis.</p>
+          <p class="parrafo">El tenedor podrá ejercitar su acción de regreso contra los endosantes, el librador y los demás obligados cuando, presentado el cheque en tiempo hábil, no fuera pagado, siempre que la falta de pago se acredite por alguno de los medios siguientes:</p>
+          <p class="parrafo_2">a) Por protesto notarial.</p>
+          <p class="parrafo">b) Por una declaración del librado, fechada y escrita en el cheque, con indicación del día de la presentación.</p>
+          <p class="parrafo">c) Por una declaración fechada de una Cámara o sistema de compensación, en la que conste que el cheque ha sido presentado en tiempo hábil y no ha sido pagado.</p>
+          <p class="parrafo_2">El tenedor conserva sus derechos contra el librador, aunque el cheque no se haya presentado oportunamente o no se haya levantado el protesto o realizado la declaración equivalente. Si después de transcurrido el término de presentación llegare a faltar la provisión de fondos en poder del librado por insolvencia de éste, el tenedor perderá tales derechos.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocuarentaysiete" tipo="precepto" titulo="Artículo ciento cuarenta y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuarenta y siete.</p>
+          <p class="parrafo">El protesto o la declaración equivalente debe hacerse antes de la expiración del plazo de la presentación. Si la presentación se efectúa el último día del plazo, puede hacerse el protesto o la declaración equivalente en los dos días hábiles siguientes.</p>
+          <p class="parrafo">Serán aplicables al cheque, en tanto no sean incompatibles con la naturaleza de este título, las disposiciones relativas a la letra de cambio contenidas en los artículos 51 a 56 sobre el protesto, deber de comunicación y cláusula «sin gastos» o «sin protesto».</p>
+        </version>
+        <version id_norma="BOE-A-1998-26345" fecha_publicacion="19981117" fecha_vigencia="19981118">
+          <p class="articulo">Artículo ciento cuarenta y siete.</p>
+          <p class="parrafo">El protesto o la declaración equivalente debe hacerse antes de la expiración del plazo de la presentación. Si la presentación se efectúa en los ocho últimos días del plazo, el protesto o declaración equivalente puede hacerse en los ocho días hábiles siguientes a la presentación.</p>
+          <p class="parrafo">Serán aplicables al cheque, en tanto no sean incompatibles con la naturaleza de este título, las disposiciones relativas a la letra de cambio contenidas en los artículos 51 a 56 sobre el protesto, deber de comunicación y cláusula «sin gastos» o «sin protesto».</p>
+          <p class="parrafo">No obstante, las cláusulas facultativas que se incorporen al cheque, para su validez, deberán venir firmadas expresamente por persona autorizada para su inserción, sin perjuicio de las firmas exigidas en la presente Ley para la validez del título.</p>
+          <blockquote>
+            <p class="nota_pie">Se modifica el primer párrafo y se añade otro nuevo por la disposición adicional 9.6 de la Ley 37/1998, de 16 de noviembre. <a class="refPost">Ref. BOE-A-1998-26345</a></p>
+          </blockquote>
+        </version>
+      </bloque>
+      <bloque id="acientocuarentayocho" tipo="precepto" titulo="Artículo ciento cuarenta y ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuarenta y ocho.</p>
+          <p class="parrafo">Los que hubieren librado, endosado o avalado un cheque, responden solidariamente frente al tenedor:</p>
+          <p class="parrafo">El portador tendrá derecho a proceder contra todas estas personas, individual o conjuntamente, sin que le sea indispensable observar el orden en que se hubiesen obligado.</p>
+          <p class="parrafo">El mismo derecho corresponderá a cualquier firmante de un cheque que lo haya pagado.</p>
+          <p class="parrafo">La acción intentada contra cualquiera de las personas obligadas no impedirá que se proceda contra las demás, aunque sean posteriores en orden a la que fue primeramente demandada.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocuarentaynueve" tipo="precepto" titulo="Artículo ciento cuarenta y nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cuarenta y nueve.</p>
+          <p class="parrafo">El tenedor puede reclamar de aquel contra quien se ejercita su acción:</p>
+          <p class="parrafo_2">1.º El importe del cheque no pagado.</p>
+          <p class="parrafo">2.º Los réditos de dicha cantidad, devengados desde el día de la presentación del cheque y calculados al tipo de interés legal del dinero aumentado en dos puntos.</p>
+          <p class="parrafo">3.º Los gastos, incluidos los del protesto y las comunicaciones.</p>
+          <p class="parrafo">4.º El 10 por 100 del importe no cubierto del cheque y la indemnización de los daños y perjuicios a que se refiere el ultimo párrafo del artículo 108 cuando se ejercite la acción contra el librador que hubiera emitido el cheque sin tener provisión de fondos en poder del librado.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocincuenta" tipo="precepto" titulo="Artículo ciento cincuenta">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cincuenta.</p>
+          <p class="parrafo">El que hubiere reembolsado el cheque podrá reclamar de las personas que sean responsables frentre a él:</p>
+          <p class="parrafo_2">1.º La cantidad íntegra que haya pagado.</p>
+          <p class="parrafo">2.º Los réditos de dicha cantidad, devengados desde la fecha de reembolso, al tipo de interés legal del dinero aumentado en dos puntos.</p>
+          <p class="parrafo">3.º Los gastos que haya realizado</p>
+        </version>
+      </bloque>
+      <bloque id="acientocincuentayuno" tipo="precepto" titulo="Artículo ciento cincuenta y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cincuenta y uno.</p>
+          <p class="parrafo">Toda persona obligada contra la cual se ejerza o pueda ejercer una acción podrá exigir, mediante el pago correspondiente, la entrega del cheque con el protesto, en su caso, y una cuenta con el recibí.</p>
+          <p class="parrafo">Todo endosante que haya reembolsado un cheque podrá tachar su endoso y los de los endosantes subsiguientes.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocincuentaydos" tipo="precepto" titulo="Artículo ciento cincuenta y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cincuenta y dos.</p>
+          <p class="parrafo">Cuando no fuere posible presentar el cheque, levantar el protesto, o hacer las declaraciones equivalentes dentro de los plazos fijados, por causa de fuerza mayor, se entenderán prorrogados dichos plazos.</p>
+          <p class="parrafo">El tenedor estará obligado a comunicar sin demora a su endosante, y al librador en el caso de cheque al portador, el caso de fuerza mayor, y a anotar esta comunicación, fechada y firmada por él, en el cheque. Será aplicable en este caso lo dispuesto en el artículo 55.</p>
+          <p class="parrafo">Una vez que haya cesado la fuerza mayor, el tenedor deberá presentar sin demora el cheque al pago, y, si ha lugar, deberá levantar el protesto.</p>
+          <p class="parrafo">Se podrán ejercitar las acciones de regreso sin necesidad de presentación, protesto o declaración equivalente si la fuerza mayor persistiera durante más de quince días contados desde la fecha en que el tenedor hubiera comunicado la fuerza mayor a su endosante, aunque esa comunicación haya sido hecha antes de finalizar el plazo de presentación.</p>
+          <p class="parrafo">No se considerarán como caso de fuerza mayor los hechos puramente personales del tenedor o de aquel a quien haya encargado la presentación del cheque, el levantamiento de protesto o la declaración equivalente.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocincuentaytres" tipo="precepto" titulo="Artículo ciento cincuenta y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cincuenta y tres.</p>
+          <p class="parrafo">Son de aplicación al cheque las normas contenidas en los artículos 66 a 68 sobre el ejercicio de las acciones derivadas de la letra de cambio.</p>
+          <p class="parrafo">Igualmente será de aplicación al tenedor del cheque lo previsto en el artículo 65 de esta Ley para el caso de pérdida de las acciones causales y cambiarias.</p>
+        </version>
+      </bloque>
+      <bloque id="cvii-2" tipo="encabezado" titulo="CAPÍTULO VII">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO VII</p>
+          <p class="capitulo_tit">Del extravío, sustracción o destrucción del cheque</p>
+        </version>
+      </bloque>
+      <bloque id="acientocincuentaycuatro" tipo="precepto" titulo="Artículo ciento cincuenta y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cincuenta y cuatro.</p>
+          <p class="parrafo">En los casos de extravío, sustracción o destrucción de un cheque, el tenedor desposeído del mismo podrá acudir ante el Juez para impedir que se pague a tercera persona, para que aquél sea amortizado y para que se reconozca su titularidad.</p>
+          <p class="parrafo">El tenedor desposeído podrá realizar todos los actos tendentes a la conservación de su derecho. Podrá incluso exigir el pago del cheque, prestando la caución que fije el Juez, o la consignación judicial del importe de aquél.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocincuentaycinco" tipo="precepto" titulo="Artículo ciento cincuenta y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cincuenta y cinco.</p>
+          <p class="parrafo">Será de aplicación al cheque lo dispuesto en los artículos 85, 86 y 87 para la letra de cambio. La referencia que el último párrafo del artículo 87 hace al artículo 19 se entenderá hecha al 127.</p>
+        </version>
+      </bloque>
+      <bloque id="cvlll" tipo="encabezado" titulo="CAPÍTULO Vlll">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO VIII</p>
+          <p class="capitulo_tit">Del cheque falso o falsificado</p>
+        </version>
+      </bloque>
+      <bloque id="acientocincuentayseis" tipo="precepto" titulo="Artículo ciento cincuenta y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cincuenta y seis.</p>
+          <p class="parrafo">El daño que resulte del pago de un cheque falso o falsificado será imputado al librado, a no ser que el librador haya sido negligente en la custodia del talonario de cheques, o hubiere procedido con culpa.</p>
+        </version>
+      </bloque>
+      <bloque id="cix-2" tipo="encabezado" titulo="CAPÍTULO IX">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO IX</p>
+          <p class="capitulo_tit">De la prescripción</p>
+        </version>
+      </bloque>
+      <bloque id="acientocincuentaysiete" tipo="precepto" titulo="Artículo ciento cincuenta y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cincuenta y siete.</p>
+          <p class="parrafo">Las acciones que corresponden al tenedor contra los endosantes, el librador y los demás obligados prescriben a los seis meses, contados desde la expiración del plazo de presentación.</p>
+          <p class="parrafo">Las acciones que corresponden entre sí a los diversos obligados al pago de un cheque prescriben a los seis meses a contar desde el día en que el obligado ha reembolsado el cheque o desde el día en que se ha ejercitado una acción contra él.</p>
+        </version>
+      </bloque>
+      <bloque id="acientocincuentayocho" tipo="precepto" titulo="Artículo ciento cincuenta y ocho">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cincuenta y ocho.</p>
+          <p class="parrafo">La interrupción de la prescripción sólo surtirá efecto contra aquél respecto del cual se haya efectuado el acto que la interrumpa.</p>
+          <p class="parrafo">Serán causa de interrupción de la prescripción las establecidas en el artículo 1.973 del Código Civil.</p>
+        </version>
+      </bloque>
+      <bloque id="cx-2" tipo="encabezado" titulo="CAPÍTULO X">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO X</p>
+          <p class="capitulo_tit">Disposiciones generales sobre el cheque</p>
+        </version>
+      </bloque>
+      <bloque id="acientocincuentaynueve" tipo="precepto" titulo="Artículo ciento cincuenta y nueve">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento cincuenta y nueve</p>
+          <p class="parrafo">La palabra «Banco» en el presente título comprende no sólo los inscritos en el Registro de Bancos y Banqueros, sino también las demás Entidades de crédito asimiladas a ellos.</p>
+        </version>
+      </bloque>
+      <bloque id="acientosesenta" tipo="precepto" titulo="Artículo ciento sesenta">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento sesenta.</p>
+          <p class="parrafo">La presentación y el protesto de un cheque no pueden realizarse sino en día laborable.</p>
+          <p class="parrafo">Cuando el último día del plazo prescrito por la Ley para efectuar los actos relativos al cheque, y en particular para la presentación o para el protesto o la declaración equivalente, sea día festivo, dicho plazo quedará prorrogado hasta el primer día laborable siguiente a su expiración. Los días festivos intermedios se incluirán en el cómputo del plazo.</p>
+          <p class="parrafo">A efectos de este artículo, se consideran días festivos o inhábiles los no laborables para el personal de Ias Entidades de crédito.</p>
+        </version>
+      </bloque>
+      <bloque id="acientosesentayuno" tipo="precepto" titulo="Artículo ciento sesenta y uno">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento sesenta y uno.</p>
+          <p class="parrafo">Lo dispuesto en los artículos 91, 92 y 93 es de aplicación al cheque.</p>
+        </version>
+      </bloque>
+      <bloque id="cxi-2" tipo="encabezado" titulo="CAPÍTULO XI">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="capitulo_num">CAPÍTULO XI</p>
+          <p class="capitulo_tit">Del conflicto de Leyes</p>
+        </version>
+      </bloque>
+      <bloque id="acientosesentaydos" tipo="precepto" titulo="Artículo ciento sesenta y dos">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento sesenta y dos.</p>
+          <p class="parrafo">La capacidad de una persona para obligarse por cheque se determina por su Ley nacional. Si esta Ley declara competente la Ley de otro país se aplicará esta última.</p>
+          <p class="parrafo">La persona incapaz, según la Ley indicada en el párrafo anterior, quedará, sin embargo, válidamente obligada, si hubiere otorgado su firma en el territorio de un país conforme a cuya legislación esa persona habría sido capaz de obligarse cambiariamente.</p>
+        </version>
+      </bloque>
+      <bloque id="acientosesentaytres" tipo="precepto" titulo="Artículo ciento sesenta y tres">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento sesenta y tres.</p>
+          <p class="parrafo">La Ley del país en que el cheque es pagadero determina las personas contra las que puede ser librado.</p>
+          <p class="parrafo">Cuando el título sea nulo como cheque, según la Ley mencionada en el párrafo anterior, por razón de la persona contra la cual hubiere sido librado, serán, sin embargo, válidas las obligaciones resultantes de las firmas puestas en él, en otros países cuyas Leyes no contengan la misma disposición.</p>
+        </version>
+      </bloque>
+      <bloque id="acientosesentaycuatro" tipo="precepto" titulo="Artículo ciento sesenta y cuatro">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento sesenta y cuatro.</p>
+          <p class="parrafo">La forma de las obligaciones asumidas en materia de cheque se rige por la Ley del país en que hubieren sido suscritas. Será, sin embargo, suficiente el cumplimiento de las formas prescritas por la Ley del lugar del pago.</p>
+          <p class="parrafo">No obstante lo dispuesto en el párrafo anterior, si las obligaciones asumidas en un cheque no fueran válidas en virtud de las disposiciones establecidas en dicho párrafo, pero sí fueran conformes a la legislación del Estado donde una obligación posterior ha sido suscrita, los defectos de forma de la primera obligación no afectarán a la validez de la obligación posterior.</p>
+          <p class="parrafo">Las obligaciones asumidas en materia de cheque en el extranjero serán válidas entre las personas nacionales o con residencia habitual en un país cuando se hubiere respetado la forma impuesta por la Ley del mismo y se ejerciten en su territorio las acciones derivadas de aquéllas.</p>
+        </version>
+      </bloque>
+      <bloque id="acientosesentaycinco" tipo="precepto" titulo="Artículo ciento sesenta y cinco">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento sesenta y cinco.</p>
+          <p class="parrafo">Los efectos de las obligaciones derivadas del cheque se rigen por la Ley del país en que estas obligaciones hubieren sido suscritas.</p>
+        </version>
+      </bloque>
+      <bloque id="acientosesentayseis" tipo="precepto" titulo="Artículo ciento sesenta y seis">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento sesenta y seis.</p>
+          <p class="parrafo">Los plazos para el ejercicio de las acciones se determinan para todos los firmantes por la Ley del lugar donde el título hubiera sido creado.</p>
+        </version>
+      </bloque>
+      <bloque id="acientosesentaysiete" tipo="precepto" titulo="Artículo ciento sesenta y siete">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Artículo ciento sesenta y siete.</p>
+          <p class="parrafo_2">La Ley del país en que el cheque ha de pagarse será la aplicable para determinar:</p>
+          <p class="parrafo_2">1.º Si el cheque es necesariamente a la vista o si puede ser librado a un cierto plazo contado desde la vista e igualmente cuáles son los efectos de su posdata.</p>
+          <p class="parrafo">2.º El plazo de presentación.</p>
+          <p class="parrafo">3.º Si el cheque puede ser aceptado, certificado, confirmado o visado y cuáles son los efectos de tales menciones.</p>
+          <p class="parrafo">4.º Si el tenedor puede exigir y si está obligado a recibir un pago parcial.</p>
+          <p class="parrafo">5.º Si el cheque puede ser cruzado o provisto de la mención «para abonar en cuenta» o de una expresión equivalente y cuáles son los efectos del cruzamiento o de esa mención o expresión equivalente.</p>
+          <p class="parrafo">6.º Si el tenedor tiene derechos especiales sobre la provisión y cuál es la naturaleza de éstos.</p>
+          <p class="parrafo">7.º Si el librador puede revocar el cheque y oponerse a su pago.</p>
+          <p class="parrafo">8.º Las medidas a tomar en caso de pérdida o robo del cheque.</p>
+          <p class="parrafo">9.º Si es necesario un protesto o declaración equivalente para conservar el derecho de regreso contra los endosantes, el librador y los demás obligados.</p>
+          <p class="parrafo">10.º La forma y los plazos del protesto, así como la forma de los otros actos necesarios para el ejercicio o la conservación de los derechos.</p>
+        </version>
+      </bloque>
+      <bloque id="daprimera" tipo="precepto" titulo="Disposición adicional primera">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Disposición adicional primera.</p>
+          <p class="parrafo">El apartado cuarto del artículo 1.429 de la Ley de Enjuiciamiento Civil quedará redactado en los siguientes términos:</p>
+          <p class="sangrado_2">«4.º Las letras de cambio, pagarés y cheques en los términos previstos en la Ley Cambiaria y del Cheque.»</p>
+        </version>
+      </bloque>
+      <bloque id="dasegunda" tipo="precepto" titulo="Disposición adicional segunda">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Disposición adicional segunda.</p>
+          <p class="parrafo_2">El párrafo segundo del artículo 60 del Código de Comercio quedará redactado así:</p>
+          <p class="sangrado_2">«Exceptuándose las letras de cambio, los pagarás y los cheques, así como los préstamos respecto a los cuales se estará a lo que especialmente para ellos establecen la Ley Cambiaria y del Cheque y este Código respectivamente.»</p>
+        </version>
+      </bloque>
+      <bloque id="dt" tipo="precepto" titulo="Disposición transitoria">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Disposición transitoria.</p>
+          <p class="parrafo">Las letras de cambio, pagarés y cheques emitidos con anterioridad a la entrada en vigor de esta Ley, aun cuando estuvieren en blanco, se regirán a todos los efectos por las disposiciones anteriores a pesar de que alguna de las obligaciones que en ellos se contengan se suscriba con posterioridad a esa fecha.</p>
+        </version>
+      </bloque>
+      <bloque id="dd" tipo="precepto" titulo="Disposición derogatoria">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Disposición derogatoria.</p>
+          <p class="parrafo">Quedan derogados, a partir de la entrada en vigor de esta Ley, los artículos 443 a 543 del Código de Comercio: el artículo 950 del mismo cuerpo legal, en lo relativo a la prescripción de las acciones derivadas de los títulos regulados en esta Ley, y el artículo 1.465 de la Ley de Enjuiciamiento Civil.</p>
+        </version>
+      </bloque>
+      <bloque id="dfprimera" tipo="precepto" titulo="Disposición final primera">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Disposición final primera.</p>
+          <p class="parrafo">Reglamentariamente se regularán las Cámaras o sistemas de compensación y la forma en que habrán de presentarse en ellos las letras de cambio.</p>
+          <p class="parrafo">Del mismo modo se regulará el libramiento de letras de cambio emitidas y firmadas por el librador en forma impresa, así como el modo en el que, en estos casos, debe satisfacerse el impuesto de actos jurídicos documentados.</p>
+        </version>
+      </bloque>
+      <bloque id="dfsegunda" tipo="precepto" titulo="Disposición final segunda">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="articulo">Disposición final segunda.</p>
+          <p class="parrafo">La presente Ley entrará en vigor el día 1 de enero de 1986.</p>
+        </version>
+      </bloque>
+      <bloque id="firma" tipo="firma">
+        <version id_norma="BOE-A-1985-14880" fecha_publicacion="19850719" fecha_vigencia="19860101">
+          <p class="parrafo_2">Por tanto,</p>
+          <p class="parrafo">Mando a todos los españoles, particulares y autoridades que guarden y hagan guardar esta Ley.</p>
+          <p class="parrafo_2">Palacio de la Zarzuela, 16 de julio de 1985.</p>
+          <p class="firma_rey">JUAN CARLOS R.</p>
+          <p class="firma_ministro">El Presidente del Gobierno,</p>
+          <p class="firma_ministro">FELIPE GONZÁLEZ MÁRQUEZ</p>
+        </version>
+      </bloque>
+    </texto>
+  </data>
+</response>

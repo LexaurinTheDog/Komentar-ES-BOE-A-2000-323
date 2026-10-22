@@ -1,0 +1,6 @@
+{
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 36 jednotkám, např.: ['dtsegunda', 'dttercera', 'dtcuarta', 'dtquinta', 'dtsexta', 'dtseptima', 'ddunica', 'dfprimera', 'dfsegunda', 'dftercera']\n",
+  "limitation": "Se intenta la reconstrucción íntegra sin rellenar unidades fuera del encargo; checkpoint de veinte unidades construido por separado."
+}

@@ -1,0 +1,44 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "a821",
+    "a822",
+    "a823",
+    "a824",
+    "a825",
+    "a826",
+    "a827",
+    "daprimera",
+    "dasegunda",
+    "datercera",
+    "dacuarta",
+    "daquinta",
+    "dasexta",
+    "da",
+    "da-2",
+    "da-3",
+    "da-4",
+    "da-5",
+    "da-6",
+    "dtprimera"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "agreement": 1.0,
+    "official_inventory": 916,
+    "audit": "author-a821-dtprimera-audit.json"
+  },
+  "commentary_chars": 32775,
+  "case_law_sources": [
+    "cases/STC-132-2010-a821-dtprimera.md"
+  ],
+  "links": {
+    "broken": []
+  },
+  "remaining_limitations": [
+    "Lote de autoría; no segunda lectura independiente.",
+    "El libro completo continúa en elaboración."
+  ],
+  "whole_book_complete": false
+}
