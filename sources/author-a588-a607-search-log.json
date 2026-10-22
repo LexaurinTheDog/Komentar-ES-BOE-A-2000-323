@@ -1,0 +1,12 @@
+{
+  "searched_at": "2026-10-22T02:05:57.471138+00:00",
+  "queries": [
+    "site.boe.es STC 113/1989 inembargabilidad",
+    "site.boe.es Sentencia 113/1989 fundamentos",
+    "rg corpus tc: SENTENCIA 113/1989|Sentencia 113/1989"
+  ],
+  "selected": "STC 113/1989, texto íntegro BOE y corpus TC-1319",
+  "local_snapshot_sha256": "a8927201a653aa8a718723c12eded6bc4f62399183f4539c4593d69733d3c616",
+  "scope": "606 y 607; antecedente constitucional. No se identificó en esta búsqueda limitada otra sentencia suficientemente verificada para atribuir doctrina específica a 588–605.",
+  "exhaustive": false
+}

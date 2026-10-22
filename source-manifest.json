@@ -249,6 +249,11 @@
       "sha256": "9933052ca8e38be41e7b61cf18880c1ae4b29d85e8b28eb22212b950fd5c644c"
     },
     {
+      "path": "sources/TC-1319-a588-a607-local.md",
+      "bytes": 46034,
+      "sha256": "a8927201a653aa8a718723c12eded6bc4f62399183f4539c4593d69733d3c616"
+    },
+    {
       "path": "sources/TC-222-2012-http.txt",
       "bytes": 917,
       "sha256": "fd62d203276402871a4a4b755d76e2caff4536677df10d82c852ac559bd2d6f9"
@@ -597,6 +602,11 @@
       "path": "sources/author-a588-a607-official.xml",
       "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
+      "path": "sources/author-a588-a607-search-log.json",
+      "bytes": 606,
+      "sha256": "b8639cbcc6e35a0a9a167e28682219a92694dd0fa9497403b50868a57dbb9565"
     },
     {
       "path": "sources/boe-act.html",
