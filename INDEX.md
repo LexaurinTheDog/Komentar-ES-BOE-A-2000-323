@@ -34,3 +34,5 @@ Borrador parcial: 320 de 916 unidades. El inventario completo permanece en [unit
 
 
 - [Artículos 508–527](28-preceptos-28.md) — veinte unidades; revisión, títulos y comienzo de ejecución provisional. Borrador pendiente de segunda lectura independiente.
+
+- [Artículos 568–587](31-preceptos-31.md) — veinte unidades comentadas; borrador pendiente de segunda lectura independiente.
