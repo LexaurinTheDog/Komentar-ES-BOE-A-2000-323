@@ -1,0 +1,23 @@
+{
+  "bounded": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 38534,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "whole_book": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 916,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 884664,
+    "errors": [
+      "krátký/chybějící komentář u 316 jednotek: ['a568(0<400)', 'a569(0<400)', 'a570(0<400)', 'a571(0<400)', 'a572(0<400)', 'a573(0<400)', 'a574(0<400)', 'a575(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "limitation": "El lote de veinte unidades pasa; las 316 unidades sin comentario son ajenas a esta revisión."
+}
