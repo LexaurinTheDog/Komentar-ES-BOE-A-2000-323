@@ -40,5 +40,28 @@
     "Lote de autoría; no segunda lectura independiente.",
     "El libro completo continúa en elaboración."
   ],
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "validation": {
+    "batch": {
+      "repo": "Komentar-ES-BOE-A-2000-323",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 32775,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "whole_book": {
+      "repo": "Komentar-ES-BOE-A-2000-323",
+      "units": 916,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 1351912,
+      "errors": [
+        "krátký/chybějící komentář u 36 jednotek: ['dtsegunda(0<400)', 'dttercera(0<400)', 'dtcuarta(0<400)', 'dtquinta(0<400)', 'dtsexta(0<400)', 'dtseptima(0<400)', 'ddunica(0<400)', 'dfprimera(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  },
+  "unresolved_batch_blockers": []
 }
