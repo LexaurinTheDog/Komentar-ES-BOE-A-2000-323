@@ -1,9 +1,22 @@
 {
-  "repo": "Komentar-ES-BOE-A-2000-323",
-  "units": 20,
-  "verbatim_ratio": 1.0,
-  "commentary_chars": 28630,
-  "errors": [],
-  "warnings": [],
-  "ok": true
+  "batch": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 28630,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "whole_book": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 916,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1038600,
+    "errors": [
+      "krátký/chybějící komentář u 216 jednotek: ['a667(0<400)', 'a668(0<400)', 'a669(0<400)', 'a670(0<400)', 'a671(0<400)', 'a672(0<400)', 'a673(0<400)', 'a674(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
 }
