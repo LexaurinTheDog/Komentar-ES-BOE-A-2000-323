@@ -1,0 +1,30 @@
+{
+  "reviewed_ids": [
+    "a747",
+    "a748",
+    "a749",
+    "a750",
+    "a751",
+    "a752",
+    "a753",
+    "a754",
+    "a755",
+    "a756",
+    "a757",
+    "a758",
+    "a759",
+    "a760",
+    "a761",
+    "a762",
+    "a763",
+    "a764",
+    "a765",
+    "a766"
+  ],
+  "broken_local_links": [],
+  "near_duplicate_paragraphs": [],
+  "case_sha256_verified": {
+    "STC-141-2012": "6b7a131daf50ab7acf74dca87de1d1393996e40506ca460927c979a9473cf012",
+    "STC-56-2026": "f5b499b52d0d88842975e0f084e14d9870f31b6cf490efb0d6f7bf89a7064f6f"
+  }
+}

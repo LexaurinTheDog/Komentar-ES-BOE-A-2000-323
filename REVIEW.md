@@ -1,32 +1,32 @@
-# Segunda lectura parcial: artículos 727–746
+# Segunda lectura parcial: artículos 747–766
 
-Revisadas exactamente las veinte unidades a727–a746 frente al texto oficial y las versiones históricas disponibles. Corte jurídico: 19 de octubre de 2026; consulta BOE renovada el 22 de octubre. Borrador parcial sin aprobación profesional externa. El libro permanece incompleto.
+Revisadas exactamente las veinte unidades a747–a766 frente al texto oficial y sus versiones históricas. Corte jurídico: 19 de octubre de 2026; nueva consulta oficial: 22 de octubre. El libro permanece incompleto. Borrador sin aprobación profesional externa.
 
-Se corrige el alcance de la intervención de ingresos en la regla 8.ª del artículo 727 y se aclara el momento preclusivo probatorio del artículo 732. Los otros dieciocho comentarios se conservan tras cotejo individual de condiciones, consecuencias, competencias, plazos, remisiones y ejemplos. No se altera el inventario legal ni se amplía esta revisión a otros artículos.
+Se precisan la excepción fiscal en filiación (751), el ámbito de conclusiones orales (753), la audiencia del cónyuge no separado (759) y la audiencia de terceros solicitada por el internado, además de la decisión judicial sobre continuidad (763). Los restantes comentarios se conservan tras cotejo individual. No se altera el texto legal ni se extiende la revisión a otras unidades.
 
-La ficha de STC 14/1992 se contrasta con los FFJJ 6–10, el fallo y la corrección oficial conservados. Los pasajes utilizados del FJ 7 tratan del antiguo juicio ejecutivo: sirven de contexto constitucional y no deciden las reglas cautelares vigentes ni la reforma de 2025. No se confunden alegaciones o voto particular con la doctrina mayoritaria. Investigación selectiva.
+Se contrastan las sentencias completas STC 141/2012 y 56/2026 con nuevas respuestas XML oficiales idénticas a las conservadas. La primera apoya los límites temporales y la motivación; la segunda distingue la constitucionalidad de designar al fiscal de la efectividad material de su defensa y exige información accesible. Se mantienen sus límites temporales, la distinción entre alegaciones y fallo y la inadmisión de quejas propias de la hermana. Sus citas a otras decisiones no son investigación independiente de esas decisiones. Las fichas explican la reforma orgánica de 2015 y el modelo de apoyos de 2021; no se trasladan automáticamente las referencias antiguas a incapacidad.
 
 | Unidad | Cotejo sustantivo |
 |---|---|
-| a727 | Once modalidades, catálogo abierto sujeto a 726/728; corregido alcance general de ingresos ilícitos 8.ª frente a remuneraciones intelectuales y depósito 9.ª; anotación MASC y umbrales sociales. |
-| a728 | Peligro concreto, tolerancia justificada, apariencia documental u otros medios, caución y dispensa circunstanciada; STC histórica delimitada. |
-| a729 | Dominio y excepción de mejor derecho requieren distinguir propiedad y prioridad, demanda dineraria en otro proceso y tribunal del embargo. |
-| a730 | Demanda ordinaria y anticipada urgente, veinte días y consecuencias; acuerdo MASC, retroacción registral y solicitud de alzamiento sin acuerdo; arbitraje y oportunidad sobrevenida. |
-| a731 | Accesoriedad, condena y plazo 548, suspensión superior a seis meses imputable y alzamiento relacionado con ejecución provisional; coordinación 744–745. |
-| a732 | Claridad, justificación, documentos y otros medios; investigación urgente para actividad ilícita, proposición preclusiva en escrito inicial y oferta de caución. Redacción de preclusión aclarada. |
-| a733 | Audiencia como regla, petición y justificación separada de excepción, cinco días, notificación inmediata y oposición en vez de recurso; STC antigua contextualizada. |
-| a734 | Convocatoria cinco días y vista diez, pertinencia, reconocimiento cinco días, dos cauciones y protesta para denuncia ulterior. |
-| a735 | Auto en cinco días, totalidad de requisitos, régimen preciso de cada medida y caución, apelación no suspensiva y prestación previa. |
-| a736 | Única apelación preferente y costas por 394; nueva petición solo con cambio de circunstancias, distinta de modificación de medidas otorgadas. |
-| a737 | Prestación anterior a cumplimiento, providencia de idoneidad y suficiencia, distinción de oferta y garantía efectiva; dispensa 728 conservada. |
-| a738 | Cumplimiento de oficio, embargo sin manifestación 589, modificación por tribunal, administración 630 y registro; enajenación solo excepcional autorizada. |
-| a739 | Oposición exclusiva a medida sin audiencia, veinte días desde notificación del auto y cauce contradictorio sin alzamiento automático. |
-| a740 | Motivos abiertos relativos a cautela, límites frente al fondo y compatibilidad de caución sustitutoria subsidiaria. |
-| a741 | Traslado LAJ y vista 734, auto cinco días, costas y daños según resultado, apelación sin suspensión y firmeza para liquidar daños. |
-| a742 | Firmeza y petición del demandado, liquidación 712 y siguientes, causalidad, requerimiento y exacción, caución sin límite indemnizatorio legal en este artículo; autoridad histórica delimitada. |
-| a743 | Hechos alegados y probados antes indisponibles, cambio sobrevenido, cauce 734 y siguientes y distinción de sustitución 746–747. |
-| a744 | Absolución no firme exige pedir mantenimiento o sustitución al recurrir, audiencia y decisión antes de remisión; estimación parcial y proporcionalidad. |
-| a745 | Alzamiento de oficio ante absolución firme en fondo o instancia, remisión a daños 742, misma consecuencia en renuncia o desistimiento. |
-| a746 | Caución de demandado asegura sentencia, valoración conjunta de pretensión y apariencia de su posición, grave desproporción económica y límites de garantía dineraria frente a tutela específica. |
+| a747 | Sustitución: momentos de solicitud, traslado de cinco días, vista, auto en cinco días, irrecurribilidad y forma de caución 529.3; distinción de presupuesto material 746. |
+| a748 | Enumeración de ocho materias y reglas comunes frente a cada cauce especial; guarda o alimentos autónomos, restitución y asentimiento separados. |
+| a749 | Fiscal siempre parte en cuatro materias y presupuesto ampliado de intervención restante; voluntad y preferencias, interés del menor y defensa personal diferenciados. |
+| a750 | Abogado/procurador salvo defensa fiscal; defensa común facultativa, requerimiento cinco días ante pacto no aprobado y designación propia en ejecución enfrentada. |
+| a751 | Indisponibilidad de renuncia, allanamiento y transacción; desistimiento y cuatro excepciones; precisados menores, apoyo representativo y ausencia; pretensiones civiles disponibles separadas. |
+| a752 | Hechos debatidos y probados, prueba de oficio y anticipada, exclusión de conformidad vinculante y prueba tasada; apelación y excepción de pretensiones disponibles. |
+| a753 | Verbal subsidiario y contestación veinte días; doble consulta de competencia y deberes de comunicación de violencia; precisada comparecencia 771 en conclusiones; preferencia con presupuestos propios. |
+| a754 | Providencia de reserva a instancia o de oficio, circunstancias y relación 138.2; reserva distinta de privación de acceso de parte o accesibilidad. |
+| a755 | Comunicación civil de oficio frente a otros registros a petición; en apoyos la petición de la persona favorecida se exige para el segundo régimen. |
+| a756 | Curador según derecho civil y expediente previo frustrado u oposición; órgano anterior, cambio de residencia y remisión antes de vista sin reinicio automático. |
+| a757 | Persona y círculo familiar legitimados, deber fiscal con alternativa de apoyos, traslado al curador propuesto e intervención 13 distinta de legitimación inicial. |
+| a758 | Certificación de apoyos, notificación y falta de comparecencia; defensor y excepción fiscal no promotor, nuevo plazo veinte días y comprensión 7 bis. |
+| a759 | Entrevista, audiencia familiar y pericia social/sanitaria obligatoria; precisada exclusión de cónyuge separado; intimidad a solicitud propia y excepcionalidad, curador no propuesto y prueba en apelación. |
+| a760 | Remisión al derecho civil aplicable, concreción del apoyo probado y abandono del modelo de incapacidad global; cautela con jurisprudencia anterior. |
+| a761 | Revisión por jurisdicción voluntaria y paso a contencioso ante oposición o expediente irresuelto; legitimación 757.1 más quien ejerce apoyo. |
+| a762 | Actuación de oficio, noticia fiscal y medidas inmediatas durante proceso; audiencia salvo urgencia y remisiones 734–736 sin eludir 763. |
+| a763 | Presupuestos y competencias del internamiento, máximos 24/72 horas, menores, examen y pericia; corregida audiencia pedida por afectado y explicitada decisión judicial de continuidad tras informes; remisión histórica 757.3 advertida. |
+| a764 | Acciones conforme a derecho civil y firmeza judicial impeditiva; inadmisión inicial o archivo posterior, distinta de inscripción y de remedios extraordinarios. |
+| a765 | Acciones del hijo menor por representante o fiscal, ejercicio personal con apoyo expresamente habilitado y fiscal subsidiario; sucesión de acciones ya entabladas, sin nueva acción automática. |
+| a766 | Demandados por determinación o impugnación, salvo actores, y herederos de fallecidos; emplazamiento de todos y distinción de sucesión activa 765.2. |
 
-Evidencia: [resultado](review-result.json), [cotejo del inventario y versiones](review-batch-39-audit.json), [preflight](preflight-result.json), [ficha judicial](cases/STC-14-1992-a727-a746.md). Validación parcial y límite global en review-batch-39-validation.json. La validación técnica no equivale a una evaluación independiente de calidad jurídica.
+Evidencia: [resultado](review-result.json), [inventario y versiones](review-batch-40-audit.json), [preflight](preflight-result.json), [STC 141/2012](cases/STC-141-2012-a747-a766.md), [STC 56/2026](cases/STC-56-2026-a747-a766.md). El informe review-batch-40-validation.json distingue validación parcial y límite global; los controles técnicos no prueban por sí solos calidad jurídica.

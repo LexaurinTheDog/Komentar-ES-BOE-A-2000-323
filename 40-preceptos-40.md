@@ -138,7 +138,7 @@ Ejemplo ficticio: una pareja presenta convenio con profesionales comunes, pero e
 
 La indisponibilidad impide que las partes determinen por pacto o pasividad el estado civil o los demás intereses protegidos que constituyen el objeto principal de estos procesos. Según el apartado 1, renuncia, allanamiento y transacción no producen el efecto dispositivo ordinario. Que el demandado acepte la pretensión no releva al tribunal de examinar sus presupuestos ni permite prescindir de las garantías probatorias del artículo 752.
 
-El desistimiento tiene un tratamiento distinto porque abandona el proceso sin equivaler necesariamente a renunciar al derecho material. Por regla general necesita conformidad fiscal. Las excepciones del apartado 2 deben individualizarse: filiación sin los interesados especialmente protegidos allí enumerados; nulidad por minoría ejercitada por quien ya alcanzó la mayoría; nulidad por error, coacción o miedo grave; y separación o divorcio. No debe confundirse la excepción a la conformidad con una desaparición de todos los requisitos procesales del desistimiento.
+El desistimiento tiene un tratamiento distinto porque abandona el proceso sin equivaler necesariamente a renunciar al derecho material. Por regla general necesita conformidad fiscal. Las excepciones del apartado 2 deben individualizarse: filiación sin menores, personas con discapacidad con apoyo judicial representativo ni ausentes interesados; nulidad por minoría ejercitada por quien ya alcanzó la mayoría; nulidad por error, coacción o miedo grave; y separación o divorcio. No debe confundirse la excepción a la conformidad con una desaparición de todos los requisitos procesales del desistimiento.
 
 El apartado 3 reconoce que dentro de estos procesos pueden acumularse pretensiones disponibles conforme al derecho civil aplicable. Para ellas rige el régimen ordinario del capítulo IV del título I del libro I. Hay que analizar cada pretensión, sin calificar como libremente disponible todo contenido económico: los alimentos de un menor, por ejemplo, no pasan a ser disponibles porque se expresen en dinero. El acuerdo puede ser relevante, pero su control responde a la materia protegida.
 
@@ -206,7 +206,7 @@ El mismo apartado incorpora controles específicos sobre posible competencia de 
 
 El decreto de admisión requiere a las partes comunicar en cinco días la existencia pasada o presente de procedimientos de violencia entre cónyuges o progenitores, su situación y las medidas acordadas. Además advierte de la obligación de informar inmediatamente de nuevos procedimientos e incidentes de violencia. Esa comunicación complementa las consultas judiciales y no las sustituye. Debe diferenciarse la noticia de un procedimiento de la decisión jurídica sobre competencia.
 
-Tras la prueba, el apartado 2 garantiza conclusiones orales con la remisión al artículo 433.2 a 4. El apartado 3 impone tramitación preferente cuando exista menor, ausencia legal o discapacidad con apoyo judicial representativo en los términos precisados. Ejemplo ficticio: durante una demanda de custodia se inicia un procedimiento de violencia. La parte debe comunicarlo de inmediato; antes de la vista han de repetirse las consultas y resolverse lo pertinente sobre competencia, sin dar por suficiente el resultado negativo obtenido al admitir la demanda.
+Tras la prueba, el apartado 2 garantiza conclusiones orales con la remisión al artículo 433.2 a 4, tanto en la vista del verbal como en la comparecencia de medidas provisionales previas del artículo 771. El apartado 3 impone tramitación preferente cuando exista menor, ausencia legal o discapacidad con apoyo judicial representativo en los términos precisados. Ejemplo ficticio: durante una demanda de custodia se inicia un procedimiento de violencia. La parte debe comunicarlo de inmediato; antes de la vista han de repetirse las consultas y resolverse lo pertinente sobre competencia, sin dar por suficiente el resultado negativo obtenido al admitir la demanda.
 
 ### Artículo 754 — Exclusión de la publicidad.
 
@@ -245,6 +245,10 @@ En medidas de apoyo existe una salvaguarda específica: esta comunicación a otr
 Ejemplo ficticio: una sentencia establece una medida de apoyo y un familiar pide que se remita a todos los registros patrimoniales. Esa petición no satisface la condición especial del segundo párrafo. Habrá que contar con la petición de la persona favorecida y precisar los efectos registrales buscados, sin perjuicio de la comunicación al Registro Civil que el letrado debe acordar de oficio.
 
 Comprobación práctica de las reglas comunes: delimitar la materia del artículo 748; determinar intervención fiscal y defensa; separar pretensiones disponibles; asegurar contradicción de hechos y prueba; verificar competencia, reserva justificada y comunicaciones registrales.
+
+#### LIBRO IV — De los procesos especiales
+
+#### TÍTULO I — De los procesos sobre provisión de medidas judiciales de apoyo a las personas con discapacidad, filiación, matrimonio y menores
 
 #### CAPÍTULO II — De los procesos sobre la adopción de medidas judiciales de apoyo a personas con discapacidad
 
@@ -338,7 +342,7 @@ El párrafo final obliga a realizar las actuaciones necesarias para que la perso
 
 *Nota editorial del BOE:* Se modifica, con efectos desde el 3 de septiembre de 2021, por el art. 4.16 de la Ley 8/2021, de 2 de junio. Ref. BOE-A-2021-9233#ac
 
-Las pruebas preceptivas aseguran que la decisión sobre apoyos repose en conocimiento directo e interdisciplinar. El tribunal debe entrevistarse con la persona, oír al cónyuge o pareja y a los parientes más próximos, y acordar los dictámenes pertinentes. No puede decidir las medidas sin dictamen pericial judicialmente acordado. La referencia a profesionales sociales y sanitarios exige una perspectiva que no reduzca el apoyo a un diagnóstico clínico.
+Las pruebas preceptivas aseguran que la decisión sobre apoyos repose en conocimiento directo e interdisciplinar. El tribunal debe entrevistarse con la persona, oír al cónyuge no separado de hecho o legalmente o a la pareja asimilable y a los parientes más próximos, y acordar los dictámenes pertinentes. No puede decidir las medidas sin dictamen pericial judicialmente acordado. La referencia a profesionales sociales y sanitarios exige una perspectiva que no reduzca el apoyo a un diagnóstico clínico.
 
 La entrevista no es un examen para atribuir una etiqueta de capacidad: permite conocer a la persona, su situación y sus preferencias. Deben integrarse los ajustes del artículo 7 bis. Las audiencias familiares aportan información, pero no reemplazan su voz ni vinculan al tribunal por la concordancia entre parientes. La pericia debe conectar necesidades concretas y apoyos idóneos con las pretensiones debatidas.
 
@@ -434,13 +438,17 @@ El internamiento no voluntario afecta directamente a la libertad y exige un cont
 
 Son dos plazos y dos responsables distintos. La [STC 141/2012, FFJJ 5 a 7](cases/STC-141-2012-a747-a766.md) exige diagnóstico justificativo, información, control judicial y motivación sobre necesidad y proporcionalidad; el plazo judicial es improrrogable y un auto tardío no sana la privación anterior. Su doctrina no permite elevar a setenta y dos horas el plazo legal de comunicación del centro. La mención del apartado 1 al artículo 757.3 debe manejarse con cautela: tras la reforma de 2021 ese apartado trata del curador propuesto, por lo que no puede atribuirse al texto vigente un contenido histórico diferente.
 
-Para menores se exige establecimiento adecuado a su edad e informe de los servicios de asistencia. Antes de autorizar o ratificar, el tribunal debe oír al afectado y al fiscal, examinar personalmente a aquel y recabar dictamen de un facultativo designado judicialmente. Puede oír a otras personas y practicar más prueba. La decisión es apelable. La [STC 56/2026, FFJJ 3 a 5](cases/STC-56-2026-a747-a766.md) concreta que la información debe ser accesible y que, si el fiscal asume la defensa, debe poder ejercerla de manera material; un escrito favorable al ingreso sin contacto ni participación defensiva no basta. En su caso debía informarse también a la hermana que prestaba apoyo informal y había comparecido.
+Para menores se exige establecimiento adecuado a su edad e informe de los servicios de asistencia. Antes de autorizar o ratificar, el tribunal debe oír al afectado y al fiscal, examinar personalmente a aquel y recabar dictamen de un facultativo designado judicialmente. También debe oír a las personas cuya comparecencia estime conveniente o le solicite el afectado; la petición de este constituye un presupuesto expreso que no debe confundirse con la sola iniciativa judicial. Puede practicar además otras pruebas relevantes. La decisión es apelable. La [STC 56/2026, FFJJ 3 a 5](cases/STC-56-2026-a747-a766.md) concreta que la información debe ser accesible y que, si el fiscal asume la defensa, debe poder ejercerla de manera material; un escrito favorable al ingreso sin contacto ni participación defensiva no basta. En su caso debía informarse también a la hermana que prestaba apoyo informal y había comparecido.
 
-El apartado 4 impone seguimiento mediante informes cada seis meses o en plazo inferior fijado judicialmente. No es un tiempo mínimo de permanencia: el tribunal puede requerir información adicional y los facultativos deben dar el alta cuando deje de ser necesario el ingreso, comunicándolo de inmediato. La nota de inconstitucionalidad de 2010 debe leerse junto a la posterior atribución de carácter orgánico en 2015; no permite presentar el artículo entero como derogado.
+El apartado 4 impone seguimiento mediante informes cada seis meses o en plazo inferior fijado judicialmente. Recibidos los informes, el tribunal decide sobre la continuación, practicando antes las actuaciones que considere imprescindibles. No es un tiempo mínimo de permanencia: el tribunal puede requerir información adicional y los facultativos deben dar el alta cuando deje de ser necesario el ingreso, comunicándolo de inmediato. La nota de inconstitucionalidad de 2010 debe leerse junto a la posterior atribución de carácter orgánico en 2015; no permite presentar el artículo entero como derogado.
 
 Ejemplo ficticio: un ingreso urgente se comunica al tribunal a las diez del lunes. Deben registrarse también la hora real de ingreso y la de comunicación para controlar ambos plazos. No cabe esperar al siguiente lunes para ratificar por carga de trabajo ni considerar la pasividad del paciente como consentimiento informado. Si mejora antes de la revisión periódica y no precisa ingreso, el alta no debe aplazarse hasta el informe semestral.
 
 Comprobación práctica: documentar motivo y hora de ingreso; comunicación inmediata dentro del máximo legal; competencia territorial; información comprensible y defensa efectiva; entrevista y pericia judicial; resolución tempestiva y motivada; recurso, seguimiento y alta cuando proceda.
+
+#### LIBRO IV — De los procesos especiales
+
+#### TÍTULO I — De los procesos sobre provisión de medidas judiciales de apoyo a las personas con discapacidad, filiación, matrimonio y menores
 
 #### CAPÍTULO III — De los procesos sobre filiación, paternidad y maternidad
 
