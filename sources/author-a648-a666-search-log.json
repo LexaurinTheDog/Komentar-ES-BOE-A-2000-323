@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-22",
+  "queries": [
+    "site.tribunalconstitucional.es subasta 660 659",
+    "site.hj.tribunalconstitucional.es art. 661 ocupantes",
+    "site.boe.es artículo 655 bis anulado"
+  ],
+  "selected": "STC 26/2025; lectura de antecedentes, fundamentos 1–7 y fallo del texto íntegro oficial, con examen específico de FJ 6 C c)–d).",
+  "local_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/es/tc/2025",
+    "query": "5514-2023",
+    "match": "/Volumes/LaCie/law-intake/eu/es/tc/2025/TC-31404.md",
+    "snapshot": "sources/TC-31404-a648-a666-local.md",
+    "sha256": "8dd71152226f5961af384ca63f051968db3617258749c1b8c2471314f3ef0057"
+  },
+  "scope": [
+    "a6-2"
+  ],
+  "limits": "Búsqueda selectiva; ninguna decisión específica añadida a los demás preceptos; no se afirma inexistencia de jurisprudencia."
+}

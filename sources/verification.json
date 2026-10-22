@@ -1284,6 +1284,38 @@
       "sha256": "0d80f1b4f0e95ca0657edf4775aa582b19c5cf5e3710c218a1f84a98448cc0bd",
       "path": "sources/review-batch-34-STC-112-2022.html",
       "validated_format": "HTML; decision number and proceedings checked"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/author-a648-a666-official.xml",
+      "http_status": 200,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "accessed_at": "2026-10-22T02:24:56.271593+00:00",
+      "format": "validated XML"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+      "path": "sources/author-a648-a666-metadata.xml",
+      "http_status": 200,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "accessed_at": "2026-10-22T02:24:56.455880+00:00",
+      "format": "validated XML"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+      "path": "sources/author-a648-a666-analysis.xml",
+      "http_status": 200,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "accessed_at": "2026-10-22T02:24:56.761891+00:00",
+      "format": "validated XML"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-4079",
+      "path": "sources/STC-26-2025-a648-a666.xml",
+      "http_status": 200,
+      "sha256": "39106f9277428d79687cca60b3bd1e94ff26a6177da227bc3e3486e15c8132d4",
+      "accessed_at": "2026-10-22T02:28:11.131952+00:00",
+      "format": "validated XML"
     }
   ],
   "decisive_date": "2026-10-19",
