@@ -14,11 +14,17 @@
 
 > Cuando sea necesario o conveniente para conocer el contenido o sentido de una prueba o para proceder a su más acertada valoración, podrán las partes aportar o proponer dictámenes periciales sobre otros medios de prueba admitidos por el tribunal al amparo de lo previsto en los apartados 2 y 3 del artículo 299.
 
-Este precepto permite utilizar conocimientos especializados para comprender otra prueba ya admitida, en particular los medios de reproducción y archivo del artículo 299.2 y los medios no expresamente previstos de su apartado 3. Su función es instrumental: el dictamen explica el contenido, significado o fiabilidad del soporte, mientras que el hecho litigioso continúa probándose mediante el conjunto de elementos disponibles. La admisión del soporte no implica la aceptación de la interpretación del técnico.
+Este precepto permite utilizar conocimientos especializados para comprender los medios de prueba admitidos al amparo de los apartados 2 y 3 del artículo 299: reproducción y archivo de su apartado 2 y medios no expresamente previstos de su apartado 3. Su función es instrumental: el dictamen explica el contenido, significado o fiabilidad del soporte, mientras que el hecho litigioso continúa probándose mediante el conjunto de elementos disponibles. La admisión del soporte no implica la aceptación de la interpretación del técnico.
 
 La necesidad o conveniencia debe conectarse con una dificultad concreta. Puede tratarse de descifrar datos, explicar el funcionamiento de un registro o detectar alteraciones de una grabación. Las partes pueden aportar o proponer el dictamen; el artículo no establece una autorización general para introducir informes fuera de los momentos procesales aplicables. Debe coordinarse con los artículos 335 y siguientes y, según el medio examinado, con los artículos 382 a 384, permitiendo contradicción sobre método, material analizado y conclusiones. Conviene separar la integridad del archivo de la veracidad del acontecimiento representado.
 
 Ejemplo ficticio: una grabación admitida recoge una conversación parcialmente inaudible. Un especialista explica los límites de la mejora acústica y qué fragmentos siguen siendo inciertos. El informe ayuda a escuchar la prueba, pero no permite atribuir una frase que el procedimiento técnico no consigue recuperar con fiabilidad. La parte contraria puede cuestionar tanto el archivo de partida como el tratamiento utilizado.
+
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
+
+#### CAPÍTULO VI — De los medios de prueba y las presunciones
 
 #### Sección 6.ª Del reconocimiento judicial
 
@@ -38,9 +44,9 @@ Ejemplo ficticio: una grabación admitida recoge una conversación parcialmente 
 
 El reconocimiento judicial procura una percepción directa del tribunal sobre un lugar, objeto o persona relevante para los hechos. El apartado 1 admite tanto la necesidad como la conveniencia; no exige demostrar que todos los demás medios sean imposibles, aunque sigue siendo preciso justificar la utilidad y pertinencia conforme al artículo 283. La inspección muestra un estado perceptible en el momento de realizarla: no acredita automáticamente cuál era ese estado cuando ocurrieron los hechos.
 
-El apartado 2 exige que quien solicita la diligencia concrete los extremos principales y anuncie la asistencia de una persona técnica o práctica. El contrario puede añadir otros extremos antes de la realización y debe anunciar también ese acompañamiento. El tribunal conserva la decisión sobre la amplitud de la inspección, pero la contradicción requiere conocer qué se pretende examinar. El apartado 3 atribuye el señalamiento a la oficina judicial, con un mínimo de cinco días de antelación. La denominación histórica «Secretario» que conserva este artículo no debe confundirse con una intervención decisoria distinta de la del tribunal.
+El apartado 2 exige que quien solicita la diligencia concrete los extremos principales y anuncie la asistencia de una persona técnica o práctica. El contrario puede añadir otros extremos antes de la realización y debe anunciar también ese acompañamiento. El tribunal conserva la decisión sobre la amplitud de la inspección, pero la contradicción requiere conocer qué se pretende examinar. El apartado 3 atribuye el señalamiento al letrado o letrada de la Administración de Justicia, con un mínimo de cinco días de antelación. La denominación histórica «Secretario» que conserva este artículo no debe confundirse con una intervención decisoria distinta de la del tribunal.
 
-Como criterio de pertinencia, la [STC 82/2022, FJ 4](https://hj.tribunalconstitucional.es/es/Resolucion/Show/29033) rechazó una queja relativa a prueba que no acreditaba el extremo temporal decisivo; no consagra una exclusión general del reconocimiento. Véase la [ficha de lectura](cases/STC-82-2022.md).
+Como criterio de pertinencia, la [STC 82/2022, FJ 4](https://hj.tribunalconstitucional.es/es/Resolucion/Show/29033) desestimó la queja probatoria: las testificales versaban sobre un período de convivencia no controvertido, y el reconocimiento podía mostrar la relación entre hermanas, pero no la conducta paterna necesaria para acreditar la posesión de estado. No consagra una exclusión general del reconocimiento. Véase la [ficha de lectura](cases/STC-82-2022.md).
 
 Ejemplo ficticio: se solicita inspeccionar la pendiente de una rampa para discutir su accesibilidad. Deben precisarse recorrido y obstáculos y advertirse si la obra fue modificada después del accidente; observar la rampa actual no reconstruye por sí solo su configuración anterior.
 
@@ -120,7 +126,7 @@ Ejemplo ficticio: un testigo afirma haber visto una colisión desde una ventana.
 
 La documentación permite conocer qué percibió el tribunal y qué añadieron los demás participantes. El primer párrafo del apartado 1 exige un acta detallada del letrado o letrada de la Administración de Justicia que separe con claridad las percepciones y apreciaciones judiciales de las observaciones de partes y personas del artículo 354. Una relación genérica que solo diga que se visitó el lugar no conserva los datos útiles para la valoración o el control posterior.
 
-El segundo párrafo establece una alternativa cuando existen los medios tecnológicos necesarios: no se aplica aquella exigencia de acta detallada y la autenticidad e integridad de lo registrado se garantizan por firma electrónica u otro sistema legal de seguridad. Debe leerse conjuntamente con el artículo 359, que regula el registro técnico y el acta subsidiaria cuando no pueden garantizarse esas propiedades. El apartado 2 comprende también los resultados de pericias, testimonios e interrogatorios practicados conjuntamente conforme a los artículos 356 y 357. Concentrar actuaciones no autoriza a perder la identificación de quién afirmó cada extremo.
+El segundo párrafo establece una alternativa cuando existen los medios tecnológicos necesarios: no se aplica aquella exigencia de acta detallada y la autenticidad e integridad de lo registrado se garantizan por firma electrónica u otro sistema legal de seguridad. Debe leerse conjuntamente con el artículo 359, que regula el registro técnico y el acta subsidiaria cuando no pueden garantizarse esas propiedades. El apartado 2 exige recoger también en acta los resultados de pericias, testimonios e interrogatorios practicados conjuntamente conforme a los artículos 356 y 357. Esta mención expresa debe coordinarse con la alternativa tecnológica del apartado 1: la grabación ha de conservar también esas actuaciones, y no solo la inspección visual; cuando proceda acta escrita, deben quedar en ella sus resultados. Concentrar actuaciones no autoriza a perder la identificación de quién afirmó cada extremo.
 
 Ejemplo ficticio: durante la visita a una nave el tribunal observa manchas en el techo, el propietario indica que aparecieron la semana anterior y el perito atribuye una posible causa. La documentación debe permitir distinguir esos tres planos. La autenticidad del acta o de la grabación acredita la constancia de la actuación, pero no vuelve indiscutible la fecha indicada por el propietario ni demuestra por sí misma la hipótesis causal del técnico.
 
@@ -151,6 +157,12 @@ Cuando sea posible deben emplearse firma electrónica u otros sistemas de seguri
 Ejemplo ficticio: una cámara registra el interior de una vivienda, pero falla el sistema de firma. Debe documentarse por escrito la actuación e identificarse el archivo conservado, evitando que una copia sin procedencia reconocible sustituya al original. Si una parte pide copia, habrá que asegurar su autenticidad y no entregar como equivalente una versión recortada que omita las observaciones del contrario.
 
 **Control práctico del reconocimiento:** concretar objeto y extremos; anunciar acompañantes; respetar antelación, acceso e intimidad; separar percepción directa y explicación especializada; identificar las pruebas acumuladas y comprobar integridad, conservación y acceso al registro.
+
+#### LIBRO II — De los procesos declarativos
+
+#### TÍTULO I — De las disposiciones comunes a los procesos declarativos
+
+#### CAPÍTULO VI — De los medios de prueba y las presunciones
 
 #### Sección 7.ª Del interrogatorio de testigos
 

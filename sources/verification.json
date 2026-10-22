@@ -451,6 +451,48 @@
       "content_type": "application/xml",
       "xml_root": "response",
       "request_accept": "application/xml"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "accessed_at": "2026-10-22T00:26:41.554737+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/author-a352-a371-official.xml",
+      "xml_root": "response",
+      "scope": [
+        "a352",
+        "a353",
+        "a354",
+        "a355",
+        "a356",
+        "a357",
+        "a358",
+        "a359",
+        "a360",
+        "a361",
+        "a362",
+        "a363",
+        "a364",
+        "a365",
+        "a366",
+        "a367",
+        "a368",
+        "a369",
+        "a370",
+        "a371"
+      ],
+      "same_as_original_authoring_xml": true
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "http_status": 200,
+      "accessed_at": "2026-10-22T00:28:24.810568+00:00",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "path": "sources/review-batch-20-official.xml",
+      "content_type": "application/xml",
+      "xml_root": "response",
+      "request_accept": "application/xml"
     }
   ],
   "decisive_date": "2026-10-19",

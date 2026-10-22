@@ -1,0 +1,1 @@
+{"repo": "Komentar-ES-BOE-A-2000-323", "units": 916, "verbatim_ratio": 1.0, "commentary_chars": 536335, "errors": ["krátký/chybějící komentář u 516 jednotek: ['a372(0<400)', 'a373(0<400)', 'a374(0<400)', 'a375(0<400)', 'a376(0<400)', 'a377(0<400)', 'a378(0<400)', 'a379(0<400)']", "necommitnuté změny v repu"], "warnings": [], "ok": false}
