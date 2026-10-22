@@ -1136,6 +1136,37 @@
       "sha256": "3a7efe1d1ad3b0c67beb4cfdfc861e09a6421edbc6c90721f2e590270ea58aab",
       "path": "sources/review-batch-32-STC-113-1989.xml",
       "validated_format": "BOE documento XML; expected identifier checked"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/author-a608-a627-official.xml",
+      "http_status": 200,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "accessed_at": "2026-10-22T02:12:26.052249+00:00",
+      "format": "validated XML"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+      "path": "sources/author-a608-a627-metadata.xml",
+      "http_status": 200,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "accessed_at": "2026-10-22T02:12:26.264775+00:00",
+      "format": "validated XML"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+      "path": "sources/author-a608-a627-analysis.xml",
+      "http_status": 200,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "accessed_at": "2026-10-22T02:12:26.560555+00:00",
+      "format": "validated XML"
+    },
+    {
+      "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/30113",
+      "path": "sources/ATC-20-2024-a608-a627.html",
+      "http_status": 200,
+      "sha256": "9f1ff6d02f1dd773fd79829a6978ca768dc3936996d8651c12c8e827a7b860e5",
+      "accessed_at": "2026-10-22T02:09:11.780501+00:00"
     }
   ],
   "decisive_date": "2026-10-19",

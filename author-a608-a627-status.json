@@ -1,0 +1,44 @@
+{
+  "stage": "drafted_technical_validation",
+  "scope": [
+    "a608",
+    "a609",
+    "a610",
+    "a611",
+    "a612",
+    "a613",
+    "a614",
+    "a615",
+    "a616",
+    "a617",
+    "a618",
+    "a619",
+    "a620",
+    "a621",
+    "a622",
+    "a623",
+    "a624",
+    "a625",
+    "a626",
+    "a627"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": {
+    "agreement": 1.0,
+    "official_inventory": 916,
+    "audit": "author-a608-a627-audit.json"
+  },
+  "commentary_chars": 28897,
+  "case_law_sources": [
+    "cases/ATC-20-2024-a608-a627.md"
+  ],
+  "links": {
+    "broken": []
+  },
+  "remaining_limitations": [
+    "Lote de autoría; no segunda lectura independiente.",
+    "El libro completo continúa en elaboración."
+  ],
+  "whole_book_complete": false
+}

@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-22T02:08:03.034754+00:00",
+  "generated_at": "2026-10-22T02:12:53.096343+00:00",
   "sources": [
+    {
+      "path": "sources/ATC-20-2024-a608-a627.html",
+      "bytes": 80354,
+      "sha256": "9f1ff6d02f1dd773fd79829a6978ca768dc3936996d8651c12c8e827a7b860e5"
+    },
+    {
+      "path": "sources/ATC-20-2024-a608-a627.txt",
+      "bytes": 57281,
+      "sha256": "0560bcf3bb1263882e27a85822767d7d4a5a4fcead42ab67bbef356c7128943e"
+    },
     {
       "path": "sources/BOE-A-2014-3240.txt",
       "bytes": 35439,
@@ -607,6 +617,31 @@
       "path": "sources/author-a588-a607-search-log.json",
       "sha256": "b8639cbcc6e35a0a9a167e28682219a92694dd0fa9497403b50868a57dbb9565",
       "bytes": 606
+    },
+    {
+      "path": "sources/author-a608-a627-analysis.xml",
+      "bytes": 42740,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+    },
+    {
+      "path": "sources/author-a608-a627-case-fetch.json",
+      "bytes": 279,
+      "sha256": "f4c96618fe18d295a963acdecd77a0f6ffe15dd2a3fc5b725c2c4821acb14366"
+    },
+    {
+      "path": "sources/author-a608-a627-fetch.json",
+      "bytes": 1066,
+      "sha256": "58644c79fab1b47f28605740c8821b1373f8bea7debf2b911e69a62fedfe28e8"
+    },
+    {
+      "path": "sources/author-a608-a627-metadata.xml",
+      "bytes": 1196,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+    },
+    {
+      "path": "sources/author-a608-a627-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
     },
     {
       "path": "sources/boe-act.html",
@@ -1588,8 +1623,8 @@
     },
     {
       "path": "sources/verification.json",
-      "sha256": "cb08b516781d2c8b7d800f896d193d53045269405d5a1afe61951c588df5dae5",
-      "bytes": 55730
+      "bytes": 57150,
+      "sha256": "c902d896ab025b14d287972ff9aa64dd5253a13a5827642e6b828ebcb70888d4"
     },
     {
       "path": "sources/version-selection.json",

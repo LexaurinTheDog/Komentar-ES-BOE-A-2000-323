@@ -1,0 +1,40 @@
+{
+  "scope": [
+    "a608",
+    "a609",
+    "a610",
+    "a611",
+    "a612",
+    "a613",
+    "a614",
+    "a615",
+    "a616",
+    "a617",
+    "a618",
+    "a619",
+    "a620",
+    "a621",
+    "a622",
+    "a623",
+    "a624",
+    "a625",
+    "a626",
+    "a627"
+  ],
+  "searched_at": "2026-10-22T02:13:39.444512+00:00",
+  "web_queries": [
+    "site.poderjudicial.es \"tercería de mejor derecho\" \"613\"",
+    "site.tribunalconstitucional.es \"608\" \"alimentos\" embargo"
+  ],
+  "selected_full_text": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/30113",
+  "snapshot": "sources/ATC-20-2024-a608-a627.html",
+  "local_corpus": {
+    "path": "/Volumes/LaCie/law-intake/eu/es/tc",
+    "method": "rg -l ECLI:ES:TC:2024:20A|4195-2023",
+    "matching_files": []
+  },
+  "limitations": [
+    "Búsqueda selectiva, no exhaustiva; no se cita autoridad no leída íntegramente.",
+    "No se verificó una sentencia de tercería suficientemente relevante para incorporarla."
+  ]
+}
