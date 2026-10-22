@@ -1,0 +1,301 @@
+{
+  "scope": [
+    "a392",
+    "a393",
+    "a394",
+    "a395",
+    "a396",
+    "a397",
+    "a398",
+    "a399",
+    "a400",
+    "a401",
+    "a402",
+    "a403",
+    "a404",
+    "a405",
+    "a406",
+    "a407",
+    "a408",
+    "a409",
+    "a410",
+    "a411"
+  ],
+  "expected_ids": [
+    "a392",
+    "a393",
+    "a394",
+    "a395",
+    "a396",
+    "a397",
+    "a398",
+    "a399",
+    "a400",
+    "a401",
+    "a402",
+    "a403",
+    "a404",
+    "a405",
+    "a406",
+    "a407",
+    "a408",
+    "a409",
+    "a410",
+    "a411"
+  ],
+  "parsed_ids": [
+    "a392",
+    "a393",
+    "a394",
+    "a395",
+    "a396",
+    "a397",
+    "a398",
+    "a399",
+    "a400",
+    "a401",
+    "a402",
+    "a403",
+    "a404",
+    "a405",
+    "a406",
+    "a407",
+    "a408",
+    "a409",
+    "a410",
+    "a411"
+  ],
+  "missing": [],
+  "duplicates": [],
+  "text_agreement": 1.0,
+  "source_sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+  "unit_checks": [
+    {
+      "id": "a392",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1
+    },
+    {
+      "id": "a393",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2015-8167",
+        "fecha_publicacion": "20150722",
+        "fecha_vigencia": "20151001"
+      },
+      "versions_examined": 3
+    },
+    {
+      "id": "a394",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2025-76",
+        "fecha_publicacion": "20250103",
+        "fecha_vigencia": "20250403"
+      },
+      "versions_examined": 3
+    },
+    {
+      "id": "a395",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2025-76",
+        "fecha_publicacion": "20250103",
+        "fecha_vigencia": "20250403"
+      },
+      "versions_examined": 5
+    },
+    {
+      "id": "a396",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1
+    },
+    {
+      "id": "a397",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1
+    },
+    {
+      "id": "a398",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 2
+    },
+    {
+      "id": "a399",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2025-76",
+        "fecha_publicacion": "20250103",
+        "fecha_vigencia": "20250403"
+      },
+      "versions_examined": 3
+    },
+    {
+      "id": "a400",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1
+    },
+    {
+      "id": "a401",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1
+    },
+    {
+      "id": "a402",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1
+    },
+    {
+      "id": "a403",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2025-76",
+        "fecha_publicacion": "20250103",
+        "fecha_vigencia": "20250403"
+      },
+      "versions_examined": 3
+    },
+    {
+      "id": "a404",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2015-8167",
+        "fecha_publicacion": "20150722",
+        "fecha_vigencia": "20151001"
+      },
+      "versions_examined": 4
+    },
+    {
+      "id": "a405",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2023-25758",
+        "fecha_publicacion": "20231220",
+        "fecha_vigencia": "20240320"
+      },
+      "versions_examined": 3
+    },
+    {
+      "id": "a406",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2022-12578",
+        "fecha_publicacion": "20220728",
+        "fecha_vigencia": "20220817"
+      },
+      "versions_examined": 2
+    },
+    {
+      "id": "a407",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1
+    },
+    {
+      "id": "a408",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2015-8167",
+        "fecha_publicacion": "20150722",
+        "fecha_vigencia": "20151001"
+      },
+      "versions_examined": 3
+    },
+    {
+      "id": "a409",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1
+    },
+    {
+      "id": "a410",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1
+    },
+    {
+      "id": "a411",
+      "text_equal": true,
+      "version": {
+        "id_norma": "BOE-A-2000-323",
+        "fecha_publicacion": "20000108",
+        "fecha_vigencia": "20010108"
+      },
+      "versions_examined": 1
+    }
+  ],
+  "commentary_characters": {
+    "a392": 1375,
+    "a393": 1661,
+    "a394": 2550,
+    "a395": 1624,
+    "a396": 1382,
+    "a397": 1389,
+    "a398": 1577,
+    "a399": 2153,
+    "a400": 1500,
+    "a401": 1414,
+    "a402": 1330,
+    "a403": 1526,
+    "a404": 1681,
+    "a405": 1780,
+    "a406": 1888,
+    "a407": 1443,
+    "a408": 1656,
+    "a409": 1411,
+    "a410": 1415,
+    "a411": 1434
+  },
+  "repeated_paragraphs_above_0_8": [],
+  "annex_disposition": "No annex in the assigned official block; whole-title independently enumerated absence retained in coverage-evidence.json and preflight-version-audit.json.",
+  "limitations": [
+    "Bounded authoring checkpoint, not independent second pass or whole-title completion."
+  ]
+}

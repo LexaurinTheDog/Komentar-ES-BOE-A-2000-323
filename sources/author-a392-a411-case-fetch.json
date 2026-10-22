@@ -1,0 +1,20 @@
+{
+  "url": "https://juris.curia.europa.eu/juris/document/document.jsf?cid=178515&dir=&docid=228668&doclang=es&mode=req&occ=first&pageIndex=0&part=1&text=",
+  "http_status": 200,
+  "accessed_at": "2026-10-22T00:39:16.961681+00:00",
+  "path": "sources/TJUE-C224-19.html",
+  "sha256": "a1d395e11bad0855c07a9a364d381ba239c2ec47a29dc8baf852388162ba6881",
+  "format_validation": "HTML judicial íntegro: título, ECLI, apartados 1–100 y fallo contrastados; extracción auxiliar por retirada de etiquetas, sin modificar HTML.",
+  "rejected_attempts": [
+    "EUR-Lex challenge/empty body",
+    "curia.europa.eu abbreviated URL empty body",
+    "portal-cec PDF connection reset"
+  ],
+  "search_log": [
+    {
+      "query": "site.curia.europa.eu C-224/19 C-259/19 costas 16 julio 2020 apartado 95 99",
+      "result": "Full primary judgment located and read; relied on only for a394."
+    }
+  ],
+  "limits": "Investigación selectiva. No se efectuó una búsqueda exhaustiva en corpus nacionales; no se añaden autoridades no verificadas a las otras 19 unidades."
+}
