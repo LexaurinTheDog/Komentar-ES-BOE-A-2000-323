@@ -30,3 +30,8 @@ Se releen los FFJJ 6–10 y fallo de STC 14/1992 en la resolución íntegra cons
 | a726 | Instrumentalidad y alternativa igualmente eficaz menos perjudicial; órdenes similares provisionales sin prejuzgar fondo, coordinación 728 y límite histórico de STC 14/1992 FJ 7. |
 
 Evidencia: [resultado](review-result.json), [inventario y versiones](review-batch-38-audit.json), [preflight](preflight-result.json), [ficha judicial](cases/STC-14-1992-a707-a726.md). Validación y límite global: review-batch-38-validation.json. Los controles técnicos no prueban por sí solos calidad jurídica.
+
+
+## Control de autoría del lote 727–746
+
+Se redactan y cotejan las veinte unidades asignadas. Se comprueban remisiones internas, diferencias entre audiencia y oposición, cauciones del actor y del demandado, plazos de petición y alzamiento, y la incorporación en 2025 de los medios de solución de controversias. Véanse la [auditoría](author-a727-a746-audit.json), la [validación técnica](author-a727-a746-validation.json) y el [estado acotado](author-a727-a746-status.json). Este control del autor no es una revisión independiente ni concluye el libro.

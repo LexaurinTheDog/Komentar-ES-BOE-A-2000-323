@@ -1,0 +1,55 @@
+{
+  "scope": [
+    "a727",
+    "a728",
+    "a729",
+    "a730",
+    "a731",
+    "a732",
+    "a733",
+    "a734",
+    "a735",
+    "a736",
+    "a737",
+    "a738",
+    "a739",
+    "a740",
+    "a741",
+    "a742",
+    "a743",
+    "a744",
+    "a745",
+    "a746"
+  ],
+  "searched_at": "2026-10-22T03:01:07.614915+00:00",
+  "searches": [
+    {
+      "database": "BOE / Tribunal Constitucional",
+      "query": "site.boe.es tribunal constitucional medidas cautelares STC 14/1992 238/1992 tutela cautelar",
+      "result": "Localizada doctrina constitucional; se selecciona únicamente STC 14/1992 por garantías del embargo y responsabilidad. STC 238/1992, de contexto administrativo, no se incorpora."
+    },
+    {
+      "database": "Corpus nacional local TC",
+      "query": "rg -l medidas cautelares|embargo preventivo, tc/1992/TC-1901.md",
+      "result": "TC-1901, copia local conservada y cotejada con publicación BOE."
+    }
+  ],
+  "retained_sources": [
+    "sources/STC-14-1992-a727-a746.xml",
+    "sources/STC-14-1992-correction-a727-a746.xml",
+    "sources/TC-1901-a727-a746-local.md"
+  ],
+  "applied_passages": [
+    "STC 14/1992 FJ 7, párrafos 1–4"
+  ],
+  "supported_units": [
+    "a728",
+    "a733",
+    "a742"
+  ],
+  "limitations": [
+    "Investigación selectiva; no cobertura exhaustiva de jurisprudencia.",
+    "No se añade resolución específica para las otras diecisiete unidades.",
+    "La resolución aplica la LEC anterior a la Ley 1/2000; empleo únicamente contextual."
+  ]
+}

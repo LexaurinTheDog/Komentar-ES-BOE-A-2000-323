@@ -1558,6 +1558,46 @@
       "sha256": "2528128ec0592d8d887adf41a425755071ba7e27f1fa42184f2ed86ea1662a5c",
       "path": "sources/review-batch-38-STC-14-1992.xml",
       "validated_format": "XML parsed; identical to full official decision snapshot"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/author-a727-a746-official.xml",
+      "http_status": 200,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "accessed_at": "2026-10-22T02:53:55.255439+00:00",
+      "format": "validated XML"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/metadatos",
+      "path": "sources/author-a727-a746-metadata.xml",
+      "http_status": 200,
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "accessed_at": "2026-10-22T02:53:55.456376+00:00",
+      "format": "validated XML"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/analisis",
+      "path": "sources/author-a727-a746-analysis.xml",
+      "http_status": 200,
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "accessed_at": "2026-10-22T02:53:55.715884+00:00",
+      "format": "validated XML"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1992-5061",
+      "path": "sources/STC-14-1992-a727-a746.xml",
+      "http_status": 200,
+      "sha256": "2528128ec0592d8d887adf41a425755071ba7e27f1fa42184f2ed86ea1662a5c",
+      "accessed_at": "2026-10-22T02:53:56.254994+00:00",
+      "format": "validated judgment XML"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-1992-8043",
+      "path": "sources/STC-14-1992-correction-a727-a746.xml",
+      "http_status": 200,
+      "sha256": "f48818fbe55bbf6d6ef41c0a0062ab6b14a13d3983b573bdf48e55c38d790316",
+      "accessed_at": "2026-10-22T02:53:56.439627+00:00",
+      "format": "validated judgment XML"
     }
   ],
   "decisive_date": "2026-10-19",

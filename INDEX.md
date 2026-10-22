@@ -37,3 +37,6 @@ Borrador parcial: 320 de 916 unidades. El inventario completo permanece en [unit
 
 - [Artículos 568–587](31-preceptos-31.md) — veinte unidades comentadas; borrador pendiente de segunda lectura independiente.
 - [Artículo 648 a Artículo 666, incluido el artículo 655 bis anulado](35-preceptos-35.md) — capítulo 35, borrador parcial
+
+
+- [Artículos 727–746](39-preceptos-39.md) — veinte unidades sobre medidas cautelares; borrador de autor pendiente de segunda lectura independiente.
