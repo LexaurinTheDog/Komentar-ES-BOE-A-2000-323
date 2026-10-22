@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-22",
+  "queries": [
+    "site.hj.tribunalconstitucional.es subasta artículo 647 2025 depósito representación",
+    "site.hj.tribunalconstitucional.es subasta 645 646 notificación ejecutado"
+  ],
+  "selected": "STC 112/2022, texto íntegro oficial y corpus nacional TC-29078",
+  "local_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/es/tc",
+    "query": "ECLI:ES:TC:2022:112|recurso de amparo.*795-2021",
+    "match": "/Volumes/LaCie/law-intake/eu/es/tc/2022/TC-29078.md",
+    "snapshot": "sources/TC-29078-a628-a647-local.md",
+    "sha256": "f302c2ea8ecd31cd783f585c192862f7ea8571ba5a65ef88d935668cdcee738d"
+  },
+  "scope": [
+    "a644",
+    "a645"
+  ],
+  "limits": "Investigación selectiva; sin sentencia específica incorporada a otros preceptos. No es revisión independiente."
+}
