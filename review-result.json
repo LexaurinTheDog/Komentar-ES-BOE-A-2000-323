@@ -2,116 +2,70 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "a588",
-    "a589",
-    "a590",
-    "a591",
-    "a592",
-    "a593",
-    "a594",
-    "a595",
-    "a596",
-    "a597",
-    "a598",
-    "a599",
-    "a600",
-    "a601",
-    "a602",
-    "a603",
-    "a604",
-    "a605",
-    "a606",
-    "a607"
+    "a608",
+    "a609",
+    "a610",
+    "a611",
+    "a612",
+    "a613",
+    "a614",
+    "a615",
+    "a616",
+    "a617",
+    "a618",
+    "a619",
+    "a620",
+    "a621",
+    "a622",
+    "a623",
+    "a624",
+    "a625",
+    "a626",
+    "a627"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "a588",
-      "finding": "Cuatro apartados cotejados: nulidad por inexistencia, máximo de saldos, titularidad material en cuentas plurales e ingreso salarial del mes o anterior. Ejemplo distingue titularidad y protección salarial."
+      "id": "a614",
+      "severity": "precision",
+      "corrected": true,
+      "detail": "Suprimida calificación documental no expresa del principio de prueba; mantenida necesidad de soporte inicial y prohibición de reiteración por derechos ya poseídos."
     },
     {
-      "id": "a589",
-      "finding": "Añadidos decreto de advertencia, deber de solicitar concurso y plazo de dos meses desde conocimiento real o debido de insolvencia actual si no se comunica. Cotejados apercibimiento, multas modulables y revisión sin suspensión; se conserva advertencia de remisión interna desajustada."
-    },
-    {
-      "id": "a590",
-      "finding": "Iniciativa del ejecutante, insuficiencia patrimonial, motivación sucinta y diligenciamiento por procurador a su costa contrastados; exclusión limitada a datos obtenibles directamente de organismos y registros."
-    },
-    {
-      "id": "a591",
-      "finding": "Comprobadas competencia judicial, audiencia y pieza separada para multas; límites de derechos y leyes, remisión judicial de negativa y régimen de recursos LOPJ. Verificado desajuste literal 589.3 frente a criterios actuales en 589.4."
-    },
-    {
-      "id": "a592",
-      "finding": "Pacto, criterios principales y lista subsidiaria de nueve rangos contrastados; empresa y proporcionalidad coordinadas con 584, animales con 605 y salarios con 607."
-    },
-    {
-      "id": "a593",
-      "finding": "Comprobados indicios, cinco días al tercero, traslado común de cinco días y remisión al tribunal. Régimen registral y excepción de vivienda familiar con documento privado y conformidad de partes diferenciados."
-    },
-    {
-      "id": "a594",
-      "finding": "Eficacia de embargo ajeno y adquisición irreivindicable condicionada al derecho sustantivo contrastadas; acciones del apartado 2 no presentadas como vía automática para deshacer cualquier adjudicación."
-    },
-    {
-      "id": "a595",
-      "finding": "Legitimación de tercero propietario, exclusión de adquisición posterior desde ejecutado, otros derechos oponibles por ley expresa y principio de prueba escrito comprobados."
-    },
-    {
-      "id": "a596",
-      "finding": "Verificados inicio desde embargo incluso preventivo y rechazo por falta de prueba o transmisión civil ya producida; no equiparación automática entre cierre de subasta y transmisión."
-    },
-    {
-      "id": "a597",
-      "finding": "Identidad de bienes, títulos disponibles al primer proceso y persona del tercerista cotejados; diferenciada mejor documentación de título previo frente a fundamento realmente sobrevenido, sin prometer admisión."
-    },
-    {
-      "id": "a598",
-      "finding": "Suspensión limitada al bien y medidas del LAJ cotejadas; precisada remisión al párrafo segundo del 529.3; audiencia facultativa, caución judicial y mejora a instancia de parte comprobadas."
-    },
-    {
-      "id": "a599",
-      "finding": "Órgano de presentación y tribunal decisor, verbal y especialidades comprobados; final por auto sin declaración de dominio con cosa juzgada coordinado con 603."
-    },
-    {
-      "id": "a600",
-      "finding": "Comprobados acreedor demandado necesario, ejecutado necesario si designó el bien y notificación universal al ejecutado con facultad de intervención."
-    },
-    {
-      "id": "a601",
-      "finding": "Dos apartados cotejados: alzamiento pedido por tercero y mantenimiento/sujeción por ejecutante y ejecutado; ejemplo no admite daños ni condena a deuda ajena."
-    },
-    {
-      "id": "a602",
-      "finding": "Admisión de hechos por falta de contestación distinguida de conclusiones jurídicas, presupuesto documental y resolución judicial; remisión a costas del 603 comprobada."
-    },
-    {
-      "id": "a603",
-      "finding": "Auto, efectos exclusivos de ejecución y ausencia de cosa juzgada sobre dominio contrastados; costas 394 y siguientes, excepción por no contestación y mala fe motivada según 593.2–3."
-    },
-    {
-      "id": "a604",
-      "finding": "Alzamiento, remoción de depósito y cancelación de garantías cotejados; ejemplo no cancela cargas independientes ni extingue deuda."
-    },
-    {
-      "id": "a605",
-      "finding": "Verificados todos los numerales, incluido 1 bis: animales de compañía y rentas, inalienables, accesorios, falta de contenido patrimonial y declaración legal expresa."
-    },
-    {
-      "id": "a606",
-      "finding": "Precisada condición conjunta del numeral 2: necesidad profesional y valor desproporcionado respecto de deuda. Verificados bienes domésticos no superfluos, subsistencia, culto y remisiones legales/convencionales; STC utilizada sólo como contexto constitucional."
-    },
-    {
-      "id": "a607",
-      "finding": "Siete apartados y cálculo 2,5 SMI = retención 0,55 SMI comprobados. Explicitada condición conyugal de no separación de bienes y rentas. Cotejados rebaja familiar limitada a cuatro primeros rangos, neto público, autónomos, entrega directa, información trimestral y revisión. STC no presentada como interpretación de escala actual."
+      "id": "a626",
+      "severity": "coverage",
+      "corrected": true,
+      "detail": "Verificados cinco apartados: establecimiento adecuado, tercero poseedor, ejecutado productivo, alternativas y colegios, anotaciones en cuenta. Añadida exigencia de decreto en alternativa del apartado 4."
     }
   ],
+  "unit_checks": {
+    "a608": "Cotejados alimentos legales, títulos, solicitud y necesidad en compensatoria, ponderación bilateral y medidas cautelares. ATC 20/2024 leído íntegramente: inadmisión y régimen anterior, sin atribuirle reforma de 2025.",
+    "a609": "Verificadas nulidad de pleno derecho, denuncia por comparecencia para no personados y decisión del tribunal; límites del ejemplo bancario preservados.",
+    "a610": "Verificados prioridad del reembargo, sucesión al alzarse primera traba, realización sin perjuicio previo y garantías compatibles.",
+    "a611": "Cotejados objeto eventual del sobrante, cuenta judicial y preferencia de acreedores registrales posteriores sobre quien traba el remanente.",
+    "a612": "Verificados cambio de circunstancias, reducción sin riesgo, remisiones 598/604/584/613.4 y revisión no suspensiva del decreto.",
+    "a613": "Cotejados destino del producto, tercería para preferencia, terceros adquirentes en otra ejecución y fecha de inscripción; ampliación limitada a intereses y costas.",
+    "a614": "Suprimida calificación documental no expresa del principio de prueba; mantenida necesidad de soporte inicial y prohibición de reiteración por derechos ya poseídos.",
+    "a615": "Verificados inicio según preferencia especial/general y cierre por entrega o adquisición civil, sin inventar fecha procesal sustitutiva.",
+    "a616": "Cotejadas continuidad de realización, depósito e intervención diferenciada por título ejecutivo y admisión/estimación.",
+    "a617": "Verificados juicio verbal actual frente a versión histórica, ejecutante demandado siempre, ejecutado necesario sin título ejecutivo y notificación en todo caso.",
+    "a618": "Verificada admisión de hechos por no contestar; distinción entre hechos y calificación jurídica, sin confundir silencio con allanamiento.",
+    "a619": "Cotejados título ejecutivo, auto, tres quintos de costas y gastos hasta notificación, cinco días del ejecutado personado y desistimiento por decreto.",
+    "a620": "Verificados alcance del fallo, acciones no prejuzgadas, reparto de costas según conducta y tres quintos de costas ejecutivas hasta sentencia; diferenciado artículo 619.",
+    "a621": "Cotejados dinero/divisas, límite de orden, cumplimiento inmediato, recibo, procura y salarios con remisión 607.7.",
+    "a622": "Verificados intereses a devengo frente a retención de otros frutos, diligenciamiento por procura a costa propia, administración por circunstancias o incumplimiento comprobado.",
+    "a623": "Cotejados destinatarios según instrumento, vencimiento, mercados, restricciones societarias y autorización/coste para comunicaciones por procura.",
+    "a624": "Verificados los tres extremos del acta y entrega de copia; manifestación sobre propiedad diferenciada de decisión sobre titularidad.",
+    "a625": "Cotejados momento de depósito/orden de retención, dinero y otros bienes, sin atribuir transferencia dominical ni delito automático.",
+    "a626": "Verificados cinco apartados: establecimiento adecuado, tercero poseedor, ejecutado productivo, alternativas y colegios, anotaciones en cuenta. Añadida exigencia de decreto en alternativa del apartado 4.",
+    "a627": "Verificados conservación/exhibición/entrega, remoción por decreto y responsabilidad separada; régimen interino y conocimiento del embargo. Remisión 628 comprobada."
+  },
   "limitations": [
-    "Revisión sustantiva limitada exactamente a588–a607; libro aún incompleto.",
-    "Corte jurídico de autoría: 19-10-2026; consulta oficial renovada el 22-10-2026 sin modificación de selección efectiva.",
-    "Jurisprudencia selectiva: STC 113/1989, antecedentes, cuatro fundamentos y fallo cotejados; no estudio exhaustivo de jurisprudencia posterior.",
-    "Los desajustes de remisión en 589.4 y 591.2 se advierten sin corregir la literalidad oficial; no se ofrece concordancia integral de legislación concursal.",
-    "Borrador técnico sin aprobación profesional externa."
+    "Revisión sustantiva limitada exactamente a a608–a627; no certifica el libro entero.",
+    "Jurisprudencia selectiva: lectura de la única autoridad citada en este lote; no búsqueda exhaustiva nueva en corpus judiciales.",
+    "Corte jurídico 2026-10-19, actualizado mediante consulta BOE; los regímenes transitorios de expedientes concretos requieren análisis individual."
   ],
-  "reviewed_at": "2026-10-22T02:07:29.764335+00:00"
+  "reviewed_at": "2026-10-22T02:15:42.757762+00:00",
+  "source_audit": "review-batch-33-audit.json",
+  "whole_book_complete": false
 }

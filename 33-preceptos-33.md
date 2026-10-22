@@ -106,6 +106,12 @@ El ejecutado puede pedir reducción o modificación cuando no se comprometan los
 
 Resuelve el letrado de la Administración de Justicia mediante decreto, sujeto a revisión directa sin efecto suspensivo. Por ejemplo, si el pago parcial acreditado y una garantía suficiente permiten liberar un vehículo, el deudor puede pedir la reducción detallando lo ya satisfecho y la cobertura restante. Recurrir el decreto que rechaza la solicitud no paraliza por sí mismo la ejecución ni autoriza a disponer del vehículo mientras siga embargado.
 
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO IV — De la ejecución dineraria
+
+#### CAPÍTULO III — Del embargo de bienes
+
 #### Sección 4.ª De la prioridad del embargante y de la tercería de mejor derecho
 
 ### Artículo 613 — Efectos del embargo. Anotaciones preventivas y terceros poseedores.
@@ -134,7 +140,7 @@ El apartado 4 permite reflejar el incremento de intereses devengados y costas qu
 >
 > 2. No se admitirá la demanda de tercería de mejor derecho si no se acompaña el principio de prueba a que se refiere el apartado anterior. Y, en ningún caso, se permitirá segunda tercería de mejor derecho, que se funde en títulos o derechos que poseyera el que la interponga al tiempo de formular la primera.
 
-La tercería de mejor derecho protege la preferencia de cobro, no la propiedad del bien. El demandante sostiene que su crédito debe satisfacerse antes que el del ejecutante y debe aportar un principio de prueba de ese crédito. Esta exigencia documental de acceso no equivale a haber demostrado ya el privilegio: la demanda debe explicar también el fundamento de la prioridad y su relación con los bienes o el producto de la ejecución. El artículo 620 delimita el pronunciamiento final sobre privilegio y orden de pago.
+La tercería de mejor derecho protege la preferencia de cobro, no la propiedad del bien. El demandante sostiene que su crédito debe satisfacerse antes que el del ejecutante y debe aportar un principio de prueba de ese crédito. Esta exigencia de acreditación inicial para el acceso no equivale a haber demostrado ya el privilegio: la demanda debe explicar también el fundamento de la prioridad y su relación con los bienes o el producto de la ejecución. El artículo 620 delimita el pronunciamiento final sobre privilegio y orden de pago.
 
 El apartado 2 impone la inadmisión si falta el principio de prueba y obliga a concentrar las bases de la pretensión. No cabe una segunda tercería fundada en títulos o derechos que el mismo tercerista ya poseía al formular la primera. Cambiar la argumentación o reservar un documento conocido no permite reiterar el litigio sobre una base que debió hacerse valer inicialmente. El alcance de la prohibición exige comprobar qué derecho o título existía en aquel momento.
 
@@ -237,6 +243,12 @@ La sentencia determina la existencia del privilegio y el orden de satisfacción 
 Las costas de la tercería siguen reglas expresas. Si se desestima, se imponen íntegramente al tercerista. Si se estima, corresponden al ejecutante que hubiera contestado; si también se opuso el ejecutado interviniente, se reparten por mitad entre ambos. Cuando el ejecutante se allanó y el litigio continuó sólo con el ejecutado, éste soporta todas las costas. La conducta procesal efectiva de cada parte es, por tanto, determinante.
 
 El apartado 2 separa de esas costas incidentales la contribución a las de la ejecución: antes de pagar al tercerista vencedor deben satisfacerse al ejecutante tres quintas partes de las costas ejecutivas causadas hasta la sentencia. No se trata de reducir el crédito preferente en un porcentaje fijo ni de aplicar sin más el corte temporal del artículo 619. Como lista práctica de cierre, deben comprobarse título y privilegio, partes que se opusieron, importe y fecha de las costas ejecutivas, y remanente distribuible. Por ejemplo, reconocer prioridad sobre 15.000 euros no autoriza a transferirlos íntegros omitiendo esa liquidación previa.
+
+#### LIBRO III — De la ejecución forzosa y de las medidas cautelares
+
+#### TÍTULO IV — De la ejecución dineraria
+
+#### CAPÍTULO III — Del embargo de bienes
 
 #### Sección 5.ª De la garantía de la traba de bienes muebles y derechos
 
@@ -360,7 +372,7 @@ Por ejemplo, una empresa requerida para retener una suma debida al ejecutado no 
 
 La elección del depositario busca conservar el valor sin imponer costes o desplazamientos innecesarios. El apartado 1 permite utilizar establecimientos adecuados para títulos valores, objetos especialmente valiosos o de conservación singular. El apartado 2 parte de mantener como depositario al tercero que ya posee los muebles, mediante requerimiento por decreto, salvo decisión motivada distinta. Esa permanencia material queda sometida a disponibilidad judicial y no implica reconocerle la propiedad.
 
-El apartado 3 dispone el nombramiento del ejecutado cuando destina los bienes a una actividad productiva o su transporte o almacenamiento resulta difícil o costoso. La conservación de la actividad evita destruir innecesariamente valor, pero no autoriza la libre disposición del activo. El apartado 4 permite otras soluciones, incluido el ejecutante o un tercero, oyendo al acreedor en este último caso; también admite colegios de procuradores dotados de un servicio adecuado, con credencial para localizar, gestionar y depositar bienes.
+El apartado 3 dispone el nombramiento del ejecutado cuando destina los bienes a una actividad productiva o su transporte o almacenamiento resulta difícil o costoso. La conservación de la actividad evita destruir innecesariamente valor, pero no autoriza la libre disposición del activo. El apartado 4 permite otras soluciones, incluido el ejecutante o un tercero, oyendo al acreedor en este último caso; La decisión alternativa debe plasmarse en decreto. También admite colegios de procuradores dotados de un servicio adecuado, con credencial para localizar, gestionar y depositar bienes.
 
 Para valores mediante anotaciones en cuenta, el apartado 5 sustituye el desplazamiento físico por comunicación a quien lleva el registro para su constancia. Por ejemplo, una máquina pesada utilizada en una fábrica puede permanecer bajo depósito del ejecutado, mientras una joya delicada puede necesitar custodia especializada. En ambos casos deben precisarse los bienes y las condiciones de conservación; el artículo 627 permite remover al depositario incumplidor y regula la responsabilidad durante el intervalo anterior a la entrega.
 

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-22T02:12:53.096343+00:00",
+  "generated_at": "2026-10-22T02:15:45.369512+00:00",
   "sources": [
     {
       "path": "sources/ATC-20-2024-a608-a627.html",
-      "bytes": 80354,
-      "sha256": "9f1ff6d02f1dd773fd79829a6978ca768dc3936996d8651c12c8e827a7b860e5"
+      "sha256": "9f1ff6d02f1dd773fd79829a6978ca768dc3936996d8651c12c8e827a7b860e5",
+      "bytes": 80354
     },
     {
       "path": "sources/ATC-20-2024-a608-a627.txt",
-      "bytes": 57281,
-      "sha256": "0560bcf3bb1263882e27a85822767d7d4a5a4fcead42ab67bbef356c7128943e"
+      "sha256": "0560bcf3bb1263882e27a85822767d7d4a5a4fcead42ab67bbef356c7128943e",
+      "bytes": 57281
     },
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -620,28 +620,33 @@
     },
     {
       "path": "sources/author-a608-a627-analysis.xml",
-      "bytes": 42740,
-      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304"
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
     },
     {
       "path": "sources/author-a608-a627-case-fetch.json",
-      "bytes": 279,
-      "sha256": "f4c96618fe18d295a963acdecd77a0f6ffe15dd2a3fc5b725c2c4821acb14366"
+      "sha256": "f4c96618fe18d295a963acdecd77a0f6ffe15dd2a3fc5b725c2c4821acb14366",
+      "bytes": 279
     },
     {
       "path": "sources/author-a608-a627-fetch.json",
-      "bytes": 1066,
-      "sha256": "58644c79fab1b47f28605740c8821b1373f8bea7debf2b911e69a62fedfe28e8"
+      "sha256": "58644c79fab1b47f28605740c8821b1373f8bea7debf2b911e69a62fedfe28e8",
+      "bytes": 1066
     },
     {
       "path": "sources/author-a608-a627-metadata.xml",
-      "bytes": 1196,
-      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26"
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
     },
     {
       "path": "sources/author-a608-a627-official.xml",
-      "bytes": 5433343,
-      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
+      "path": "sources/author-a608-a627-search-log.json",
+      "sha256": "e5f6abe38679a1e86bc346154a792f37b7bc7e37c78b1745d69d260d0c4e1c38",
+      "bytes": 973
     },
     {
       "path": "sources/boe-act.html",
@@ -1617,14 +1622,34 @@
       "bytes": 5433343
     },
     {
+      "path": "sources/review-batch-33-ATC-20-2024.html",
+      "sha256": "9f1ff6d02f1dd773fd79829a6978ca768dc3936996d8651c12c8e827a7b860e5",
+      "bytes": 80354
+    },
+    {
+      "path": "sources/review-batch-33-analysis.xml",
+      "sha256": "606150161ad40ee38f7a17db9c267b2004ccaa231d2c16b25f48ec3daf7c1304",
+      "bytes": 42740
+    },
+    {
+      "path": "sources/review-batch-33-metadata.xml",
+      "sha256": "79bfa1d97b3deb217922ba07ed46437d43d8aa1aaa8337de14c76c81e5599a26",
+      "bytes": 1196
+    },
+    {
+      "path": "sources/review-batch-33-official.xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+      "bytes": 5433343
+    },
+    {
       "path": "sources/structure.json",
       "bytes": 20261,
       "sha256": "96cee2c61331711be25e1178157ee1284410600679660cb07f34c000eab479f2"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 57150,
-      "sha256": "c902d896ab025b14d287972ff9aa64dd5253a13a5827642e6b828ebcb70888d4"
+      "sha256": "db77d8bc67599489e7a1bdec013440a7faacfdce13696cecdddf3ec9660729ce",
+      "bytes": 58831
     },
     {
       "path": "sources/version-selection.json",
