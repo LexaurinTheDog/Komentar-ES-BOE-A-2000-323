@@ -1,0 +1,29 @@
+{
+  "reviewed_ids": [
+    "a767",
+    "a768",
+    "a769",
+    "a770",
+    "a771",
+    "a772",
+    "a773",
+    "a774",
+    "a775",
+    "a776",
+    "a777",
+    "a778",
+    "a778bis",
+    "a778ter",
+    "a778quater",
+    "a778quinquies",
+    "a778sexies",
+    "a779",
+    "a780",
+    "a781"
+  ],
+  "broken_local_links": [],
+  "near_duplicate_paragraphs": [],
+  "case_sha256_verified": {
+    "STC-177-2007": "3d6b9c331379ae3de89f3bf948b52c067d5dfa2d4f63ea56834cec488ac1a2e3"
+  }
+}

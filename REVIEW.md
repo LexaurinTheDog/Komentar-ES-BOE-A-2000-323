@@ -1,32 +1,32 @@
-# Segunda lectura parcial: artículos 747–766
+# Segunda lectura parcial: artículos 767–781
 
-Revisadas exactamente las veinte unidades a747–a766 frente al texto oficial y sus versiones históricas. Corte jurídico: 19 de octubre de 2026; nueva consulta oficial: 22 de octubre. El libro permanece incompleto. Borrador sin aprobación profesional externa.
+Revisadas exactamente veinte unidades, incluidos los artículos 778 bis a sexies. Corte jurídico: 19 de octubre de 2026; actualización oficial comprobada el 22 de octubre. El manuscrito entero permanece incompleto; esta lectura no implica aprobación profesional externa.
 
-Se precisan la excepción fiscal en filiación (751), el ámbito de conclusiones orales (753), la audiencia del cónyuge no separado (759) y la audiencia de terceros solicitada por el internado, además de la decisión judicial sobre continuidad (763). Los restantes comentarios se conservan tras cotejo individual. No se altera el texto legal ni se extiende la revisión a otras unidades.
+Se precisan las audiencias preceptivas del artículo 770, los plazos del 777 y la localización, costas y apelación del 778 quinquies. Los demás comentarios se conservan tras cotejo sustantivo individual. No se modifica el texto legal.
 
-Se contrastan las sentencias completas STC 141/2012 y 56/2026 con nuevas respuestas XML oficiales idénticas a las conservadas. La primera apoya los límites temporales y la motivación; la segunda distingue la constitucionalidad de designar al fiscal de la efectividad material de su defensa y exige información accesible. Se mantienen sus límites temporales, la distinción entre alegaciones y fallo y la inadmisión de quejas propias de la hermana. Sus citas a otras decisiones no son investigación independiente de esas decisiones. Las fichas explican la reforma orgánica de 2015 y el modelo de apoyos de 2021; no se trasladan automáticamente las referencias antiguas a incapacidad.
+La STC 177/2007 se ha leído íntegramente: los fundamentos 4 y 5 impiden atribuir una negativa a practicar una prueba que el órgano judicial nunca acordó. El fallo anula y retrotrae a sentencia, sin ordenar un nuevo resultado de filiación. Las objeciones del fiscal y el voto particular no se confunden con la decisión mayoritaria. El artículo 767.4 ya era aplicable al caso; la comparación histórica no revela una sustitución de esa regla. La revisión de esta autoridad es selectiva.
 
-| Unidad | Cotejo sustantivo |
+| Unidad | Comprobación |
 |---|---|
-| a747 | Sustitución: momentos de solicitud, traslado de cinco días, vista, auto en cinco días, irrecurribilidad y forma de caución 529.3; distinción de presupuesto material 746. |
-| a748 | Enumeración de ocho materias y reglas comunes frente a cada cauce especial; guarda o alimentos autónomos, restitución y asentimiento separados. |
-| a749 | Fiscal siempre parte en cuatro materias y presupuesto ampliado de intervención restante; voluntad y preferencias, interés del menor y defensa personal diferenciados. |
-| a750 | Abogado/procurador salvo defensa fiscal; defensa común facultativa, requerimiento cinco días ante pacto no aprobado y designación propia en ejecución enfrentada. |
-| a751 | Indisponibilidad de renuncia, allanamiento y transacción; desistimiento y cuatro excepciones; precisados menores, apoyo representativo y ausencia; pretensiones civiles disponibles separadas. |
-| a752 | Hechos debatidos y probados, prueba de oficio y anticipada, exclusión de conformidad vinculante y prueba tasada; apelación y excepción de pretensiones disponibles. |
-| a753 | Verbal subsidiario y contestación veinte días; doble consulta de competencia y deberes de comunicación de violencia; precisada comparecencia 771 en conclusiones; preferencia con presupuestos propios. |
-| a754 | Providencia de reserva a instancia o de oficio, circunstancias y relación 138.2; reserva distinta de privación de acceso de parte o accesibilidad. |
-| a755 | Comunicación civil de oficio frente a otros registros a petición; en apoyos la petición de la persona favorecida se exige para el segundo régimen. |
-| a756 | Curador según derecho civil y expediente previo frustrado u oposición; órgano anterior, cambio de residencia y remisión antes de vista sin reinicio automático. |
-| a757 | Persona y círculo familiar legitimados, deber fiscal con alternativa de apoyos, traslado al curador propuesto e intervención 13 distinta de legitimación inicial. |
-| a758 | Certificación de apoyos, notificación y falta de comparecencia; defensor y excepción fiscal no promotor, nuevo plazo veinte días y comprensión 7 bis. |
-| a759 | Entrevista, audiencia familiar y pericia social/sanitaria obligatoria; precisada exclusión de cónyuge separado; intimidad a solicitud propia y excepcionalidad, curador no propuesto y prueba en apelación. |
-| a760 | Remisión al derecho civil aplicable, concreción del apoyo probado y abandono del modelo de incapacidad global; cautela con jurisprudencia anterior. |
-| a761 | Revisión por jurisdicción voluntaria y paso a contencioso ante oposición o expediente irresuelto; legitimación 757.1 más quien ejerce apoyo. |
-| a762 | Actuación de oficio, noticia fiscal y medidas inmediatas durante proceso; audiencia salvo urgencia y remisiones 734–736 sin eludir 763. |
-| a763 | Presupuestos y competencias del internamiento, máximos 24/72 horas, menores, examen y pericia; corregida audiencia pedida por afectado y explicitada decisión judicial de continuidad tras informes; remisión histórica 757.3 advertida. |
-| a764 | Acciones conforme a derecho civil y firmeza judicial impeditiva; inadmisión inicial o archivo posterior, distinta de inscripción y de remedios extraordinarios. |
-| a765 | Acciones del hijo menor por representante o fiscal, ejercicio personal con apoyo expresamente habilitado y fiscal subsidiario; sucesión de acciones ya entabladas, sin nueva acción automática. |
-| a766 | Demandados por determinación o impugnación, salvo actores, y herederos de fallecidos; emplazamiento de todos y distinción de sucesión activa 765.2. |
+| a767 | Admisión con principio de prueba, investigación biológica, indicios y negativa injustificada acumulativos; STC 177/2007 FJ 4–5 y fallo comprobados. |
+| a768 | Impugnación frente a reclamación: medidas personales/patrimoniales y alimentos, audiencia como regla, urgencia y comparecencia diez días; caución dispensable. |
+| a769 | Fueros conyugal, alternativos, subsidiario y consensual; alimentos o guarda autónomos; competencia de oficio y nulidad de pacto contrario. |
+| a770 | Documentación y vivienda, cuatro supuestos de reconvención y respuesta diez días; comparecencia, prueba treinta días, audiencia infantil y apoyos. Se explicitan audiencias obligatorias. |
+| a771 | Solicitud inicial sin profesionales, posteriores con ambos; comparecencia diez días, urgencia y prueba posterior, auto tres días sin recurso, demanda treinta días. |
+| a772 | Unión de actuaciones tras admisión, testimonio de otro tribunal y comparecencia solo si completar o modificar; auto sin recurso. |
+| a773 | Petición en demanda o contestación, acuerdo no vinculante para definitivas, audiencia 771, vista diez días o comparecencia separada y extinción. |
+| a774 | Acuerdo y prueba en vista, medidas judiciales subsidiarias y nuevas, recurso no suspensivo y firmeza separada del vínculo; disolución distinta de liquidación. |
+| a775 | Cambio sustancial, tribunal anterior y legitimación fiscal condicionada; trámite 770 o 777 consensual y modificación provisional 773. |
+| a776 | Coerción pecuniaria diferenciada del cobro, personalísimas sin sustitución automática, visitas e interés del menor, incidente previo de gastos y oposición cinco días. |
+| a777 | Ratificación separada y archivo revisable; documentos, prueba, fiscal e hijos; nueva propuesta y auto, recursos y legitimación; decreto LAJ y control del perjuicio. Precisados tres plazos. |
+| a778 | Eficacia civil sola: audiencia diez días y auto; acumulada a medidas: trámite 770. No eficacia automática de resolución eclesiástica. |
+| a778bis | Legitimación restringida, competencia centro, autorización previa y urgencia 24/72 horas; examen, pericia, alternativas menos restrictivas, recurso, control trimestral, traslado y cese. |
+| a778ter | Entrada: petición completa y consentimiento, audiencia 24 horas, urgencia motivada con fiscal, decisión ordinaria 24 horas y proporcionalidad; límites, notificación, apelación tres días, ejecución y archivo. |
+| a778quater | Instrumento aplicable y menor en España, órgano provincial y fuero de oficio, legitimación y profesionales; seis semanas ambas instancias, no prejudicialidad penal, cooperación y cautelas. |
+| a778quinquies | Demanda, admisión 24 horas, comparecencia tres días, localización/archivo provisional/remisión, aceptación/rebeldía/oposición, vista, prueba seis días, audiencia, sentencia tres días, costas, recurso suspensivo, mediación y ejecución. Completados localización, costas y plazos de apelación. |
+| a778sexies | Declaración española de ilicitud distinta del retorno extranjero, última autoridad de responsabilidad parental o último domicilio, certificación convencional y asistencia central. |
+| a779 | Preferencia y máximo tres meses sin suspensión por acumulación; domicilio entidad y alternativa del adoptante en supuestos expresos, sin confusión con oposición dos meses. |
+| a780 | Oposición sin reclamación administrativa, legitimación y defensor, escrito inicial, expediente diez días, emplazamiento cinco y demanda diez, sentencia diez; apartado 5 suprimido conservado y acumulación/recurso. |
+| a781 | Asentimiento: comparecencia, suspensión y demanda quince días, decreto y revisión/preclusión, pieza 753 y firmeza, citaciones, auto apelable suspensivo e inscripción. |
 
-Evidencia: [resultado](review-result.json), [inventario y versiones](review-batch-40-audit.json), [preflight](preflight-result.json), [STC 141/2012](cases/STC-141-2012-a747-a766.md), [STC 56/2026](cases/STC-56-2026-a747-a766.md). El informe review-batch-40-validation.json distingue validación parcial y límite global; los controles técnicos no prueban por sí solos calidad jurídica.
+Evidencia: [resultado](review-result.json), [inventario y versiones](review-batch-41-audit.json), [preflight](preflight-result.json), [sentencia y límites](cases/STC-177-2007-a767-a781.md). Los informes de validación separan el lote del libro; sus pruebas técnicas no certifican la calidad jurídica.
