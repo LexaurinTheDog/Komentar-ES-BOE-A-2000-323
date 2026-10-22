@@ -1,0 +1,48 @@
+{
+  "stage": "bounded_batch_drafted_technical_validation",
+  "assigned_ids": [
+    "a352",
+    "a353",
+    "a354",
+    "a355",
+    "a356",
+    "a357",
+    "a358",
+    "a359",
+    "a360",
+    "a361",
+    "a362",
+    "a363",
+    "a364",
+    "a365",
+    "a366",
+    "a367",
+    "a368",
+    "a369",
+    "a370",
+    "a371"
+  ],
+  "total_assigned": 20,
+  "completed_units": 20,
+  "commentary_chars": 31823,
+  "source_checks": "author-a352-a371-preflight-result.json",
+  "case_law_sources": [
+    "cases/STC-82-2022.md"
+  ],
+  "validation_result": {
+    "repo": "Komentar-ES-BOE-A-2000-323",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 31823,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "whole_book_complete": false,
+  "remaining_limitations": [
+    "516 unassigned units still lack commentary; full builder and validator therefore do not pass.",
+    "Independent second pass pending.",
+    "Selective case-law research only."
+  ],
+  "output_commit": "397c8ae"
+}
