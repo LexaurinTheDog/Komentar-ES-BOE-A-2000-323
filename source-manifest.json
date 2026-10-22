@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:56:20.065608+00:00",
+  "generated_at": "2026-10-22T00:03:32.524760+00:00",
   "sources": [
     {
       "path": "sources/BOE-A-2014-3240.txt",
@@ -149,6 +149,16 @@
       }
     },
     {
+      "path": "sources/PACCAR-curia.html",
+      "bytes": 130226,
+      "sha256": "413824fbbaa5c6d60c5e8a24f6bd3861e173e4a45ae5e1490e78df16ce269fb6"
+    },
+    {
+      "path": "sources/PACCAR-http.txt",
+      "bytes": 590,
+      "sha256": "993aae542cfbd86932803947d273d40606c589a23425cffc6cd98d241dfe8fef"
+    },
+    {
       "path": "sources/STC-107-2005-http.txt",
       "bytes": 916,
       "sha256": "e67c65eda1ac53e08c9f6d5ea0a527a31b80fd5ee89ca64110c3ddb148fd08d9"
@@ -162,6 +172,21 @@
       "path": "sources/STC-107-2005.xml",
       "bytes": 53343,
       "sha256": "c5f538b8b6d72ba692ece38409ecbca162c7bd6fd52e1d6ab4b8fe9c9c81475e"
+    },
+    {
+      "path": "sources/STC-165-2004-http.txt",
+      "bytes": 910,
+      "sha256": "88ca4f485d3ddcc967cbfebe9108581feafd4154837fcbe5e8e40269ac46a985"
+    },
+    {
+      "path": "sources/STC-165-2004.txt",
+      "bytes": 59830,
+      "sha256": "ed1b171e9c0a346954edcc3c9bbaab5f34a0abcfacaf4c6b51f8644cac12e34e"
+    },
+    {
+      "path": "sources/STC-165-2004.xml",
+      "bytes": 64710,
+      "sha256": "ba4be19e9b3b8a923879cbbb3b4f51398cf77a7ff80a19409959cc6ead64ed74"
     },
     {
       "path": "sources/TC-222-2012-http.txt",
@@ -199,6 +224,11 @@
       "sha256": "45b6f09f559cf9a9d18bf3d37fa6ef326701a5a71f8378b063eb270efce24a9f"
     },
     {
+      "path": "sources/TC-5170-local.md",
+      "bytes": 60774,
+      "sha256": "ec920eea159df8355261213cbb3bc593202d0f07a8360bebdf4ed7965aabbe36"
+    },
+    {
       "path": "sources/TC-5367-local.md",
       "bytes": 51080,
       "sha256": "99e57752f01d1544633564b2141f4511277dd5127dc28e3bd2360d8064e64600"
@@ -220,6 +250,16 @@
     },
     {
       "path": "sources/author-a264-a282-official.xml",
+      "bytes": 5433343,
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
+      "path": "sources/author-a283-a291-http.txt",
+      "bytes": 461,
+      "sha256": "22ab520b7173c8f6e78c9c53daf5fea904f3de40958c2121f29ef56d1eca12d3"
+    },
+    {
+      "path": "sources/author-a283-a291-official.xml",
       "bytes": 5433343,
       "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
     },
@@ -292,6 +332,11 @@
       "path": "sources/case-search-a264-a282.json",
       "bytes": 976,
       "sha256": "2d77291fcd17dd0fe8fd8f58bac828230450d9ef238142494ed2521368653d45"
+    },
+    {
+      "path": "sources/case-search-a283-a291.json",
+      "bytes": 1639,
+      "sha256": "f11b318d34b9f189cf202d55c7a7065ebfdc5b72bb86f69b1864e62de09a63d5"
     },
     {
       "path": "sources/case-search-log.json",
@@ -655,8 +700,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 18898,
-      "sha256": "28fde02441f4c0ec729313bec29075a657ed99ce8407d48fa3929d0ce5828444"
+      "bytes": 19978,
+      "sha256": "c4ebb4e467154b4220a821c0cd342e9a6cd9ef5e41ae763c1400729c39296f09"
     },
     {
       "path": "sources/version-selection.json",

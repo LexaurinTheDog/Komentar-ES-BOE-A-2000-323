@@ -1,6 +1,6 @@
 # Índice de capítulos redactados
 
-Borrador parcial: 300 de 916 unidades. El inventario completo permanece en [units.jsonl](units.jsonl).
+Borrador parcial: 320 de 916 unidades. El inventario completo permanece en [units.jsonl](units.jsonl).
 
 - [Introducción](00-introduccion.md)
 - [Fuentes](SOURCES.md)
@@ -21,3 +21,5 @@ Borrador parcial: 300 de 916 unidades. El inventario completo permanece en [unit
 - [Artículo 245 a Artículo 263](14-preceptos-14.md) — 20 unidades comentadas
 
 - [Artículo 264 a Artículo 282, incluido el 268 bis](15-preceptos-15.md) — 20 unidades comentadas.
+
+- [Artículo 283 a Artículo 291, incluidos 283 bis a)–k)](16-preceptos-16.md) — 20 unidades comentadas.

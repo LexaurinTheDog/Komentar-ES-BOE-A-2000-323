@@ -1,0 +1,33 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-323",
+  "verified_at": "2026-10-22T00:03:32.524760+00:00",
+  "version_evidence": {
+    "fresh_official_xml_identical": true,
+    "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528",
+    "original_authoring_cutoff_retained": true,
+    "latest_effective_amendment": "2026-10-08",
+    "commencement_evidence": "preflight-result.json",
+    "assigned_selection": "author-a283-a291-audit.json",
+    "changes_since_intake": "sources/change-map.json"
+  },
+  "historical_versions_checked": {
+    "records": 2521,
+    "assigned_units": 20,
+    "whole_texts_compared": 916
+  },
+  "annexes_checked": [
+    "No annex type or annex heading in all 1083 official blocks. Complementary operative provisions and empty/repealed slots remain among 916 units."
+  ],
+  "coverage": {
+    "expected": 916,
+    "parsed": 916,
+    "missing": [],
+    "duplicates": []
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Bounded author batch; no independent substantive review. Competition case full-text access limited as recorded separately."
+  ]
+}

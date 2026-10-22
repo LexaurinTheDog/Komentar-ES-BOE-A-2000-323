@@ -350,6 +350,27 @@
       "http_headers": "sources/review-batch-15-http.txt",
       "format_validation": "application/xml requested; response/status 200; parsed 1083 blocks",
       "failed_attempt": "urllib without XML Accept header returned HTTP 400; curl with Accept application/xml succeeded"
+    },
+    {
+      "url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-323/texto",
+      "path": "sources/author-a283-a291-official.xml",
+      "http_headers": "sources/author-a283-a291-http.txt",
+      "format_validation": "response/status 200; 1083 complete XML blocks; identical to verified canonical snapshot",
+      "version_cutoff": "2026-10-19",
+      "accessed_at": "2026-10-22T00:03:32.524760+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "44fd478d695e2c6e6005a8df54138620cd5069cd1791e07e35774b136e775528"
+    },
+    {
+      "url": "https://www.boe.es/diario_boe/xml.php?id=BOE-T-2004-19065",
+      "path": "sources/STC-165-2004.xml",
+      "http_headers": "sources/STC-165-2004-http.txt",
+      "format_validation": "documento root; complete antecedents, FJ 1–7, fallo and signature",
+      "accessed_at": "2026-10-22T00:03:32.524760+00:00",
+      "http_status": 200,
+      "content_type": "application/xml",
+      "sha256": "ba4be19e9b3b8a923879cbbb3b4f51398cf77a7ff80a19409959cc6ead64ed74"
     }
   ],
   "decisive_date": "2026-10-19",

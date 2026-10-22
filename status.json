@@ -1,11 +1,11 @@
 {
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T23:56:29.719143+00:00",
+  "updated_at": "2026-10-22T00:03:32.524760+00:00",
   "decisive_date": "2026-10-19",
   "title": "Comentario a la Ley de Enjuiciamiento Civil",
   "total_units": 916,
-  "completed_units": 300,
+  "completed_units": 320,
   "completed_ids": [
     "a1",
     "a2",
@@ -306,10 +306,7 @@
     "a279",
     "a280",
     "a281",
-    "a282"
-  ],
-  "remaining_units": 616,
-  "remaining_ids": [
+    "a282",
     "a283",
     "a2-2",
     "a2-3",
@@ -329,7 +326,10 @@
     "a288",
     "a289",
     "a290",
-    "a291",
+    "a291"
+  ],
+  "remaining_units": 596,
+  "remaining_ids": [
     "a292",
     "a293",
     "a294",
@@ -927,7 +927,7 @@
     "dfvigesimooctava",
     "dfvigesimonovena"
   ],
-  "commentary_chars": 374097,
+  "commentary_chars": 407841,
   "source_checks": {
     "official_http_evidence": "sources/verification.json",
     "completeness": true,
@@ -935,14 +935,15 @@
     "paragraphs": 3992,
     "latest_amendment_effective": "2026-10-08",
     "source_integrity": true,
-    "latest_batch": "author-a264-a282-preflight-result.json"
+    "latest_batch": "author-a283-a291-preflight-result.json"
   },
   "case_law_sources": [
     "BOE-A-2019-5727",
     "BOE-A-2020-2942",
     "BOE-A-2014-3240",
     "BOE-A-2012-15756",
-    "BOE-T-2005-9515"
+    "BOE-T-2005-9515",
+    "BOE-T-2004-19065"
   ],
   "validation": {
     "build_exit_code": 1,
@@ -950,14 +951,16 @@
       "repo": "Komentar-ES-BOE-A-2000-323",
       "units": 916,
       "verbatim_ratio": 1.0,
-      "commentary_chars": 374097,
+      "commentary_chars": 407841,
       "errors": [
-        "krátký/chybějící komentář u 616 jednotek: ['a283(0<400)', 'a2-2(0<400)', 'a2-3(0<400)', 'a2-4(0<400)', 'a2-5(0<400)', 'a2-6(0<400)', 'a2-7(0<400)', 'a2-8(0<400)']"
+        "krátký/chybějící komentář u 596 jednotek: ['a292(0<400)', 'a293(0<400)', 'a294(0<400)', 'a295(0<400)', 'a296(0<400)', 'a297(0<400)', 'a298(0<400)', 'a299(0<400)']",
+        "necommitnuté změny v repu"
       ],
       "warnings": [],
       "ok": false
     },
-    "full_completion_gate": false
+    "full_completion_gate": false,
+    "bounded_chapter_export": "16-preceptos-16.md"
   },
   "remaining_limitations": [
     "Manuscrito incompleto: faltan comentarios de las unidades enumeradas.",
@@ -966,11 +969,11 @@
     "No se alcanza la fase drafted_technical_validation."
   ],
   "local_link_errors": 0,
-  "completed_scope": "Título preliminar y libro I; libro II artículos 248–282, incluido 268 bis. Total: 300 de 916 unidades.",
+  "completed_scope": "Título preliminar y libro I; libro II artículos 248–291, incluidos 268 bis y 283 bis a)–k). Total: 320 de 916 unidades.",
   "next_unit": {
-    "id": "a283",
-    "label": "Artículo 283",
-    "title": "Impertinencia o inutilidad de la actividad probatoria."
+    "id": "a292",
+    "label": "Artículo 292",
+    "title": "Obligatoriedad de comparecer a la audiencia. Multas."
   },
   "limitations_reason": "La sesión deja un checkpoint sustantivo incompleto; no hay un bloqueo de fuente que justifique omitir los comentarios restantes. No se solicita aprobación y no se certifica terminación.",
   "preflight": {
@@ -1071,29 +1074,29 @@
   },
   "last_author_batch": {
     "ids": [
-      "a264",
-      "a265",
-      "a266",
-      "a267",
-      "a268",
-      "a2-14",
-      "a269",
-      "a270",
-      "a271",
-      "a272",
-      "a273",
-      "a274",
-      "a275",
-      "a276",
-      "a277",
-      "a278",
-      "a279",
-      "a280",
-      "a281",
-      "a282"
+      "a283",
+      "a2-2",
+      "a2-3",
+      "a2-4",
+      "a2-5",
+      "a2-6",
+      "a2-7",
+      "a2-8",
+      "a2-9",
+      "a2-10",
+      "a2-11",
+      "a2-12",
+      "a284",
+      "a285",
+      "a286",
+      "a287",
+      "a288",
+      "a289",
+      "a290",
+      "a291"
     ],
     "completed": 20,
-    "audit": "author-a264-a282-audit.json",
+    "audit": "author-a283-a291-audit.json",
     "independent_review_pending": true
   }
 }

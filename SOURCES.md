@@ -19,3 +19,6 @@ Lote 248–263: [XML BOE actualizado](sources/author-a248-a263-official.xml), [a
 
 
 Lote 264–282: [XML oficial recién descargado](sources/author-a264-a282-official.xml), [selección y cobertura](author-a264-a282-audit.json), [STC 107/2005](cases/STC-107-2005.md) y [búsqueda selectiva](sources/case-search-a264-a282.json). Se conserva el texto completo de la sentencia y el ejemplar del corpus nacional; no se atribuye al fallo la postura desestimatoria del fiscal ni una subsanación ilimitada.
+
+
+Lote 283–291: [XML oficial actualizado](sources/author-a283-a291-official.xml), [selección y cobertura](author-a283-a291-audit.json), [ficha STC 165/2004](cases/STC-165-2004.md) y [búsqueda selectiva](sources/case-search-a283-a291.json). La captura europea bloqueada y el portal que devolvió una aplicación sin sentencia se conservan como evidencia de acceso fallido, no como autoridad.

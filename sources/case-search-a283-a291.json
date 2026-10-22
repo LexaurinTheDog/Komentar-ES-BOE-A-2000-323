@@ -1,0 +1,37 @@
+{
+  "checked_at": "2026-10-22T00:03:32.524760+00:00",
+  "searches": [
+    {
+      "source": "official-domain web search",
+      "query": "site.curia.europa.eu C-163/21 PACCAR 10 noviembre 2022 exhibición pruebas creación ex novo",
+      "result": "Located official EUR-Lex and Curia references, but EUR-Lex full-text/PDF access returned robot challenge, HTTP 202 for captured PDF request. Curia redirect returned RPEX application shell, not judgment. No holding cited."
+    },
+    {
+      "source": "local national judicial corpus",
+      "query": "rg --files /Volumes/LaCie/law-intake; match 163.?21 or paccar",
+      "result": "No matching filename; filename search cannot exclude relevant judgments under different identifiers."
+    },
+    {
+      "source": "local national TC corpus",
+      "query": "Sentencia 165/2004, /Volumes/LaCie/law-intake/eu/es/tc/2004",
+      "result": "TC-5170.md identified; full local text read, official BOE XML downloaded and parsed. Antecedents distinguished from FJ 1–7 and fallo."
+    }
+  ],
+  "verified_case": {
+    "id": "STC 165/2004",
+    "card": "cases/STC-165-2004.md",
+    "local_snapshot": "sources/TC-5170-local.md",
+    "sha256": "ec920eea159df8355261213cbb3bc593202d0f07a8360bebdf4ed7965aabbe36",
+    "supported_units": [
+      "a283",
+      "a285"
+    ]
+  },
+  "limits": [
+    "Selective research only; no sufficiently relevant full-text-verified competition case added in this batch. PACCAR search hit is not relied on as authority. No new case asserted for the technical units."
+  ],
+  "failed_access_evidence": [
+    "sources/PACCAR-http.txt",
+    "sources/PACCAR-curia.html"
+  ]
+}
