@@ -1,0 +1,34 @@
+{
+  "scope": [
+    "a687",
+    "a688",
+    "a689",
+    "a690",
+    "a691",
+    "a692",
+    "a693",
+    "a694",
+    "a695",
+    "a696",
+    "a697",
+    "a698",
+    "a699",
+    "a700",
+    "a701",
+    "a702",
+    "a703",
+    "a704",
+    "a705",
+    "a706"
+  ],
+  "method": "Búsqueda selectiva en BOE y consulta de la copia del corpus judicial nacional TC-25877 ya conservada. Recuperación del XML íntegro y lectura de antecedentes, fundamentos, fallo y voto separado.",
+  "queries": [
+    "site.boe.es STC 31/2019 695 698 cláusulas abusivas",
+    "TC-25877: cotejo de copia local con sentencia BOE-A-2019-4446"
+  ],
+  "selected": [
+    "STC 31/2019, FFJJ 6–9, artículo 695"
+  ],
+  "not_selected": "Los otros diecinueve artículos no reciben una decisión específica. No se afirma inexistencia de jurisprudencia ni búsqueda exhaustiva.",
+  "temporal_limit": "La sentencia se refiere al régimen de 2013–2018; no elimina los pronunciamientos expresos ni la cosa juzgada de la regulación seleccionada a 2026."
+}
